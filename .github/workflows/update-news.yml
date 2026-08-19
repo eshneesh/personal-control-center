@@ -1,0 +1,51 @@
+name: Refresh Morning News
+
+on:
+  schedule:
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  update:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+      - name: Fetch public telecom news
+        run: python3 scripts/update_news.py
+      - name: Validate public snapshot
+        run: |
+          python3 scripts/check_site.py
+          python3 scripts/validate_public_data.py
+      - name: Commit changed news snapshot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/data/news.json
+          if git diff --cached --quiet; then
+            echo "News snapshot is unchanged"
+          else
+            git commit -m "chore: refresh morning telecom news"
+            git push
+          fi
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Upload refreshed site
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: site
+      - name: Deploy refreshed site
+        id: deployment
+        uses: actions/deploy-pages@v4

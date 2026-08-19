@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "visibility": "sanitized",
+  "checked_at": "2026-08-19T10:02:09+03:00",
+  "overall": {
+    "state": "warning",
+    "title": "Работает с оговорками",
+    "detail": "Предупреждений: 3"
+  },
+  "items": [
+    {
+      "id": "scheduler",
+      "title": "Планировщик отчётов",
+      "state": "ok",
+      "detail": "Включён · ежедневно в 09:00",
+      "meta": "Запусков launchd: 1"
+    },
+    {
+      "id": "last_report",
+      "title": "Доставка в Telegram",
+      "state": "ok",
+      "detail": "Успешно · сегодня, 09:22",
+      "meta": "Telegram подтвердил доставку"
+    },
+    {
+      "id": "html_report",
+      "title": "HTML-аналитика",
+      "state": "ok",
+      "detail": "Готов · вчера, 17:07",
+      "meta": "15 КБ · пн в 09:00"
+    },
+    {
+      "id": "metrika",
+      "title": "Яндекс Метрика",
+      "state": "warning",
+      "detail": "Сетевая проверка пропущена",
+      "meta": "Локальный режим"
+    },
+    {
+      "id": "report_bot",
+      "title": "Бот отчётности",
+      "state": "warning",
+      "detail": "Сетевая проверка пропущена",
+      "meta": "Локальный режим"
+    },
+    {
+      "id": "feature_bot",
+      "title": "Feature Alerts",
+      "state": "warning",
+      "detail": "Сетевая проверка пропущена",
+      "meta": "Локальный режим"
+    }
+  ]
+}

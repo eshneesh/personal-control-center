@@ -1,0 +1,20 @@
+{
+  "name": "Aigis Deployments",
+  "type": "personal_chat",
+  "messages": [
+    {
+      "id": 101,
+      "type": "message",
+      "date": "2026-08-19T07:40:00+03:00",
+      "from": "Aigis",
+      "text": "✅ Deployment successful\nProject: news-digest\nEnvironment: production\nVersion: abc1234\nОбновлена аналитика просмотров"
+    },
+    {
+      "id": 100,
+      "type": "message",
+      "date": "2026-08-18T18:15:00+03:00",
+      "from": "Aigis",
+      "text": "❌ Deploy failed\nProject: report-bot\nEnvironment: staging\nVersion: def5678\nНе прошла проверка конфигурации"
+    }
+  ]
+}
