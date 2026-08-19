@@ -1,9 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-08-19T07:00:12+00:00",
+  "generated_at": "2026-08-19T08:27:17+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
+    {
+      "category": "infrastructure",
+      "title": "Индия строит гигантский кластер из 10 000 Nvidia B300 мощностью в сотни мегаватт для американской компании",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRzhPVEluTFJKZkNhSHpZVmZwTnlOWjRRZVhCTUxWY3g4bXQtVkdDUnRnc25LcFRQOUhSVVhFWWMyaEhxU0N3YW5xdm5qTmZZMWhGYkVKekI1d3FFMzlrdmtlVTl2R2JPcXdqZUdtMi1FV25xYkZiZVlVYTBPblMwc2ZhdHJyZUQwbS1hRW9aLWUwQXcyZ3NfVVh4cFN5MjRmNnk",
+      "source": "prospect.com.ru",
+      "published_at": "2026-08-19T07:33:03+00:00"
+    },
     {
       "category": "telecom",
       "title": "Отъем с переворотом: в России хотят запретить создание новых виртуальных операторов",
@@ -19,18 +26,18 @@
       "published_at": "2026-08-18T18:04:15+00:00"
     },
     {
-      "category": "telecom",
-      "title": "«Ростелеком» задумал монтировать спутниковый интернет на кораблях в портах России и в странах НАТО",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZelZWdjJIQmw0bjMwSm5uTTQ2eVNIY1lnTENsU05WNnNsWEt1RDdrUWc4RTN0Q28yYTA1c0t0eU9YUFJEdnR2bkJaaW9idFRyZ3lvajUxSzhXWmQ4ZHZ4Q1RfSmNOV09FemlZY1hoaWhDNG1BM0o5MzdB?oc=5",
-      "source": "CNews.ru",
-      "published_at": "2026-08-18T16:28:00+00:00"
-    },
-    {
       "category": "mts",
       "title": "Аналитики: продажа доли в башенной компании поддержит чистую прибыль МТС",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUGlRVE5JTGVEaE5VOGM4clhlM1NfUERTQWdmczZTTHp1UzdROXN5OFlQNi1uTjZmdmp3cl9OdlVaLWhnWlc0UUFmb29KTXJtOFVYczNjeUlOR1VjMlluNDJaRkQwa1pROU14TjdqQk5CODFJWXZPVWRUbmx2ZXZ2MG1zbHdUd3NheGx3SmJJSml6TmFDSldGbXNZWjZhS1hpYUJ",
       "source": "Телеспутник",
       "published_at": "2026-08-18T14:44:24+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Российские операторы открыли прямой доступ к иностранным сервисам",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR1k2OUZNektla2NqVHRNaUNaSGotVVZWa19VaDBuakZiNEU4YS1wMmc5c3FwVXRvMkRzUDBCSjI5cWxrZGZ2dXZZbzdmY2pqZXBqZ0pveDBxZkVHNXUtVkxCUjg1aExGVjFIamloajh5RWpXVHVTYlBTb1I2bkFSUGYtMm9wLVQ2NHhZUktSN3dxTU14dTI3Vy1FUUY4MkFXelE",
+      "source": "Алтапресс",
+      "published_at": "2026-08-18T13:50:00+00:00"
     },
     {
       "category": "infrastructure",
@@ -47,6 +54,13 @@
       "published_at": "2026-08-18T10:12:25+00:00"
     },
     {
+      "category": "telecom",
+      "title": "Россия на пороге массового раскулачивания интернет-провайдеров. Их «железо» и абонентов отдадут операторам-гигантам, когда отзовут лицензии",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jZng2M3lZenFEVTV0cS1VLXNfWmVUYkZ0T0Z4bHF4QWRadWVSYWNyeDhqTHBFTDUtMWFRb3hzRWxvT2xQX2ZwRHpSWlNEUmVzaDlOSmQ5aGs4TjkyQnE3T2FmaWgyZVBpWW9aaFowOTJScnlsQmo4?oc=5",
+      "source": "CNews.ru",
+      "published_at": "2026-08-18T09:51:41+00:00"
+    },
+    {
       "category": "mts",
       "title": "МТС усилила связь на месте средневековой крепости в Опочке",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iQzFvY0lQVmp6WVFuQmhXNWI5Q0dMZjZ1MVpTcG43SVpqR0N6N0NlM084ZlR3dFBaTUFFV1lTcEpXMWtjMjBLU0FtS19GVkE0ZzVsd0NyNW80NU1YN2hNOXBmVW83QkJfV2d0WE9RUERROUlUUDhV?oc=5",
@@ -59,13 +73,6 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORTBTdEtvMktKMXM1NEZib1o0N0ZtU3RiWDBlTWVPaXZTZVNUaVNBbEJrZl8ydU5ScGp1cDdsMkwzSGtidWtaZnRoSUFXSmE4Yl93STVwa3ZtNUxCaHZQcDdZR3J2azZvQUxCWDZjUFZHTENDUUlWLUhrQVBnVEl3Ti1MZTdFeWFrQUxPQVpFN2p4OTM3QlVz?oc=5",
       "source": "Digital Russia",
       "published_at": "2026-08-18T08:43:42+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Проект \"Российских космических систем\" обойдется в несколько сотен миллиардов рублей",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOY3daSUZsTDNHQWhrMGtnQko2Z2ZYU3d6LTN3Vk12SGRpX2tlWTgweHZhdWFsUE01S1Y1MnA3NXRvbG9ua3B0d2FwcmRpZjB0el9ObDNOMmdYMDNTOW40WHdFRjZaU3BhUXNLcFZQQ2FTVGt3dlhtMmVxSFV3SEhiY0t6UTI5SmVWSEJFbXFvWHhJSUlfMTVfRXR1alV6RDhNbTV",
-      "source": "ComNews.ru",
-      "published_at": "2026-08-18T08:39:21+00:00"
     },
     {
       "category": "mts",
@@ -104,10 +111,10 @@
     },
     {
       "category": "mts",
-      "title": "Масштабный сбой в работе интернета отметили жители Новосибирской области",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbDliVHlZQVoyUEIyQ2hoV0dVRDhWYmM4NUJzUng2VktNaUc0NWROeThMRS01bTBPX0ZIX21pN1pWN0Jva3ZnbHBhYWg2cC1nX0VKWFhpQVYyV3pTcno4V1BKa2tyNU1hREJNbjJuMVdWdHNZb25Pa0k5ZlIwcEl1enM5Y1hNYVZqaXdjM3JQQzN3aVNLOEpVZEo2enpnTk1LWmV",
-      "source": "newsib.net",
-      "published_at": "2026-08-16T11:41:10+00:00"
+      "title": "МТС обеспечила связью фестиваль карельского пирога «Калитка» в Тверской области",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOellvWG1lUTAyT2plc0ViZTJFY0laLU1tNzZtbWxVcUNSQjlFazVhaDkxQkY3SDlhVUF3YlFxeHV0SXdxX0J6XzlYWENHTGFqT0NwTnZ0WWxBejltWFVaR2hBNTg3cWlUbkNBRlRwcHNweHBXOTFYanh1U3dSbkd1N1FlUDk3TVFuMF90YmxnVXYyMVFNbWl2ay04Qk9GUlhWdWl",
+      "source": "Твериград",
+      "published_at": "2026-08-14T13:22:36+00:00"
     },
     {
       "category": "mts",
@@ -122,13 +129,6 @@
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE56ZG5JcmotNnNSanVVblRYdUFpd2c4b1A2WUstRGprMHFwZnU0blZuLXJoOG1ZWF9qTG1vdUY3NTVzZms?oc=5",
       "source": "ServerNews",
       "published_at": "2026-08-12T10:19:00+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС усилила связь в самом густонаселенном районе Чебоксар",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQnc4MTFXdDVUdDFDbkhOU3F3SXVKVW1rcUNDVkVUY21IazlyYVR1UDkxSWRaTy1xYzlKTnQ5Mlh0cDVqR0p5di04cUFnd2ZIY1ZvbzhSS1cybUxYUnYtZXdZcV9IUkZGc3pTNWJLV0V0Ni1nNk9OWGMyU2NkTF9qTGdldUd6aFhxYzVlY2FNWm5UaXBCZUw3akpnY3RpamF4QWl",
-      "source": "Чебоксары.ру",
-      "published_at": "2026-08-12T09:33:34+00:00"
     }
   ]
 }
