@@ -1,15 +1,36 @@
 {
   "version": 1,
-  "generated_at": "2026-08-19T08:27:17+00:00",
+  "generated_at": "2026-08-20T04:51:56+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
+    {
+      "category": "telecom",
+      "title": "СМИ: сети оставшихся без лицензии провайдеров могут передать крупным операторам",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tN1FGMHRfbHR6QTQzdm5yVF83UFprakhMOFdMSUdjUmwtYzFCUUZ0YjRwQnZYWUFnRGdtX3h1MG9mcmZGaF9hZExnc0dmQVNTVnpOclJxdw?oc=5",
+      "source": "Xakep.ru",
+      "published_at": "2026-08-19T12:34:20+00:00"
+    },
     {
       "category": "infrastructure",
       "title": "Индия строит гигантский кластер из 10 000 Nvidia B300 мощностью в сотни мегаватт для американской компании",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRzhPVEluTFJKZkNhSHpZVmZwTnlOWjRRZVhCTUxWY3g4bXQtVkdDUnRnc25LcFRQOUhSVVhFWWMyaEhxU0N3YW5xdm5qTmZZMWhGYkVKekI1d3FFMzlrdmtlVTl2R2JPcXdqZUdtMi1FV25xYkZiZVlVYTBPblMwc2ZhdHJyZUQwbS1hRW9aLWUwQXcyZ3NfVVh4cFN5MjRmNnk",
       "source": "prospect.com.ru",
-      "published_at": "2026-08-19T07:33:03+00:00"
+      "published_at": "2026-08-19T09:53:03+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "В России готовится запрет новых виртуальных сотовых операторов – их услуги слишком дешево стоят",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tUm1tVmtNS3B6NUJkRkduMGwwb0VEY21icDRzOTl3RVJnN1lfTGNEOGRxWGJkdTVKM1BsUk5kNGVobU5rU0dqTWUtNUNkX3BDcTdrYW5hNE8zdWo4UG10bmVkTDFJLWNQQklFdW9OekdlQzA?oc=5",
+      "source": "CNews.ru",
+      "published_at": "2026-08-19T07:10:40+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС запустила домашний интернет и телевидение на острове Русский",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KVkZnZmw1ZGRQQUZNaTBwb0wta1FsUFduWUhpT19ISmYtalN2R2RBLTR1WEpYeDRBOXRzbE1UYXRrSWx2MW9MaHNPQQ?oc=5",
+      "source": "PrimaMedia.ru",
+      "published_at": "2026-08-19T01:28:00+00:00"
     },
     {
       "category": "telecom",
@@ -17,13 +38,6 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYWs3eFIwMml6NG12YU9qTWJHYVFCaEhvWTJGUkU0S3pHUlRiVXNvR3lQVXF6TkFsb0tOelIwSFBoSWl4czdQT1MtNnVsN2lVRnd2aGp1Z210RXFDS1dFenhUUlNvcHVEUUhpUF9xT3lBaGJPaUM0QkVkWUtNX2MtRGxnVExCc1ZweGR6TmhrMzBwWldMR0ppUk9SbmNmQXN4ZU1",
       "source": "Forbes.ru",
       "published_at": "2026-08-18T21:00:00+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Пользователи сообщили о масштабном сбое в работе рунета 18 августа",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcWxyZzBaUXhtbVNXUm5yMjBocC0xOXZqdWE1ZGNQeTQwVzBzWFM5WmRWX3V0cFZmeTB6S3g5ZFVaUWp0ZzhxWVZadFFTV1JNeDB4OXdtVmVFUkdtZWJIelREN1JKWEhIV1ZfMGluQ3JZXzdoTGp0d2hyTUlEN1J0bDBDcy1NdGx2OGFwV29PYjRLS1JNbFd4anBDWjBwNlEyaVd",
-      "source": "Финансы Mail",
-      "published_at": "2026-08-18T18:04:15+00:00"
     },
     {
       "category": "mts",
@@ -54,18 +68,11 @@
       "published_at": "2026-08-18T10:12:25+00:00"
     },
     {
-      "category": "telecom",
-      "title": "Россия на пороге массового раскулачивания интернет-провайдеров. Их «железо» и абонентов отдадут операторам-гигантам, когда отзовут лицензии",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jZng2M3lZenFEVTV0cS1VLXNfWmVUYkZ0T0Z4bHF4QWRadWVSYWNyeDhqTHBFTDUtMWFRb3hzRWxvT2xQX2ZwRHpSWlNEUmVzaDlOSmQ5aGs4TjkyQnE3T2FmaWgyZVBpWW9aaFowOTJScnlsQmo4?oc=5",
-      "source": "CNews.ru",
-      "published_at": "2026-08-18T09:51:41+00:00"
-    },
-    {
       "category": "mts",
-      "title": "МТС усилила связь на месте средневековой крепости в Опочке",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iQzFvY0lQVmp6WVFuQmhXNWI5Q0dMZjZ1MVpTcG43SVpqR0N6N0NlM084ZlR3dFBaTUFFV1lTcEpXMWtjMjBLU0FtS19GVkE0ZzVsd0NyNW80NU1YN2hNOXBmVW83QkJfV2d0WE9RUERROUlUUDhV?oc=5",
-      "source": "CNews.ru",
-      "published_at": "2026-08-18T08:52:23+00:00"
+      "title": "МТС усилила связь на месте средневековой крепости в Опочке : Псковская Лента Новостей / ПЛН",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05Y0pOc1p2YWVxV2hMMkFCSzZZZ0R5ajhwR3IzUTdxVzlEN19mRGlXZi1PcTBfZ1c0U3V5YXhRVENRVW5kcFZoNHhaMENVWnM?oc=5",
+      "source": "ПЛН",
+      "published_at": "2026-08-18T09:19:29+00:00"
     },
     {
       "category": "telecom",
@@ -92,8 +99,15 @@
       "category": "mts",
       "title": "МТС познакомил более 1,5 тысячи детей с ИТ- и телеком-профессиями",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRVpxcUFUQ2ViR0FLTGQzckpxZVNRdjRlSnhOUmljYWhjNUg5QW9WNkExallMeWlpTWtpSHFvRHNpZVNKbU9qd0d3QmdCeHZUN1JSanlvV0xIcWpUNlN2dW1NZW1uXzVZMVBWT1dkMDlhSFVWTlR4d21SS3I0QmxaWEZJQjZtcWRPUzJqSHpidGpaM1ZDYjZjc29R?oc=5",
-      "source": "Смартпресс",
+      "source": "Smartpress.by",
       "published_at": "2026-08-17T11:27:39+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС увеличила скорость LTE-интернета в Магнитогорске",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZVo3OFFmN2NLUHllODB5YWJ6RTdaaHVWZkhUSktpMUtJYUhwckhIaXJrcFdHQ281NXBHTWl6MnhvRlhGTmpweE1vdmZiNFVBZmY5V0Uxc2pkeGU5V0RkLVlsY01LSmFjdFBxeDVlVXlKcXdIUVMwLTNwbFphcEt2NHN6QzE?oc=5",
+      "source": "CNews.ru",
+      "published_at": "2026-08-17T09:22:23+00:00"
     },
     {
       "category": "telecom",
@@ -111,24 +125,10 @@
     },
     {
       "category": "mts",
-      "title": "МТС обеспечила связью фестиваль карельского пирога «Калитка» в Тверской области",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOellvWG1lUTAyT2plc0ViZTJFY0laLU1tNzZtbWxVcUNSQjlFazVhaDkxQkY3SDlhVUF3YlFxeHV0SXdxX0J6XzlYWENHTGFqT0NwTnZ0WWxBejltWFVaR2hBNTg3cWlUbkNBRlRwcHNweHBXOTFYanh1U3dSbkd1N1FlUDk3TVFuMF90YmxnVXYyMVFNbWl2ay04Qk9GUlhWdWl",
-      "source": "Твериград",
-      "published_at": "2026-08-14T13:22:36+00:00"
-    },
-    {
-      "category": "mts",
       "title": "МТС откроет абонентам доступ к Spotify и Netflix",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObFhZT1dlMDNNRlpObTVLYnBhckhlRzdSV2RrR0ZVQ3dNaERQOUM0RjlWZWtoeVBuR28yanBSd1Fvdk9fcGtxX3JDUlE1aGJ2bE05Mkl2V3lUUnVhQ1pkMUI0akdWazVBQTcxdVE0VTlLQUJVX2VrWXdiemJFS0VKbVJaaDZGR01DbU9IUjd5eFFyTXM?oc=5",
       "source": "Forbes.ru",
       "published_at": "2026-08-14T09:19:33+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "Более трети систем управления инфраструктурой российских ЦОД работают на уязвимом ПО",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE56ZG5JcmotNnNSanVVblRYdUFpd2c4b1A2WUstRGprMHFwZnU0blZuLXJoOG1ZWF9qTG1vdUY3NTVzZms?oc=5",
-      "source": "ServerNews",
-      "published_at": "2026-08-12T10:19:00+00:00"
     }
   ]
 }
