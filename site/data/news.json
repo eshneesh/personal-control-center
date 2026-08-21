@@ -1,15 +1,22 @@
 {
   "version": 1,
-  "generated_at": "2026-08-20T04:51:56+00:00",
+  "generated_at": "2026-08-21T04:53:06+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
+    {
+      "category": "mts",
+      "title": "МТС первой из операторов запустила сеть в заповеднике «Черные земли» в Калмыкии",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1nNFMxRDBtUVlNZzR5YWh1bURPSHhVcTdhempPSmVCVkRpbmZyaTNWc1BKTVdtb3FtcE5TWUdNN2FwbXZlMHRV?oc=5",
+      "source": "Степные вести",
+      "published_at": "2026-08-20T09:21:16+00:00"
+    },
     {
       "category": "telecom",
       "title": "СМИ: сети оставшихся без лицензии провайдеров могут передать крупным операторам",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tN1FGMHRfbHR6QTQzdm5yVF83UFprakhMOFdMSUdjUmwtYzFCUUZ0YjRwQnZYWUFnRGdtX3h1MG9mcmZGaF9hZExnc0dmQVNTVnpOclJxdw?oc=5",
       "source": "Xakep.ru",
-      "published_at": "2026-08-19T12:34:20+00:00"
+      "published_at": "2026-08-19T12:03:13+00:00"
     },
     {
       "category": "infrastructure",
@@ -38,6 +45,13 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYWs3eFIwMml6NG12YU9qTWJHYVFCaEhvWTJGUkU0S3pHUlRiVXNvR3lQVXF6TkFsb0tOelIwSFBoSWl4czdQT1MtNnVsN2lVRnd2aGp1Z210RXFDS1dFenhUUlNvcHVEUUhpUF9xT3lBaGJPaUM0QkVkWUtNX2MtRGxnVExCc1ZweGR6TmhrMzBwWldMR0ppUk9SbmNmQXN4ZU1",
       "source": "Forbes.ru",
       "published_at": "2026-08-18T21:00:00+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Пользователи сообщили о масштабном сбое в работе рунета 18 августа",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcWxyZzBaUXhtbVNXUm5yMjBocC0xOXZqdWE1ZGNQeTQwVzBzWFM5WmRWX3V0cFZmeTB6S3g5ZFVaUWp0ZzhxWVZadFFTV1JNeDB4OXdtVmVFUkdtZWJIelREN1JKWEhIV1ZfMGluQ3JZXzdoTGp0d2hyTUlEN1J0bDBDcy1NdGx2OGFwV29PYjRLS1JNbFd4anBDWjBwNlEyaVd",
+      "source": "Финансы Mail",
+      "published_at": "2026-08-18T18:04:15+00:00"
     },
     {
       "category": "mts",
@@ -89,13 +103,6 @@
       "published_at": "2026-08-18T04:11:17+00:00"
     },
     {
-      "category": "telecom",
-      "title": "5G в России: что это за стандарт связи и где работает в 2026 году",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOVFmbWdNUU04ckJ3MDJFY055U1RPcm5CVTM5S2Z1bWZ1eUZQYWJyb2VRMDNVQVJlOFBhcUU2eEdYWTFtVnU4MU85d0tRa3BKRFpUSWdJemtTY2lWU000WXNwRjFwNlBaQ20xN1BZeGxxb056THdkTXJzM2ptWFNNaUFySDducm41c3ZuUHpqc2xfTFRYT0F5LU9EakxDRUJYX1R",
-      "source": "Телеспутник",
-      "published_at": "2026-08-17T21:04:23+00:00"
-    },
-    {
       "category": "mts",
       "title": "МТС познакомил более 1,5 тысячи детей с ИТ- и телеком-профессиями",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRVpxcUFUQ2ViR0FLTGQzckpxZVNRdjRlSnhOUmljYWhjNUg5QW9WNkExallMeWlpTWtpSHFvRHNpZVNKbU9qd0d3QmdCeHZUN1JSanlvV0xIcWpUNlN2dW1NZW1uXzVZMVBWT1dkMDlhSFVWTlR4d21SS3I0QmxaWEZJQjZtcWRPUzJqSHpidGpaM1ZDYjZjc29R?oc=5",
@@ -115,13 +122,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9paGhxN2Y4VW9wT0p5eFg4c0F6ZmdHWGdLVkd6RjVPR2VPZmJ1d2VxUDNHSV9wT2Y4dlpKV2ZqbVFQcVJodVpqTi1yMjBGekHSAVRBVV95cUxOMTFYQ1k1STZjczQ5aGlRa2J5ZUdfcDJGbXdRbDJ1TmVaRUlxUWIxT3A0clY5RndRaV9jc2c4LVhXTHNWLUx5Q29BV2F5S252dkx",
       "source": "Код.ру",
       "published_at": "2026-08-17T08:26:16+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС установила мобильную базовую станцию на томском Празднике Топора",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdm5Wa1pBZ0JVcHh5bUhQVzVfWVBDazRaWWlmZTg3cy1oMXk1SnNQTDEzZFo3SnRxVlVCNHZ4a29uR3Q2SXgzeHY4VUZJd1NtWFlXSkpOcFExM0dpVmM1bFFLei1PaHhXR3BYVWl0WFdWLWRLWE9idjl4ZEtjcnlsNWc0cUNkUjN2SlEtZGgtV2tKalpJMGIzSVpFdlFGM0w1Uk1",
-      "source": "РИА Томск",
-      "published_at": "2026-08-17T07:54:00+00:00"
     },
     {
       "category": "mts",
