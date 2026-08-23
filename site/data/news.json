@@ -1,36 +1,29 @@
 {
   "version": 1,
-  "generated_at": "2026-08-22T04:47:34+00:00",
+  "generated_at": "2026-08-23T04:51:00+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
     {
-      "category": "telecom",
-      "title": "В семи деревнях в Заполярье построят ВОЛС за счет выручки телеком-операторов",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRHR3V1lnTkdkRjVGN1Y0WjRIOEQzMEhPYXgyMVVVVTA5ZC1Gc094UG1WTnpIV3Z5dlBrSDR5ZVU4bXR2em13aGx4OUYwZEVnOHF4RjUzMHk5SEhoTEZacVAyejE1cVY1ckcxYVFLZE5Dc2c2ZDJ4OWUzMUxRb015Uk52Tm1lMHY2bGx4VG04YnFoWjF6aW1VNlh4by1SbXpyUWR",
-      "source": "Телеспутник",
-      "published_at": "2026-08-21T08:38:49+00:00"
-    },
-    {
       "category": "mts",
-      "title": "МТС увеличила скорость LTE-интернета в горнозаводской зоне Южного Урала | Новости | 21 августа 2026",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUkZlVHdLZE51Y2Fpd21BelAxZVlzRnJSbXV4NF9RTVB6YUVfY1lkSjl4eF9sRGZqejFsWThFVXBiZnFvNFdzNmFFTkV6ZDBKREV3OVdMcldnWjV5Z040TDRpMGN1ZmpRbFp1OEdRNjNLZV9ZajROMnJ4UG1CVjF2dHVWRll5UVhzNFllcC1fZGZGNHI3VTJJd3dMT2ZMZFFPb3J",
-      "source": "Урал-пресс-информ",
-      "published_at": "2026-08-21T07:40:37+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС добавила скорости LTE-интернета в Далматово",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcHVzRGt2d1RuSjdoLURQMmxFcVQ2bTdFWmd4Qkl0S3pwV0hpOFJSakIzeDVvMEFZdFd5cnJjVmFkNlBHR3d1Z3FKRFh0d0dxdnU1aTFIa1NOeXhaeEk4UVd6ZWpzQlBuM1ZuclN4ZTdmbjFlS0laTWRtNTYzQXY1SE5YWQ?oc=5",
+      "title": "МТС увеличила скорость LTE-интернета в «горном сердце» Урала",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONS1HTHlxVW1tekhmYUJXV1RVWURPb0xMd2JOTzZYTzRPMnYzNGM1Z3FIal9MVFM4aFdhNWxKZXBoT0xqT1Y1UmM3YU9saHRIeUMzQ1N3Rkp0ZHNaYmNFcjVpa3RIeHoyTnFzc1BlOGEtS18yWTRVUHBqa05Kd04xdW5JTUU?oc=5",
       "source": "CNews.ru",
-      "published_at": "2026-08-21T05:17:13+00:00"
+      "published_at": "2026-08-21T15:47:30+00:00"
     },
     {
       "category": "mts",
-      "title": "МТС первой из операторов запустила сеть в заповеднике «Черные земли» в Калмыкии",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1nNFMxRDBtUVlNZzR5YWh1bURPSHhVcTdhempPSmVCVkRpbmZyaTNWc1BKTVdtb3FtcE5TWUdNN2FwbXZlMHRV?oc=5",
-      "source": "Степные вести",
-      "published_at": "2026-08-20T09:21:16+00:00"
+      "title": "МТС разогнала LTE-интернет в Далматово",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNnJPVEFzcHFDRk1XYnhtd3BsMkZoTHM0OU9URF9HZUdZNWxUc2lGWGw5bnppRE45WDZveXRKNHhFYndvZXZBRFJJdHJYZXlJQWYzTnZYLWZhV2EtSkVzeFJPVVhxM3FxV1l2NTBWa2lneGlMVEpvRHhvMjFsMEFhc24wSmtzS0F5RmxKbUNB?oc=5",
+      "source": "SHADR.info",
+      "published_at": "2026-08-21T09:43:47+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС ускорила мобильный интернет у «Пеньковой горы» в Воронежской области",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQmotNnVFeW5wcWZyMnRTNFAtT3BRNmZqYUdmNy15TnNIUzliV1VnbllWOUJIT0Z0YlR6MDlfTGtkbW9tb3pNSkxLTUNCMW9NaDVRSTlRRzcxUnVkeHJpRVZIQ3RqMnNjYklnWHNtbHRIenRWbXJYUzAxSWY3OEdWY3FWLWRUYS14WGhKZ2tmZDBSWHZTc0E?oc=5",
+      "source": "Блокнот Воронеж",
+      "published_at": "2026-08-20T21:38:47+00:00"
     },
     {
       "category": "telecom",
@@ -75,13 +68,6 @@
       "published_at": "2026-08-19T06:25:00+00:00"
     },
     {
-      "category": "mts",
-      "title": "МТС запустила домашний интернет и телевидение на острове Русский",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KVkZnZmw1ZGRQQUZNaTBwb0wta1FsUFduWUhpT19ISmYtalN2R2RBLTR1WEpYeDRBOXRzbE1UYXRrSWx2MW9MaHNPQQ?oc=5",
-      "source": "PrimaMedia.ru",
-      "published_at": "2026-08-19T01:28:00+00:00"
-    },
-    {
       "category": "telecom",
       "title": "Отъем с переворотом: в России хотят запретить создание новых виртуальных операторов",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYWs3eFIwMml6NG12YU9qTWJHYVFCaEhvWTJGUkU0S3pHUlRiVXNvR3lQVXF6TkFsb0tOelIwSFBoSWl4czdQT1MtNnVsN2lVRnd2aGp1Z210RXFDS1dFenhUUlNvcHVEUUhpUF9xT3lBaGJPaUM0QkVkWUtNX2MtRGxnVExCc1ZweGR6TmhrMzBwWldMR0ppUk9SbmNmQXN4ZU1",
@@ -89,11 +75,11 @@
       "published_at": "2026-08-18T21:00:00+00:00"
     },
     {
-      "category": "mts",
-      "title": "Аналитики: продажа доли в башенной компании поддержит чистую прибыль МТС",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUGlRVE5JTGVEaE5VOGM4clhlM1NfUERTQWdmczZTTHp1UzdROXN5OFlQNi1uTjZmdmp3cl9OdlVaLWhnWlc0UUFmb29KTXJtOFVYczNjeUlOR1VjMlluNDJaRkQwa1pROU14TjdqQk5CODFJWXZPVWRUbmx2ZXZ2MG1zbHdUd3NheGx3SmJJSml6TmFDSldGbXNZWjZhS1hpYUJ",
-      "source": "Телеспутник",
-      "published_at": "2026-08-18T14:44:24+00:00"
+      "category": "telecom",
+      "title": "Пользователи сообщили о масштабном сбое в работе рунета 18 августа",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcWxyZzBaUXhtbVNXUm5yMjBocC0xOXZqdWE1ZGNQeTQwVzBzWFM5WmRWX3V0cFZmeTB6S3g5ZFVaUWp0ZzhxWVZadFFTV1JNeDB4OXdtVmVFUkdtZWJIelREN1JKWEhIV1ZfMGluQ3JZXzdoTGp0d2hyTUlEN1J0bDBDcy1NdGx2OGFwV29PYjRLS1JNbFd4anBDWjBwNlEyaVd",
+      "source": "Финансы Mail",
+      "published_at": "2026-08-18T18:04:15+00:00"
     },
     {
       "category": "telecom",
@@ -103,11 +89,25 @@
       "published_at": "2026-08-18T13:50:00+00:00"
     },
     {
+      "category": "mts",
+      "title": "МТС обеспечила сетью LTE физкультурно-оздоровительный центр «Белые камни»",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1xMXhxMHAtMDMwZHRycnJuX3RFZVpyaEw1czdDTGxXdUg5VXdRMURtZjdXMUl0OU1qaWxPZ21MN3g?oc=5",
+      "source": "Pg21.ru",
+      "published_at": "2026-08-18T11:24:21+00:00"
+    },
+    {
       "category": "telecom",
       "title": "В России могут закрыться до 30% интернет-провайдеров",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUE0zTmFlNVpnWUpBYzNqQVdtbUhxZmVudEhCWVlNS0F6R3dJOUpORlgyMUV2TDd3ZzI3N2JUeE9LWWRmWlpZZGFxRmFQZFlqSFFDa3JXeUdhYzBNaUYzeGhidFZyLWdHWnV5LTVBa0pNRnlrLWdJeFZELUs1VTYycWk1R0NSZl9USVhubUNuUkp1bjMyWE84VlFJU2pvSzcyZEE",
       "source": "Русская служба The Moscow Times",
       "published_at": "2026-08-18T10:12:25+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС обеспечила цифровой комфорт гостей фестиваля народных ремесел «Праздник топора",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTjBiVHpiQ3dOVzZKczJFcTV5anVUcXE0MDAxdGQtamMxQmVRRDlHSW9jeHFWb19kOU04bjNLNWpBcUItVEQwV0t3X2dHM09vOGQ4M0Mxek11U1IwVkhSYWRLTmRTWVNiYlM3d3pvb3l5cVB0dzFya25jZWxyZGdEam9XQ0hTT1ZQa1NkckltbDZwQjl5ODVWVElsSUlVbUVmX2l",
+      "source": "Tomsk.ru",
+      "published_at": "2026-08-18T04:11:17+00:00"
     },
     {
       "category": "telecom",
