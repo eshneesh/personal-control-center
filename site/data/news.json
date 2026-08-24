@@ -1,29 +1,15 @@
 {
   "version": 1,
-  "generated_at": "2026-08-23T04:51:00+00:00",
+  "generated_at": "2026-08-24T05:00:01+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
     {
       "category": "mts",
-      "title": "МТС увеличила скорость LTE-интернета в «горном сердце» Урала",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONS1HTHlxVW1tekhmYUJXV1RVWURPb0xMd2JOTzZYTzRPMnYzNGM1Z3FIal9MVFM4aFdhNWxKZXBoT0xqT1Y1UmM3YU9saHRIeUMzQ1N3Rkp0ZHNaYmNFcjVpa3RIeHoyTnFzc1BlOGEtS18yWTRVUHBqa05Kd04xdW5JTUU?oc=5",
+      "title": "МТС добавила LTE для жителей Слободского и Оричей",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlbExHaFBUSGdaWFBMbENvYy1Db2NLb0duUGktWEZzNVJrczVqQ0lZTUpyQXEzSVNlNHJiRjFnOUUteHJyaGZEY29tbFc4UlhYOFpnSVI0S3NOYkkyQUp1eVVTVVlMM0NndjNwZjZOMGxOTHdxYm1QM2pRbkc?oc=5",
       "source": "CNews.ru",
-      "published_at": "2026-08-21T15:47:30+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС разогнала LTE-интернет в Далматово",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNnJPVEFzcHFDRk1XYnhtd3BsMkZoTHM0OU9URF9HZUdZNWxUc2lGWGw5bnppRE45WDZveXRKNHhFYndvZXZBRFJJdHJYZXlJQWYzTnZYLWZhV2EtSkVzeFJPVVhxM3FxV1l2NTBWa2lneGlMVEpvRHhvMjFsMEFhc24wSmtzS0F5RmxKbUNB?oc=5",
-      "source": "SHADR.info",
-      "published_at": "2026-08-21T09:43:47+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС ускорила мобильный интернет у «Пеньковой горы» в Воронежской области",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQmotNnVFeW5wcWZyMnRTNFAtT3BRNmZqYUdmNy15TnNIUzliV1VnbllWOUJIT0Z0YlR6MDlfTGtkbW9tb3pNSkxLTUNCMW9NaDVRSTlRRzcxUnVkeHJpRVZIQ3RqMnNjYklnWHNtbHRIenRWbXJYUzAxSWY3OEdWY3FWLWRUYS14WGhKZ2tmZDBSWHZTc0E?oc=5",
-      "source": "Блокнот Воронеж",
-      "published_at": "2026-08-20T21:38:47+00:00"
+      "published_at": "2026-08-21T05:55:31+00:00"
     },
     {
       "category": "telecom",
@@ -37,14 +23,21 @@
       "title": "СМИ: сети оставшихся без лицензии провайдеров могут передать крупным операторам",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tN1FGMHRfbHR6QTQzdm5yVF83UFprakhMOFdMSUdjUmwtYzFCUUZ0YjRwQnZYWUFnRGdtX3h1MG9mcmZGaF9hZExnc0dmQVNTVnpOclJxdw?oc=5",
       "source": "Xakep.ru",
-      "published_at": "2026-08-19T12:03:13+00:00"
+      "published_at": "2026-08-19T12:33:44+00:00"
     },
     {
-      "category": "infrastructure",
-      "title": "Индия строит гигантский кластер из 10 000 Nvidia B300 мощностью в сотни мегаватт для американской компании",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRzhPVEluTFJKZkNhSHpZVmZwTnlOWjRRZVhCTUxWY3g4bXQtVkdDUnRnc25LcFRQOUhSVVhFWWMyaEhxU0N3YW5xdm5qTmZZMWhGYkVKekI1d3FFMzlrdmtlVTl2R2JPcXdqZUdtMi1FV25xYkZiZVlVYTBPblMwc2ZhdHJyZUQwbS1hRW9aLWUwQXcyZ3NfVVh4cFN5MjRmNnk",
-      "source": "prospect.com.ru",
-      "published_at": "2026-08-19T09:53:03+00:00"
+      "category": "mts",
+      "title": "МТС Петербург обновил свой топовый тариф «МТС RED»: теперь больше интернета и интеллекта",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR19WRk9oeUhZY3J6clRBY0dLMk5kUUIwSXJxaTF6Wm9kY3I2X3pvM0oyVkdYX0FiODJPZkZqNzlPVVVDZ2pqTUdjOU5yZTFPeUpxb0FqMkxkeXdvbFluZnkwcUxzUl9TY05xaDhkZXBfR3RlY2pZS0VobDBZQ3dfZlV1OG5jNlJ6TmZleWZ3NjRpekY3TXZGb2JlZ0dLUF80MHR",
+      "source": "spbIT",
+      "published_at": "2026-08-19T11:11:58+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "Эксперты проверили связь в Новосибирской агломерации",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeWlLXzR3dnVVUjZULVd2SW1OVUxOckZENDgzbHBpLXVZTkE1aFM4eXJhdXZ6ZENhZkpmMVJRd1Vwek81SmdQODhBNzhrbjBOaGZiR2FyQ1FwWjM1Y09sSDJha1dHSGNreTR6VG4wVmxDLWZsMDlaUU83TnRnS2JZQUpCUFJDRFox0gGOAUFVX3lxTE9NOU5PdXZkNmVubF90Z2J",
+      "source": "Континент Сибирь Online",
+      "published_at": "2026-08-19T08:07:30+00:00"
     },
     {
       "category": "telecom",
@@ -68,6 +61,13 @@
       "published_at": "2026-08-19T06:25:00+00:00"
     },
     {
+      "category": "mts",
+      "title": "МТС запустила домашний интернет и телевидение на острове Русский",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KVkZnZmw1ZGRQQUZNaTBwb0wta1FsUFduWUhpT19ISmYtalN2R2RBLTR1WEpYeDRBOXRzbE1UYXRrSWx2MW9MaHNPQQ?oc=5",
+      "source": "PrimaMedia.ru",
+      "published_at": "2026-08-19T01:28:00+00:00"
+    },
+    {
       "category": "telecom",
       "title": "Отъем с переворотом: в России хотят запретить создание новых виртуальных операторов",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYWs3eFIwMml6NG12YU9qTWJHYVFCaEhvWTJGUkU0S3pHUlRiVXNvR3lQVXF6TkFsb0tOelIwSFBoSWl4czdQT1MtNnVsN2lVRnd2aGp1Z210RXFDS1dFenhUUlNvcHVEUUhpUF9xT3lBaGJPaUM0QkVkWUtNX2MtRGxnVExCc1ZweGR6TmhrMzBwWldMR0ppUk9SbmNmQXN4ZU1",
@@ -82,18 +82,18 @@
       "published_at": "2026-08-18T18:04:15+00:00"
     },
     {
+      "category": "mts",
+      "title": "Аналитики: продажа доли в башенной компании поддержит чистую прибыль МТС",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUGlRVE5JTGVEaE5VOGM4clhlM1NfUERTQWdmczZTTHp1UzdROXN5OFlQNi1uTjZmdmp3cl9OdlVaLWhnWlc0UUFmb29KTXJtOFVYczNjeUlOR1VjMlluNDJaRkQwa1pROU14TjdqQk5CODFJWXZPVWRUbmx2ZXZ2MG1zbHdUd3NheGx3SmJJSml6TmFDSldGbXNZWjZhS1hpYUJ",
+      "source": "Телеспутник",
+      "published_at": "2026-08-18T14:44:24+00:00"
+    },
+    {
       "category": "telecom",
       "title": "Российские операторы открыли прямой доступ к иностранным сервисам",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR1k2OUZNektla2NqVHRNaUNaSGotVVZWa19VaDBuakZiNEU4YS1wMmc5c3FwVXRvMkRzUDBCSjI5cWxrZGZ2dXZZbzdmY2pqZXBqZ0pveDBxZkVHNXUtVkxCUjg1aExGVjFIamloajh5RWpXVHVTYlBTb1I2bkFSUGYtMm9wLVQ2NHhZUktSN3dxTU14dTI3Vy1FUUY4MkFXelE",
       "source": "Алтапресс",
       "published_at": "2026-08-18T13:50:00+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС обеспечила сетью LTE физкультурно-оздоровительный центр «Белые камни»",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1xMXhxMHAtMDMwZHRycnJuX3RFZVpyaEw1czdDTGxXdUg5VXdRMURtZjdXMUl0OU1qaWxPZ21MN3g?oc=5",
-      "source": "Pg21.ru",
-      "published_at": "2026-08-18T11:24:21+00:00"
     },
     {
       "category": "telecom",
@@ -118,17 +118,10 @@
     },
     {
       "category": "mts",
-      "title": "На одной из самых протяженных улиц Астрахани усилили мобильную сеть МТС",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRFE0TmZSNVpGNGFSMlJEWktQWlpDQ0ltc2E0NVhXdHRVSG5XTTl3SldQY0hlX1hhSUpqNUpGMGFJZkVERFlidWlvMW5oSzlHSDhwanFpR1RlVVpVMHZFd3lQVTMwSDZiT2dZZ21vVGRSdV91RndDdmdUUzU0emFBbGxkeFNKSmQ0U203M0QzMzB3X0RrUUV5WnMtMA?oc=5",
-      "source": "АРБУЗ | Отборные астраханские новости",
-      "published_at": "2026-08-17T08:12:00+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "Масштабный сбой в работе интернета отметили жители Новосибирской области",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbDliVHlZQVoyUEIyQ2hoV0dVRDhWYmM4NUJzUng2VktNaUc0NWROeThMRS01bTBPX0ZIX21pN1pWN0Jva3ZnbHBhYWg2cC1nX0VKWFhpQVYyV3pTcno4V1BKa2tyNU1hREJNbjJuMVdWdHNZb25Pa0k5ZlIwcEl1enM5Y1hNYVZqaXdjM3JQQzN3aVNLOEpVZEo2enpnTk1LWmV",
-      "source": "newsib.net",
-      "published_at": "2026-08-16T11:41:10+00:00"
+      "title": "МТС установила мобильную базовую станцию на томском Празднике Топора",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdm5Wa1pBZ0JVcHh5bUhQVzVfWVBDazRaWWlmZTg3cy1oMXk1SnNQTDEzZFo3SnRxVlVCNHZ4a29uR3Q2SXgzeHY4VUZJd1NtWFlXSkpOcFExM0dpVmM1bFFLei1PaHhXR3BYVWl0WFdWLWRLWE9idjl4ZEtjcnlsNWc0cUNkUjN2SlEtZGgtV2tKalpJMGIzSVpFdlFGM0w1Uk1",
+      "source": "РИА Томск",
+      "published_at": "2026-08-17T07:54:00+00:00"
     }
   ]
 }
