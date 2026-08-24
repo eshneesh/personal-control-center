@@ -1,9 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-08-24T05:00:01+00:00",
+  "generated_at": "2026-08-24T06:54:58+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
+    {
+      "category": "mts",
+      "title": "МТС усилила связь в воротах новой дальневосточной России XIX века",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kbHAtemUzVkNVS0ZkWFVERmR5YXZtRk5rdE1NMGxwUW55c1U2enhkTE1qZEozLTdad0h3bFVnYW1Ydm1BUnFNdFdibDNESXc1VDZzS2h6RlpGMkhvTGJRRzJLNF94aWM?oc=5",
+      "source": "Хабаровский край сегодня",
+      "published_at": "2026-08-24T05:49:44+00:00"
+    },
     {
       "category": "mts",
       "title": "МТС добавила LTE для жителей Слободского и Оричей",
@@ -115,13 +122,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9paGhxN2Y4VW9wT0p5eFg4c0F6ZmdHWGdLVkd6RjVPR2VPZmJ1d2VxUDNHSV9wT2Y4dlpKV2ZqbVFQcVJodVpqTi1yMjBGekHSAVRBVV95cUxOMTFYQ1k1STZjczQ5aGlRa2J5ZUdfcDJGbXdRbDJ1TmVaRUlxUWIxT3A0clY5RndRaV9jc2c4LVhXTHNWLUx5Q29BV2F5S252dkx",
       "source": "Код.ру",
       "published_at": "2026-08-17T08:26:16+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС установила мобильную базовую станцию на томском Празднике Топора",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdm5Wa1pBZ0JVcHh5bUhQVzVfWVBDazRaWWlmZTg3cy1oMXk1SnNQTDEzZFo3SnRxVlVCNHZ4a29uR3Q2SXgzeHY4VUZJd1NtWFlXSkpOcFExM0dpVmM1bFFLei1PaHhXR3BYVWl0WFdWLWRLWE9idjl4ZEtjcnlsNWc0cUNkUjN2SlEtZGgtV2tKalpJMGIzSVpFdlFGM0w1Uk1",
-      "source": "РИА Томск",
-      "published_at": "2026-08-17T07:54:00+00:00"
     }
   ]
 }
