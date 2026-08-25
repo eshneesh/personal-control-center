@@ -1,29 +1,71 @@
 {
   "version": 1,
-  "generated_at": "2026-08-24T06:54:58+00:00",
+  "generated_at": "2026-08-25T04:52:27+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
     {
       "category": "mts",
-      "title": "МТС усилила связь в воротах новой дальневосточной России XIX века",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kbHAtemUzVkNVS0ZkWFVERmR5YXZtRk5rdE1NMGxwUW55c1U2enhkTE1qZEozLTdad0h3bFVnYW1Ydm1BUnFNdFdibDNESXc1VDZzS2h6RlpGMkhvTGJRRzJLNF94aWM?oc=5",
-      "source": "Хабаровский край сегодня",
-      "published_at": "2026-08-24T05:49:44+00:00"
+      "title": "Цифровой рубль на связи: МТС, «Ростелеком» и «Мегафон» запускают оплату услуг новой валютой",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44T1lFQWxpbTdNM1JidksyRlVNbF9ZaGE4M0JXb25ic2VXUjc2NjdWOW9SZlFSVnpYYnA0R1VzOHNKcXZ2aXJFRkJ6OWdtY1hCSktHMDZMODRkSHZpWkNFUUIwUjhxMms?oc=5",
+      "source": "Сибирское информационное агентство",
+      "published_at": "2026-08-25T03:39:00+00:00"
     },
     {
       "category": "mts",
-      "title": "МТС добавила LTE для жителей Слободского и Оричей",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlbExHaFBUSGdaWFBMbENvYy1Db2NLb0duUGktWEZzNVJrczVqQ0lZTUpyQXEzSVNlNHJiRjFnOUUteHJyaGZEY29tbFc4UlhYOFpnSVI0S3NOYkkyQUp1eVVTVVlMM0NndjNwZjZOMGxOTHdxYm1QM2pRbkc?oc=5",
-      "source": "CNews.ru",
-      "published_at": "2026-08-21T05:55:31+00:00"
+      "title": "МТС введет оплату связи цифровым рублем с 1 сентября 2026 года",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVHRYMnQtd0p2dFo3cVk5ZkpKR013S01SOW56NEJJZFMxeWNtcHVBSGxabTc4S1M0X2JLMEVnTVNYanB2aEJiZGVYaXBlSlZjeU5zQzlCOUJ3SXFhVHNVcUJ6bk43NnNBZUMta00tZlZjbmpPY0kzVGNiVm1hbmtHZ2RUSG5ub3RFYVVOVzQwWnF0VGh3MFVzTlBPYnRQV1dzYmp",
+      "source": "InvestFuture",
+      "published_at": "2026-08-25T00:36:40+00:00"
     },
     {
       "category": "telecom",
-      "title": "Виртуальным операторам в России могут ограничить тарифы, трафик и работу с сетями",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaTV1elNDMTh6UnlnbUFUR2pWTUxxbzh3a2VISEc5ZDBsRnh2bkt3azZLY2Rsbmo3MEp4RWVKWWVnWWZ5XzJfSHY2T2F1b2tkZ0Zrc0VSN1V5OEVpckR0YWJZTEl2ZjhxOUlPWGJrSnVBcWswU2ppenNsaVZpcWM1YU1QaU5BVGdWUzEwSmFibVlsQm4ydGZ3NGNRNEc3aTNySFh",
-      "source": "Incrussia",
-      "published_at": "2026-08-19T14:33:36+00:00"
+      "title": "Оператор «Эн+ телеком» вышел на рынок мобильной связи по модели MVNO",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZmJ1WmQ5YjJqTWRQeHoyZ1BVLUNWQ3RyX2pNcEVFc01IYU1ZQjFaTE5iSFB4c3Ffc1hmbC14czJnSWQwMkxMRXlvbXlnOThYVXZIa2VhUWZoVjg0LTVYWXpnNDZyaTVPdnQ2eHJ2TkVtVE1jaUgwcWZDY0dGSGhpX3pCb0l6VHp0NWxwcjdMNFBVZVJHRjVmbTVRTDhCUWdQRUR",
+      "source": "Телеспутник",
+      "published_at": "2026-08-24T14:20:23+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС внедряет возможность оплаты цифровым рублем в своих сервисах",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNjEtSi1XTXRtR0JBQVFXM1lzQ3piZGtZMlBNRGxTWjdYajV0NFVXSUVKR2pCUjFRZHAtTWgtS01SN3F6LW5Qd240NzQ3R2NyejN6bWtVVi1kei1DTzBkTUNuNnZ6Q28ybGlTOGxvZTVMUEs3MEdqUGtLNmRYMi1fQW9KMmxkWDlrN29oT3F2dHMwWFE5YWlVYzRTN0gwUGcwOVR",
+      "source": "TelecomDaily",
+      "published_at": "2026-08-24T13:40:05+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Как работает спутниковый интернет и кому он нужен в России",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVGgyVXhXM2FRMVpWWWQ3Y1JqbmowMmdIVHVldDVncmhrMVBSdmFNR1RwMmFYZl9sNWRuTXZqcFZlc1NFM2xHejNGcktyNDNheUFWZWhlQ0ctZ05KYTFLSUxXWEs3UEhrakhmYlg4SlIzTDJzQmhrR3Mxb2luX1JlMnc5YkdoSWIyVGpJQ3pBMnc2STZjMDBtTQ?oc=5",
+      "source": "Компьютерра",
+      "published_at": "2026-08-24T10:00:58+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Что там с телекомом: операторы выясняют, кого считать MVNO, а роботы — кого считать мошенником",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pVXlGdUk4OTNpNTltcU1Lei1INjlVXy1mcGJUalIzWWRqaWduWDlJTFJ1Qzdvd3JGYnhJNGc4TC1Vb1ZDTklMYW5ZbTN1OXV2RWFEaHVDLWVWT0UwZTVZ0gFkQVVfeXFMUEhSZ2wxbUFiSk5WWE8xQ3Zid0lKd3ZSMHdNbHZUV3hrdldkMGlEa0JOdTYtcEVDV2MyNkxVZWxxWFp",
+      "source": "Код.ру",
+      "published_at": "2026-08-24T08:37:03+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС ускорила интернет в исторических «воротах» Дальнего Востока",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQekhFX2xhdWdIYnNvM21fVEoyb0VKMnpMdE9HUzZQOVlRd2U2RHh0eVQyeFZKejRBSFd4UFJQUlkyZDBOOFYteVFxV3JHaTNRc0JSMTdvdThpdjlKOTQtLXh3Q0tRV2hwakNqdzh0cWtuQ2FsWG9PWkRBT0hnZ2NnVHp0V3N6Qm40OGRERDJPajJOWDB5RVhOU0V4WQ?oc=5",
+      "source": "Eastrussia",
+      "published_at": "2026-08-24T07:23:22+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС усилила связь в Шушенском к сезону цветения кувшинок",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUdEtFNFg5anRKemYwYmJVa1I4ZVEybDduRlROVHFQNFpiR0RUMEpfbDJaWWotMzNzMWI0YWVlX0VSMER3c0N3RzZpOUZUMFNzTjhQczZKZlZ5Z9IBWkFVX3lxTFBUdEtFNFg5anRKemYwYmJVa1I4ZVEybDduRlROVHFQNFpiR0RUMEpfbDJaWWotMzNzMWI0YWVlX0VSMER3c0N",
+      "source": "Newslab.ru",
+      "published_at": "2026-08-24T07:22:00+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС усилила связь в воротах новой дальневосточной России XIX века",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kbHAtemUzVkNVS0ZkWFVERmR5YXZtRk5rdE1NMGxwUW55c1U2enhkTE1qZEozLTdad0h3bFVnYW1Ydm1BUnFNdFdibDNESXc1VDZzS2h6RlpGMkhvTGJRRzJLNF94aWM?oc=5",
+      "source": "Хабаровский край сегодня",
+      "published_at": "2026-08-24T06:04:34+00:00"
     },
     {
       "category": "telecom",
@@ -40,39 +82,11 @@
       "published_at": "2026-08-19T11:11:58+00:00"
     },
     {
-      "category": "mts",
-      "title": "Эксперты проверили связь в Новосибирской агломерации",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeWlLXzR3dnVVUjZULVd2SW1OVUxOckZENDgzbHBpLXVZTkE1aFM4eXJhdXZ6ZENhZkpmMVJRd1Vwek81SmdQODhBNzhrbjBOaGZiR2FyQ1FwWjM1Y09sSDJha1dHSGNreTR6VG4wVmxDLWZsMDlaUU83TnRnS2JZQUpCUFJDRFox0gGOAUFVX3lxTE9NOU5PdXZkNmVubF90Z2J",
-      "source": "Континент Сибирь Online",
-      "published_at": "2026-08-19T08:07:30+00:00"
-    },
-    {
       "category": "telecom",
       "title": "В России готовится запрет новых виртуальных сотовых операторов – их услуги слишком дешево стоят",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tUm1tVmtNS3B6NUJkRkduMGwwb0VEY21icDRzOTl3RVJnN1lfTGNEOGRxWGJkdTVKM1BsUk5kNGVobU5rU0dqTWUtNUNkX3BDcTdrYW5hNE8zdWo4UG10bmVkTDFJLWNQQklFdW9OekdlQzA?oc=5",
       "source": "CNews.ru",
       "published_at": "2026-08-19T07:10:40+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "Почему долг «Ростелекома» вырос до 731,6 млрд рублей",
-      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNZ243WmdWQVRCNGd5Mms5Q0llNWEwV2Q3QUk3c0dHQ1FvblpIZG9kcGQxNmF5dFlIbEgyZWl0RmNhdXdBamtJcGJ4Zjg5TGxiUlZjVGpUamVpRUtxYjh3ZG1LTWtnVGRxUWdaenhFWEkwWGUzUnFEX1pVUHFpa00tOTZ3Yll0WDZVZmN0alU1S1FHajVRSml3Sm9CT1pSQUhjNC1",
-      "source": "TAdviser",
-      "published_at": "2026-08-19T07:00:00+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "Когда тарифы идентичны, битва переходит в другую плоскость. О новых вызовах телеком-гигантов — в большом интервью с топ-менеджером МТС",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUllPUVRwYW1RNGVhSGg3Zmt6VVEzUXVkaGtCZk03R1NQZEZuNjhHTEl6Ml90UTlfZXZkMXI4N0dnMEJjZ0RZaDk1QlFlWnpBcDQtcVd0U01ZMnFJNzNuNDktT2pMQkVQbWlYbGMzZzhWSkUtWWxqX2ctLVZwZmZFTtIBe0FVX3lxTE5qVHNVT1ZUdC1od3pLS2RnWXBVUUxVWXk",
-      "source": "officelife.by",
-      "published_at": "2026-08-19T06:25:00+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС запустила домашний интернет и телевидение на острове Русский",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KVkZnZmw1ZGRQQUZNaTBwb0wta1FsUFduWUhpT19ISmYtalN2R2RBLTR1WEpYeDRBOXRzbE1UYXRrSWx2MW9MaHNPQQ?oc=5",
-      "source": "PrimaMedia.ru",
-      "published_at": "2026-08-19T01:28:00+00:00"
     },
     {
       "category": "telecom",
@@ -89,39 +103,11 @@
       "published_at": "2026-08-18T18:04:15+00:00"
     },
     {
-      "category": "mts",
-      "title": "Аналитики: продажа доли в башенной компании поддержит чистую прибыль МТС",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUGlRVE5JTGVEaE5VOGM4clhlM1NfUERTQWdmczZTTHp1UzdROXN5OFlQNi1uTjZmdmp3cl9OdlVaLWhnWlc0UUFmb29KTXJtOFVYczNjeUlOR1VjMlluNDJaRkQwa1pROU14TjdqQk5CODFJWXZPVWRUbmx2ZXZ2MG1zbHdUd3NheGx3SmJJSml6TmFDSldGbXNZWjZhS1hpYUJ",
-      "source": "Телеспутник",
-      "published_at": "2026-08-18T14:44:24+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Российские операторы открыли прямой доступ к иностранным сервисам",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR1k2OUZNektla2NqVHRNaUNaSGotVVZWa19VaDBuakZiNEU4YS1wMmc5c3FwVXRvMkRzUDBCSjI5cWxrZGZ2dXZZbzdmY2pqZXBqZ0pveDBxZkVHNXUtVkxCUjg1aExGVjFIamloajh5RWpXVHVTYlBTb1I2bkFSUGYtMm9wLVQ2NHhZUktSN3dxTU14dTI3Vy1FUUY4MkFXelE",
-      "source": "Алтапресс",
-      "published_at": "2026-08-18T13:50:00+00:00"
-    },
-    {
       "category": "telecom",
       "title": "В России могут закрыться до 30% интернет-провайдеров",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUE0zTmFlNVpnWUpBYzNqQVdtbUhxZmVudEhCWVlNS0F6R3dJOUpORlgyMUV2TDd3ZzI3N2JUeE9LWWRmWlpZZGFxRmFQZFlqSFFDa3JXeUdhYzBNaUYzeGhidFZyLWdHWnV5LTVBa0pNRnlrLWdJeFZELUs1VTYycWk1R0NSZl9USVhubUNuUkp1bjMyWE84VlFJU2pvSzcyZEE",
       "source": "Русская служба The Moscow Times",
       "published_at": "2026-08-18T10:12:25+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС обеспечила цифровой комфорт гостей фестиваля народных ремесел «Праздник топора",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTjBiVHpiQ3dOVzZKczJFcTV5anVUcXE0MDAxdGQtamMxQmVRRDlHSW9jeHFWb19kOU04bjNLNWpBcUItVEQwV0t3X2dHM09vOGQ4M0Mxek11U1IwVkhSYWRLTmRTWVNiYlM3d3pvb3l5cVB0dzFya25jZWxyZGdEam9XQ0hTT1ZQa1NkckltbDZwQjl5ODVWVElsSUlVbUVmX2l",
-      "source": "Tomsk.ru",
-      "published_at": "2026-08-18T04:11:17+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Что там с телекомом: операторы подводят результаты полугодия, наращивают покрытие, а кое-кто следит за вами в лесу",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9paGhxN2Y4VW9wT0p5eFg4c0F6ZmdHWGdLVkd6RjVPR2VPZmJ1d2VxUDNHSV9wT2Y4dlpKV2ZqbVFQcVJodVpqTi1yMjBGekHSAVRBVV95cUxOMTFYQ1k1STZjczQ5aGlRa2J5ZUdfcDJGbXdRbDJ1TmVaRUlxUWIxT3A0clY5RndRaV9jc2c4LVhXTHNWLUx5Q29BV2F5S252dkx",
-      "source": "Код.ру",
-      "published_at": "2026-08-17T08:26:16+00:00"
     }
   ]
 }
