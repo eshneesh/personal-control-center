@@ -1,22 +1,85 @@
 {
   "version": 1,
-  "generated_at": "2026-08-25T04:52:27+00:00",
+  "generated_at": "2026-08-26T04:54:23+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
     {
-      "category": "mts",
-      "title": "Цифровой рубль на связи: МТС, «Ростелеком» и «Мегафон» запускают оплату услуг новой валютой",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44T1lFQWxpbTdNM1JidksyRlVNbF9ZaGE4M0JXb25ic2VXUjc2NjdWOW9SZlFSVnpYYnA0R1VzOHNKcXZ2aXJFRkJ6OWdtY1hCSktHMDZMODRkSHZpWkNFUUIwUjhxMms?oc=5",
-      "source": "Сибирское информационное агентство",
-      "published_at": "2026-08-25T03:39:00+00:00"
+      "category": "infrastructure",
+      "title": "Космические ЦОД SpaceX AI1: размах конструкции 70 м, терабитные каналы связи и 150 кВт солнечной энергии (обновление)",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUFp6YzRqZG5uSzRLUlFmM2dPUU9NN2lLdm9SN2c2Yk5kTl9QZGhKaWZVUk1iRnpEUTNJRW1aZU9zXzdFeWFhVElfOHpRZzlFNmZRWE1Cd0dOb0d1d1JweW5maF9VaWlDQXIyV2hnN0VhVnF0anp6V1JyUjAtZW9OdmR3SF95R2VNQW9IaXczUE1KM1lyeEc3Yk5yeW93QmtjYWR",
+      "source": "prospect.com.ru",
+      "published_at": "2026-08-25T21:50:47+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Операторы связи начали внедрять оплату цифровыми рублями",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPemk3YzJucjFWVkNzUFhoTEI5ZVg5TFJiYWZuQ3lmeUR6VnF5U0Q2d0hmWXRUNW9FQ3ZDTTAzbzZDNFlNUG9SNC1UeXFmMGZJQ21pc3VXLVFiaUtyZ1BMV2VueG42RWdRbkplRTgtQjdZOHB4bjhmSVB1cDNCZUZGb1RQV004NTJhWkhheE40UEI?oc=5",
+      "source": "Incrussia",
+      "published_at": "2026-08-25T14:43:06+00:00"
     },
     {
       "category": "mts",
-      "title": "МТС введет оплату связи цифровым рублем с 1 сентября 2026 года",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVHRYMnQtd0p2dFo3cVk5ZkpKR013S01SOW56NEJJZFMxeWNtcHVBSGxabTc4S1M0X2JLMEVnTVNYanB2aEJiZGVYaXBlSlZjeU5zQzlCOUJ3SXFhVHNVcUJ6bk43NnNBZUMta00tZlZjbmpPY0kzVGNiVm1hbmtHZ2RUSG5ub3RFYVVOVzQwWnF0VGh3MFVzTlBPYnRQV1dzYmp",
-      "source": "InvestFuture",
-      "published_at": "2026-08-25T00:36:40+00:00"
+      "title": "Выручка МТС AdTech увеличилась на 16% во втором квартале 2026 года | Рекламные бюджеты | Новости",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yTTc5WnBVcDFoRFUxM3Bzb0Z2ZTRpcWh5TExYT3JKOFlXTVlwdnlwVVVGOHR0ZkF4c0xTTDRMQmMtLXowUlBBTUpHUGxxZVc0SW1aTG14cDB2RmFWSk1tY1BuZ2ZEY0Rp?oc=5",
+      "source": "AdIndex.ru",
+      "published_at": "2026-08-25T14:38:39+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Сотовые операторы запустят оплату связи цифровыми рублями",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWJwQXhOYkdVc1I2WlN0aElPNzhoRDRVOVdWanYzOXJQeDBWWGIyNG1RZS0wWE9jajhIYzc2NGtHbTNZYllHQXhfekR5Sk5nbDNiWTFEVVhGSGNOTUxzMkEyUjFaMjVqcHIzOEpiRkZxME1GMks4LVM2TDhmMFVqTi03RUZ6RWF3Z1BTY1oyMTBYRUZSWF9rRlpQTlJJN25BZGd",
+      "source": "RB.ru",
+      "published_at": "2026-08-25T12:20:00+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "Чистая прибыль «МТС» во II квартале выросла почти в 24 раза год к году",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMXE0VTU5VDJIWWxxNkJMOERMYXVvWWdnUlR6QzRIS0d2Q2c2SkFjeDlGVTJYN3cxRzQ1ODFTNGhWbEl5bVhPUDI2ejd2R3BvcXROYkVBNVZkeVJzMWtPdDd2OTdMdjBYeUFWNjNhc2JDLXBrM1dhSWFqa2h4ZWNnelBQb0VHSFRmbXZVNF9aUQ?oc=5",
+      "source": "Ведомости",
+      "published_at": "2026-08-25T09:44:58+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС разрешит оплачивать связь цифровыми рублями с 1 сентября",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPNVJ1VXlFX2QxU1lYTU91My1vZjd4eFhDenNXWS12QXMxcWNiZE5JUVBTMW9rWU9YVGhNM3NYeWtYSjJCWUxYeWRJTm9BZzIyaXNzbGdsODlKY3hUSmZoRW5Sbm95WVXSAWxBVV95cUxQZW9yN0hxSHp2VUYwZE53MTNKTm1LNkwzMkc5c09PQ0F6d2d4NVVhWE8xd3Nja2UzZXF",
+      "source": "Anti-Malware.ru",
+      "published_at": "2026-08-25T09:20:38+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Операторы связи начнут принимать оплату цифровыми рублями",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNnNabWpEcXVSYmx3RU5sV0lNVnNxZDdqakFIWjZqZnMzM2pTaUxheDFCYTZ4ekk1X0cyUGh2N0xVWnh4U0VPbTlDT1AwMlUtQm11a0ExZ2tDYTRWdkdOV1FYZzdCYklWckhPNUEydjJiQmtxNGJ1VUxvNjRfcVM5cEtJbkJwaEdEOG5B?oc=5",
+      "source": "Эксперт",
+      "published_at": "2026-08-25T09:20:00+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС: чистая прибыль выросла в 23,9 раз за квартал",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMWhNMEhTTktWQy1vR3F0cDZWY1hwWUh0WC05ZUpTRks5T1V3T1RzcEtyMkhaSEQ1bVN0OHdPdFp3T0IzTEowYU1BSlJod1RWNVhBQTVJbkloVjBiMnBRU0g3SzJ2NjNDSHljSWgzWnFOa09SQlNzQjZpd0EzdjlKaHZkdlJFd212YTctRC1jeWNiNDQ?oc=5",
+      "source": "TelecomDaily",
+      "published_at": "2026-08-25T08:15:04+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС. Почему прибыль выросла в 24 раза",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzZF8wTV9ndEhma1FPZ2M3SXhuT3VsSVdONFhoS0tjb0FSWUJXbkFMTldhVjhVTklBeGxFUWtyQjN1M2pQMjQ1dkdTSzR2NGVZVENlUzJSU0NMY3BPX0FxbV9aQU96MHQ0MkdiSXEtOGExZGZQTjd5M2h6SFBzZw?oc=5",
+      "source": "Альфа-Банк",
+      "published_at": "2026-08-25T08:13:38+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Ведомости: сотовые операторы в РФ запустят оплату цифровым рублем",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUFFYcHJXY3RMNGdLWHFrdVU0elotVlJKRVU3b0p0QXZRZjBka05fNjNxVWtZSzh4and5UXk5Uzd2RUFkSWxHRkVtUTZVY0dpd1IzdVBWRWF1MjlMbnRsby1PVWhhRi1LOWpEM292bk53RE9UNGxqektDNnVBYXAtbWxlODFJNUxwQ1IyNkYtMlVSWU1nY1N4WE1qRFdiVU0td3Z",
+      "source": "БКС Экспресс",
+      "published_at": "2026-08-25T08:06:58+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС начнет принимать оплату связи цифровыми рублями с 1 сентября",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaFgzdjd1Y3hMQW0tNVdfNkY0LURGdWRLQWtvZDJRQ1JZcFBwT3A4SW50YW1uNy1jWTkxM2Z1LUpBWW5tZENlQmhId0tXYWZZbmk3Q2lCdXZ6TUw5MGhNbXdWME5HUjZDZmZhR0tMblFvSW92anRFRlJRNF84Y0hXalptV1Fpcl9keER5bm50UTB6dlhhRncxS3pSeWd6M3hoS3l",
+      "source": "TKS.RU",
+      "published_at": "2026-08-25T06:35:51+00:00"
     },
     {
       "category": "telecom",
@@ -24,13 +87,6 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZmJ1WmQ5YjJqTWRQeHoyZ1BVLUNWQ3RyX2pNcEVFc01IYU1ZQjFaTE5iSFB4c3Ffc1hmbC14czJnSWQwMkxMRXlvbXlnOThYVXZIa2VhUWZoVjg0LTVYWXpnNDZyaTVPdnQ2eHJ2TkVtVE1jaUgwcWZDY0dGSGhpX3pCb0l6VHp0NWxwcjdMNFBVZVJHRjVmbTVRTDhCUWdQRUR",
       "source": "Телеспутник",
       "published_at": "2026-08-24T14:20:23+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС внедряет возможность оплаты цифровым рублем в своих сервисах",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNjEtSi1XTXRtR0JBQVFXM1lzQ3piZGtZMlBNRGxTWjdYajV0NFVXSUVKR2pCUjFRZHAtTWgtS01SN3F6LW5Qd240NzQ3R2NyejN6bWtVVi1kei1DTzBkTUNuNnZ6Q28ybGlTOGxvZTVMUEs3MEdqUGtLNmRYMi1fQW9KMmxkWDlrN29oT3F2dHMwWFE5YWlVYzRTN0gwUGcwOVR",
-      "source": "TelecomDaily",
-      "published_at": "2026-08-24T13:40:05+00:00"
     },
     {
       "category": "telecom",
@@ -48,38 +104,17 @@
     },
     {
       "category": "mts",
-      "title": "МТС ускорила интернет в исторических «воротах» Дальнего Востока",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQekhFX2xhdWdIYnNvM21fVEoyb0VKMnpMdE9HUzZQOVlRd2U2RHh0eVQyeFZKejRBSFd4UFJQUlkyZDBOOFYteVFxV3JHaTNRc0JSMTdvdThpdjlKOTQtLXh3Q0tRV2hwakNqdzh0cWtuQ2FsWG9PWkRBT0hnZ2NnVHp0V3N6Qm40OGRERDJPajJOWDB5RVhOU0V4WQ?oc=5",
-      "source": "Eastrussia",
-      "published_at": "2026-08-24T07:23:22+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС усилила связь в Шушенском к сезону цветения кувшинок",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUdEtFNFg5anRKemYwYmJVa1I4ZVEybDduRlROVHFQNFpiR0RUMEpfbDJaWWotMzNzMWI0YWVlX0VSMER3c0N3RzZpOUZUMFNzTjhQczZKZlZ5Z9IBWkFVX3lxTFBUdEtFNFg5anRKemYwYmJVa1I4ZVEybDduRlROVHFQNFpiR0RUMEpfbDJaWWotMzNzMWI0YWVlX0VSMER3c0N",
-      "source": "Newslab.ru",
-      "published_at": "2026-08-24T07:22:00+00:00"
-    },
-    {
-      "category": "mts",
       "title": "МТС усилила связь в воротах новой дальневосточной России XIX века",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kbHAtemUzVkNVS0ZkWFVERmR5YXZtRk5rdE1NMGxwUW55c1U2enhkTE1qZEozLTdad0h3bFVnYW1Ydm1BUnFNdFdibDNESXc1VDZzS2h6RlpGMkhvTGJRRzJLNF94aWM?oc=5",
       "source": "Хабаровский край сегодня",
       "published_at": "2026-08-24T06:04:34+00:00"
     },
     {
-      "category": "telecom",
-      "title": "СМИ: сети оставшихся без лицензии провайдеров могут передать крупным операторам",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tN1FGMHRfbHR6QTQzdm5yVF83UFprakhMOFdMSUdjUmwtYzFCUUZ0YjRwQnZYWUFnRGdtX3h1MG9mcmZGaF9hZExnc0dmQVNTVnpOclJxdw?oc=5",
-      "source": "Xakep.ru",
-      "published_at": "2026-08-19T12:33:44+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС Петербург обновил свой топовый тариф «МТС RED»: теперь больше интернета и интеллекта",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR19WRk9oeUhZY3J6clRBY0dLMk5kUUIwSXJxaTF6Wm9kY3I2X3pvM0oyVkdYX0FiODJPZkZqNzlPVVVDZ2pqTUdjOU5yZTFPeUpxb0FqMkxkeXdvbFluZnkwcUxzUl9TY05xaDhkZXBfR3RlY2pZS0VobDBZQ3dfZlV1OG5jNlJ6TmZleWZ3NjRpekY3TXZGb2JlZ0dLUF80MHR",
-      "source": "spbIT",
-      "published_at": "2026-08-19T11:11:58+00:00"
+      "category": "infrastructure",
+      "title": "CHINT на форуме \"ЦОД\": как меняются системы электроснабжения дата-центров в России",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX3dsbmNMYms2bGwxNFZkclZGNDVhdlhRWVg3RUVRX2FLbkdtU2xaRDNJUGx2NTlYaHI1a1lYcklzekdBU2lMRkRwUC01Y3Rhd0FpRlhhdEc2MFJabGdWdzJCQW1STUhwbzNkV1FTdkQweFpqWHFUQW44XzVVenVkUVhkelNON0tKX1pvbTJpM2VpT21mdlE?oc=5",
+      "source": "RusCable",
+      "published_at": "2026-08-21T11:45:00+00:00"
     },
     {
       "category": "telecom",
@@ -87,27 +122,6 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tUm1tVmtNS3B6NUJkRkduMGwwb0VEY21icDRzOTl3RVJnN1lfTGNEOGRxWGJkdTVKM1BsUk5kNGVobU5rU0dqTWUtNUNkX3BDcTdrYW5hNE8zdWo4UG10bmVkTDFJLWNQQklFdW9OekdlQzA?oc=5",
       "source": "CNews.ru",
       "published_at": "2026-08-19T07:10:40+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Отъем с переворотом: в России хотят запретить создание новых виртуальных операторов",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYWs3eFIwMml6NG12YU9qTWJHYVFCaEhvWTJGUkU0S3pHUlRiVXNvR3lQVXF6TkFsb0tOelIwSFBoSWl4czdQT1MtNnVsN2lVRnd2aGp1Z210RXFDS1dFenhUUlNvcHVEUUhpUF9xT3lBaGJPaUM0QkVkWUtNX2MtRGxnVExCc1ZweGR6TmhrMzBwWldMR0ppUk9SbmNmQXN4ZU1",
-      "source": "Forbes.ru",
-      "published_at": "2026-08-18T21:00:00+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Пользователи сообщили о масштабном сбое в работе рунета 18 августа",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcWxyZzBaUXhtbVNXUm5yMjBocC0xOXZqdWE1ZGNQeTQwVzBzWFM5WmRWX3V0cFZmeTB6S3g5ZFVaUWp0ZzhxWVZadFFTV1JNeDB4OXdtVmVFUkdtZWJIelREN1JKWEhIV1ZfMGluQ3JZXzdoTGp0d2hyTUlEN1J0bDBDcy1NdGx2OGFwV29PYjRLS1JNbFd4anBDWjBwNlEyaVd",
-      "source": "Финансы Mail",
-      "published_at": "2026-08-18T18:04:15+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "В России могут закрыться до 30% интернет-провайдеров",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUE0zTmFlNVpnWUpBYzNqQVdtbUhxZmVudEhCWVlNS0F6R3dJOUpORlgyMUV2TDd3ZzI3N2JUeE9LWWRmWlpZZGFxRmFQZFlqSFFDa3JXeUdhYzBNaUYzeGhidFZyLWdHWnV5LTVBa0pNRnlrLWdJeFZELUs1VTYycWk1R0NSZl9USVhubUNuUkp1bjMyWE84VlFJU2pvSzcyZEE",
-      "source": "Русская служба The Moscow Times",
-      "published_at": "2026-08-18T10:12:25+00:00"
     }
   ]
 }
