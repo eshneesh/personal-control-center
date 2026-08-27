@@ -1,15 +1,57 @@
 {
   "version": 1,
-  "generated_at": "2026-08-26T04:54:23+00:00",
+  "generated_at": "2026-08-27T15:13:42+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
     {
       "category": "infrastructure",
-      "title": "Космические ЦОД SpaceX AI1: размах конструкции 70 м, терабитные каналы связи и 150 кВт солнечной энергии (обновление)",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUFp6YzRqZG5uSzRLUlFmM2dPUU9NN2lLdm9SN2c2Yk5kTl9QZGhKaWZVUk1iRnpEUTNJRW1aZU9zXzdFeWFhVElfOHpRZzlFNmZRWE1Cd0dOb0d1d1JweW5maF9VaWlDQXIyV2hnN0VhVnF0anp6V1JyUjAtZW9OdmR3SF95R2VNQW9IaXczUE1KM1lyeEc3Yk5yeW93QmtjYWR",
+      "title": "На Ямале оптика «Ростелекома» доступна в 99% домохозяйств",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMHNBT2hQakI1a0ZVNUx4U2hrTGg3WExkZVlSZWY5UHhHQkk1cjRQX2lBX0lGbzJZOVZ4NGRQMkU3Ri1JSEQ1dm1MWUVCN3ZjZXVJdDhJSjF5SDRJb0dhZDNiMlQyYkltRHpSbXNYUkVPQXpIejRWU3JLS05QNkstTGRhbUZNQW1ZeGJoa0hwVXl1X3FNZ25zdVhrU3BjRFE?oc=",
       "source": "prospect.com.ru",
-      "published_at": "2026-08-25T21:50:47+00:00"
+      "published_at": "2026-08-27T09:53:01+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "В «СёрчИнформ Файловый аудитор» появился контроль данных в «Яндекс Трекер»",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLTFpdGtDR2NqaDBydDF5QzVCWUptSXRndWxCT0Z2S3Q2RTQ5TmxJbkRfbVVVVVctYkhSVmc5SXpla3h3M3kzNUV4eFFqQmx3Qk4wcTJvMHF1RjZreUxGX2pmM3pMM29uY21RcVZiRy1PeUVnanVGa1dDVEkxOUV3b2JmeEJ6QWZNVy11WFhiTVJKS09TQlp3bEVn?oc=5",
+      "source": "cisoclub",
+      "published_at": "2026-08-27T08:58:58+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Связь 5G появится во всех городах-миллионниках до конца 2027 года",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTUVZNN3BFU1ozb29kRXVQOWJBRzhld0swSjFwX21sbW1EZGtlQzNBTGNPTHZYNWs0QTg2ZkFndnFRNVpNT3FZZGRGckxUOVZaazhCaFpnQVNNbnlRbWFOZ0NXbVFhTnI1ekNaYzNlbklFSEFoX3gtT2tFbw?oc=5",
+      "source": "CNews.ru",
+      "published_at": "2026-08-27T07:42:13+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Российских операторов обвинили в продаже безлимитного интернета с лимитами",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96eGc4MEF0dkVZaFpRek51TWVHWmZDYlJfX2hPZTg2N1U5endtRjFSazBiUnZNbFlvbVQtZWVrTURSd1BPVjBaX1E0QUpWQ3lBOFVwUUY0djUzRmFLTmdkSkxSaUpwTFHSAWxBVV95cUxNUkotMEppSmsyR19UTXJ5SGRNcnppTVYyUGhWd29EM3g3Q0llRUEtY29vck9qd1U2VWJ",
+      "source": "Anti-Malware.ru",
+      "published_at": "2026-08-27T06:09:23+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "Доходы МТС от телекома и медиа растут, а от финтеха и рекламы падают",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rMFl4amFFWUNtYXg0R2JhVGVlOFZXS3BrQlRfeWVOLUFQUGlmb3dkUTh4b1dHcGZwUlFWNWw3RDBVdWVZRGNZam56c3ZwXzczbHBBb0c0VEtXcmdZTTF4b0xQeE8tMi1qd0JBRmtsbXozNlU?oc=5",
+      "source": "CNews.ru",
+      "published_at": "2026-08-26T13:09:15+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС — компания ускоряет качественный рост",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOTFpVGc3YVE1eUIwVDFid28wcUJnWUE2cEI0UHVsVFJHTnlXYS1ZZUhyNXVKVV9pS1RJdDN6c05rNFZpTThvWXVsLXpqSUFqNm8tSnNScko1LVlXZVczNHE5SlEtWWJqazBsX05nWFEtWm9FdE9xZXg5LVhyajlqMlZ5WFRXRTNLTG55RVhYU295R2J3MHpxQ0V2ejQxUQ?oc=5",
+      "source": "Финам",
+      "published_at": "2026-08-26T10:08:50+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "На выезде из Гимринского тоннеля дагестанцев будет встречать связь МТС",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTW02M3VPdEFUeVJ3blRNOW1EMEdiMlZLZnBoZWpMeGsxWUFLNFJSRUdrXzZ4LU9qQ2FVZjc2Mjd1MERmYjVubWRCM0EyTjk3YzFfS21Qdkk5cTRkdUFZQ3YzMndxeU80VzFMZzdfM0NGT0NDdjlBRWZRUjBYc2dDck9YdXBXU09Xdl9pN2lza3BWdDd1bFJobmEtX0JQTkFjZXB",
+      "source": "РИА Дагестан",
+      "published_at": "2026-08-26T07:35:19+00:00"
     },
     {
       "category": "telecom",
@@ -40,13 +82,6 @@
       "published_at": "2026-08-25T09:44:58+00:00"
     },
     {
-      "category": "mts",
-      "title": "МТС разрешит оплачивать связь цифровыми рублями с 1 сентября",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPNVJ1VXlFX2QxU1lYTU91My1vZjd4eFhDenNXWS12QXMxcWNiZE5JUVBTMW9rWU9YVGhNM3NYeWtYSjJCWUxYeWRJTm9BZzIyaXNzbGdsODlKY3hUSmZoRW5Sbm95WVXSAWxBVV95cUxQZW9yN0hxSHp2VUYwZE53MTNKTm1LNkwzMkc5c09PQ0F6d2d4NVVhWE8xd3Nja2UzZXF",
-      "source": "Anti-Malware.ru",
-      "published_at": "2026-08-25T09:20:38+00:00"
-    },
-    {
       "category": "telecom",
       "title": "Операторы связи начнут принимать оплату цифровыми рублями",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNnNabWpEcXVSYmx3RU5sV0lNVnNxZDdqakFIWjZqZnMzM2pTaUxheDFCYTZ4ekk1X0cyUGh2N0xVWnh4U0VPbTlDT1AwMlUtQm11a0ExZ2tDYTRWdkdOV1FYZzdCYklWckhPNUEydjJiQmtxNGJ1VUxvNjRfcVM5cEtJbkJwaEdEOG5B?oc=5",
@@ -54,11 +89,11 @@
       "published_at": "2026-08-25T09:20:00+00:00"
     },
     {
-      "category": "mts",
-      "title": "МТС: чистая прибыль выросла в 23,9 раз за квартал",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMWhNMEhTTktWQy1vR3F0cDZWY1hwWUh0WC05ZUpTRks5T1V3T1RzcEtyMkhaSEQ1bVN0OHdPdFp3T0IzTEowYU1BSlJod1RWNVhBQTVJbkloVjBiMnBRU0g3SzJ2NjNDSHljSWgzWnFOa09SQlNzQjZpd0EzdjlKaHZkdlJFd212YTctRC1jeWNiNDQ?oc=5",
-      "source": "TelecomDaily",
-      "published_at": "2026-08-25T08:15:04+00:00"
+      "category": "telecom",
+      "title": "Российские операторы связи начнут принимать оплату цифровыми рублями",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTy1VY3pzVmpoZVBGVnROam5NejcwNWVyMkc2d0tqWmxYTjBYSjN4RUZjNGNaSDMzUXB5TGx6dTZGcG9tdUZyZEhaNWhEYzNDOVhhOEJlZkdkLUtPN1lhR2tfcjR0ZWZlY0lGMFp0Si01OEZESlNXX0tzUmE3VC1BSjV1V0NubEltaVZUaVg3OHhULWpTalNmQWx2MUhJX3BuMTQ",
+      "source": "Телеспутник",
+      "published_at": "2026-08-25T08:26:41+00:00"
     },
     {
       "category": "mts",
@@ -76,52 +111,24 @@
     },
     {
       "category": "mts",
+      "title": "В преддверии учебного года МТС обновила телеком-оборудование в Березниках",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQi1yOGxBczViWHFUQ21JTkJRM3E2OGlTRmNZVUxPYkgtSkJDTUtjZlRYZUs1YnhtYjZkQXhWMm9LckJkZnVOQk03ZlNqdnNnd0tIYUltckFWMFRnaUkyX0UxSzlJNjZzTG9pTnBjUy1PbFQtdVk0cnVHWWhmaUx3RjBFYkRnRTg1Umd5RUFDUU52SVNXWFNQMHlHYnJXTEs0MXZ",
+      "source": "chitaitext",
+      "published_at": "2026-08-25T07:36:00+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "Сетевая инфраструктура в ЦОДах — 2026: исследование «Инфосистемы Джет» и ИКС",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83em41SE10d1V2ZjhuaDlpa2Nqek42elRpTmlnNC1RRVFmLURNUG8zNWQ2QU5Kay1fdzVuUVpJampHQnNxNXVmcE9NVDNQd2ZnbnExdEplWWZ5RVVPTF9OVHlwcnViTGl1SE9oeUp3TG4wdUJqSHNlQ3c5WkE3cUU?oc=5",
+      "source": "iksmedia",
+      "published_at": "2026-08-25T07:00:00+00:00"
+    },
+    {
+      "category": "mts",
       "title": "МТС начнет принимать оплату связи цифровыми рублями с 1 сентября",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaFgzdjd1Y3hMQW0tNVdfNkY0LURGdWRLQWtvZDJRQ1JZcFBwT3A4SW50YW1uNy1jWTkxM2Z1LUpBWW5tZENlQmhId0tXYWZZbmk3Q2lCdXZ6TUw5MGhNbXdWME5HUjZDZmZhR0tMblFvSW92anRFRlJRNF84Y0hXalptV1Fpcl9keER5bm50UTB6dlhhRncxS3pSeWd6M3hoS3l",
       "source": "TKS.RU",
       "published_at": "2026-08-25T06:35:51+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Оператор «Эн+ телеком» вышел на рынок мобильной связи по модели MVNO",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZmJ1WmQ5YjJqTWRQeHoyZ1BVLUNWQ3RyX2pNcEVFc01IYU1ZQjFaTE5iSFB4c3Ffc1hmbC14czJnSWQwMkxMRXlvbXlnOThYVXZIa2VhUWZoVjg0LTVYWXpnNDZyaTVPdnQ2eHJ2TkVtVE1jaUgwcWZDY0dGSGhpX3pCb0l6VHp0NWxwcjdMNFBVZVJHRjVmbTVRTDhCUWdQRUR",
-      "source": "Телеспутник",
-      "published_at": "2026-08-24T14:20:23+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Как работает спутниковый интернет и кому он нужен в России",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVGgyVXhXM2FRMVpWWWQ3Y1JqbmowMmdIVHVldDVncmhrMVBSdmFNR1RwMmFYZl9sNWRuTXZqcFZlc1NFM2xHejNGcktyNDNheUFWZWhlQ0ctZ05KYTFLSUxXWEs3UEhrakhmYlg4SlIzTDJzQmhrR3Mxb2luX1JlMnc5YkdoSWIyVGpJQ3pBMnc2STZjMDBtTQ?oc=5",
-      "source": "Компьютерра",
-      "published_at": "2026-08-24T10:00:58+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Что там с телекомом: операторы выясняют, кого считать MVNO, а роботы — кого считать мошенником",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pVXlGdUk4OTNpNTltcU1Lei1INjlVXy1mcGJUalIzWWRqaWduWDlJTFJ1Qzdvd3JGYnhJNGc4TC1Vb1ZDTklMYW5ZbTN1OXV2RWFEaHVDLWVWT0UwZTVZ0gFkQVVfeXFMUEhSZ2wxbUFiSk5WWE8xQ3Zid0lKd3ZSMHdNbHZUV3hrdldkMGlEa0JOdTYtcEVDV2MyNkxVZWxxWFp",
-      "source": "Код.ру",
-      "published_at": "2026-08-24T08:37:03+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС усилила связь в воротах новой дальневосточной России XIX века",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kbHAtemUzVkNVS0ZkWFVERmR5YXZtRk5rdE1NMGxwUW55c1U2enhkTE1qZEozLTdad0h3bFVnYW1Ydm1BUnFNdFdibDNESXc1VDZzS2h6RlpGMkhvTGJRRzJLNF94aWM?oc=5",
-      "source": "Хабаровский край сегодня",
-      "published_at": "2026-08-24T06:04:34+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "CHINT на форуме \"ЦОД\": как меняются системы электроснабжения дата-центров в России",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX3dsbmNMYms2bGwxNFZkclZGNDVhdlhRWVg3RUVRX2FLbkdtU2xaRDNJUGx2NTlYaHI1a1lYcklzekdBU2lMRkRwUC01Y3Rhd0FpRlhhdEc2MFJabGdWdzJCQW1STUhwbzNkV1FTdkQweFpqWHFUQW44XzVVenVkUVhkelNON0tKX1pvbTJpM2VpT21mdlE?oc=5",
-      "source": "RusCable",
-      "published_at": "2026-08-21T11:45:00+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "В России готовится запрет новых виртуальных сотовых операторов – их услуги слишком дешево стоят",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tUm1tVmtNS3B6NUJkRkduMGwwb0VEY21icDRzOTl3RVJnN1lfTGNEOGRxWGJkdTVKM1BsUk5kNGVobU5rU0dqTWUtNUNkX3BDcTdrYW5hNE8zdWo4UG10bmVkTDFJLWNQQklFdW9OekdlQzA?oc=5",
-      "source": "CNews.ru",
-      "published_at": "2026-08-19T07:10:40+00:00"
     }
   ]
 }
