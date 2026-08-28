@@ -1,9 +1,37 @@
 {
   "version": 1,
-  "generated_at": "2026-08-27T15:13:42+00:00",
+  "generated_at": "2026-08-28T16:36:32+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
+    {
+      "category": "mts",
+      "title": "МТС улучшит качество связи в поездах дальнего следования",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdW54NXd4ZGpibUkwU1RlNmNPSlYwSTJBMnprb3YxbjBHMngzSnVxUTdjRFdjd1Zsc2xHTGlyU29Fc040cGxZNkhPajQ5djFqS2VTMXowSzh6alk2UzVnakZuanRhc2hkMFZoTHJLOE5teFYxby1vQVVlU2FrS1ZOaUp5ZlR4OWo3ZGFYd1RKTHZfTVV3Q2N2QV9UekJ2dmRMRWc",
+      "source": "Telecom Daily",
+      "published_at": "2026-08-28T13:40:06+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "\"Яндекс\" выходит на рынок телекома: новый вызов для МТС и \"Ростелекома\"",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkRUeWhNMHN0R1M0NkpGY2Z5bzQ5NjhOcFpzb0VORnhVekEwc29tNk5sUUlqQ3JIWmhiblI0WUI0YW9pSEt2Y2NmUURHQzdRNGRMUmtjUkR3alBMakRrWHlKWVM2bTRjMnpORG5KM0JzSG1WZTdBbnRWVXpNbkRCMUVvVm1YQ3l6NktrMkpkdnpfLWNjbE9DWVdBc0xTc2d5Uk0",
+      "source": "Финам",
+      "published_at": "2026-08-28T12:23:00+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "СМИ: сотовые операторы в России пытаются улучшить доступ к интернету в поездах",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSjhOTkFQNDhGVEV3OHZfT00ySktsTUdZUVlZTTBnQWh1Y2xMTC1UZFBucVd3c0RiN2p1aW9ITGc5cnpjUV9IOFdKMl9iUFNsQ3FvNGx1Q0lGTXpLZHp0cVNQeUUwT2dPMFdkNE1fWnBoMGNYYmVJZkZKdnBtdjhDYU5DRFpWNl92bEZ5MzRzWFhNZVlBdktrZ3RtVmJoMlNPTk5",
+      "source": "Rozetked.me",
+      "published_at": "2026-08-28T06:38:33+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Крепкие связи: устойчивость Рунета выросла до лучшего результата за десятилетие",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU25XRGVpYktQWG1zOW50RG94djM0aVYwcU9BcmdaTnJCN1Vyb2Vldkk5TXFSbllJN01pb1c3czBWYjc0ZFJBeGxuOXRma0RIS3JkQ0EyTFBtWHVPNm9aMHMyODZzX0Q3ZGRNeUlIdC12MDgyUmR0OHN0YXR6QWRvRmh2Ry13Vjk3ZUVMZ1pnLTI0RG5mUld0VnFNZVFSNXcxb3d",
+      "source": "Forbes.ru",
+      "published_at": "2026-08-28T04:00:00+00:00"
+    },
     {
       "category": "infrastructure",
       "title": "На Ямале оптика «Ростелекома» доступна в 99% домохозяйств",
@@ -26,25 +54,11 @@
       "published_at": "2026-08-27T07:42:13+00:00"
     },
     {
-      "category": "telecom",
-      "title": "Российских операторов обвинили в продаже безлимитного интернета с лимитами",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96eGc4MEF0dkVZaFpRek51TWVHWmZDYlJfX2hPZTg2N1U5endtRjFSazBiUnZNbFlvbVQtZWVrTURSd1BPVjBaX1E0QUpWQ3lBOFVwUUY0djUzRmFLTmdkSkxSaUpwTFHSAWxBVV95cUxNUkotMEppSmsyR19UTXJ5SGRNcnppTVYyUGhWd29EM3g3Q0llRUEtY29vck9qd1U2VWJ",
-      "source": "Anti-Malware.ru",
-      "published_at": "2026-08-27T06:09:23+00:00"
-    },
-    {
       "category": "mts",
       "title": "Доходы МТС от телекома и медиа растут, а от финтеха и рекламы падают",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rMFl4amFFWUNtYXg0R2JhVGVlOFZXS3BrQlRfeWVOLUFQUGlmb3dkUTh4b1dHcGZwUlFWNWw3RDBVdWVZRGNZam56c3ZwXzczbHBBb0c0VEtXcmdZTTF4b0xQeE8tMi1qd0JBRmtsbXozNlU?oc=5",
       "source": "CNews.ru",
       "published_at": "2026-08-26T13:09:15+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС — компания ускоряет качественный рост",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOTFpVGc3YVE1eUIwVDFid28wcUJnWUE2cEI0UHVsVFJHTnlXYS1ZZUhyNXVKVV9pS1RJdDN6c05rNFZpTThvWXVsLXpqSUFqNm8tSnNScko1LVlXZVczNHE5SlEtWWJqazBsX05nWFEtWm9FdE9xZXg5LVhyajlqMlZ5WFRXRTNLTG55RVhYU295R2J3MHpxQ0V2ejQxUQ?oc=5",
-      "source": "Финам",
-      "published_at": "2026-08-26T10:08:50+00:00"
     },
     {
       "category": "mts",
@@ -54,11 +68,11 @@
       "published_at": "2026-08-26T07:35:19+00:00"
     },
     {
-      "category": "telecom",
-      "title": "Операторы связи начали внедрять оплату цифровыми рублями",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPemk3YzJucjFWVkNzUFhoTEI5ZVg5TFJiYWZuQ3lmeUR6VnF5U0Q2d0hmWXRUNW9FQ3ZDTTAzbzZDNFlNUG9SNC1UeXFmMGZJQ21pc3VXLVFiaUtyZ1BMV2VueG42RWdRbkplRTgtQjdZOHB4bjhmSVB1cDNCZUZGb1RQV004NTJhWkhheE40UEI?oc=5",
-      "source": "Incrussia",
-      "published_at": "2026-08-25T14:43:06+00:00"
+      "category": "infrastructure",
+      "title": "Правительство РФ ввело классификацию дата-центров по надежности",
+      "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxQT3Z3WnhETm5PSnRXVjJtaG5NWnE1UllGTFhzYWJwTjNQVkVWMlFUYTAwNWNoUmFvc1g2REdnajhaVGV2WXZlRG5WcWhwRzBYU1NuUU5VQlUxSktLYlkxT3NJZ004aTFfdTY1YjZPYmZfcm0xYjJnZ21rRVQwMHlEU1JjZFR2RlUtdmZmTHRfQjNwbUtxMEotSXBneHdTOFJCOW5",
+      "source": "TAdviser",
+      "published_at": "2026-08-26T06:37:30+00:00"
     },
     {
       "category": "mts",
@@ -71,7 +85,7 @@
       "category": "telecom",
       "title": "Сотовые операторы запустят оплату связи цифровыми рублями",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWJwQXhOYkdVc1I2WlN0aElPNzhoRDRVOVdWanYzOXJQeDBWWGIyNG1RZS0wWE9jajhIYzc2NGtHbTNZYllHQXhfekR5Sk5nbDNiWTFEVVhGSGNOTUxzMkEyUjFaMjVqcHIzOEpiRkZxME1GMks4LVM2TDhmMFVqTi03RUZ6RWF3Z1BTY1oyMTBYRUZSWF9rRlpQTlJJN25BZGd",
-      "source": "RB.ru",
+      "source": "RB.RU",
       "published_at": "2026-08-25T12:20:00+00:00"
     },
     {
@@ -87,13 +101,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNnNabWpEcXVSYmx3RU5sV0lNVnNxZDdqakFIWjZqZnMzM2pTaUxheDFCYTZ4ekk1X0cyUGh2N0xVWnh4U0VPbTlDT1AwMlUtQm11a0ExZ2tDYTRWdkdOV1FYZzdCYklWckhPNUEydjJiQmtxNGJ1VUxvNjRfcVM5cEtJbkJwaEdEOG5B?oc=5",
       "source": "Эксперт",
       "published_at": "2026-08-25T09:20:00+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Российские операторы связи начнут принимать оплату цифровыми рублями",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTy1VY3pzVmpoZVBGVnROam5NejcwNWVyMkc2d0tqWmxYTjBYSjN4RUZjNGNaSDMzUXB5TGx6dTZGcG9tdUZyZEhaNWhEYzNDOVhhOEJlZkdkLUtPN1lhR2tfcjR0ZWZlY0lGMFp0Si01OEZESlNXX0tzUmE3VC1BSjV1V0NubEltaVZUaVg3OHhULWpTalNmQWx2MUhJX3BuMTQ",
-      "source": "Телеспутник",
-      "published_at": "2026-08-25T08:26:41+00:00"
     },
     {
       "category": "mts",
@@ -122,13 +129,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83em41SE10d1V2ZjhuaDlpa2Nqek42elRpTmlnNC1RRVFmLURNUG8zNWQ2QU5Kay1fdzVuUVpJampHQnNxNXVmcE9NVDNQd2ZnbnExdEplWWZ5RVVPTF9OVHlwcnViTGl1SE9oeUp3TG4wdUJqSHNlQ3c5WkE3cUU?oc=5",
       "source": "iksmedia",
       "published_at": "2026-08-25T07:00:00+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС начнет принимать оплату связи цифровыми рублями с 1 сентября",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaFgzdjd1Y3hMQW0tNVdfNkY0LURGdWRLQWtvZDJRQ1JZcFBwT3A4SW50YW1uNy1jWTkxM2Z1LUpBWW5tZENlQmhId0tXYWZZbmk3Q2lCdXZ6TUw5MGhNbXdWME5HUjZDZmZhR0tMblFvSW92anRFRlJRNF84Y0hXalptV1Fpcl9keER5bm50UTB6dlhhRncxS3pSeWd6M3hoS3l",
-      "source": "TKS.RU",
-      "published_at": "2026-08-25T06:35:51+00:00"
     }
   ]
 }
