@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-28T16:36:32+00:00",
+  "generated_at": "2026-08-29T11:03:54+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
@@ -19,6 +19,13 @@
       "published_at": "2026-08-28T12:23:00+00:00"
     },
     {
+      "category": "mts",
+      "title": "МТС улучшит связь в поездах между Петербургом и Москвой",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX0FOLXl0aE9lU2R5ZU1KWlNCN2hkaE1DbXNuTkpMUlFyN3MxODVGYVJwYUg3cjVSTDhLZXJvNVJxeEttMWp2bFNhOXNtVTRReE9FYnYyNmxjY0VyOUpxV3RrTFhDaGhRanNfSmZhR0tCOHdCRkZJNU9pejZLeEpoc2lzR3piOWhlSWpIcG1tYTJKZW5oaGZXMGNOcnBfZw?oc=5",
+      "source": "spbdnevnik.ru",
+      "published_at": "2026-08-28T08:21:50+00:00"
+    },
+    {
       "category": "telecom",
       "title": "СМИ: сотовые операторы в России пытаются улучшить доступ к интернету в поездах",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSjhOTkFQNDhGVEV3OHZfT00ySktsTUdZUVlZTTBnQWh1Y2xMTC1UZFBucVd3c0RiN2p1aW9ITGc5cnpjUV9IOFdKMl9iUFNsQ3FvNGx1Q0lGTXpLZHp0cVNQeUUwT2dPMFdkNE1fWnBoMGNYYmVJZkZKdnBtdjhDYU5DRFpWNl92bEZ5MzRzWFhNZVlBdktrZ3RtVmJoMlNPTk5",
@@ -31,13 +38,6 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU25XRGVpYktQWG1zOW50RG94djM0aVYwcU9BcmdaTnJCN1Vyb2Vldkk5TXFSbllJN01pb1c3czBWYjc0ZFJBeGxuOXRma0RIS3JkQ0EyTFBtWHVPNm9aMHMyODZzX0Q3ZGRNeUlIdC12MDgyUmR0OHN0YXR6QWRvRmh2Ry13Vjk3ZUVMZ1pnLTI0RG5mUld0VnFNZVFSNXcxb3d",
       "source": "Forbes.ru",
       "published_at": "2026-08-28T04:00:00+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "На Ямале оптика «Ростелекома» доступна в 99% домохозяйств",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMHNBT2hQakI1a0ZVNUx4U2hrTGg3WExkZVlSZWY5UHhHQkk1cjRQX2lBX0lGbzJZOVZ4NGRQMkU3Ri1JSEQ1dm1MWUVCN3ZjZXVJdDhJSjF5SDRJb0dhZDNiMlQyYkltRHpSbXNYUkVPQXpIejRWU3JLS05QNkstTGRhbUZNQW1ZeGJoa0hwVXl1X3FNZ25zdVhrU3BjRFE?oc=",
-      "source": "prospect.com.ru",
-      "published_at": "2026-08-27T09:53:01+00:00"
     },
     {
       "category": "infrastructure",
@@ -85,7 +85,7 @@
       "category": "telecom",
       "title": "Сотовые операторы запустят оплату связи цифровыми рублями",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWJwQXhOYkdVc1I2WlN0aElPNzhoRDRVOVdWanYzOXJQeDBWWGIyNG1RZS0wWE9jajhIYzc2NGtHbTNZYllHQXhfekR5Sk5nbDNiWTFEVVhGSGNOTUxzMkEyUjFaMjVqcHIzOEpiRkZxME1GMks4LVM2TDhmMFVqTi03RUZ6RWF3Z1BTY1oyMTBYRUZSWF9rRlpQTlJJN25BZGd",
-      "source": "RB.RU",
+      "source": "RB.ru",
       "published_at": "2026-08-25T12:20:00+00:00"
     },
     {
@@ -117,18 +117,18 @@
       "published_at": "2026-08-25T08:06:58+00:00"
     },
     {
-      "category": "mts",
-      "title": "В преддверии учебного года МТС обновила телеком-оборудование в Березниках",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQi1yOGxBczViWHFUQ21JTkJRM3E2OGlTRmNZVUxPYkgtSkJDTUtjZlRYZUs1YnhtYjZkQXhWMm9LckJkZnVOQk03ZlNqdnNnd0tIYUltckFWMFRnaUkyX0UxSzlJNjZzTG9pTnBjUy1PbFQtdVk0cnVHWWhmaUx3RjBFYkRnRTg1Umd5RUFDUU52SVNXWFNQMHlHYnJXTEs0MXZ",
-      "source": "chitaitext",
-      "published_at": "2026-08-25T07:36:00+00:00"
-    },
-    {
       "category": "infrastructure",
       "title": "Сетевая инфраструктура в ЦОДах — 2026: исследование «Инфосистемы Джет» и ИКС",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83em41SE10d1V2ZjhuaDlpa2Nqek42elRpTmlnNC1RRVFmLURNUG8zNWQ2QU5Kay1fdzVuUVpJampHQnNxNXVmcE9NVDNQd2ZnbnExdEplWWZ5RVVPTF9OVHlwcnViTGl1SE9oeUp3TG4wdUJqSHNlQ3c5WkE3cUU?oc=5",
       "source": "iksmedia",
       "published_at": "2026-08-25T07:00:00+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Оператор «Эн+ телеком» вышел на рынок мобильной связи по модели MVNO",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZmJ1WmQ5YjJqTWRQeHoyZ1BVLUNWQ3RyX2pNcEVFc01IYU1ZQjFaTE5iSFB4c3Ffc1hmbC14czJnSWQwMkxMRXlvbXlnOThYVXZIa2VhUWZoVjg0LTVYWXpnNDZyaTVPdnQ2eHJ2TkVtVE1jaUgwcWZDY0dGSGhpX3pCb0l6VHp0NWxwcjdMNFBVZVJHRjVmbTVRTDhCUWdQRUR",
+      "source": "Телеспутник",
+      "published_at": "2026-08-24T14:20:23+00:00"
     }
   ]
 }
