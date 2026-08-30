@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-29T11:03:54+00:00",
+  "generated_at": "2026-08-30T09:55:39+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
@@ -30,7 +30,7 @@
       "title": "СМИ: сотовые операторы в России пытаются улучшить доступ к интернету в поездах",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSjhOTkFQNDhGVEV3OHZfT00ySktsTUdZUVlZTTBnQWh1Y2xMTC1UZFBucVd3c0RiN2p1aW9ITGc5cnpjUV9IOFdKMl9iUFNsQ3FvNGx1Q0lGTXpLZHp0cVNQeUUwT2dPMFdkNE1fWnBoMGNYYmVJZkZKdnBtdjhDYU5DRFpWNl92bEZ5MzRzWFhNZVlBdktrZ3RtVmJoMlNPTk5",
       "source": "Rozetked.me",
-      "published_at": "2026-08-28T06:38:33+00:00"
+      "published_at": "2026-08-28T06:30:00+00:00"
     },
     {
       "category": "telecom",
@@ -41,10 +41,17 @@
     },
     {
       "category": "infrastructure",
-      "title": "В «СёрчИнформ Файловый аудитор» появился контроль данных в «Яндекс Трекер»",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLTFpdGtDR2NqaDBydDF5QzVCWUptSXRndWxCT0Z2S3Q2RTQ5TmxJbkRfbVVVVVctYkhSVmc5SXpla3h3M3kzNUV4eFFqQmx3Qk4wcTJvMHF1RjZreUxGX2pmM3pMM29uY21RcVZiRy1PeUVnanVGa1dDVEkxOUV3b2JmeEJ6QWZNVy11WFhiTVJKS09TQlp3bEVn?oc=5",
-      "source": "cisoclub",
-      "published_at": "2026-08-27T08:58:58+00:00"
+      "title": "Размещение ЦОД в Сибири поможет избежать энергетических проблем, заявили в Институте Столыпина",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Dd0xWOXhiVGdNNGNDazB5S21aVDlYeVcwdTQ5M1pGWVNDVm0tdHh4NEdBOFlHamg3M2R4ajBxRl9wUWE0dF9iYkxIbHRSUnJwNy04SVlHcy0yNVlRR2xidTQyUXdZX2tRaTQ4YVFB0gFzQVVfeXFMTzM3cjRKdXlrdk14bU1UX1V2VVNuUHU4cnpwcDRUbktVLWU0YXpQWFhQaEd",
+      "source": "www1.ru",
+      "published_at": "2026-08-27T10:59:21+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "На Ямале оптика «Ростелекома» доступна в 99% домохозяйств",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMHNBT2hQakI1a0ZVNUx4U2hrTGg3WExkZVlSZWY5UHhHQkk1cjRQX2lBX0lGbzJZOVZ4NGRQMkU3Ri1JSEQ1dm1MWUVCN3ZjZXVJdDhJSjF5SDRJb0dhZDNiMlQyYkltRHpSbXNYUkVPQXpIejRWU3JLS05QNkstTGRhbUZNQW1ZeGJoa0hwVXl1X3FNZ25zdVhrU3BjRFE?oc=",
+      "source": "prospect.com.ru",
+      "published_at": "2026-08-27T09:53:01+00:00"
     },
     {
       "category": "telecom",
@@ -122,13 +129,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83em41SE10d1V2ZjhuaDlpa2Nqek42elRpTmlnNC1RRVFmLURNUG8zNWQ2QU5Kay1fdzVuUVpJampHQnNxNXVmcE9NVDNQd2ZnbnExdEplWWZ5RVVPTF9OVHlwcnViTGl1SE9oeUp3TG4wdUJqSHNlQ3c5WkE3cUU?oc=5",
       "source": "iksmedia",
       "published_at": "2026-08-25T07:00:00+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Оператор «Эн+ телеком» вышел на рынок мобильной связи по модели MVNO",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZmJ1WmQ5YjJqTWRQeHoyZ1BVLUNWQ3RyX2pNcEVFc01IYU1ZQjFaTE5iSFB4c3Ffc1hmbC14czJnSWQwMkxMRXlvbXlnOThYVXZIa2VhUWZoVjg0LTVYWXpnNDZyaTVPdnQ2eHJ2TkVtVE1jaUgwcWZDY0dGSGhpX3pCb0l6VHp0NWxwcjdMNFBVZVJHRjVmbTVRTDhCUWdQRUR",
-      "source": "Телеспутник",
-      "published_at": "2026-08-24T14:20:23+00:00"
     }
   ]
 }
