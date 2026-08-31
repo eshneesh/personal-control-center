@@ -1,9 +1,23 @@
 {
   "version": 1,
-  "generated_at": "2026-08-30T09:55:39+00:00",
+  "generated_at": "2026-08-31T10:49:41+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
+    {
+      "category": "telecom",
+      "title": "У крупнейшего оператора домашнего интернета в РФ перестала открываться игровая платформа Steam",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZHNLYzcyWlpnOFBXajdfWUJNSXpFUm83UERkblA2ZUhMaWtBaFdIa3l1RGlnNnNCVlh1bzI3MmxSSnNxa09RQngyQzlmd0tkZVpqNUJ5Q0swZUlZNDZTMXZQWm1BUkNkV1psRGJqMUYtYmVhNXJjTnQwbklXOUJjZ3lvUld6bGFZVmlINnVtX05HZjVQUXRMV2tUTUtyeTN5TWd",
+      "source": "Русская служба The Moscow Times",
+      "published_at": "2026-08-31T09:01:53+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "Сетевая инфраструктура в ЦОДах 2026: исследование «Инфосистемы Джет» и ИКС",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdGpDaEFQLVdOTmFfQlBhNDgxdExLMk9qNEpVUDVoMDBSMkFSODR0cER4N1ZqUEVzR3czRE1HUnFSUnJjbkp5bDcxQ1JDbHVyYnhEVGFCVmh2aFVrZkRHbHFrLTJBOXlTOEJWVW1HMDNSMlJKM1hsWHU0dzZESkVIbHNrc2NlOHhrQUNob3JfdG9LUjVEN3A0ZFdpU3ppNHhsTW9",
+      "source": "spbIT",
+      "published_at": "2026-08-31T08:26:47+00:00"
+    },
     {
       "category": "mts",
       "title": "МТС улучшит качество связи в поездах дальнего следования",
@@ -41,13 +55,6 @@
     },
     {
       "category": "infrastructure",
-      "title": "Размещение ЦОД в Сибири поможет избежать энергетических проблем, заявили в Институте Столыпина",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Dd0xWOXhiVGdNNGNDazB5S21aVDlYeVcwdTQ5M1pGWVNDVm0tdHh4NEdBOFlHamg3M2R4ajBxRl9wUWE0dF9iYkxIbHRSUnJwNy04SVlHcy0yNVlRR2xidTQyUXdZX2tRaTQ4YVFB0gFzQVVfeXFMTzM3cjRKdXlrdk14bU1UX1V2VVNuUHU4cnpwcDRUbktVLWU0YXpQWFhQaEd",
-      "source": "www1.ru",
-      "published_at": "2026-08-27T10:59:21+00:00"
-    },
-    {
-      "category": "infrastructure",
       "title": "На Ямале оптика «Ростелекома» доступна в 99% домохозяйств",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMHNBT2hQakI1a0ZVNUx4U2hrTGg3WExkZVlSZWY5UHhHQkk1cjRQX2lBX0lGbzJZOVZ4NGRQMkU3Ri1JSEQ1dm1MWUVCN3ZjZXVJdDhJSjF5SDRJb0dhZDNiMlQyYkltRHpSbXNYUkVPQXpIejRWU3JLS05QNkstTGRhbUZNQW1ZeGJoa0hwVXl1X3FNZ25zdVhrU3BjRFE?oc=",
       "source": "prospect.com.ru",
@@ -82,6 +89,13 @@
       "published_at": "2026-08-26T06:37:30+00:00"
     },
     {
+      "category": "telecom",
+      "title": "Операторы связи начали внедрять оплату цифровыми рублями",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPemk3YzJucjFWVkNzUFhoTEI5ZVg5TFJiYWZuQ3lmeUR6VnF5U0Q2d0hmWXRUNW9FQ3ZDTTAzbzZDNFlNUG9SNC1UeXFmMGZJQ21pc3VXLVFiaUtyZ1BMV2VueG42RWdRbkplRTgtQjdZOHB4bjhmSVB1cDNCZUZGb1RQV004NTJhWkhheE40UEI?oc=5",
+      "source": "Incrussia",
+      "published_at": "2026-08-25T14:43:06+00:00"
+    },
+    {
       "category": "mts",
       "title": "Выручка МТС AdTech увеличилась на 16% во втором квартале 2026 года | Рекламные бюджеты | Новости",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yTTc5WnBVcDFoRFUxM3Bzb0Z2ZTRpcWh5TExYT3JKOFlXTVlwdnlwVVVGOHR0ZkF4c0xTTDRMQmMtLXowUlBBTUpHUGxxZVc0SW1aTG14cDB2RmFWSk1tY1BuZ2ZEY0Rp?oc=5",
@@ -114,21 +128,7 @@
       "title": "МТС. Почему прибыль выросла в 24 раза",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzZF8wTV9ndEhma1FPZ2M3SXhuT3VsSVdONFhoS0tjb0FSWUJXbkFMTldhVjhVTklBeGxFUWtyQjN1M2pQMjQ1dkdTSzR2NGVZVENlUzJSU0NMY3BPX0FxbV9aQU96MHQ0MkdiSXEtOGExZGZQTjd5M2h6SFBzZw?oc=5",
       "source": "Альфа-Банк",
-      "published_at": "2026-08-25T08:13:38+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Ведомости: сотовые операторы в РФ запустят оплату цифровым рублем",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUFFYcHJXY3RMNGdLWHFrdVU0elotVlJKRVU3b0p0QXZRZjBka05fNjNxVWtZSzh4and5UXk5Uzd2RUFkSWxHRkVtUTZVY0dpd1IzdVBWRWF1MjlMbnRsby1PVWhhRi1LOWpEM292bk53RE9UNGxqektDNnVBYXAtbWxlODFJNUxwQ1IyNkYtMlVSWU1nY1N4WE1qRFdiVU0td3Z",
-      "source": "БКС Экспресс",
-      "published_at": "2026-08-25T08:06:58+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "Сетевая инфраструктура в ЦОДах — 2026: исследование «Инфосистемы Джет» и ИКС",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83em41SE10d1V2ZjhuaDlpa2Nqek42elRpTmlnNC1RRVFmLURNUG8zNWQ2QU5Kay1fdzVuUVpJampHQnNxNXVmcE9NVDNQd2ZnbnExdEplWWZ5RVVPTF9OVHlwcnViTGl1SE9oeUp3TG4wdUJqSHNlQ3c5WkE3cUU?oc=5",
-      "source": "iksmedia",
-      "published_at": "2026-08-25T07:00:00+00:00"
+      "published_at": "2026-08-25T08:15:38+00:00"
     }
   ]
 }
