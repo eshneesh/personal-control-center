@@ -1,15 +1,78 @@
 {
   "version": 1,
-  "generated_at": "2026-09-03T08:55:05+00:00",
+  "generated_at": "2026-09-04T08:49:43+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
     {
+      "category": "mts",
+      "title": "МТС ускорила интернет в Сампурском округе Тамбовской области",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQlpnM1JzeVA2aGRScU5sby1vQnZKVEx0bDJPWVhYTlNxaDhGbHhUR3F5N2kxSTZsaU5HUnFWNjdVd1pjVHcxX2k0NWlOaWNCMjZSQy0wb1FoVDh6VC1fajk4VnlETFctdnlHQ25kaVR6ampxa0c1cXhyTGVlazFzdnJ3?oc=5",
+      "source": "CNews.ru",
+      "published_at": "2026-09-04T07:02:35+00:00"
+    },
+    {
       "category": "telecom",
-      "title": "Будущее спутниковых технологий обсудили в столице Чукотки",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRGlFYS10VjB0bGg0ZmxnWjljLXRrR3BGVzNydmZGTlpELWREUGZMbjlhNkZhcGJ0ZDZsXzBWV3VPaVIzbGpkMXlpWmFKaGNZTC1JbHFjQ1ZFUFVhMkg0NTk3ckpnN1R5UFdhMXg4T3RUYlZ4c053V2o3MTRUYnBNbUpLT0p6R19jVWY5LXNtNjJEdnl4MF9YSC1kOU5QRkZUX3c",
-      "source": "prochukotku.ru",
-      "published_at": "2026-09-03T02:03:34+00:00"
+      "title": "Кто останется в телекоме после предстоящей реформы системы лицензирования в РФ",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdENjWDVLQUVfM0kteS1yUU9RcDhMQXZNRWNQT3ozV0dNbjI5LUEyMEtGUWxkcjFpTHZqQW5aWFB6bnByeWcxU1dTYl9TNkRyUVMzY0FpV1dSZUhiVmdUQlJzd1NBdUdJUEQtaktGNlEtQzBRWGc3ZlNraEFMREwzdUhCajY2YldiWjJCNF9FamItbzQ5eklXdFlkQnBPRHNFTE9",
+      "source": "ComNews.ru",
+      "published_at": "2026-09-04T05:34:32+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Крупный новосибирский оператор связи прекратил свою деятельность",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOalR6bUZFMUtHbk5QOGFMSlZHQjVDNG1lN21Sdk50b2F4TjFaOXN4eDVHdUdsaTJPWHJMUXYyTkRlbXRvcVZSX3Z0M1V1SW1xUGNvdlNZNjJVSHdLcHNJU3VfV2RXUTRNNlRaTEpNU0N1RkZYS19hZWRsV0JkenlIbWxKT2d3dm1HYTlPZ0FrMThfdnFDY3phc9IBngFBVV95cUx",
+      "source": "Континент Сибирь Online",
+      "published_at": "2026-09-04T05:15:33+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "Лучшие тарифы мобильных операторов в 2026 году: МТС, Т2, Билайн, СберМобайл, Т-Мобайл — какой выбрать",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85Z1pDVFZQMC1Id1ZnY2xyUkNSWVU5V3Z5enUzRW9iT0N6cTdLczEwN2hnaEJNV2JIdFo4TmNiQ1dqTUtmVUxONTRIQ0hRWUYxLUlB?oc=5",
+      "source": "Sostav.ru",
+      "published_at": "2026-09-03T21:08:37+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС открыли набор на участие в молодёжных программах",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaURmeS1lOHY5NDQ2R1I5VEZodmN3dEtDa19NTVA3c0l3V2dTbTZkbU96UDZlQXI5OHFsTlNJZU5GYk1fSXVYWVBjTjEzRUF0RHVkWFM4ZU9hN0hlM2ltSHJCc01PNzY0eHVQN0UtX01QcHM3NEZnNm9ZWER4ZV83MFBWY1RfV3lIalpVRDRRRXo4cjNzSGw4SWZIZU4?oc=5",
+      "source": "AKM.RU",
+      "published_at": "2026-09-03T15:07:09+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Реформа связи способна уничтожить телеком-рынок в 27 регионах России",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM2JIT0R5T3pNVHlFTk5NQy1PMTdkVjBZS2RKZXFnMFRxYXVfdEdERHNDT2JTRy1JSEdJUHZyQUxraDY4MVZRWW5vTHVsSkhBc2FBcENIZ09GSUF3UXB3UVprOWVaWjR5aFY5TDcwZ1BrVWpTQjNGTDVXNWFFVUpNWktVYm1TYVpuVkpKcTRfTzY0UGg1UlI0Y2RaMEZSUnVReW9",
+      "source": "Телеспутник",
+      "published_at": "2026-09-03T15:00:27+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "50 млн россиян могут остаться без интернета из-за реформы Минцифры",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBMRzFUV2Fvem9ja3o3dmdBTTQyTnAtdUhnX0hicC1YSlpMSHNTakZlTjVYcXJaSGk4ZUY1LUc4VWdGQQ?oc=5",
+      "source": "Frank Media",
+      "published_at": "2026-09-03T14:46:05+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС усилила связь в пяти районах Белгородской области",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcFpHZl8xZnkxNTZJREdabHExM3FvdFA0ZXJQQnQzMzFvYndkRDljbjhna0o5ajl0WTJkRUpJUU1RcGxqRHc5eFp6cDlvS0ZrOHBIRXlLVTFyUWR3WlM4c25xMkhFX0pFc0F0WEpjanNvSS1BZUJvb0pwTEJXMVkzOHo2RWcxSTN4NG43RnJWQW8?oc=5",
+      "source": "fonar.tv",
+      "published_at": "2026-09-03T10:49:31+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Оборот телеком-операторов России в июле увеличился на 7,7%",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbzZiNUR6aTVmN0s1SXdRd2JXTFl0RUNyVFZjOFNTYjJ6cFU5aElxWTJnZXl5amx6SUUxVi02SjZueEdpU3VNemxCdF9ONkkzZVVoUUUtakwxTU0wVklNaTZaTFNCNU9qemtQcUNMQ2NTUjlfaHBvaDcwWGp3bGF1VWhreHRYMjBxSXltdUNtZnBFVVZUS1ZqbnhRLTA?oc=5",
+      "source": "Marketpower.pro",
+      "published_at": "2026-09-03T08:37:38+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "Без крупных вложений: МТС Exolve вводит аренду оборудования для корпоративных клиентов",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNDlrUUxrbTlfVEdqRHVpSnRWaDJVXzVrd05yZU9hcnZ0RWlabzM2OGdNUWhGcFZqZFpZYkxMVmRxNFZIWk1xVno5alUwOGl3b1lxSFh3dXRDRUVkcHJzLWY0ejlpeldZS3hmRUhaeEZRVTYyWVViNUNkWFdOZGdnaThzc3NhS21TSlRrSTVJRmFfT3dMeXhJcm1BcVZ2ZlRHWkI",
+      "source": "TelecomDaily",
+      "published_at": "2026-09-03T07:45:21+00:00"
     },
     {
       "category": "infrastructure",
@@ -22,85 +85,22 @@
       "category": "mts",
       "title": "МТС Бонус перезапустили: скидки до 100% для абонентов",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TcmhDTmJLcDI0eXp5dmtRREd5VjR3NnJUYkVoUTZfcWxrVzFNVU1oVF9QbTBXQk1uR253bmRDSlh4Sk1mWndfa04wRXhfbmxzdDV0ZFdEanlHbGlHd2Ew?oc=5",
-      "source": "NPR.BY",
+      "source": "npr.by",
       "published_at": "2026-09-02T14:05:54+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС прокачала связь в пригороде Красного Кута",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TWnFYbW4wMUp2RG9kYWdjVDNmTWxPWXo5R0trSURuY0E0NzVhLWt5cGgzY0h1OFpzODNGbmlBYmp4bmk2YnpiXzRIRmdDamY0QjJBZjlEdGZMVUViRm1PWGNXdThBQjBJZlRfVlMweWpxVXhtMU9OOV90TQ?oc=5",
-      "source": "ИА «Версия-Саратов",
-      "published_at": "2026-09-02T12:32:00+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Операторы должны делиться оборудованием",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdUoxOTY4UUdRX2tpU2Q3Rmk5aklRQ2hlbVhJMU1UU3R5d21IR3dSUExzcnk1UGNDRUlpcVR2M0R0U1dwczZyMTI2aUpuNkpYd2dHVDZlT1d2enRhWTVRU1hOMV9uWV9rMkpZQUxwY2liellhdTBLS094NUdXQm1XRlhjOE1icG1nMEFMV3FxWjFIRG01RUlUdk5PZHNZdzkxb21",
-      "source": "ComNews.ru",
-      "published_at": "2026-09-01T23:39:42+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "Оператор застрахует детей-абонентов от мошенников",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWlhhM2dBcDhaNlZCWjVhbkpNX2wtOUtYSTNkZnhnUUctWGM5WUlXYjdNSUUtMUptVlZDSi1takRtOWtaOHZKdHgtQnZwa0VneERqbnVhVzNOX1NNcENCRXA3T3pKYmhoUE5nMVFEd2JlSEtJV21WZ1Atc1p3T1MweUVEMjN6bWJBOGc?oc=5",
-      "source": "Tomsk.ru",
-      "published_at": "2026-09-01T10:40:00+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС застрахует детей в Прикамье от мошенников на 1,5 миллиона рублей",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU3k5NWM0RGJCMmFuUlJuTmE5SmxyVlhpZVBZNV9UMlhXLWpKbjd0U1RkNU9mNWkxd19HWi1MZThSYm5tdEtBVjlfTnNZbEVoRVRPS1NHU1hUS1NRWUVQRVFlTnROVHpWNHZDNGdTNUc3RWJMWnM5NjlJTVlubUloaXh3Xy1ZRENDWjU4MlVYZU1vNmN6dHh2cmpiR0xmeF9QVUd",
-      "source": "chitaitext",
-      "published_at": "2026-09-01T10:17:00+00:00"
     },
     {
       "category": "telecom",
       "title": "В России массово исчезают телеком-компании. Слишком закрутили гайки",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9RYzgtT19kdC1zVURncGdMa3lsMEtxNmNnZ1pLUTZmdHRlNHA4MFdkWEVDelZIdlg1Z3VsNkdFUmZkWV9rdjBJYUVTWmoxQTdSUzczNmZtY1hPLWF4di1aTGZ1ajRfQ09Ma0Q1WVY1bkl3alZJMTJZ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mUloxcjZ2V2s5OG5rclp4YUx3a0hFTTJhLUJpV1F0YzJ1cHVhXzZ6dE5IZ0ZpTHBoTGZ4TlNVSy14WXRMdkZIa3BYZEN6bUZxOHlmUml2T0d2Y1JiZFBvSzlpU1VmZEM4UlpYQ0hrOGs0YkVjMXow?oc=5",
       "source": "CNews.ru",
-      "published_at": "2026-09-01T07:05:27+00:00"
+      "published_at": "2026-09-01T06:57:25+00:00"
     },
     {
       "category": "telecom",
-      "title": "Россия с 1 сентября переходит к массовому запуску расчетов цифровыми рублями",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01cDJLRW5LTHlWRzM1d2t6dmtxU1FETlNSN0VYX0h2TVBvbGoxMjY3My1nbmRqd2gyQ252eHduX0R1RTlyWHJPRFBHZ9IBS0FVX3lxTE01cDJLRW5LTHlWRzM1d2t6dmtxU1FETlNSN0VYX0h2TVBvbGoxMjY3My1nbmRqd2gyQ252eHduX0R1RTlyWHJPRFBHZw?oc=5",
-      "source": "Интерфакс",
-      "published_at": "2026-08-31T21:35:00+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "В России на фоне блокировок интернета и с опозданием на 7 лет разрешили строить сети мобильной связи 5G",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNEY1WjRhdFAzdnlSZUxBMWFoRUl5NERhdURfTlI2aFdYYUk3R1pVRWFNWEROVFNMUGM4YlJfRVVEMGQwNlFLLTZXZzNsVXV6MnAzcElyeWI2N2ZkdnktYXpoQWxzTE9reHJISndkZ2hJRzJ6T085Y2o5ZzB1S0E5Z3lTUDJWLUxuRGpqZHhrWjU2dWVqYlZ3Sy1RREVDdXBveTB",
-      "source": "Русская служба The Moscow Times",
-      "published_at": "2026-08-31T21:19:00+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "В России утвердили условия запуска 5G",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ3V6SGJscU5HeTZMV1JlbV9fM0kxOFRGdTN2YkV2TEFzNzJmVFd0TzZfakxKNjZ4WGZOanI2X2JmMk16MEFpNHFMeVlnUldKYVlBUmU0T3lVdXlQcXdwNndmX3ZzTzhUOWU3NkJVMmh3OVc2TDI1UUJQc3FINEN1ZXM0alc?oc=5",
-      "source": "TelecomDaily",
-      "published_at": "2026-08-31T12:00:35+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "К началу учебного года компания МТС запустила гигабитный интернет в ЖК «Ивушки»",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVzU5VlZBUzhfbnlqYmlMU1RnajJncEgzcEVKNExjMHk4VVVKUldGdUIxRnExLWU3aWVBbXo4VExXenJwX1FTVDVmTkxrRDNBU1ZaWmxuS2I1NHl6Y2VNT3ZaWWZrQWlQa1dHbkIzTVFCY3plVjYtMFlYdHA3cnFLVGhUelFiMVQzSFdvRUtTQ051TjFvTVRpdVFJcXNFV2pTMi1",
-      "source": "Новгород.ру",
-      "published_at": "2026-08-31T11:50:44+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "Сетевая инфраструктура в ЦОДах 2026: исследование «Инфосистемы Джет» и ИКС",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdGpDaEFQLVdOTmFfQlBhNDgxdExLMk9qNEpVUDVoMDBSMkFSODR0cER4N1ZqUEVzR3czRE1HUnFSUnJjbkp5bDcxQ1JDbHVyYnhEVGFCVmh2aFVrZkRHbHFrLTJBOXlTOEJWVW1HMDNSMlJKM1hsWHU0dzZESkVIbHNrc2NlOHhrQUNob3JfdG9LUjVEN3A0ZFdpU3ppNHhsTW9",
-      "source": "spbIT",
-      "published_at": "2026-08-31T08:26:47+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Космический интернет на море и в тундре – «РТКОММ» рассказал о настоящем и будущем спутниковой связи",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb3paUXRwd1Rhc0lsOHNCZmVPUHpybXg1enpERWpuelVxRjhOQ2tFbU1JQWFZZzk4OVVjVDFPMVotYTZXOS1IWEtpOEtUOTJUYU9lOE5pSXNNNThTUkxYWTU3NUMyRzlXeGMyVUdja01KR3ZseDlfbE9kemo2cmtPYS00OFBaLTlpY1JxbnJHLUJKbVpZRkZORHMxMC1LdDZvaXJ",
-      "source": "eastrussia.ru",
-      "published_at": "2026-08-31T07:00:00+00:00"
+      "title": "Телеком-операторы РФ будут совместно работать над связью в малонаселенных пунктах",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN2hoS3MyUFVkazVwVk5xcU90dVhSTXU0UU1xX0gxdjZVWUs1U1dWVW1xQ2ZieUsxWG13U1dHYlV5S0xSMmw2YmJHY0l0b2tUX3FvcDVEVldPeW1EbjZtOXVVNEgzT3BtTjZiU21qTHFZZ0VKanRzSk5HbTBWbXRnUVhKTDlrZ2ZFdGFOR013Yl9SRjMyZjN2YmpPTVYxZUQzbTB",
+      "source": "Рамблер",
+      "published_at": "2026-08-31T21:07:57+00:00"
     },
     {
       "category": "infrastructure",
@@ -110,25 +110,18 @@
       "published_at": "2026-08-31T06:36:32+00:00"
     },
     {
-      "category": "telecom",
-      "title": "В России утвердили условия запуска 5G для операторов",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rUmpkcHF4Rl9JdFNjTWJWOVNNMm1Fb1czd0pfYVAwVi0wVVNfenEzcTJtZnViNk9CU0w2d2Y5OU04LW5mNkdSaHJBSGh5ZjE2ZVdUWEhwYw?oc=5",
-      "source": "Дальневосточное обозрение -",
-      "published_at": "2026-08-30T11:30:00+00:00"
+      "category": "mts",
+      "title": "МТС улучшит связь в поездах «Аврора» направления Петербург - Москва",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOHJ2QVc5UVpuYVotUVRDVEdKSzhIeVFTNldaT1V2Z3ZGRS1ROWI2MHNNXzJNVTZZbTY1eS03Y3hQUWtsakhIZEtXY2JlaWprSHE0aXlhMHk0MWdtamtQQkU0X0d5VW1MSURBV19CdDk2QjZLcGxSZDIxaVdlMjdORUFFTnpkaVNkcHRVQ1FmdzhmcFFlUm9EQ1hBNjlROFk?oc=",
+      "source": "spbIT",
+      "published_at": "2026-08-28T13:11:37+00:00"
     },
     {
       "category": "mts",
-      "title": "МТС улучшит качество связи в поездах дальнего следования за счет интеграции телеком-оборудования в конструкцию вагонов",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44VEpKZURRS0wyYUtwaU92NzFpM3VqUVY0VFF6Nk55amZtdGg2ejdvZkFJek10Y1JxVEM1YUFJRTMtXzN4RHpheGxxODVUdXZrWE96Uk9LdVo1U1hwRjJqcnJ3UHdWX3VNUFVyS2kzX0RuN1JnVVZLQXpvRDc?oc=5",
-      "source": "CNews.ru",
-      "published_at": "2026-08-28T11:38:58+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС улучшит связь в поездах между Петербургом и Москвой",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX0FOLXl0aE9lU2R5ZU1KWlNCN2hkaE1DbXNuTkpMUlFyN3MxODVGYVJwYUg3cjVSTDhLZXJvNVJxeEttMWp2bFNhOXNtVTRReE9FYnYyNmxjY0VyOUpxV3RrTFhDaGhRanNfSmZhR0tCOHdCRkZJNU9pejZLeEpoc2lzR3piOWhlSWpIcG1tYTJKZW5oaGZXMGNOcnBfZw?oc=5",
-      "source": "spbdnevnik.ru",
-      "published_at": "2026-08-28T08:21:50+00:00"
+      "title": "\"Яндекс\" выходит на рынок телекома: новый вызов для МТС и \"Ростелекома\"",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkRUeWhNMHN0R1M0NkpGY2Z5bzQ5NjhOcFpzb0VORnhVekEwc29tNk5sUUlqQ3JIWmhiblI0WUI0YW9pSEt2Y2NmUURHQzdRNGRMUmtjUkR3alBMakRrWHlKWVM2bTRjMnpORG5KM0JzSG1WZTdBbnRWVXpNbkRCMUVvVm1YQ3l6NktrMkpkdnpfLWNjbE9DWVdBc0xTc2d5Uk0",
+      "source": "Финам",
+      "published_at": "2026-08-28T12:23:00+00:00"
     }
   ]
 }
