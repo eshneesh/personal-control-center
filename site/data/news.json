@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-05T08:20:14+00:00",
+  "generated_at": "2026-09-06T08:38:50+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
@@ -43,7 +43,7 @@
       "category": "telecom",
       "title": "Реформа лицензирования связи, предложенная Минцифры, оставит 27 российских регионов без местных интернет-провайдеров",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYlVrU0lVSmF3YmZDOXJrcElBWXNzZW9WUnVhOUQzNk9zb2pMSklka1RHc2VpUEhhRk91am41RWhFUFNYV3hHWktoLTFsOVNyUzk4Ty0tbmFUZkJmRWh3ck0tdkVUT0dBd25EWjFVdlp4TEFoODZZSG1EY2dZMnVEOVRqUHk2Z3RwSm4zRmpVd2loTU10TFlPNXJmMEkxYjVKVmd",
-      "source": "Meduza",
+      "source": "meduza.io",
       "published_at": "2026-09-04T10:41:00+00:00"
     },
     {
@@ -57,7 +57,7 @@
       "category": "telecom",
       "title": "Реформа телеком-отрасли — что ждет российский рынок связи?",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeHFYWnZXMjJ6aFVQZ2VJa2JDM3VZa28tZG1fQ3lTSi12NVlKOHdLd0hlZUZtenlhWmxjRUpObUpia0tXcTFHYVhncFNLT0VDeVNkbmZsaEZKTVo5SjZidld4S3FKRzdIak5za245SmhNV1pQYmRURUIybThhbzZDOUREQUc5MkhrOVk0TkpDRXV1NXdoY2Jj?oc=5",
-      "source": "Компьютерра",
+      "source": "computerra.ru",
       "published_at": "2026-09-04T09:39:26+00:00"
     },
     {
@@ -110,11 +110,11 @@
       "published_at": "2026-09-03T10:49:31+00:00"
     },
     {
-      "category": "mts",
-      "title": "Без крупных вложений: МТС Exolve вводит аренду оборудования для корпоративных клиентов",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNDlrUUxrbTlfVEdqRHVpSnRWaDJVXzVrd05yZU9hcnZ0RWlabzM2OGdNUWhGcFZqZFpZYkxMVmRxNFZIWk1xVno5alUwOGl3b1lxSFh3dXRDRUVkcHJzLWY0ejlpeldZS3hmRUhaeEZRVTYyWVViNUNkWFdOZGdnaThzc3NhS21TSlRrSTVJRmFfT3dMeXhJcm1BcVZ2ZlRHWkI",
-      "source": "TelecomDaily",
-      "published_at": "2026-09-03T07:45:21+00:00"
+      "category": "telecom",
+      "title": "Оборот телеком-операторов России в июле увеличился на 7,7%",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbzZiNUR6aTVmN0s1SXdRd2JXTFl0RUNyVFZjOFNTYjJ6cFU5aElxWTJnZXl5amx6SUUxVi02SjZueEdpU3VNemxCdF9ONkkzZVVoUUUtakwxTU0wVklNaTZaTFNCNU9qemtQcUNMQ2NTUjlfaHBvaDcwWGp3bGF1VWhreHRYMjBxSXltdUNtZnBFVVZUS1ZqbnhRLTA?oc=5",
+      "source": "marketpower.pro",
+      "published_at": "2026-09-03T08:37:38+00:00"
     },
     {
       "category": "infrastructure",
