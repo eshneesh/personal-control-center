@@ -1,9 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-09-06T08:38:50+00:00",
+  "generated_at": "2026-09-07T09:18:50+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
+    {
+      "category": "mts",
+      "title": "МТС: на первом участке Рублево-Архангельской линии московского метро появился скоростной интернет",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWkNuZzNicm9KNjNsenFJRXhMTU5RSG1scUdRR1lYTlBfcEg0cjB6YzhJVEpxNVdFdDBWZkJyY3hmZEhPaFpReXhzdmtiQ29BdW5rdFBqajV4VTdmS1F0WEYtWmdDLWphS2ppd3BzSVpGSGVuY2RfaUIxUU1qLW1GcVR1dFRWbDk1RjQ3MFMwVXZOYmE0anR0cHIxaURUYU50cTA",
+      "source": "TelecomDaily",
+      "published_at": "2026-09-07T08:12:16+00:00"
+    },
     {
       "category": "infrastructure",
       "title": "В МИД рассказали о работе каналов связи между спецслужбами РФ и США",
@@ -19,18 +26,18 @@
       "published_at": "2026-09-04T14:42:17+00:00"
     },
     {
+      "category": "telecom",
+      "title": "IТ-ассоциации заявили о риске ухода тысяч небольших операторов из-за реформы Минцифры",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMTNGOGNLbTNCU2VvSl9ObUhQbmJ6dWFUVXVfQ0k0MTQ1RUxPNEQyNi1RTUJMTE9WeV9XLW50aGNhaUZ1c0FQUUcyUHJGaWw5NFhfaVdieG1OOVJsS1lGajNoUWZubHBpMUxZTUd6NHYwY0haelFJTUNQMnpvTjhYdkZXWWl1djEtN0RpcWpqYUNOdmZPbWJ0dFlGdTYxTWVGT0l",
+      "source": "forbes.ru",
+      "published_at": "2026-09-04T13:48:36+00:00"
+    },
+    {
       "category": "mts",
       "title": "МТС расширила покрытие мобильного интернета более чем в 50 горных селах Дагестана",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdm0ta2t1Q2w0ZXZ1UVFTeGpVaDMtTVotcjNnemVUVlJkbTZLcHBMb09PazZGYjViMUlfOGVwR29uVkkwM2Q3MmNKenJHRXFHRy0tckt3SkN5TTdTcnlhcU40czdfMnkyeWJ3UG94R3dwMUtpMDRhMGJ1VnFHTHl4TG9HR2s4aU1OaE5jcVE0VC0wX3dia3pCaGF4MEZjUWlnSVd",
       "source": "РИА Дагестан",
       "published_at": "2026-09-04T13:26:00+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС предлагает домашний интернет, мобильную связь и ТВ по 10 рублей",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVVhyRmg5NDlEejdPREJNUnhxMExnc2d0Ukg1Y1Zyc1ZPU0h5amREczZqNnZDM3FSdWJnRDNoRlN0b201elJqbVdFcmVUSHEzbGZoZ3JzVjlueTlNTlExdjBHOHNNQlBxY3lEdXNQOVJOeVR2MXlTUXVGQzNfbzFQS3JlXzE5dUZEVDdIWWxlRk5MSWx1SHVSWjh3?oc=5",
-      "source": "Smartpress.by",
-      "published_at": "2026-09-04T12:54:30+00:00"
     },
     {
       "category": "mts",
@@ -41,24 +48,17 @@
     },
     {
       "category": "telecom",
-      "title": "Реформа лицензирования связи, предложенная Минцифры, оставит 27 российских регионов без местных интернет-провайдеров",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYlVrU0lVSmF3YmZDOXJrcElBWXNzZW9WUnVhOUQzNk9zb2pMSklka1RHc2VpUEhhRk91am41RWhFUFNYV3hHWktoLTFsOVNyUzk4Ty0tbmFUZkJmRWh3ck0tdkVUT0dBd25EWjFVdlp4TEFoODZZSG1EY2dZMnVEOVRqUHk2Z3RwSm4zRmpVd2loTU10TFlPNXJmMEkxYjVKVmd",
-      "source": "meduza.io",
+      "title": "Реформа лицензирования связи в России, предложенная Минцифры, оставит 27 регионов без местных интернет-провайдеров",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRjFxQmJwaWV5TmV1bTBRb3A4VDVxeVFVd0lyMjk1bFVaOXl0UmVmZzI1YWVxbzdMaTB5OFV5cTYzZUNMS0EyOGxTaEJsR3hwemVsVk5HR3UzSkdpMk9pYVlyWnUwM1lpUXJoXzdTVElZUVRxQVY4MW1IM2lsLVN4YUJLeVhOTWtIMkMyeURvY3Zia0R6QVQ5d0EyTFNvd21vaWQ",
+      "source": "Meduza",
       "published_at": "2026-09-04T10:41:00+00:00"
     },
     {
       "category": "telecom",
       "title": "«Миллионы людей останутся без связи»",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15NENrWFhsRWxVOXRNTzFjTHhkaFhEOW8yVFNKUjRLXzlNWlFhb3NuVkZPaGs5dERfSUctdXNkc25zWHlsRENMeEVTM0NTdEJxMFZrSHluekM0RG5DQnFFNmo1QS02bnJQb051bnBhYW5VUG9nbTh30gF2QVVfeXFMT2VmVlZ4X0Z4a2pOV3cwRmhtTFZvTUlHSDM2b0lpSUZ1Qk1",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lZlZWeF9GeGtqTld3MEZobUxWb01JR0gzNm9JaUlGdUJNQ3RWZ0VGcHRLUlVXcFpmMGlwekdKQ1Y5ZUE5cEhnTnQtZDZtcE5NeWVmcXhNWVk0ZnpjSmhYN2YtRzg0OEJWeXl4aVl5cW1HbnhpYVHSAXZBVV95cUxPZWZWVnhfRnhrak5XdzBGaG1MVm9NSUdIMzZvSWlJRnVCTUN",
       "source": "vtomske.ru",
       "published_at": "2026-09-04T10:20:00+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Реформа телеком-отрасли — что ждет российский рынок связи?",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeHFYWnZXMjJ6aFVQZ2VJa2JDM3VZa28tZG1fQ3lTSi12NVlKOHdLd0hlZUZtenlhWmxjRUpObUpia0tXcTFHYVhncFNLT0VDeVNkbmZsaEZKTVo5SjZidld4S3FKRzdIak5za245SmhNV1pQYmRURUIybThhbzZDOUREQUc5MkhrOVk0TkpDRXV1NXdoY2Jj?oc=5",
-      "source": "computerra.ru",
-      "published_at": "2026-09-04T09:39:26+00:00"
     },
     {
       "category": "mts",
@@ -89,6 +89,13 @@
       "published_at": "2026-09-03T21:08:37+00:00"
     },
     {
+      "category": "mts",
+      "title": "МТС открыли набор на участие в молодёжных программах",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaURmeS1lOHY5NDQ2R1I5VEZodmN3dEtDa19NTVA3c0l3V2dTbTZkbU96UDZlQXI5OHFsTlNJZU5GYk1fSXVYWVBjTjEzRUF0RHVkWFM4ZU9hN0hlM2ltSHJCc01PNzY0eHVQN0UtX01QcHM3NEZnNm9ZWER4ZV83MFBWY1RfV3lIalpVRDRRRXo4cjNzSGw4SWZIZU4?oc=5",
+      "source": "AKM.RU",
+      "published_at": "2026-09-03T15:07:09+00:00"
+    },
+    {
       "category": "telecom",
       "title": "Реформа связи способна уничтожить телеком-рынок в 27 регионах России",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM2JIT0R5T3pNVHlFTk5NQy1PMTdkVjBZS2RKZXFnMFRxYXVfdEdERHNDT2JTRy1JSEdJUHZyQUxraDY4MVZRWW5vTHVsSkhBc2FBcENIZ09GSUF3UXB3UVprOWVaWjR5aFY5TDcwZ1BrVWpTQjNGTDVXNWFFVUpNWktVYm1TYVpuVkpKcTRfTzY0UGg1UlI0Y2RaMEZSUnVReW9",
@@ -113,7 +120,7 @@
       "category": "telecom",
       "title": "Оборот телеком-операторов России в июле увеличился на 7,7%",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbzZiNUR6aTVmN0s1SXdRd2JXTFl0RUNyVFZjOFNTYjJ6cFU5aElxWTJnZXl5amx6SUUxVi02SjZueEdpU3VNemxCdF9ONkkzZVVoUUUtakwxTU0wVklNaTZaTFNCNU9qemtQcUNMQ2NTUjlfaHBvaDcwWGp3bGF1VWhreHRYMjBxSXltdUNtZnBFVVZUS1ZqbnhRLTA?oc=5",
-      "source": "marketpower.pro",
+      "source": "Marketpower.pro",
       "published_at": "2026-09-03T08:37:38+00:00"
     },
     {
@@ -122,13 +129,6 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc2YyZmJOMHFfWTJDRm9PNGs4T3RrcGpvalgwYWxmQWZzTHFWSWJLaXhJRVNPclRfQk5hSWdNeWRnc05IZDBuYzBLOGJqYXlEOTkybkcyNE94UGZxbHhKX0VtcWdLamM0SVdyU3lXa1FlMElBY0xHcDJJaVN2aHNoWDhuSS1wRmpLbzB2T1RCcnFWMGdhbFVDVGZwQldUM0plWE9",
       "source": "prospect.com.ru",
       "published_at": "2026-09-03T01:00:22+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС Бонус перезапустили: скидки до 100% для абонентов",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TcmhDTmJLcDI0eXp5dmtRREd5VjR3NnJUYkVoUTZfcWxrVzFNVU1oVF9QbTBXQk1uR253bmRDSlh4Sk1mWndfa04wRXhfbmxzdDV0ZFdEanlHbGlHd2Ew?oc=5",
-      "source": "NPR.BY",
-      "published_at": "2026-09-02T14:05:54+00:00"
     }
   ]
 }
