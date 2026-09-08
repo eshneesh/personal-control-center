@@ -1,15 +1,50 @@
 {
   "version": 1,
-  "generated_at": "2026-09-07T09:18:50+00:00",
+  "generated_at": "2026-09-08T08:51:07+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
+    {
+      "category": "infrastructure",
+      "title": "Сетевые потери: новые требования к операторам связи ударят по малым провайдерам",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hSmtWdFlVSzdLNm91ZjN6VXp1bjV2MGRjR3E0MTRkN3VvSVlyQXdaSjBQcVd6UUQ3dEJYY0NRX0RzS2R2aWxabnQtTHBOakNtQUJJZnF1VlNJRjlyd2tUcVRaTmhtcGhBak1kb0pNS1XSAXtBVV95cUxPRmQzdlVwNi1kWlhrNU95ZDlaQVNVY0Z2UHdBcjVCbGhkUWVCdnV6NUR",
+      "source": "dp.ru",
+      "published_at": "2026-09-08T03:55:00+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "В Карповке новые базовые станции МТС обеспечивают жителей высокоскоростным интернетом",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBhRldtdVRPZU9yNnVCUnVJS0JRdnNPY1hmc1pDYW1OQ2RTemowRFRmODNWNlkxOGpyVlZiRDd3?oc=5",
+      "source": "Официальный портал Забайкальского края",
+      "published_at": "2026-09-08T01:38:13+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Телеком-операторы в 2023-2025гг. недоплатили в фонд универсальной услуги 2,6 млрд рублей",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0Vm1VM3lIZ0Y0R2dPRl8tby0xSHpYRG5ObS1HVGFLVUR0LWZWYnJyRWQ3Q2ZJQzEtZFE5RWxOU0ZnN2tWWDdoSkdpNNIBS0FVX3lxTFB0Vm1VM3lIZ0Y0R2dPRl8tby0xSHpYRG5ObS1HVGFLVUR0LWZWYnJyRWQ3Q2ZJQzEtZFE5RWxOU0ZnN2tWWDdoSkdpNA?oc=5",
+      "source": "Интерфакс",
+      "published_at": "2026-09-07T21:56:00+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "В МТС назначили директора по работе с бизнес-рынком в Ростовской области",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRXA0RmlTRVhsYWlJUjgxNFU4b0QtMFR0RDVmaVJ6ZlBCcFdVWnJFd2JBbkNmX0k5V2UwdkZQbGw1Ql8wVjltZ3ktclBTMnRXWDg5WWtxSkJFUW1OX01LcmdqMzJzeTBibEhhekJIOTBUNzE4QmZ5NEpCZzZwWHZvQzcyblZIaThfSC1nYTB6WnptbmtxcVlFQWNITHdXN2tEbkE",
+      "source": "Эксперт ЮГ",
+      "published_at": "2026-09-07T09:33:45+00:00"
+    },
     {
       "category": "mts",
       "title": "МТС: на первом участке Рублево-Архангельской линии московского метро появился скоростной интернет",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWkNuZzNicm9KNjNsenFJRXhMTU5RSG1scUdRR1lYTlBfcEg0cjB6YzhJVEpxNVdFdDBWZkJyY3hmZEhPaFpReXhzdmtiQ29BdW5rdFBqajV4VTdmS1F0WEYtWmdDLWphS2ppd3BzSVpGSGVuY2RfaUIxUU1qLW1GcVR1dFRWbDk1RjQ3MFMwVXZOYmE0anR0cHIxaURUYU50cTA",
       "source": "TelecomDaily",
       "published_at": "2026-09-07T08:12:16+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Новая реформа для операторов может оставить регионы без интернета",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VRmpPZVZEblhBcFpRWl9HY1BMQnJiQ3pGdkRweG9LMGo1YXlndERWNXlWRTZsZnpvc3ZHZE9pUTZqSTBiWVBIU0NKVHB2ZDV1WU0wbUJjTQ?oc=5",
+      "source": "Банки.ру",
+      "published_at": "2026-09-05T09:04:00+00:00"
     },
     {
       "category": "infrastructure",
@@ -26,25 +61,11 @@
       "published_at": "2026-09-04T14:42:17+00:00"
     },
     {
-      "category": "telecom",
-      "title": "IТ-ассоциации заявили о риске ухода тысяч небольших операторов из-за реформы Минцифры",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMTNGOGNLbTNCU2VvSl9ObUhQbmJ6dWFUVXVfQ0k0MTQ1RUxPNEQyNi1RTUJMTE9WeV9XLW50aGNhaUZ1c0FQUUcyUHJGaWw5NFhfaVdieG1OOVJsS1lGajNoUWZubHBpMUxZTUd6NHYwY0haelFJTUNQMnpvTjhYdkZXWWl1djEtN0RpcWpqYUNOdmZPbWJ0dFlGdTYxTWVGT0l",
-      "source": "forbes.ru",
-      "published_at": "2026-09-04T13:48:36+00:00"
-    },
-    {
       "category": "mts",
       "title": "МТС расширила покрытие мобильного интернета более чем в 50 горных селах Дагестана",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdm0ta2t1Q2w0ZXZ1UVFTeGpVaDMtTVotcjNnemVUVlJkbTZLcHBMb09PazZGYjViMUlfOGVwR29uVkkwM2Q3MmNKenJHRXFHRy0tckt3SkN5TTdTcnlhcU40czdfMnkyeWJ3UG94R3dwMUtpMDRhMGJ1VnFHTHl4TG9HR2s4aU1OaE5jcVE0VC0wX3dia3pCaGF4MEZjUWlnSVd",
-      "source": "РИА Дагестан",
+      "source": "riadagestan.ru",
       "published_at": "2026-09-04T13:26:00+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС увеличила скорость LTE-интернета на юге Челябинской области",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNUliamVrS2JoNm9ERjB3VXpZRms5VmRNMUVJdEVIN0lDUl83b2R1QndBdjJSZ2U3LXc5TkRGY1dOZ1lWd25GVEN3anhtbGFpYmtzZ1NoNDM3cmZ2VUxmTF9mLXhWOWtVVkphWUNPQ3puTy04NXBQVU1OXzBlM2ppT180VXg?oc=5",
-      "source": "CNews.ru",
-      "published_at": "2026-09-04T11:38:05+00:00"
     },
     {
       "category": "telecom",
@@ -54,18 +75,18 @@
       "published_at": "2026-09-04T10:41:00+00:00"
     },
     {
-      "category": "telecom",
-      "title": "«Миллионы людей останутся без связи»",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lZlZWeF9GeGtqTld3MEZobUxWb01JR0gzNm9JaUlGdUJNQ3RWZ0VGcHRLUlVXcFpmMGlwekdKQ1Y5ZUE5cEhnTnQtZDZtcE5NeWVmcXhNWVk0ZnpjSmhYN2YtRzg0OEJWeXl4aVl5cW1HbnhpYVHSAXZBVV95cUxPZWZWVnhfRnhrak5XdzBGaG1MVm9NSUdIMzZvSWlJRnVCTUN",
-      "source": "vtomske.ru",
-      "published_at": "2026-09-04T10:20:00+00:00"
-    },
-    {
       "category": "mts",
       "title": "МТС усилила LTE в одном из поселений «Кежемской Атлантиды»",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4yQjBzRGZpeTRnLUFnSlVnNTJ2c3VPaUZ1T2ZCNTROMTNUV2tSczFNSDV0cVNOcnlOMVItZTREQ0w1VHpPeEHSAVpBVV95cUxNVWNuZGVuaTg2cW1sZ0xaemdKbDhIMmRHclhpSUwwXzAtT183cVFmYnBUTWxjcGZncG9YbGE1R0E5OG1JZWR4SUFJUnhVc3VYWEg0R3A3bk5CdHc",
       "source": "Newslab",
       "published_at": "2026-09-04T09:05:00+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС ускорила интернет в Сампурском округе Тамбовской области",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQlpnM1JzeVA2aGRScU5sby1vQnZKVEx0bDJPWVhYTlNxaDhGbHhUR3F5N2kxSTZsaU5HUnFWNjdVd1pjVHcxX2k0NWlOaWNCMjZSQy0wb1FoVDh6VC1fajk4VnlETFctdnlHQ25kaVR6ampxa0c1cXhyTGVlazFzdnJ3?oc=5",
+      "source": "cnews.ru",
+      "published_at": "2026-09-04T07:02:35+00:00"
     },
     {
       "category": "telecom",
@@ -108,27 +129,6 @@
       "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBMRzFUV2Fvem9ja3o3dmdBTTQyTnAtdUhnX0hicC1YSlpMSHNTakZlTjVYcXJaSGk4ZUY1LUc4VWdGQQ?oc=5",
       "source": "Frank Media",
       "published_at": "2026-09-03T14:46:05+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС усилила связь в пяти районах Белгородской области",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcFpHZl8xZnkxNTZJREdabHExM3FvdFA0ZXJQQnQzMzFvYndkRDljbjhna0o5ajl0WTJkRUpJUU1RcGxqRHc5eFp6cDlvS0ZrOHBIRXlLVTFyUWR3WlM4c25xMkhFX0pFc0F0WEpjanNvSS1BZUJvb0pwTEJXMVkzOHo2RWcxSTN4NG43RnJWQW8?oc=5",
-      "source": "Fonar.tv",
-      "published_at": "2026-09-03T10:49:31+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Оборот телеком-операторов России в июле увеличился на 7,7%",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbzZiNUR6aTVmN0s1SXdRd2JXTFl0RUNyVFZjOFNTYjJ6cFU5aElxWTJnZXl5amx6SUUxVi02SjZueEdpU3VNemxCdF9ONkkzZVVoUUUtakwxTU0wVklNaTZaTFNCNU9qemtQcUNMQ2NTUjlfaHBvaDcwWGp3bGF1VWhreHRYMjBxSXltdUNtZnBFVVZUS1ZqbnhRLTA?oc=5",
-      "source": "Marketpower.pro",
-      "published_at": "2026-09-03T08:37:38+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "Новые заводы, терминалы и ЛЭП: Путин запустил шесть новых объектов в Приморье",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc2YyZmJOMHFfWTJDRm9PNGs4T3RrcGpvalgwYWxmQWZzTHFWSWJLaXhJRVNPclRfQk5hSWdNeWRnc05IZDBuYzBLOGJqYXlEOTkybkcyNE94UGZxbHhKX0VtcWdLamM0SVdyU3lXa1FlMElBY0xHcDJJaVN2aHNoWDhuSS1wRmpLbzB2T1RCcnFWMGdhbFVDVGZwQldUM0plWE9",
-      "source": "prospect.com.ru",
-      "published_at": "2026-09-03T01:00:22+00:00"
     }
   ]
 }
