@@ -1,14 +1,28 @@
 {
   "version": 1,
-  "generated_at": "2026-09-09T08:57:05+00:00",
+  "generated_at": "2026-09-10T08:56:08+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
     {
       "category": "mts",
+      "title": "МТС запустила LTE-сеть в районе лососевого рыбоводного завода в Урожайном",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBobFBBdWNTTGJJNkxtVzhEYUFOMXFiUEFMSWZVNkRTeEtkaUV1dmI2bEFQSDFRRVpOQ3liLVlNQnBvNXV0R1NheVhYNmFDdno4YTdiV1BrRzM0eDh2Y1E5VWNOU0FRdENKTWlQLXk1VGtla3hCUDFvWkRweWk?oc=5",
+      "source": "cnews.ru",
+      "published_at": "2026-09-10T04:07:06+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "Еще полторы тысячи казанских семей получили доступ к гигабитному интернету МТС",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS1V3cXFQRlhLbnpya0M2MHFwN3Y3Ti1sZDhQLWJ1bEg1SE9tWkVwclZ2UVg3bm5XTmFORDhBTGdhSXB6eHhUdXNfSDAxT2RfWm9QdFRFYlIxVFgyY1Nfa2xOMm9MV0prN0xoX2ZFMERrU0hnT0lILW5HVlNFQThSY1lQZEJXQkxSYm5zcjFiQmpRTkhHZDlJYzQtY183WlJza1R",
+      "source": "Татарстан 24",
+      "published_at": "2026-09-09T09:45:00+00:00"
+    },
+    {
+      "category": "mts",
       "title": "К Международному фестивалю молодежи в Екатеринбурге МТС модернизировал телеком-инфраструктуру",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB0VlBfc3NRekkwbGlJSmxYaXFwbVBKU2Jwd0daRU1ua3VoQy0tY2lQNHl3OE9TVGdBdjBIWmk3emxodXRNWHB3?oc=5",
-      "source": "URA.RU",
+      "source": "ura.news",
       "published_at": "2026-09-09T08:29:00+00:00"
     },
     {
@@ -20,10 +34,10 @@
     },
     {
       "category": "mts",
-      "title": "МТС расширила сеть сотовой связи в Юго-Западном районе Ставрополя",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQcnZnZEp4MTlPNG1MT09pN3I2MlZwUk82dGo3RFI5SFkwUUhDc3NuajAzVG9sek5TQVpRZnRUZWxPaGJwRkQwN0FoYjUtZkN2a2tTRmVDeGhmV1RaZHM4VHlCNVVWeWs1ZWcwRk5RRVNXdDIyWEdz?oc=5",
-      "source": "CNews.ru",
-      "published_at": "2026-09-08T10:34:31+00:00"
+      "title": "МТС первой запустила связь на автодороге Пригородное - Озёрское на юге Сахалина",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdXN4cU43dkxpSllMdUlDbGJoaGNJZTVWWkpSVnBYcEEzWDlsUGhNaVlVWlN5bUtBdVplUFZEV1RvOFAydEM3MWZ4MnFTRndOOE5vbm5aZEF6WWdyUHFCM1ZhN3JvTEhEWktaQmNqelhhcGJrMHd6NURBS2w2Nzc3VlhEVUlyd0FGMU9xRTFPdl9zcmE0UV9vY2pkM3F5ZUdCdGJ",
+      "source": "АСТВ",
+      "published_at": "2026-09-08T04:07:00+00:00"
     },
     {
       "category": "mts",
@@ -83,6 +97,13 @@
     },
     {
       "category": "telecom",
+      "title": "Местные интернет-провайдеры могут покинуть 27 регионов России",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWndSNGNpWUtNYzBxOFRaMEVMVlIxaEI5MzV1OFFUTDVPaXdfbTFPNTMxNlo4SjRpbTZwSVpUV2N4UGtlZG9jM2ppa05oOWpEZXZsTTBWUkxlVnBkQzUwX2U4cGd1VGNaT3JmUEhsci1qYjl0a000Z0FqT3BIVVp2MUNqQ0VNQ21PRnVOVGRwNFhvNlFiVDFJWUtQMkFRTjhPQ0Z",
+      "source": "Радио Свобода",
+      "published_at": "2026-09-04T10:54:49+00:00"
+    },
+    {
+      "category": "telecom",
       "title": "Реформа лицензирования связи в России, предложенная Минцифры, оставит 27 регионов без местных интернет-провайдеров",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRjFxQmJwaWV5TmV1bTBRb3A4VDVxeVFVd0lyMjk1bFVaOXl0UmVmZzI1YWVxbzdMaTB5OFV5cTYzZUNMS0EyOGxTaEJsR3hwemVsVk5HR3UzSkdpMk9pYVlyWnUwM1lpUXJoXzdTVElZUVRxQVY4MW1IM2lsLVN4YUJLeVhOTWtIMkMyeURvY3Zia0R6QVQ5d0EyTFNvd21vaWQ",
       "source": "Meduza",
@@ -103,32 +124,11 @@
       "published_at": "2026-09-04T05:15:33+00:00"
     },
     {
-      "category": "mts",
-      "title": "Лучшие тарифы мобильных операторов в 2026 году: МТС, Т2, Билайн, СберМобайл, Т-Мобайл — какой выбрать",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85Z1pDVFZQMC1Id1ZnY2xyUkNSWVU5V3Z5enUzRW9iT0N6cTdLczEwN2hnaEJNV2JIdFo4TmNiQ1dqTUtmVUxONTRIQ0hRWUYxLUlB?oc=5",
-      "source": "Sostav.ru",
-      "published_at": "2026-09-03T21:08:37+00:00"
-    },
-    {
       "category": "telecom",
       "title": "Реформа связи способна уничтожить телеком-рынок в 27 регионах России",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM2JIT0R5T3pNVHlFTk5NQy1PMTdkVjBZS2RKZXFnMFRxYXVfdEdERHNDT2JTRy1JSEdJUHZyQUxraDY4MVZRWW5vTHVsSkhBc2FBcENIZ09GSUF3UXB3UVprOWVaWjR5aFY5TDcwZ1BrVWpTQjNGTDVXNWFFVUpNWktVYm1TYVpuVkpKcTRfTzY0UGg1UlI0Y2RaMEZSUnVReW9",
-      "source": "Телеспутник",
+      "source": "telesputnik.ru",
       "published_at": "2026-09-03T15:00:27+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "50 млн россиян могут остаться без интернета из-за реформы Минцифры",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBMRzFUV2Fvem9ja3o3dmdBTTQyTnAtdUhnX0hicC1YSlpMSHNTakZlTjVYcXJaSGk4ZUY1LUc4VWdGQQ?oc=5",
-      "source": "Frank Media",
-      "published_at": "2026-09-03T14:46:05+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Оборот телеком-операторов России в июле увеличился на 7,7%",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbzZiNUR6aTVmN0s1SXdRd2JXTFl0RUNyVFZjOFNTYjJ6cFU5aElxWTJnZXl5amx6SUUxVi02SjZueEdpU3VNemxCdF9ONkkzZVVoUUUtakwxTU0wVklNaTZaTFNCNU9qemtQcUNMQ2NTUjlfaHBvaDcwWGp3bGF1VWhreHRYMjBxSXltdUNtZnBFVVZUS1ZqbnhRLTA?oc=5",
-      "source": "Marketpower.pro",
-      "published_at": "2026-09-03T08:37:38+00:00"
     }
   ]
 }
