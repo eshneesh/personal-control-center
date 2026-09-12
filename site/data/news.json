@@ -1,15 +1,43 @@
 {
   "version": 1,
-  "generated_at": "2026-09-11T08:54:00+00:00",
+  "generated_at": "2026-09-12T08:37:15+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
     {
+      "category": "infrastructure",
+      "title": "В США заблокировали 75 проектов ЦОД на $130 млрд за квартал",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlaEpuZ1hjMUdVTjc0OEZJTFlyLU43THpKcDJXY0JRTDhwenJqMzF3ZkJ0bDFJT2xZRGFOTEZWWkxWZlpveUJMYjFkV1ZiYUxJWHVEcHdQVlFzTDR5MzlnQ1BUZ0R5RTljRHpBYld3LXVTYlAweGdkYmxzSUI?oc=5",
+      "source": "techora.ru",
+      "published_at": "2026-09-11T13:53:58+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Связь 5G запущена в России в коммерческом режиме",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZjFfaDFVcG9LaVBhaVBGWF9KSTNqYTYycGR3TUdybU5BbXU5QXNkaHVrclc2WldwOHNtMUlnNUZwdXE3ZENTQjVEX0ZGcFYtSElRWmlUS3VIbi10ZGUwN2s3VlJVd1NHWTJXV3J6TUp3X2tNbVNGMm5yQksweDNpdndqT3Y0dk1pVTZxU1JtMnA3d0NmVjc3ag?oc=5",
+      "source": "TelecomDaily",
+      "published_at": "2026-09-11T08:40:48+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Связь 5G запустили в России: список 16 городов, доступные операторы и условия подключения",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcllLdXdjOFBXSGl0S2FiNXZnSjFBMWdrQ0JVVkJOcWxIaFpQUjBVQzdkWWE1bHpHVmpQd19xaUx2TG1XR253Y3RtLUZZaUZhbVVEdWpQbWlvWWhVeGlMWW1rdnc5Tjl0R3BUOUZZQzQ1SzBjS1QzaFpCQzBDUU1GYnI1MVZGZVRpWUM2T2lmcHUzaUFPMG02d3VhbVhOZw?oc=5",
+      "source": "Финансы Mail",
+      "published_at": "2026-09-11T07:35:09+00:00"
+    },
+    {
       "category": "mts",
       "title": "МТС в 2027 году увеличит вложения в сети 5G на 20%, до 57 млрд рублей",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42aHYwQWZ3SHNQRnNzNXNCdHRra2tOc0VpeUtieFJ0UXA3cnpISXdsN24welpabHV0N0FWOVVUQmhLNENiMXdoTExMY0xGS01NR3fSAUtBVV95cUxNN1FBbEpWZV9PVlE1NmtPZGh6bVFpS2dZQ3pmTVFHRC1HbEFJbDR5NUk4MkNQa0hJQVZuMXhwMWJfeDVYMFh5M0xnWG8?oc=",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE03UUFsSlZlX09WUTU2a09kaHptUWlLZ1lDemZNUUdELUdsQUlsNHk1STgyQ1BrSElBVm4xeHAxYl94NVgwWHkzTGdYb9IBS0FVX3lxTE03UUFsSlZlX09WUTU2a09kaHptUWlLZ1lDemZNUUdELUdsQUlsNHk1STgyQ1BrSElBVm4xeHAxYl94NVgwWHkzTGdYbw?oc=5",
       "source": "Интерфакс",
       "published_at": "2026-09-11T07:17:00+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Крупнейшие операторы РФ запустили первые коммерческие сети 5G в 16 городах",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iTHdOLVFTNjhvbkQ2ejRGdklEcU8yOU9PenU1MDE3Yy1Ka19JSGpSMEFuSmU2c09BWl93ZzNiVXYzcEJxUFdWMWhDQTNWUGvSAUtBVV95cUxPWEp5dGd6RWtVbHRGbUpmS1FBQU9IZm5icnlmWGlkcm5fT1dVc0tBVmV3WWJVN3VBdnF0SUlPVHQyYlo0NUwwbnJ2N2c?oc=5",
+      "source": "Интерфакс",
+      "published_at": "2026-09-11T06:17:00+00:00"
     },
     {
       "category": "mts",
@@ -55,10 +83,24 @@
     },
     {
       "category": "telecom",
-      "title": "Телеком-операторы в 2023-2025гг. недоплатили в фонд универсальной услуги 2,6 млрд рублей",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0Vm1VM3lIZ0Y0R2dPRl8tby0xSHpYRG5ObS1HVGFLVUR0LWZWYnJyRWQ3Q2ZJQzEtZFE5RWxOU0ZnN2tWWDdoSkdpNNIBS0FVX3lxTFB0Vm1VM3lIZ0Y0R2dPRl8tby0xSHpYRG5ObS1HVGFLVUR0LWZWYnJyRWQ3Q2ZJQzEtZFE5RWxOU0ZnN2tWWDdoSkdpNA?oc=5",
-      "source": "Интерфакс",
-      "published_at": "2026-09-07T21:56:00+00:00"
+      "title": "Половина операторов связи обманывает власти. Они не доплатили миллиарды на строительство оптоволоконных линий и улучшение связи",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54WFFGSFZxR1YteEhabXUxUEVSdmtXT3ZfRlA0eDhnaUQ4YXgyTTBCeGFrMU1DX2h4Zzk2V0N6MDJpa2wzZldmQWRqRE5GSnJDVGFtNTVJMUZfa1VKV2hXWlRxZ0VDNjc5SEQ4MlB1eG1BTnJwNFNv?oc=5",
+      "source": "CNews.ru",
+      "published_at": "2026-09-08T09:23:18+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Телеком-операторы недоплатили в резерв универсального обслуживания ₽2,6 млрд",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV21JVkVIUW1QM2RNWkZleFlQQXZ1ekFiTDR2T3JHV3NzWG9VQlFhbDdLeDlmZkJhTGhtbWRXMDhJMnZ1YjNTNjlfRW8zUFBpWS10LUd2R3ZtZ2RJV2tKb0lLMDl3VXhKeTFyR01aaDlaR1hVMTlBNnFBdjlyLUhZX0QxYmNVck5DUnQzYVhwV0x6bllqUE1rX2VFX1E0QU9WazR",
+      "source": "Marketpower.pro",
+      "published_at": "2026-09-08T05:55:59+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "В Карповке новые базовые станции МТС обеспечивают жителей высокоскоростным интернетом",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBhRldtdVRPZU9yNnVCUnVJS0JRdnNPY1hmc1pDYW1OQ2RTemowRFRmODNWNlkxOGpyVlZiRDd3?oc=5",
+      "source": "Официальный портал Забайкальского края",
+      "published_at": "2026-09-08T01:38:13+00:00"
     },
     {
       "category": "mts",
@@ -83,52 +125,10 @@
     },
     {
       "category": "telecom",
-      "title": "Новая реформа для операторов может оставить регионы без интернета",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VRmpPZVZEblhBcFpRWl9HY1BMQnJiQ3pGdkRweG9LMGo1YXlndERWNXlWRTZsZnpvc3ZHZE9pUTZqSTBiWVBIU0NKVHB2ZDV1WU0wbUJjTQ?oc=5",
-      "source": "Банки.ру",
-      "published_at": "2026-09-05T09:04:00+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "В МИД рассказали о работе каналов связи между спецслужбами РФ и США",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNG5QS3ZYOHJCa0NXU0xRajhXa0NKb2JkMFVrVXZLMFRiTDBuOWQ0Qjk2am95ampqaERXeTBkVVRBUmwwcXY5VWVRNm1NOW9CS1pLc2o1Yk5ubUhwMkRQMnhDRUotbDJ3RXAyZm5VSmU5V1gtN0ZqOXM5R1V2ZlBEdENvOVgzZnYwS1JGVjg0TXA4MmRnYmFQdlpXdzVya3lERXV",
-      "source": "prospect.com.ru",
-      "published_at": "2026-09-04T21:29:23+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "Модульные ЦОД в России выходят на масштаб в 5000 стоек",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb0kxc21UNTdPS3htYXVNcEdudjVqdHdyNFh3SGI3TDlsSXpRR3RteXVvSUZ6bzBfMUpMejR6N1BVeVRwZ1RCNVdZd2ppa3NFeW1jUndKdWVnSElFQ3Q5RkxqdHRVcnZtdWViR3ZoOWIzVTEyNWxwaVJjcWYtdUt1aXlpejlhNkd5VW5idFprbXRrZUljV05hNjk3XzdpUGM?oc=",
-      "source": "prospect.com.ru",
-      "published_at": "2026-09-04T14:42:17+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС расширила покрытие мобильного интернета более чем в 50 горных селах Дагестана",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdm0ta2t1Q2w0ZXZ1UVFTeGpVaDMtTVotcjNnemVUVlJkbTZLcHBMb09PazZGYjViMUlfOGVwR29uVkkwM2Q3MmNKenJHRXFHRy0tckt3SkN5TTdTcnlhcU40czdfMnkyeWJ3UG94R3dwMUtpMDRhMGJ1VnFHTHl4TG9HR2s4aU1OaE5jcVE0VC0wX3dia3pCaGF4MEZjUWlnSVd",
-      "source": "РИА Дагестан",
-      "published_at": "2026-09-04T13:26:00+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Местные интернет-провайдеры могут покинуть 27 регионов России",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWndSNGNpWUtNYzBxOFRaMEVMVlIxaEI5MzV1OFFUTDVPaXdfbTFPNTMxNlo4SjRpbTZwSVpUV2N4UGtlZG9jM2ppa05oOWpEZXZsTTBWUkxlVnBkQzUwX2U4cGd1VGNaT3JmUEhsci1qYjl0a000Z0FqT3BIVVp2MUNqQ0VNQ21PRnVOVGRwNFhvNlFiVDFJWUtQMkFRTjhPQ0Z",
-      "source": "Радио Свобода",
-      "published_at": "2026-09-04T10:54:49+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Реформа лицензирования связи в России, предложенная Минцифры, оставит 27 регионов без местных интернет-провайдеров",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRjFxQmJwaWV5TmV1bTBRb3A4VDVxeVFVd0lyMjk1bFVaOXl0UmVmZzI1YWVxbzdMaTB5OFV5cTYzZUNMS0EyOGxTaEJsR3hwemVsVk5HR3UzSkdpMk9pYVlyWnUwM1lpUXJoXzdTVElZUVRxQVY4MW1IM2lsLVN4YUJLeVhOTWtIMkMyeURvY3Zia0R6QVQ5d0EyTFNvd21vaWQ",
-      "source": "Meduza",
-      "published_at": "2026-09-04T10:41:00+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Три лицензии и удар по регионам: как в России могут измениться правила игры на телеком-рынке",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOG55QXlUU3NyUmRCTGh1cHIzcVE5dFc1NXNhQjlHV29aeWRVWnRVc0hxWFBGYkE4VFRWQWFTQWY4eF9sdERWbWdHbHhxZXoyZF9GVHF1dHpxTE5oNEpONmZrT1hqeFIzSmNLbHd6U0JseXdUeHV5Qkk3MzdMMTFONmdxUDBCMXR0ZU1hM3k4V0VTMFd1d3E2anhESFR5QmlxRl9",
-      "source": "telesputnik.ru",
-      "published_at": "2026-09-04T10:35:37+00:00"
+      "title": "Регионы могут остаться без интернета: новая реформа операторов связи",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSFhpR0FmNldhOG56QVdscWt5M2huR1ZGZ2ZmUDRXaHQ1UVN0R0Nyamp6Q3hBcGFkLXVsR0JkR1JOUWZqOFJKV29QbExyUGhWVkRXUjBlSkVPdHpSWXpPMDFsS0d5c1Z6VlI1aXZ0c2U3LVl5UnItNDZBdXkwZEdSdUFyTk5kRHd4R0Y2SHBUcUdVUjhrRjZFTW9udXRVLXphNmV",
+      "source": "Пруфы",
+      "published_at": "2026-09-06T05:22:00+00:00"
     }
   ]
 }
