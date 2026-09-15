@@ -1,29 +1,71 @@
 {
   "version": 1,
-  "generated_at": "2026-09-14T09:49:47+00:00",
+  "generated_at": "2026-09-15T09:23:41+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
     {
-      "category": "infrastructure",
-      "title": "РТК-ЦОД построил гибридную ИТ-инфраструктуру для «ТЭК СПб»",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBQ0t4S201aVJ6MGNZeEswZTRjajN6Z0g0eENUaThLUDhVSjdjMDFDSlUxYWl5azl5WmR5aTdEOEs3XzJIVW5USC1PT0ZQaXc10gFWQVVfeXFMUGpBUTZtTnRXajJkZmpScTNERDBlQXRMN3I0MkJvT3Z4cHBrVEJ6TmdZTkJGMm1UbDF3c3dJVXVLeUVDZjJKUzRoUkZEb2lTZER",
-      "source": "3DNews",
-      "published_at": "2026-09-14T07:00:41+00:00"
+      "category": "mts",
+      "title": "Определены сёла, которые МТС обеспечит связью, чтобы компенсировать незаконно полученный доход",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdjNWX1Q1ZE9SMlZSWmtMVkRRZUxyS19leFpXeUxRZVJlcG5wd3NaZHBPeVdmY2loVlJkdzJhd3o0dldLTmFtRXBGSGpEZElfamNTX3lOT1R3akY4Wl95aU11bElyNUtkSFdLRVZ6NlJwMUN1WXBlZ0VnQzZ6SGNPc21hNkpza28wUnlxdTJQalJyRkZ0SVdqU0x3Z2hWZFU4R0V",
+      "source": "Digital Russia",
+      "published_at": "2026-09-15T08:24:31+00:00"
     },
     {
       "category": "mts",
-      "title": "МТС открыла доступ к 5G",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzc24tRWNCdWg0UWxSaFZpazNILWt3YXVhZS1tcVJQT0tqaEhVdW4tdkNULUZaLTJsSnA1NTdxT05sVXRLdzhBb1M2WXN3dzEyTWZ1bF9RNGxNSlBKeDZnVDF2NHA?oc=5",
-      "source": "Хабаровский край сегодня",
-      "published_at": "2026-09-14T00:18:52+00:00"
+      "title": "МТС построит сети связи в 370 малых населенных пунктах",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdl92OVd1YkZNQ1laZDRwelAyOXdmZFZ1TUltcThpeHl4LTdyenQ1LVZTZEdQNUhEbXpxcDlENkxhU3ZFVG9WYjJ2NHpXNWw4RFlGRFpPdmtqS2hfSWxISDhUYy1XZzUtQzZycVZ5TVkyZThRa1NUMXltdkE0UWE2YmVZOHMySFB2dG1NY1B2TmN0SkRGcXBhRy13WmdqQTdZYmp",
+      "source": "Финансы Mail",
+      "published_at": "2026-09-15T07:35:20+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "Азбука технологий ЦОД: 40 терминов, которые помогут разобраться в дата-центрах",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ubTM3X01HVzg0MkZvR2QxT3BHMU40OWhrYVE4ZDRoYUlpdjlTcWR0OVg1TW10eW5leVJnRmdDUWZ3VHVreU9sLXI2TklyQ3lROHZvZWRrcTFaVldh?oc=5",
+      "source": "hightech.fm",
+      "published_at": "2026-09-15T07:17:00+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "Развитие 5G в России подтолкнет операторов связи к росту вложений в инфраструктуру",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPODRoVlgwNm1kM1dQVTFyVHhsOXBHejI1X0lwUjlqVFR0eXhOdncxeUVnWkdtdk9uZXhPQVdSOVZMbVJGckdBeXF3RHd1NWpKTUdNcFptcFJUX0xpUGtXdlhHNVRuZFVXX3FoUjlIeXZXaXhtd3RxdHBtbkdpMkpzWXp5OFFTNjJvREtnbEszcU9rYVZJQ2Vkb3VnZVhCYXpNREU",
+      "source": "prospect.com.ru",
+      "published_at": "2026-09-15T00:54:15+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "«Медси» протестирует новую медицинскую информационную систему «Ростелекома»",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcXVRQlpyU3JVUnB4TkZqeXVTSzJ6azFLSVgybVh6V3JSVVM1Y3FSUjliLXFXb0dQd2dYQmZvWl9QYkxRMUx2aC0xWGlqUnNDQUVNN3ZaU0NhbUlQWHpxLUJuMEk2cnB6UjFGTVlMeEVrOFFRd1NjLUpRSWIzajhvWUc5T2xvM1BOeDVsdllNVHpXejJMRXpFdnhabERtWGFPc2w",
+      "source": "prospect.com.ru",
+      "published_at": "2026-09-14T22:53:16+00:00"
     },
     {
       "category": "telecom",
-      "title": "Маленькие, да удаленькие. Что ждет телеком на пороге 2027 г.",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSmpzYkVNZlo3TWdfV1NwSmF6SXpaRmpIQW4yYlFLczBLNFJMZHluYzlCb0lMNVliWmtQOFVQekFId0hTdkxyRHRxSHFxaWdQeE9hRGZwV3hNLVhEaEp5V2ZtN0Mzd3l1LVA5S1VncllRQi1yekFHSjVZQVUyTVpXYmRMbUtZQnZCcTZjUVI3eExrRFRsQ0g4bmtNTWJzUnl0b1M",
+      "title": "Нанесен удар по офису крупнейшего сотового оператора Украины",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWktDT0FmVzV1WExVd1hPeS1LejRGcDdYOU85MFJNUDlrbVdIM2x0cEF2ZmQ0bldaek4xWHRaX19OV2kxbnhfMnRVb1RXVUVjTlFzdXJMZ0Vkb005MEhTQXRhdHVlVnhIVzlseEJoSHRjUzgtV1BWY0RvVmluVFU4TA?oc=5",
+      "source": "CNews.ru",
+      "published_at": "2026-09-14T11:52:52+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "«Ростелеком» завершил подготовку цифровой инфраструктуры к голосованию",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQREdKRFFlVkYwa1dvZXVydWVWNFRXNUQ2N1BBMXBCRGZHUHY2dkwzbmlpRGVxUV9BM0xCOHJiV3N2WlBwanMtQU9KRjdrZVNJOHBlMkpRYVlTNlhwV3JyMnZacVgwWGZyM2NYZlQwcng1SmJNMnZXekpScVc4WmxDWVpvZlg5QjlJYVlvOHNFVjMtdDR5VkwwVVhHOFZ0TEVjSnY",
+      "source": "Журнал Эксперт-Урал",
+      "published_at": "2026-09-14T10:05:13+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Маленькие, да удаленькие. Что ждет телеком на пороге 2027 года",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVk82WTVNaF9JTzJwY09abVRjbnhmckZOY0JpUlBKNUVYalVFdGE3eUZsUWtvaEpEYUpvNzlFVF9FSlFSRG1KX21rd2ZLcFUxOHJRTFgzb0dDOWVNTkZZdkZjWWNTLW1GdzlvWFNHODBFbXVRNzBpVy1GM2xfMjluQTJadnlQemxmelZCc3l2Yno4U183clhfTGVHNXZzY25ISlN",
       "source": "ComNews.ru",
-      "published_at": "2026-09-13T23:36:22+00:00"
+      "published_at": "2026-09-14T09:45:44+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "Плавучие ЦОДы, чипы для ИИ и домашние роботы: что инвесторам показали выпускники Y Combinator",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSzFQeHZaVTV0SEwtUU1DVlV6VlVscTU0X09BZkVrOGZrOVFab2d2UGJTMFdFUmlKTUZZZUlEQUxiajd6ZjNqZEl6b2NEVWJkV0NIamlQYmk1aFJZYU1xTVZZN1ZOa1RPajRtbE5mOExYVDQ2d3d5N1ltY0pIUHdlWDU4OW9CQ1VfeXhGMHdPVnQxMmR6SGR2MlQ5LXI5Y3R0d3Z",
+      "source": "incrussia.ru",
+      "published_at": "2026-09-14T09:16:16+00:00"
     },
     {
       "category": "telecom",
@@ -31,6 +73,13 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RYmdIaWh3Z1BFRjJ2dC1ISnVSaklJQV9PZHMta1BNWFpkeU9kd0hQRjdWSUZXRGcxZXhBOFlHWWdnQlZqYm9vOXpyblNLTnB4bEF2OFVmeUpFb2hpU3c?oc=5",
       "source": "Эксперт",
       "published_at": "2026-09-13T21:02:54+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС запускает сеть 5G | 11 сентября 2026 | МТС - Москва и Московская область",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0ycExqb290a0JPVVRPV0syUEJiT2p0al9wUzdyYnVRXy1memlTY1R3ckkxaEpuNzFJSzRrRVhuSnNTS1pycERnV3pFY2lSbHVHZjN3NGY3SGN6NXJUbHlpTExVc0R6eEJXUWw1b0tKajNjWGUybzdwWE40Zw?oc=5",
+      "source": "МТС",
+      "published_at": "2026-09-11T16:11:40+00:00"
     },
     {
       "category": "mts",
@@ -57,15 +106,8 @@
       "category": "mts",
       "title": "МТС в 2027 году увеличит вложения в сети 5G на 20%, до 57 млрд рублей",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42aHYwQWZ3SHNQRnNzNXNCdHRra2tOc0VpeUtieFJ0UXA3cnpISXdsN24welpabHV0N0FWOVVUQmhLNENiMXdoTExMY0xGS01NR3fSAUtBVV95cUxNN1FBbEpWZV9PVlE1NmtPZGh6bVFpS2dZQ3pmTVFHRC1HbEFJbDR5NUk4MkNQa0hJQVZuMXhwMWJfeDVYMFh5M0xnWG8?oc=",
-      "source": "Интерфакс",
+      "source": "interfax.ru",
       "published_at": "2026-09-11T07:17:00+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "В Петербурге и 15 городах России запустили связь 5G",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hTENMbjJCdHBPcUhZSTJ2OXE0UGI2SFk0LU1VUDFHN3dGcDB3QktmQ1ZybzdjVzlLX1dKQVB4UmpaWlJUNUNpWEtVQTh0d1BCeDB0REl3VkpTRXRILUkzMnNCYTJ6bFHSAXJBVV95cUxQVDFXbnpXUndYRDhKR00yTzltcTRmNVRrVnprcTBmVThVbkRlbERINEtNUlI3amFTUGl",
-      "source": "dp.ru",
-      "published_at": "2026-09-11T06:50:00+00:00"
     },
     {
       "category": "telecom",
@@ -78,7 +120,7 @@
       "category": "telecom",
       "title": "Крупнейшие операторы РФ запустили первые коммерческие сети 5G в 16 городах",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iTHdOLVFTNjhvbkQ2ejRGdklEcU8yOU9PenU1MDE3Yy1Ka19JSGpSMEFuSmU2c09BWl93ZzNiVXYzcEJxUFdWMWhDQTNWUGvSAUtBVV95cUxPWEp5dGd6RWtVbHRGbUpmS1FBQU9IZm5icnlmWGlkcm5fT1dVc0tBVmV3WWJVN3VBdnF0SUlPVHQyYlo0NUwwbnJ2N2c?oc=5",
-      "source": "Интерфакс",
+      "source": "interfax.ru",
       "published_at": "2026-09-11T06:17:00+00:00"
     },
     {
@@ -87,48 +129,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZTFFwanQ2UkF4Z2JsMjJTcnZITWZScDlsWDNkeWZFenFGVnJhU0N2SDFodkp3YVYzNEM5bFZFWVl1cWpfOFA2QXB3UmxVUm5IU2paVEdZV3lDenF3N2J3YmlyeDFzT1U?oc=5",
       "source": "Наука Mail",
       "published_at": "2026-09-10T14:30:16+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС запустила LTE-сеть в районе лососевого рыбоводного завода в Урожайном",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBobFBBdWNTTGJJNkxtVzhEYUFOMXFiUEFMSWZVNkRTeEtkaUV1dmI2bEFQSDFRRVpOQ3liLVlNQnBvNXV0R1NheVhYNmFDdno4YTdiV1BrRzM0eDh2Y1E5VWNOU0FRdENKTWlQLXk1VGtla3hCUDFvWkRweWk?oc=5",
-      "source": "CNews.ru",
-      "published_at": "2026-09-10T11:31:54+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС построила сеть со скоростным интернетом в общежитиях ТГУ",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SSEhBSHp4OWM5a1ZmVnBpRlc5ZWEtRmxOR2tadzJoaFNxYmhONXV1ekdvQWRkUUVfWVNzZFVYYkpuVUxiVXNwZVZ2X25pZ1ZVcjIxNXpsT1FHSWJfajYxT0lwdHViOFJ4Y29Z?oc=5",
-      "source": "РИА Томск",
-      "published_at": "2026-09-10T08:35:00+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС дивидендами не обидит",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONVRUVWRoeXFQN18wYjVZWEQ1UkxVZktYbjlXMzRDMlllMUQ5c1lGUTBJa2sza09qUXpmZzhabEVlaElQb1dFNzNuV2drdEZUMVVkNlZGR2kxbHdnaU1OTXExQ2xVYy16T3FHcy14cFpSaklvcnNSc2JHdXdoUzZPTFlwOTBDZw?oc=5",
-      "source": "Финам",
-      "published_at": "2026-09-10T07:20:00+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "К Международному фестивалю молодежи в Екатеринбурге МТС модернизировал телеком-инфраструктуру",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB0VlBfc3NRekkwbGlJSmxYaXFwbVBKU2Jwd0daRU1ua3VoQy0tY2lQNHl3OE9TVGdBdjBIWmk3emxodXRNWHB3?oc=5",
-      "source": "URA.RU",
-      "published_at": "2026-09-09T08:29:00+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Половина операторов связи обманывает власти. Они не доплатили миллиарды на строительство оптоволоконных линий и улучшение связи",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54WFFGSFZxR1YteEhabXUxUEVSdmtXT3ZfRlA0eDhnaUQ4YXgyTTBCeGFrMU1DX2h4Zzk2V0N6MDJpa2wzZldmQWRqRE5GSnJDVGFtNTVJMUZfa1VKV2hXWlRxZ0VDNjc5SEQ4MlB1eG1BTnJwNFNv?oc=5",
-      "source": "CNews.ru",
-      "published_at": "2026-09-08T09:23:18+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "В Карповке новые базовые станции МТС обеспечивают жителей высокоскоростным интернетом",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBhRldtdVRPZU9yNnVCUnVJS0JRdnNPY1hmc1pDYW1OQ2RTemowRFRmODNWNlkxOGpyVlZiRDd3?oc=5",
-      "source": "Официальный портал Забайкальского края",
-      "published_at": "2026-09-08T01:38:13+00:00"
     }
   ]
 }
