@@ -1,22 +1,36 @@
 {
   "version": 1,
-  "generated_at": "2026-09-15T09:23:41+00:00",
+  "generated_at": "2026-09-16T09:17:00+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
+    {
+      "category": "mts",
+      "title": "Сим-сим, постройся. МТС покроет связью почти 400 малонаселенных пунктов, чтобы искупить вину",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbG0tU1d4T2QtWGlJR19BbHZQVmlYVFMzMi1QSDEtZUJUVG1nOEtYZ0FxT2dMa1hVRDBNXzExS0twUU5HcjlWOVJFcHpqQmhmZ2lLX3hFM1NLYlZVU0RvY1p0eUplM2tlQmUxbjFfVXNfSzNydjJuSTBJb3lWT3dPa01VYmtIdTZMejRrWERqelhERVhyMkR3NGdGanVJUENlYU5",
+      "source": "ComNews.ru",
+      "published_at": "2026-09-15T23:36:58+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС проведет связь в 370 малых населенных пунктов по мировому соглашению с ФАС - новости Право.ру",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5talBTVzl5OGx1ajdaMzJEMmNUVmR2RTBTVWJ5MGFtTk1JdXlFWHZmYUFhZnNRdTJWRE5TbUhLdEF4bjDSAUhBVV95cUxQM1RNOFNUUExjZUt2VlBUTVRpV05CcVltV0VDbFRhZ1N6c3pmNHpsbDlLMnloOWtQODFGVndOYjhabTdwX0ZaWGc?oc=5",
+      "source": "ПРАВО.Ru",
+      "published_at": "2026-09-15T13:11:30+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "МЕДСИ протестирует новую медицинскую информационную систему \"Ростелекома\"",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNnlWQlduTmQwTnp1bDNVZzJxa2hIcEVGaHJBa0ZDeWM5cFdZSWNST0hDX2JjWnhQeklQWDRaOEN6THB5YUtXS0FZZjAyeWY4LVZnV0FYUWUxWUNBVUZMbWVxemNxYUlCbGdXbzF6NnNyZmpKZHVtMjhNc0pMY0cybm5NZVBtUzFEejZyX25zMDJadGhvWGNyOVctQ01wUWlyRHV",
+      "source": "prospect.com.ru",
+      "published_at": "2026-09-15T10:12:36+00:00"
+    },
     {
       "category": "mts",
       "title": "Определены сёла, которые МТС обеспечит связью, чтобы компенсировать незаконно полученный доход",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdjNWX1Q1ZE9SMlZSWmtMVkRRZUxyS19leFpXeUxRZVJlcG5wd3NaZHBPeVdmY2loVlJkdzJhd3o0dldLTmFtRXBGSGpEZElfamNTX3lOT1R3akY4Wl95aU11bElyNUtkSFdLRVZ6NlJwMUN1WXBlZ0VnQzZ6SGNPc21hNkpza28wUnlxdTJQalJyRkZ0SVdqU0x3Z2hWZFU4R0V",
       "source": "Digital Russia",
       "published_at": "2026-09-15T08:24:31+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС построит сети связи в 370 малых населенных пунктах",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdl92OVd1YkZNQ1laZDRwelAyOXdmZFZ1TUltcThpeHl4LTdyenQ1LVZTZEdQNUhEbXpxcDlENkxhU3ZFVG9WYjJ2NHpXNWw4RFlGRFpPdmtqS2hfSWxISDhUYy1XZzUtQzZycVZ5TVkyZThRa1NUMXltdkE0UWE2YmVZOHMySFB2dG1NY1B2TmN0SkRGcXBhRy13WmdqQTdZYmp",
-      "source": "Финансы Mail",
-      "published_at": "2026-09-15T07:35:20+00:00"
     },
     {
       "category": "infrastructure",
@@ -34,10 +48,10 @@
     },
     {
       "category": "infrastructure",
-      "title": "«Медси» протестирует новую медицинскую информационную систему «Ростелекома»",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcXVRQlpyU3JVUnB4TkZqeXVTSzJ6azFLSVgybVh6V3JSVVM1Y3FSUjliLXFXb0dQd2dYQmZvWl9QYkxRMUx2aC0xWGlqUnNDQUVNN3ZaU0NhbUlQWHpxLUJuMEk2cnB6UjFGTVlMeEVrOFFRd1NjLUpRSWIzajhvWUc5T2xvM1BOeDVsdllNVHpXejJMRXpFdnhabERtWGFPc2w",
+      "title": "Видеонаблюдение «Ростелекома» связало в единую систему участки для голосования в Свердловской области",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdE43ZEJtYmdnTGs5UWROUDdON043M1VHeXBvQzdTVTVSODFkSC11MDJUdjdqT2lWaVQxdk55YnZ2YlZNMWU3VWlvajAySmU2NEltUHFIa2dLU1Z4aHJhU00tWHdFZ0xuaTZCOVFNOGxzV21XYlZURGZHRy1RRWstN0F3N0RyQmVmZEl3UWhUbHdQQlp4aHdXMjNHVS10ZnFhanZ",
       "source": "prospect.com.ru",
-      "published_at": "2026-09-14T22:53:16+00:00"
+      "published_at": "2026-09-15T00:04:06+00:00"
     },
     {
       "category": "telecom",
@@ -54,18 +68,18 @@
       "published_at": "2026-09-14T10:05:13+00:00"
     },
     {
-      "category": "telecom",
-      "title": "Маленькие, да удаленькие. Что ждет телеком на пороге 2027 года",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVk82WTVNaF9JTzJwY09abVRjbnhmckZOY0JpUlBKNUVYalVFdGE3eUZsUWtvaEpEYUpvNzlFVF9FSlFSRG1KX21rd2ZLcFUxOHJRTFgzb0dDOWVNTkZZdkZjWWNTLW1GdzlvWFNHODBFbXVRNzBpVy1GM2xfMjluQTJadnlQemxmelZCc3l2Yno4U183clhfTGVHNXZzY25ISlN",
-      "source": "ComNews.ru",
-      "published_at": "2026-09-14T09:45:44+00:00"
-    },
-    {
       "category": "infrastructure",
       "title": "Плавучие ЦОДы, чипы для ИИ и домашние роботы: что инвесторам показали выпускники Y Combinator",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSzFQeHZaVTV0SEwtUU1DVlV6VlVscTU0X09BZkVrOGZrOVFab2d2UGJTMFdFUmlKTUZZZUlEQUxiajd6ZjNqZEl6b2NEVWJkV0NIamlQYmk1aFJZYU1xTVZZN1ZOa1RPajRtbE5mOExYVDQ2d3d5N1ltY0pIUHdlWDU4OW9CQ1VfeXhGMHdPVnQxMmR6SGR2MlQ5LXI5Y3R0d3Z",
       "source": "incrussia.ru",
       "published_at": "2026-09-14T09:16:16+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Маленькие, да удаленькие. Что ждет телеком на пороге 2027 г.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSmpzYkVNZlo3TWdfV1NwSmF6SXpaRmpIQW4yYlFLczBLNFJMZHluYzlCb0lMNVliWmtQOFVQekFId0hTdkxyRHRxSHFxaWdQeE9hRGZwV3hNLVhEaEp5V2ZtN0Mzd3l1LVA5S1VncllRQi1yekFHSjVZQVUyTVpXYmRMbUtZQnZCcTZjUVI3eExrRFRsQ0g4bmtNTWJzUnl0b1M",
+      "source": "ComNews.ru",
+      "published_at": "2026-09-13T23:36:22+00:00"
     },
     {
       "category": "telecom",
@@ -82,18 +96,11 @@
       "published_at": "2026-09-11T16:11:40+00:00"
     },
     {
-      "category": "mts",
-      "title": "Опубликован график отключений света в Пензе с 17 сентября по 29 октября",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fakYzTkw1ZUh4cHhuNUd1TFF4UURxUWotdW9CS0ZSSDBxajc0TnhJUjhzdEctT21hc3FTRjhnOUJWRjdlMHhiVlFKQ0RXYmlSRDFLRFcyYw?oc=5",
-      "source": "Пенза Пресс",
-      "published_at": "2026-09-11T15:14:09+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "В США заблокировали 75 проектов ЦОД на $130 млрд за квартал",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlaEpuZ1hjMUdVTjc0OEZJTFlyLU43THpKcDJXY0JRTDhwenJqMzF3ZkJ0bDFJT2xZRGFOTEZWWkxWZlpveUJMYjFkV1ZiYUxJWHVEcHdQVlFzTDR5MzlnQ1BUZ0R5RTljRHpBYld3LXVTYlAweGdkYmxzSUI?oc=5",
-      "source": "Techora.ru",
-      "published_at": "2026-09-11T13:53:58+00:00"
+      "category": "telecom",
+      "title": "5G пришел в Россию: какие города подключили первыми",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZTFFwanQ2UkF4Z2JsMjJTcnZITWZScDlsWDNkeWZFenFGVnJhU0N2SDFodkp3YVYzNEM5bFZFWVl1cWpfOFA2QXB3UmxVUm5IU2paVEdZV3lDenF3N2J3YmlyeDFzT1U?oc=5",
+      "source": "Наука Mail",
+      "published_at": "2026-09-11T15:36:45+00:00"
     },
     {
       "category": "telecom",
@@ -106,7 +113,7 @@
       "category": "mts",
       "title": "МТС в 2027 году увеличит вложения в сети 5G на 20%, до 57 млрд рублей",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42aHYwQWZ3SHNQRnNzNXNCdHRra2tOc0VpeUtieFJ0UXA3cnpISXdsN24welpabHV0N0FWOVVUQmhLNENiMXdoTExMY0xGS01NR3fSAUtBVV95cUxNN1FBbEpWZV9PVlE1NmtPZGh6bVFpS2dZQ3pmTVFHRC1HbEFJbDR5NUk4MkNQa0hJQVZuMXhwMWJfeDVYMFh5M0xnWG8?oc=",
-      "source": "interfax.ru",
+      "source": "Интерфакс",
       "published_at": "2026-09-11T07:17:00+00:00"
     },
     {
@@ -114,21 +121,14 @@
       "title": "В России запустили связь 5G",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9BX0k0TWZlRFdFdy1HbWNxSHBtU3Q1dDlTTUk3c3ItZlJ2Vll2YV9nN2lfc3NsQ1UwU2lqb3BHQ0toeDNpZDVBYkc1MkFKSk1RbGVFd3MwNEpDT0l2NURCWnc4eVBXY0I3RkQzclVCdnlFbUlDWXl1X0RKWFY?oc=5",
       "source": "Sostav.ru",
-      "published_at": "2026-09-11T06:34:12+00:00"
+      "published_at": "2026-09-11T06:30:00+00:00"
     },
     {
       "category": "telecom",
       "title": "Крупнейшие операторы РФ запустили первые коммерческие сети 5G в 16 городах",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iTHdOLVFTNjhvbkQ2ejRGdklEcU8yOU9PenU1MDE3Yy1Ka19JSGpSMEFuSmU2c09BWl93ZzNiVXYzcEJxUFdWMWhDQTNWUGvSAUtBVV95cUxPWEp5dGd6RWtVbHRGbUpmS1FBQU9IZm5icnlmWGlkcm5fT1dVc0tBVmV3WWJVN3VBdnF0SUlPVHQyYlo0NUwwbnJ2N2c?oc=5",
-      "source": "interfax.ru",
+      "source": "Интерфакс",
       "published_at": "2026-09-11T06:17:00+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "5G пришел в Россию: какие города подключили первыми",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZTFFwanQ2UkF4Z2JsMjJTcnZITWZScDlsWDNkeWZFenFGVnJhU0N2SDFodkp3YVYzNEM5bFZFWVl1cWpfOFA2QXB3UmxVUm5IU2paVEdZV3lDenF3N2J3YmlyeDFzT1U?oc=5",
-      "source": "Наука Mail",
-      "published_at": "2026-09-10T14:30:16+00:00"
     }
   ]
 }
