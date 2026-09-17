@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-16T09:17:00+00:00",
+  "generated_at": "2026-09-17T09:25:31+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
@@ -10,6 +10,20 @@
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbG0tU1d4T2QtWGlJR19BbHZQVmlYVFMzMi1QSDEtZUJUVG1nOEtYZ0FxT2dMa1hVRDBNXzExS0twUU5HcjlWOVJFcHpqQmhmZ2lLX3hFM1NLYlZVU0RvY1p0eUplM2tlQmUxbjFfVXNfSzNydjJuSTBJb3lWT3dPa01VYmtIdTZMejRrWERqelhERVhyMkR3NGdGanVJUENlYU5",
       "source": "ComNews.ru",
       "published_at": "2026-09-15T23:36:58+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС в рамках исполнения мирового соглашения создаст инфраструктуру связи в 370 малых населенных пунктах",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOLVdtRXRnWUtKdE5IVFhqbmtfOTRRNG5ZaUNvWnZLRTlGTm5tZVY5aDgySmNSeXFsUlJCQzRUZkdTbHlFbkFfRVhQSXVmckprTExqSWc1MUtxbW91RU12QXlKUFlOVmFMSXNuMFNPMjlnZUtDc0RQejJ1M1A2VHMwWlVMVmh0OEFiOVZFaVR1RW9hMjNhSFo0ME5zcWF2bjdvZTN",
+      "source": "retail.ru",
+      "published_at": "2026-09-15T22:16:03+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "Эра сверхбыстрых вычислений: в ИТМО появился Институт фотоники",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyNHNPd2pHQnJpWGVhelhfTmtuMUhKTFJHS1U1YXQ2TlhpbE5VVHZFNGVUbkM1OWhRYldZNkJoQ0V1cDZ6TE11djVxbWtTVzN1czNnazZQWFQ2MEhUSGV6WG5CTQ?oc=5",
+      "source": "Университет ИТМО",
+      "published_at": "2026-09-15T13:40:38+00:00"
     },
     {
       "category": "mts",
@@ -27,10 +41,10 @@
     },
     {
       "category": "mts",
-      "title": "Определены сёла, которые МТС обеспечит связью, чтобы компенсировать незаконно полученный доход",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdjNWX1Q1ZE9SMlZSWmtMVkRRZUxyS19leFpXeUxRZVJlcG5wd3NaZHBPeVdmY2loVlJkdzJhd3o0dldLTmFtRXBGSGpEZElfamNTX3lOT1R3akY4Wl95aU11bElyNUtkSFdLRVZ6NlJwMUN1WXBlZ0VnQzZ6SGNPc21hNkpza28wUnlxdTJQalJyRkZ0SVdqU0x3Z2hWZFU4R0V",
-      "source": "Digital Russia",
-      "published_at": "2026-09-15T08:24:31+00:00"
+      "title": "МТС построит сети связи в 370 малых населенных пунктах",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdl92OVd1YkZNQ1laZDRwelAyOXdmZFZ1TUltcThpeHl4LTdyenQ1LVZTZEdQNUhEbXpxcDlENkxhU3ZFVG9WYjJ2NHpXNWw4RFlGRFpPdmtqS2hfSWxISDhUYy1XZzUtQzZycVZ5TVkyZThRa1NUMXltdkE0UWE2YmVZOHMySFB2dG1NY1B2TmN0SkRGcXBhRy13WmdqQTdZYmp",
+      "source": "Финансы Mail",
+      "published_at": "2026-09-15T07:35:20+00:00"
     },
     {
       "category": "infrastructure",
@@ -54,11 +68,18 @@
       "published_at": "2026-09-15T00:04:06+00:00"
     },
     {
+      "category": "mts",
+      "title": "МТС отключил связь и интернет в Пензенской области",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfSmQ0T0M0UFRXeHo3bi1kNzdOamw4aDVaZFhPVzVUS25vMkRiY0VNZU5FNmNYSHNPQjVEMGw1SzN5ZnctcFdNVnJXZFlBMzMwNXRlY1ZMZVd3cUdVbkJyS25aT1h0d21pendSNURhd0NLekhYakMw?oc=5",
+      "source": "Techora.ru",
+      "published_at": "2026-09-14T12:24:17+00:00"
+    },
+    {
       "category": "telecom",
-      "title": "Нанесен удар по офису крупнейшего сотового оператора Украины",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWktDT0FmVzV1WExVd1hPeS1LejRGcDdYOU85MFJNUDlrbVdIM2x0cEF2ZmQ0bldaek4xWHRaX19OV2kxbnhfMnRVb1RXVUVjTlFzdXJMZ0Vkb005MEhTQXRhdHVlVnhIVzlseEJoSHRjUzgtV1BWY0RvVmluVFU4TA?oc=5",
-      "source": "CNews.ru",
-      "published_at": "2026-09-14T11:52:52+00:00"
+      "title": "В России резко сократится число региональных операторов связи",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa0tzZnYtc0JHMzhmZ2pqdUhYTmZFcFA3S2hkeXZoMFdYdEp5TWhTZkN4eHZCY1BPbTVsMVJ5emtKZWJ6bUcxX2h0UXZXMVhrNEVHRDJSdHd1MzViYktWUnd1aVdMbm8zQ0VrdVZ3aDdCQnFHa09ZUEZLd1NlUlMtT1JpcDY5SFV0QWIzSUNVSk1KaTM5Rmc?oc=5",
+      "source": "lapsha.media",
+      "published_at": "2026-09-14T10:40:26+00:00"
     },
     {
       "category": "infrastructure",
@@ -75,6 +96,13 @@
       "published_at": "2026-09-14T09:16:16+00:00"
     },
     {
+      "category": "mts",
+      "title": "МТС открыла доступ к 5G",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzc24tRWNCdWg0UWxSaFZpazNILWt3YXVhZS1tcVJQT0tqaEhVdW4tdkNULUZaLTJsSnA1NTdxT05sVXRLdzhBb1M2WXN3dzEyTWZ1bF9RNGxNSlBKeDZnVDF2NHA?oc=5",
+      "source": "Хабаровский край сегодня",
+      "published_at": "2026-09-14T00:18:52+00:00"
+    },
+    {
       "category": "telecom",
       "title": "Маленькие, да удаленькие. Что ждет телеком на пороге 2027 г.",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSmpzYkVNZlo3TWdfV1NwSmF6SXpaRmpIQW4yYlFLczBLNFJMZHluYzlCb0lMNVliWmtQOFVQekFId0hTdkxyRHRxSHFxaWdQeE9hRGZwV3hNLVhEaEp5V2ZtN0Mzd3l1LVA5S1VncllRQi1yekFHSjVZQVUyTVpXYmRMbUtZQnZCcTZjUVI3eExrRFRsQ0g4bmtNTWJzUnl0b1M",
@@ -89,13 +117,6 @@
       "published_at": "2026-09-13T21:02:54+00:00"
     },
     {
-      "category": "mts",
-      "title": "МТС запускает сеть 5G | 11 сентября 2026 | МТС - Москва и Московская область",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0ycExqb290a0JPVVRPV0syUEJiT2p0al9wUzdyYnVRXy1memlTY1R3ckkxaEpuNzFJSzRrRVhuSnNTS1pycERnV3pFY2lSbHVHZjN3NGY3SGN6NXJUbHlpTExVc0R6eEJXUWw1b0tKajNjWGUybzdwWE40Zw?oc=5",
-      "source": "МТС",
-      "published_at": "2026-09-11T16:11:40+00:00"
-    },
-    {
       "category": "telecom",
       "title": "5G пришел в Россию: какие города подключили первыми",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZTFFwanQ2UkF4Z2JsMjJTcnZITWZScDlsWDNkeWZFenFGVnJhU0N2SDFodkp3YVYzNEM5bFZFWVl1cWpfOFA2QXB3UmxVUm5IU2paVEdZV3lDenF3N2J3YmlyeDFzT1U?oc=5",
@@ -108,27 +129,6 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZjFfaDFVcG9LaVBhaVBGWF9KSTNqYTYycGR3TUdybU5BbXU5QXNkaHVrclc2WldwOHNtMUlnNUZwdXE3ZENTQjVEX0ZGcFYtSElRWmlUS3VIbi10ZGUwN2s3VlJVd1NHWTJXV3J6TUp3X2tNbVNGMm5yQksweDNpdndqT3Y0dk1pVTZxU1JtMnA3d0NmVjc3ag?oc=5",
       "source": "TelecomDaily",
       "published_at": "2026-09-11T08:40:48+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС в 2027 году увеличит вложения в сети 5G на 20%, до 57 млрд рублей",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42aHYwQWZ3SHNQRnNzNXNCdHRra2tOc0VpeUtieFJ0UXA3cnpISXdsN24welpabHV0N0FWOVVUQmhLNENiMXdoTExMY0xGS01NR3fSAUtBVV95cUxNN1FBbEpWZV9PVlE1NmtPZGh6bVFpS2dZQ3pmTVFHRC1HbEFJbDR5NUk4MkNQa0hJQVZuMXhwMWJfeDVYMFh5M0xnWG8?oc=",
-      "source": "Интерфакс",
-      "published_at": "2026-09-11T07:17:00+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "В России запустили связь 5G",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9BX0k0TWZlRFdFdy1HbWNxSHBtU3Q1dDlTTUk3c3ItZlJ2Vll2YV9nN2lfc3NsQ1UwU2lqb3BHQ0toeDNpZDVBYkc1MkFKSk1RbGVFd3MwNEpDT0l2NURCWnc4eVBXY0I3RkQzclVCdnlFbUlDWXl1X0RKWFY?oc=5",
-      "source": "Sostav.ru",
-      "published_at": "2026-09-11T06:30:00+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Крупнейшие операторы РФ запустили первые коммерческие сети 5G в 16 городах",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iTHdOLVFTNjhvbkQ2ejRGdklEcU8yOU9PenU1MDE3Yy1Ka19JSGpSMEFuSmU2c09BWl93ZzNiVXYzcEJxUFdWMWhDQTNWUGvSAUtBVV95cUxPWEp5dGd6RWtVbHRGbUpmS1FBQU9IZm5icnlmWGlkcm5fT1dVc0tBVmV3WWJVN3VBdnF0SUlPVHQyYlo0NUwwbnJ2N2c?oc=5",
-      "source": "Интерфакс",
-      "published_at": "2026-09-11T06:17:00+00:00"
     }
   ]
 }
