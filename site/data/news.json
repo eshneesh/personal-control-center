@@ -1,9 +1,44 @@
 {
   "version": 1,
-  "generated_at": "2026-09-17T09:25:31+00:00",
+  "generated_at": "2026-09-18T08:59:40+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
+    {
+      "category": "telecom",
+      "title": "После запуска 5G мобильный интернет в России ускорился на 15-30%",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmeTRJOFBsQTFrLXNIeGctXzEtSlN4RUNKNlBUUDJicG5sYmlEOFdsWTRpcTRxM1NYNmFsMGFfMVN5dUhmclFBN3BCZ0VFZjdZellCTG1YTjVqY1ZVYWJhSU5WNUd3N1nSAWxBVV95cUxQdTI5Nlpnd1hMRHlWbTFGdTB0Znl2RlZIX0x5V1hrU0lRdmJvUnJJWi1kZTdBXzJ2Nnd",
+      "source": "Anti-Malware.ru",
+      "published_at": "2026-09-18T06:15:03+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС запустила связь в сахалинском Зеленодольске",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWDVzeHk3bFNoSm81a2lzVDdvYy13R3NicXo2WmdNSUVSVEphMW4zbHlMbmViRk5NcWpiSVZ3M285eC1yNDhxUXdQamp4d2pwSXdsMUFzVnZCRUpqb1FpdXJzdENtNGUtVmN6RTZSd2lrQWlmYzhKRzR3OUNmYXczRQ?oc=5",
+      "source": "CNews.ru",
+      "published_at": "2026-09-18T04:25:11+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Запуск 5G в России повысил среднюю скорость интернета на 15%",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdmZvQ1BQem9MR253Z0syOHBHWGNQZ2N2cXBXN1hYODlwRUVodXJKRHV0OXpmdXZPT0xRM1VGRDktTzA3TlJMajVoaVJGbHVKNkUxRGhNZE91Y0tmckY4Y2lVaFZWa0dpbmhYOG5oa19XbnV1ZjhOS01QUC11SmRPcE5td2pGY3dOcVptX3kyMEZ2TW9faHhCVnZ4dFN0Q2ll?oc",
+      "source": "Forbes.ru",
+      "published_at": "2026-09-17T21:00:00+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "5G в МТС",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdTN3dEdySERteTJNbkVLdk5ScC1RX3plNDQwenZjZW9YY2lIcVJFRTJfeXZBTWhNRnIwb2hzTjVwcDQ4WllFbE51cnNVYTVUMW15VkhidXJ0OWJ6Qno4T2xEZ0xjUk94REpMMDFZNWl5d0d2dEVkaXhYN0kybHFnUmF0SmEwVzEzYzZ3X05hUjRZeTg2bDJsaDNrQTBNQ0Fx?oc",
+      "source": "TAdviser",
+      "published_at": "2026-09-17T05:00:00+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС полностью покрыла связью Мстихино - Общество - Новости - Калужский перекресток Калуга",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3YTQwVnFpWUZ0Q0lUMDBYYnBLZWc3THJIZjQ0ZV9DQ3VLZDVsc2wxc00wbG5wQnZMWDhORnRtTVUwLXpZZDlESTdYaEo5VjN1N3c?oc=5",
+      "source": "Калужский перекрёсток",
+      "published_at": "2026-09-16T13:24:33+00:00"
+    },
     {
       "category": "mts",
       "title": "Сим-сим, постройся. МТС покроет связью почти 400 малонаселенных пунктов, чтобы искупить вину",
@@ -12,17 +47,10 @@
       "published_at": "2026-09-15T23:36:58+00:00"
     },
     {
-      "category": "mts",
-      "title": "МТС в рамках исполнения мирового соглашения создаст инфраструктуру связи в 370 малых населенных пунктах",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOLVdtRXRnWUtKdE5IVFhqbmtfOTRRNG5ZaUNvWnZLRTlGTm5tZVY5aDgySmNSeXFsUlJCQzRUZkdTbHlFbkFfRVhQSXVmckprTExqSWc1MUtxbW91RU12QXlKUFlOVmFMSXNuMFNPMjlnZUtDc0RQejJ1M1A2VHMwWlVMVmh0OEFiOVZFaVR1RW9hMjNhSFo0ME5zcWF2bjdvZTN",
-      "source": "retail.ru",
-      "published_at": "2026-09-15T22:16:03+00:00"
-    },
-    {
       "category": "infrastructure",
       "title": "Эра сверхбыстрых вычислений: в ИТМО появился Институт фотоники",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyNHNPd2pHQnJpWGVhelhfTmtuMUhKTFJHS1U1YXQ2TlhpbE5VVHZFNGVUbkM1OWhRYldZNkJoQ0V1cDZ6TE11djVxbWtTVzN1czNnazZQWFQ2MEhUSGV6WG5CTQ?oc=5",
-      "source": "Университет ИТМО",
+      "source": "news.itmo.ru",
       "published_at": "2026-09-15T13:40:38+00:00"
     },
     {
@@ -31,13 +59,6 @@
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5talBTVzl5OGx1ajdaMzJEMmNUVmR2RTBTVWJ5MGFtTk1JdXlFWHZmYUFhZnNRdTJWRE5TbUhLdEF4bjDSAUhBVV95cUxQM1RNOFNUUExjZUt2VlBUTVRpV05CcVltV0VDbFRhZ1N6c3pmNHpsbDlLMnloOWtQODFGVndOYjhabTdwX0ZaWGc?oc=5",
       "source": "ПРАВО.Ru",
       "published_at": "2026-09-15T13:11:30+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "МЕДСИ протестирует новую медицинскую информационную систему \"Ростелекома\"",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNnlWQlduTmQwTnp1bDNVZzJxa2hIcEVGaHJBa0ZDeWM5cFdZSWNST0hDX2JjWnhQeklQWDRaOEN6THB5YUtXS0FZZjAyeWY4LVZnV0FYUWUxWUNBVUZMbWVxemNxYUlCbGdXbzF6NnNyZmpKZHVtMjhNc0pMY0cybm5NZVBtUzFEejZyX25zMDJadGhvWGNyOVctQ01wUWlyRHV",
-      "source": "prospect.com.ru",
-      "published_at": "2026-09-15T10:12:36+00:00"
     },
     {
       "category": "mts",
@@ -76,16 +97,16 @@
     },
     {
       "category": "telecom",
-      "title": "В России резко сократится число региональных операторов связи",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa0tzZnYtc0JHMzhmZ2pqdUhYTmZFcFA3S2hkeXZoMFdYdEp5TWhTZkN4eHZCY1BPbTVsMVJ5emtKZWJ6bUcxX2h0UXZXMVhrNEVHRDJSdHd1MzViYktWUnd1aVdMbm8zQ0VrdVZ3aDdCQnFHa09ZUEZLd1NlUlMtT1JpcDY5SFV0QWIzSUNVSk1KaTM5Rmc?oc=5",
-      "source": "lapsha.media",
-      "published_at": "2026-09-14T10:40:26+00:00"
+      "title": "Нанесен удар по офису крупнейшего сотового оператора Украины",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWktDT0FmVzV1WExVd1hPeS1LejRGcDdYOU85MFJNUDlrbVdIM2x0cEF2ZmQ0bldaek4xWHRaX19OV2kxbnhfMnRVb1RXVUVjTlFzdXJMZ0Vkb005MEhTQXRhdHVlVnhIVzlseEJoSHRjUzgtV1BWY0RvVmluVFU4TA?oc=5",
+      "source": "CNews.ru",
+      "published_at": "2026-09-14T11:52:52+00:00"
     },
     {
       "category": "infrastructure",
       "title": "«Ростелеком» завершил подготовку цифровой инфраструктуры к голосованию",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQREdKRFFlVkYwa1dvZXVydWVWNFRXNUQ2N1BBMXBCRGZHUHY2dkwzbmlpRGVxUV9BM0xCOHJiV3N2WlBwanMtQU9KRjdrZVNJOHBlMkpRYVlTNlhwV3JyMnZacVgwWGZyM2NYZlQwcng1SmJNMnZXekpScVc4WmxDWVpvZlg5QjlJYVlvOHNFVjMtdDR5VkwwVVhHOFZ0TEVjSnY",
-      "source": "Журнал Эксперт-Урал",
+      "source": "expert-ural.com",
       "published_at": "2026-09-14T10:05:13+00:00"
     },
     {
@@ -108,27 +129,6 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSmpzYkVNZlo3TWdfV1NwSmF6SXpaRmpIQW4yYlFLczBLNFJMZHluYzlCb0lMNVliWmtQOFVQekFId0hTdkxyRHRxSHFxaWdQeE9hRGZwV3hNLVhEaEp5V2ZtN0Mzd3l1LVA5S1VncllRQi1yekFHSjVZQVUyTVpXYmRMbUtZQnZCcTZjUVI3eExrRFRsQ0g4bmtNTWJzUnl0b1M",
       "source": "ComNews.ru",
       "published_at": "2026-09-13T23:36:22+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Как развивается спутниковое телевидение в эпоху интернета",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RYmdIaWh3Z1BFRjJ2dC1ISnVSaklJQV9PZHMta1BNWFpkeU9kd0hQRjdWSUZXRGcxZXhBOFlHWWdnQlZqYm9vOXpyblNLTnB4bEF2OFVmeUpFb2hpU3c?oc=5",
-      "source": "Эксперт",
-      "published_at": "2026-09-13T21:02:54+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "5G пришел в Россию: какие города подключили первыми",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZTFFwanQ2UkF4Z2JsMjJTcnZITWZScDlsWDNkeWZFenFGVnJhU0N2SDFodkp3YVYzNEM5bFZFWVl1cWpfOFA2QXB3UmxVUm5IU2paVEdZV3lDenF3N2J3YmlyeDFzT1U?oc=5",
-      "source": "Наука Mail",
-      "published_at": "2026-09-11T15:36:45+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Связь 5G запущена в России в коммерческом режиме",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZjFfaDFVcG9LaVBhaVBGWF9KSTNqYTYycGR3TUdybU5BbXU5QXNkaHVrclc2WldwOHNtMUlnNUZwdXE3ZENTQjVEX0ZGcFYtSElRWmlUS3VIbi10ZGUwN2s3VlJVd1NHWTJXV3J6TUp3X2tNbVNGMm5yQksweDNpdndqT3Y0dk1pVTZxU1JtMnA3d0NmVjc3ag?oc=5",
-      "source": "TelecomDaily",
-      "published_at": "2026-09-11T08:40:48+00:00"
     }
   ]
 }
