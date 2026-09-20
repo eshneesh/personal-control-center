@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-19T08:47:05+00:00",
+  "generated_at": "2026-09-20T09:16:06+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
@@ -8,8 +8,15 @@
       "category": "telecom",
       "title": "Как развивается спутниковое телевидение в эпоху интернета",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RYmdIaWh3Z1BFRjJ2dC1ISnVSaklJQV9PZHMta1BNWFpkeU9kd0hQRjdWSUZXRGcxZXhBOFlHWWdnQlZqYm9vOXpyblNLTnB4bEF2OFVmeUpFb2hpU3c?oc=5",
-      "source": "Эксперт",
+      "source": "expert.ru",
       "published_at": "2026-09-19T05:49:30+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Мобильная связь в Белоруссии для приезжего из России.",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DUk9vWlhVUkVoMWlfdWtOVjdESTRYeEZwUmZadkllVWxXb2dmeWZFbng0SjQzOGZvazdDZnNCYWttRU0xSFpiYVREbGtyWHh2RlQ4?oc=5",
+      "source": "Банки.ру",
+      "published_at": "2026-09-18T14:58:35+00:00"
     },
     {
       "category": "mts",
@@ -47,18 +54,18 @@
       "published_at": "2026-09-17T13:52:57+00:00"
     },
     {
+      "category": "telecom",
+      "title": "Что с мобильным интернетом в Казани: проблемы, жалобы и решения",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN1ZfVG5Uc2FWV0lvVUNDNkkxRjFnUl90ZWxDUEpDTVpVMURCOVlPNm53V01JMFlFLWxrc2kyNnNGNjRYYk43THZGQzJudFV6UXh0YmZlVktzQ0dGUG83bzQ3UTBEU1F3VmdQUlU3MEVpYnZqRGt0dEpqaUxDNXpVb3dkdUNLZjBhbjZ0OHNfM3ZQbm9Yel9HQm1HeDBBWl9wTmp",
+      "source": "inkazan.ru",
+      "published_at": "2026-09-17T08:00:00+00:00"
+    },
+    {
       "category": "mts",
       "title": "5G в МТС",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdTN3dEdySERteTJNbkVLdk5ScC1RX3plNDQwenZjZW9YY2lIcVJFRTJfeXZBTWhNRnIwb2hzTjVwcDQ4WllFbE51cnNVYTVUMW15VkhidXJ0OWJ6Qno4T2xEZ0xjUk94REpMMDFZNWl5d0d2dEVkaXhYN0kybHFnUmF0SmEwVzEzYzZ3X05hUjRZeTg2bDJsaDNrQTBNQ0Fx?oc",
       "source": "TAdviser",
       "published_at": "2026-09-17T05:00:00+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "СМИ: запуск 5G в диапазоне 4,9 ГГц в РФ пока ограничен пилотными площадками",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FdEZYSk1sWVhBMnZodUhYcFdqdmxZczdrYVFIUFJzTWlzbDRfaVZZYUprdWgxbGFpT1BVYi1kSDdMRDBjZG92OHpoYjJMcFZkS3FYTmRjQi3SAVhBVV95cUxPRXRGWEpNbFlYQTJ2aHVIWHBXanZsWXM3a2FRSFBSc01pc2w0X2lWWWFKa3VoMWxhaU9QVWItZEg3TEQwY2Rvdjh",
-      "source": "Хабр",
-      "published_at": "2026-09-16T04:13:05+00:00"
     },
     {
       "category": "mts",
@@ -103,6 +110,13 @@
       "published_at": "2026-09-15T00:54:15+00:00"
     },
     {
+      "category": "infrastructure",
+      "title": "Видеонаблюдение «Ростелекома» связало в единую систему участки для голосования в Свердловской области",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdE43ZEJtYmdnTGs5UWROUDdON043M1VHeXBvQzdTVTVSODFkSC11MDJUdjdqT2lWaVQxdk55YnZ2YlZNMWU3VWlvajAySmU2NEltUHFIa2dLU1Z4aHJhU00tWHdFZ0xuaTZCOVFNOGxzV21XYlZURGZHRy1RRWstN0F3N0RyQmVmZEl3UWhUbHdQQlp4aHdXMjNHVS10ZnFhanZ",
+      "source": "prospect.com.ru",
+      "published_at": "2026-09-15T00:04:06+00:00"
+    },
+    {
       "category": "mts",
       "title": "МТС отключил связь и интернет в Пензенской области",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfSmQ0T0M0UFRXeHo3bi1kNzdOamw4aDVaZFhPVzVUS25vMkRiY0VNZU5FNmNYSHNPQjVEMGw1SzN5ZnctcFdNVnJXZFlBMzMwNXRlY1ZMZVd3cUdVbkJyS25aT1h0d21pendSNURhd0NLekhYakMw?oc=5",
@@ -115,20 +129,6 @@
       "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxONUdVYkdHZnFJRFpTMU40VjJSdEZ3ZkowSk1SekgzcTNoV1U4RFBNWUFURWwxWXB4X2hybmx0ZEFWX1dDdnFFZHlrMGFnUVlUSTVQUjZ1a09Pd0F6UVZYVDJKVnpxRFBRcGpzMW84MXdyRWR4VjBqckY1SmVBaTc2TnJ0Nm81aFRoTzJIRDc2by1BRHB5bURvNTYyN3FUYTktUm0",
       "source": "TAdviser",
       "published_at": "2026-09-14T12:19:44+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Нанесен удар по офису крупнейшего сотового оператора Украины",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWktDT0FmVzV1WExVd1hPeS1LejRGcDdYOU85MFJNUDlrbVdIM2x0cEF2ZmQ0bldaek4xWHRaX19OV2kxbnhfMnRVb1RXVUVjTlFzdXJMZ0Vkb005MEhTQXRhdHVlVnhIVzlseEJoSHRjUzgtV1BWY0RvVmluVFU4TA?oc=5",
-      "source": "CNews.ru",
-      "published_at": "2026-09-14T11:52:52+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "«Ростелеком» завершил подготовку цифровой инфраструктуры к голосованию",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQREdKRFFlVkYwa1dvZXVydWVWNFRXNUQ2N1BBMXBCRGZHUHY2dkwzbmlpRGVxUV9BM0xCOHJiV3N2WlBwanMtQU9KRjdrZVNJOHBlMkpRYVlTNlhwV3JyMnZacVgwWGZyM2NYZlQwcng1SmJNMnZXekpScVc4WmxDWVpvZlg5QjlJYVlvOHNFVjMtdDR5VkwwVVhHOFZ0TEVjSnY",
-      "source": "Эксперт-Урал",
-      "published_at": "2026-09-14T10:05:13+00:00"
     }
   ]
 }
