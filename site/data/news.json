@@ -1,9 +1,65 @@
 {
   "version": 1,
-  "generated_at": "2026-09-20T09:16:06+00:00",
+  "generated_at": "2026-09-22T09:16:59+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
+    {
+      "category": "infrastructure",
+      "title": "Казахстан расширяет магистральную инфраструктуру связи в рамках нацпроекта Доступный интернет",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5SV9acHEzXzllNFh2NEozdXhSelY0MFB1Uk5Kc0pGS2pEZnpfaFlfZzVCY1dIR0RvbXJCV09jQWpmNnVwdmVxeEZQcU9rY1hjenV5U0hkNlhwNU5xSERISjdLRUhmVHNCSTZ0VWZOWEEzdUFKMF95Yw?oc=5",
+      "source": "Правда.Ру",
+      "published_at": "2026-09-22T07:02:00+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "Старинная станица Етеревская впервые вышла на связь благодаря отечественной базовой станции МТС",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOamJUTWxmZ1E2RVZPOUlPQmlTVFI5THZoYlBSMDJmM2pkMHhtRWV2YnJmQ2oxT3FRYUkzeDBNdTJIdDJlMDlqalN5bmdGNXNBQjVTWmZFTUtGX1d6Yzd3X0NhX0FOVGtrZFdnRktVNHBNdi0wZ3FpLUFldVl2QjBvOWlweVJrYlBRZVp5eDFHeURJOWVQZVNDRWp5OGJDZ2doNk9",
+      "source": "Городские вести» - Волгоград",
+      "published_at": "2026-09-21T13:26:00+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Почему не работает мобильный интернет 21 сентября: причины, сбои в России",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS3dJeVh1TmxTREtDelQ4VUZQdHFIZWt3RHUyejVZTkpCQmhiTUJEclZXLVpoQlV1WmZtd1FWMEc3dXpqMy1SVG9IaUQ0QTZxME02RUxFckVpUWdKQm1mSWUweTd0V0lRREhMVEZOVzVHQ2R4LWhYMEVlUERxbi1xYlVGb1ZodjNaQ2VzYWRabTFobVlxQjNSa0ZfMjFEZ2g2aVo",
+      "source": "NEWS.ru",
+      "published_at": "2026-09-21T08:25:58+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС обновила сеть в поселке угольщиков на западе Красноярского края",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1melB1U0loRUN3d2dRVmNBM1N3UTduMG8yNVI5Z1p3aUZZNGdrc2xtVThMbXRZN3hTQlVhNXdRRlhOSWViTEHSAVpBVV95cUxNRXZ1LVc1T3JUTlJCcC1IaWdrbjQ4WS1DV1A1a2d1SjdDNWRVcHdMelJhNUNjdjBMMXZReTJNZm9vaTVWMHlUbmVucDNWNWxKcTNSTng0bFNIZ1E",
+      "source": "Newslab",
+      "published_at": "2026-09-21T08:01:00+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Новые правила могут изменить интернет в России: что ждет операторов и абонентов",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWjgyM1VKRjFLOUtqdWtZQkJWRGx5SHh0R1BlNC1OS2kyOFludksyYnNSSExRYXVZcjlyamF2R3M2ZmNnSS1tRXhzVHkxN2UxZmY0X3A1UkVIdmh3RzZFQUo5NEVFS0JfV3ByWXFQV21GNi1HTG1yQlp0ZzRfX2Z1R0VkdklPZkRTdkszLWxnSG40VkN6b05UbjZ2ZGNoRHJlOEw",
+      "source": "Пруфы",
+      "published_at": "2026-09-21T05:14:50+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Видишь 5G? А он есть! Операторы связи не смогут развернуть 5G в диапазоне n79, пока не перейдут на отечественное оборудование",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOTWRHNWtReDVvLWlHUWJrN2wxdTNqX0JSVVNZTEpoNVhWSkpvM0VmRnd0eDF5MlNWYk85WjRiSkRpM2oxa0JKSU5xRDhPSTA0STNvZ2pSZjlGTTl3d1NZcS1IQklqd3hyalZFWUE1dEdMNjZfNVVBbXZZbG1zalAxNmwtM0xjZzNjVFdYU2thT1VaOTlOZlo0c293YnN1dTFoUEx",
+      "source": "ComNews.ru",
+      "published_at": "2026-09-20T23:44:58+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "Что там с телекомом: 5G пока не радует, стройка дорожает, а МТС меняет дивидендную политику",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50WUd5UGNEa2l4RzRtem1TZ2ZKZ0JWTlVlcDFWQnFWakNWbVBlemJITFp3NzhHWEN0Tk5KTXhac2tEaGpvVzNWU1VCMzZ0ZVJpYUJV0gFYQVVfeXFMTWxMRUlHRHJ5dmtHMGhsbnBLVUZfdjFDU3FYZFYtdXRjY2k3dk01cGVTVWZpRXdUODlCZGowT0RMTTNIZEFWY1Fza1RQN0Y",
+      "source": "kod.ru",
+      "published_at": "2026-09-20T23:30:27+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "В России снова жалуются на недоступность App Store. Сбой произошел на фоне перебоев со связью в дни выборов",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1NYlUyYWNYLW1iOFh3TExhUUtyaWhSY2I0S1lIQ0xNTFNxUVdDalRQUWdGYzRQeThGQk9ZM09ValY3RnM?oc=5",
+      "source": "theins.ru",
+      "published_at": "2026-09-20T10:37:21+00:00"
+    },
     {
       "category": "telecom",
       "title": "Как развивается спутниковое телевидение в эпоху интернета",
@@ -12,25 +68,11 @@
       "published_at": "2026-09-19T05:49:30+00:00"
     },
     {
-      "category": "telecom",
-      "title": "Мобильная связь в Белоруссии для приезжего из России.",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DUk9vWlhVUkVoMWlfdWtOVjdESTRYeEZwUmZadkllVWxXb2dmeWZFbng0SjQzOGZvazdDZnNCYWttRU0xSFpiYVREbGtyWHh2RlQ4?oc=5",
-      "source": "Банки.ру",
-      "published_at": "2026-09-18T14:58:35+00:00"
-    },
-    {
       "category": "mts",
       "title": "МТС: в Москве открылась выставка о технологиях «Взгляд в будущее с 5G»",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSXZPSlQ3X3NGdW5QdjdLZnRWWG9ydTJwZHZDazBHNXBlVXViVVNEYXBMeXJYSkRfckFtamhwcHNxb09ub19HaUFWdWdwZkRqM0ZwaGppMnlIcHBnYVlXMmVxUlB1UmtKUklJeGJyT2NJMjNvRmZqZEdhX0ZpX0tiOWdmd2Fya09uaXFVNEtLSmhIVmYzaVIzT1YtZFEwLUJzeVZ",
-      "source": "TelecomDaily",
+      "source": "telecomdaily.ru",
       "published_at": "2026-09-18T08:40:16+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "После запуска 5G мобильный интернет в России ускорился на 15-30%",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmeTRJOFBsQTFrLXNIeGctXzEtSlN4RUNKNlBUUDJicG5sYmlEOFdsWTRpcTRxM1NYNmFsMGFfMVN5dUhmclFBN3BCZ0VFZjdZellCTG1YTjVqY1ZVYWJhSU5WNUd3N1nSAWxBVV95cUxQdTI5Nlpnd1hMRHlWbTFGdTB0Znl2RlZIX0x5V1hrU0lRdmJvUnJJWi1kZTdBXzJ2Nnd",
-      "source": "Anti-Malware.ru",
-      "published_at": "2026-09-18T06:15:03+00:00"
     },
     {
       "category": "mts",
@@ -45,13 +87,6 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdmZvQ1BQem9MR253Z0syOHBHWGNQZ2N2cXBXN1hYODlwRUVodXJKRHV0OXpmdXZPT0xRM1VGRDktTzA3TlJMajVoaVJGbHVKNkUxRGhNZE91Y0tmckY4Y2lVaFZWa0dpbmhYOG5oa19XbnV1ZjhOS01QUC11SmRPcE5td2pGY3dOcVptX3kyMEZ2TW9faHhCVnZ4dFN0Q2ll?oc",
       "source": "Forbes.ru",
       "published_at": "2026-09-17T21:00:00+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "Healthcheck в балансировщиках: от зеленого Boolean к semantic health и capacity-aware RHI",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSE1nbWN3R2g5V2ZLQ0VCWGlxcHNCUFB2cDdUWGlUUHQtTUhod3d5SzNOSzZtTXlqUTkxS2ZiS3pZeHFkemN2b3FfM19oLUhJNjhiNUNMSkplWFpSUnc2UVV2WFotLW8yUnFBT0FzVlh1LUNmeWNXd3NzV3p3Y2taZA?oc=5",
-      "source": "cisoclub",
-      "published_at": "2026-09-17T13:52:57+00:00"
     },
     {
       "category": "telecom",
@@ -69,10 +104,24 @@
     },
     {
       "category": "mts",
-      "title": "Сим-сим, постройся. МТС покроет связью почти 400 малонаселенных пунктов, чтобы искупить вину",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbG0tU1d4T2QtWGlJR19BbHZQVmlYVFMzMi1QSDEtZUJUVG1nOEtYZ0FxT2dMa1hVRDBNXzExS0twUU5HcjlWOVJFcHpqQmhmZ2lLX3hFM1NLYlZVU0RvY1p0eUplM2tlQmUxbjFfVXNfSzNydjJuSTBJb3lWT3dPa01VYmtIdTZMejRrWERqelhERVhyMkR3NGdGanVJUENlYU5",
-      "source": "ComNews.ru",
-      "published_at": "2026-09-15T23:36:58+00:00"
+      "title": "МТС полностью покрыла связью Мстихино - Общество - Новости - Калужский перекресток Калуга",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3YTQwVnFpWUZ0Q0lUMDBYYnBLZWc3THJIZjQ0ZV9DQ3VLZDVsc2wxc00wbG5wQnZMWDhORnRtTVUwLXpZZDlESTdYaEo5VjN1N3c?oc=5",
+      "source": "Калужский перекрёсток",
+      "published_at": "2026-09-16T13:24:33+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС в рамках исполнения мирового соглашения создаст инфраструктуру связи в 370 малых населенных пунктах",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOLVdtRXRnWUtKdE5IVFhqbmtfOTRRNG5ZaUNvWnZLRTlGTm5tZVY5aDgySmNSeXFsUlJCQzRUZkdTbHlFbkFfRVhQSXVmckprTExqSWc1MUtxbW91RU12QXlKUFlOVmFMSXNuMFNPMjlnZUtDc0RQejJ1M1A2VHMwWlVMVmh0OEFiOVZFaVR1RW9hMjNhSFo0ME5zcWF2bjdvZTN",
+      "source": "retail.ru",
+      "published_at": "2026-09-15T22:16:03+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Блокировки Рунета британцам не помеха. Их топ-менеджмент, зарабатывающий в России миллиарды, получит спасительные «чемоданчики связи",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1KY2lUUDFpdXNESnBBclVNTXNFNklsTnk5NkU3LXFOXzRtRVQ0aVlUVkdGVmVnMUJEcXZaYWRMNEo3MVQ0bndJcU5MTERPVlIzYkN5bEFDLUt1Sk5VdVZZZlpXbVBEMF9DR0Zfd2JYakJaRXMtQkM5a1RRYU4?oc=5",
+      "source": "CNews.ru",
+      "published_at": "2026-09-15T15:27:32+00:00"
     },
     {
       "category": "infrastructure",
@@ -80,55 +129,6 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyNHNPd2pHQnJpWGVhelhfTmtuMUhKTFJHS1U1YXQ2TlhpbE5VVHZFNGVUbkM1OWhRYldZNkJoQ0V1cDZ6TE11djVxbWtTVzN1czNnazZQWFQ2MEhUSGV6WG5CTQ?oc=5",
       "source": "Университет ИТМО",
       "published_at": "2026-09-15T13:40:38+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС проведет связь в 370 малых населенных пунктов по мировому соглашению с ФАС - новости Право.ру",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5talBTVzl5OGx1ajdaMzJEMmNUVmR2RTBTVWJ5MGFtTk1JdXlFWHZmYUFhZnNRdTJWRE5TbUhLdEF4bjDSAUhBVV95cUxQM1RNOFNUUExjZUt2VlBUTVRpV05CcVltV0VDbFRhZ1N6c3pmNHpsbDlLMnloOWtQODFGVndOYjhabTdwX0ZaWGc?oc=5",
-      "source": "ПРАВО.Ru",
-      "published_at": "2026-09-15T13:11:30+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС построит сети связи в 370 малых населенных пунктах",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM2tMWElSNnJKZ2laS0pXUlFyYVdhcHhER2gtejRTSUtxS3Y5UDNtVnJoWVBHbkZVcjlMZ25scDlvdXdlTGxNNTY3b09mVTlVOEkzU1RCV082c2RtbXZtVGhhVDU2MUJ0elpJbWNYU1AxTGVyZVhVNVRPYmRwZ1RUUVhsLU1JX0V5LXF4R2pvUnlPR08zdDBvQWZNZUdCTnRy?oc",
-      "source": "Финансы Mail",
-      "published_at": "2026-09-15T07:35:20+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "Азбука технологий ЦОД: 40 терминов, которые помогут разобраться в дата-центрах",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ubTM3X01HVzg0MkZvR2QxT3BHMU40OWhrYVE4ZDRoYUlpdjlTcWR0OVg1TW10eW5leVJnRmdDUWZ3VHVreU9sLXI2TklyQ3lROHZvZWRrcTFaVldh?oc=5",
-      "source": "hightech.fm",
-      "published_at": "2026-09-15T07:17:00+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "Развитие 5G в России подтолкнет операторов связи к росту вложений в инфраструктуру",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPODRoVlgwNm1kM1dQVTFyVHhsOXBHejI1X0lwUjlqVFR0eXhOdncxeUVnWkdtdk9uZXhPQVdSOVZMbVJGckdBeXF3RHd1NWpKTUdNcFptcFJUX0xpUGtXdlhHNVRuZFVXX3FoUjlIeXZXaXhtd3RxdHBtbkdpMkpzWXp5OFFTNjJvREtnbEszcU9rYVZJQ2Vkb3VnZVhCYXpNREU",
-      "source": "prospect.com.ru",
-      "published_at": "2026-09-15T00:54:15+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "Видеонаблюдение «Ростелекома» связало в единую систему участки для голосования в Свердловской области",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdE43ZEJtYmdnTGs5UWROUDdON043M1VHeXBvQzdTVTVSODFkSC11MDJUdjdqT2lWaVQxdk55YnZ2YlZNMWU3VWlvajAySmU2NEltUHFIa2dLU1Z4aHJhU00tWHdFZ0xuaTZCOVFNOGxzV21XYlZURGZHRy1RRWstN0F3N0RyQmVmZEl3UWhUbHdQQlp4aHdXMjNHVS10ZnFhanZ",
-      "source": "prospect.com.ru",
-      "published_at": "2026-09-15T00:04:06+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС отключил связь и интернет в Пензенской области",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfSmQ0T0M0UFRXeHo3bi1kNzdOamw4aDVaZFhPVzVUS25vMkRiY0VNZU5FNmNYSHNPQjVEMGw1SzN5ZnctcFdNVnJXZFlBMzMwNXRlY1ZMZVd3cUdVbkJyS25aT1h0d21pendSNURhd0NLekhYakMw?oc=5",
-      "source": "Techora.ru",
-      "published_at": "2026-09-14T12:24:17+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Расходы телеком-операторов на развитие инфраструктуры в России за год достигли 418,18 млрд рублей",
-      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxONUdVYkdHZnFJRFpTMU40VjJSdEZ3ZkowSk1SekgzcTNoV1U4RFBNWUFURWwxWXB4X2hybmx0ZEFWX1dDdnFFZHlrMGFnUVlUSTVQUjZ1a09Pd0F6UVZYVDJKVnpxRFBRcGpzMW84MXdyRWR4VjBqckY1SmVBaTc2TnJ0Nm81aFRoTzJIRDc2by1BRHB5bURvNTYyN3FUYTktUm0",
-      "source": "TAdviser",
-      "published_at": "2026-09-14T12:19:44+00:00"
     }
   ]
 }
