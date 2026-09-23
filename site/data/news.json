@@ -1,9 +1,30 @@
 {
   "version": 1,
-  "generated_at": "2026-09-22T09:16:59+00:00",
+  "generated_at": "2026-09-23T09:17:33+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
+    {
+      "category": "infrastructure",
+      "title": "Контакт-центр «Ростелекома» автоматизировал обработку документов кандидатов с помощью ITFB EasyDoc",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTGxUNTRrbFRXOGpCdWRsMTlGZmV3OG8yelRwRXFLR0JJUjBkbVRrbFJDNm10MmN2aTBfZFpKbkxQOWRULTlvNkpoVUVybVRCYUFSWUtqcjZqT0s5NjhiVk5VUDlXb3h2aG5YY1FzbGUzc0EzUzB3N29xSXFMNFB0MU0xUjM4cVpjMWQyUFpHVzJmNndLOGxqR1dXSHl6OEJxSmw",
+      "source": "prospect.com.ru",
+      "published_at": "2026-09-23T06:31:12+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС расширила сеть LTE в селах Курганской области",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbThjR3h0aGh0X1ZTRVJRdThiR2xMWkpMb0VjUngzMDVkOHFDUDJYUGp2RkJzZkVTdnYtbDBZVmp4T1lGZnp3UDJZbFU2UnA5TWFZSkFyR1dFVU1taXNTY0FWS2V2aUxpdHpwb3JHTXIyY1BXeUVfTnh4OGtIbHhobjJVSEluejlBcHlOWDVuYWdKbWpOaF9WM3RzNA?oc=5",
+      "source": "SHADR.info",
+      "published_at": "2026-09-22T18:38:22+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Услуги связи в Омской области подешевели больше, чем в среднем по России",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYWNIMnJWMGMxeHpJVzE0MW5VbzJXVkxQSFlDbVlUYmxPWXU1R0tueXRQUUdfSlBlOWI1dXNCSllhb3MwTVpPRnpnclFuX2dzbE03cVBjaXhTa0J4VDlDTkNXcEtRUjlqX1FvbUFEeWwtOWtqTFctUFlRUmttSFhPeVRoTmJuZ3RGZk1fb2tuWG1qNjlDd2ZtOVdPZVhaM0pJRzY",
+      "source": "KVnews.ru",
+      "published_at": "2026-09-22T08:30:00+00:00"
+    },
     {
       "category": "infrastructure",
       "title": "Казахстан расширяет магистральную инфраструктуру связи в рамках нацпроекта Доступный интернет",
@@ -29,14 +50,14 @@
       "category": "mts",
       "title": "МТС обновила сеть в поселке угольщиков на западе Красноярского края",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1melB1U0loRUN3d2dRVmNBM1N3UTduMG8yNVI5Z1p3aUZZNGdrc2xtVThMbXRZN3hTQlVhNXdRRlhOSWViTEHSAVpBVV95cUxNRXZ1LVc1T3JUTlJCcC1IaWdrbjQ4WS1DV1A1a2d1SjdDNWRVcHdMelJhNUNjdjBMMXZReTJNZm9vaTVWMHlUbmVucDNWNWxKcTNSTng0bFNIZ1E",
-      "source": "Newslab",
+      "source": "Newslab.ru",
       "published_at": "2026-09-21T08:01:00+00:00"
     },
     {
       "category": "telecom",
       "title": "Новые правила могут изменить интернет в России: что ждет операторов и абонентов",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWjgyM1VKRjFLOUtqdWtZQkJWRGx5SHh0R1BlNC1OS2kyOFludksyYnNSSExRYXVZcjlyamF2R3M2ZmNnSS1tRXhzVHkxN2UxZmY0X3A1UkVIdmh3RzZFQUo5NEVFS0JfV3ByWXFQV21GNi1HTG1yQlp0ZzRfX2Z1R0VkdklPZkRTdkszLWxnSG40VkN6b05UbjZ2ZGNoRHJlOEw",
-      "source": "Пруфы",
+      "source": "prufy.ru",
       "published_at": "2026-09-21T05:14:50+00:00"
     },
     {
@@ -50,7 +71,7 @@
       "category": "mts",
       "title": "Что там с телекомом: 5G пока не радует, стройка дорожает, а МТС меняет дивидендную политику",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50WUd5UGNEa2l4RzRtem1TZ2ZKZ0JWTlVlcDFWQnFWakNWbVBlemJITFp3NzhHWEN0Tk5KTXhac2tEaGpvVzNWU1VCMzZ0ZVJpYUJV0gFYQVVfeXFMTWxMRUlHRHJ5dmtHMGhsbnBLVUZfdjFDU3FYZFYtdXRjY2k3dk01cGVTVWZpRXdUODlCZGowT0RMTTNIZEFWY1Fza1RQN0Y",
-      "source": "kod.ru",
+      "source": "Код.ру",
       "published_at": "2026-09-20T23:30:27+00:00"
     },
     {
@@ -61,18 +82,18 @@
       "published_at": "2026-09-20T10:37:21+00:00"
     },
     {
-      "category": "telecom",
-      "title": "Как развивается спутниковое телевидение в эпоху интернета",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RYmdIaWh3Z1BFRjJ2dC1ISnVSaklJQV9PZHMta1BNWFpkeU9kd0hQRjdWSUZXRGcxZXhBOFlHWWdnQlZqYm9vOXpyblNLTnB4bEF2OFVmeUpFb2hpU3c?oc=5",
-      "source": "expert.ru",
-      "published_at": "2026-09-19T05:49:30+00:00"
+      "category": "mts",
+      "title": "МТС открывают выставку о технологиях «Взгляд в будущее с 5G»",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdGJCZkdRZ1ZLajNMN3RaUXhaREFZN3pETWJRdEVtMGNhY05CYnhqWUl5Q3pLNDctT2pqSi1CSWEwSlVTY0wwaTc4aE1QZFo1UXlkdzhuS2xKck43VlFYcHBhNHJFOHNpWHVFeVNKZ25VN0MzN0NMQ3BtN1Zwdzg2dkE2UE1BUkd3ZncxT0xaU1QtSFFBOXc?oc=5",
+      "source": "AKM.RU",
+      "published_at": "2026-09-18T09:23:35+00:00"
     },
     {
-      "category": "mts",
-      "title": "МТС: в Москве открылась выставка о технологиях «Взгляд в будущее с 5G»",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSXZPSlQ3X3NGdW5QdjdLZnRWWG9ydTJwZHZDazBHNXBlVXViVVNEYXBMeXJYSkRfckFtamhwcHNxb09ub19HaUFWdWdwZkRqM0ZwaGppMnlIcHBnYVlXMmVxUlB1UmtKUklJeGJyT2NJMjNvRmZqZEdhX0ZpX0tiOWdmd2Fya09uaXFVNEtLSmhIVmYzaVIzT1YtZFEwLUJzeVZ",
-      "source": "telecomdaily.ru",
-      "published_at": "2026-09-18T08:40:16+00:00"
+      "category": "telecom",
+      "title": "В России официально запустили 5G",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53NG01RDFsNEhPZ0FvdWs0bVk2el9YMmhtT3BHa3lqV1pjU2RqTlpvc2tOZnBCMkw5dUlTaVBRMGU1YzRUY05ILXhHSVNBaFhNN2hfZg?oc=5",
+      "source": "Naked Science",
+      "published_at": "2026-09-18T06:41:34+00:00"
     },
     {
       "category": "mts",
@@ -89,17 +110,10 @@
       "published_at": "2026-09-17T21:00:00+00:00"
     },
     {
-      "category": "telecom",
-      "title": "Что с мобильным интернетом в Казани: проблемы, жалобы и решения",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN1ZfVG5Uc2FWV0lvVUNDNkkxRjFnUl90ZWxDUEpDTVpVMURCOVlPNm53V01JMFlFLWxrc2kyNnNGNjRYYk43THZGQzJudFV6UXh0YmZlVktzQ0dGUG83bzQ3UTBEU1F3VmdQUlU3MEVpYnZqRGt0dEpqaUxDNXpVb3dkdUNLZjBhbjZ0OHNfM3ZQbm9Yel9HQm1HeDBBWl9wTmp",
-      "source": "inkazan.ru",
-      "published_at": "2026-09-17T08:00:00+00:00"
-    },
-    {
       "category": "mts",
       "title": "5G в МТС",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdTN3dEdySERteTJNbkVLdk5ScC1RX3plNDQwenZjZW9YY2lIcVJFRTJfeXZBTWhNRnIwb2hzTjVwcDQ4WllFbE51cnNVYTVUMW15VkhidXJ0OWJ6Qno4T2xEZ0xjUk94REpMMDFZNWl5d0d2dEVkaXhYN0kybHFnUmF0SmEwVzEzYzZ3X05hUjRZeTg2bDJsaDNrQTBNQ0Fx?oc",
-      "source": "TAdviser",
+      "source": "tadviser.ru",
       "published_at": "2026-09-17T05:00:00+00:00"
     },
     {
@@ -108,27 +122,6 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3YTQwVnFpWUZ0Q0lUMDBYYnBLZWc3THJIZjQ0ZV9DQ3VLZDVsc2wxc00wbG5wQnZMWDhORnRtTVUwLXpZZDlESTdYaEo5VjN1N3c?oc=5",
       "source": "Калужский перекрёсток",
       "published_at": "2026-09-16T13:24:33+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС в рамках исполнения мирового соглашения создаст инфраструктуру связи в 370 малых населенных пунктах",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOLVdtRXRnWUtKdE5IVFhqbmtfOTRRNG5ZaUNvWnZLRTlGTm5tZVY5aDgySmNSeXFsUlJCQzRUZkdTbHlFbkFfRVhQSXVmckprTExqSWc1MUtxbW91RU12QXlKUFlOVmFMSXNuMFNPMjlnZUtDc0RQejJ1M1A2VHMwWlVMVmh0OEFiOVZFaVR1RW9hMjNhSFo0ME5zcWF2bjdvZTN",
-      "source": "retail.ru",
-      "published_at": "2026-09-15T22:16:03+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Блокировки Рунета британцам не помеха. Их топ-менеджмент, зарабатывающий в России миллиарды, получит спасительные «чемоданчики связи",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1KY2lUUDFpdXNESnBBclVNTXNFNklsTnk5NkU3LXFOXzRtRVQ0aVlUVkdGVmVnMUJEcXZaYWRMNEo3MVQ0bndJcU5MTERPVlIzYkN5bEFDLUt1Sk5VdVZZZlpXbVBEMF9DR0Zfd2JYakJaRXMtQkM5a1RRYU4?oc=5",
-      "source": "CNews.ru",
-      "published_at": "2026-09-15T15:27:32+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "Эра сверхбыстрых вычислений: в ИТМО появился Институт фотоники",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyNHNPd2pHQnJpWGVhelhfTmtuMUhKTFJHS1U1YXQ2TlhpbE5VVHZFNGVUbkM1OWhRYldZNkJoQ0V1cDZ6TE11djVxbWtTVzN1czNnazZQWFQ2MEhUSGV6WG5CTQ?oc=5",
-      "source": "Университет ИТМО",
-      "published_at": "2026-09-15T13:40:38+00:00"
     }
   ]
 }
