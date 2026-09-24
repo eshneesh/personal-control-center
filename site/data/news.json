@@ -1,9 +1,37 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T09:17:33+00:00",
+  "generated_at": "2026-09-24T09:17:09+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
+    {
+      "category": "telecom",
+      "title": "После выборов в Думу власти поручили ввести для россиян плату за выход в мировой интернет",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUHdKNGZFTW91VlYwVmRIZURoNVhKNUhHSFVEdlFfMmpSbUVzWVBTbTRqX3NZeXp2cHJXWGE1UzlsN1NIZ3M3NXBiX0N6Y3BhYlZWSDJaMVE4c0Q3UktTdEFxVUV5SkdJcXpPVkNYb0JMNXlwNzlhR1FwUUc5Nml0c3JNbWJmZVc4Q1lWNDlGVlR2eG1GUDE4bDF3NU5hbHRFalh",
+      "source": "Русская служба The Moscow Times",
+      "published_at": "2026-09-23T12:51:00+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Операторы могут начать взимать доплату за международный трафик 5G в рамках борьбы с VPN",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaF9IQThBSGJrUERwbDRHMjlKSDQ3NUFkYW9zQUpwaEh3ZUFHQlBzaEJiNXpWQTRSc2JFRHdmWjlSb2dMYUxxdC05c1lkQVpsQ0dkQWxnRkpDWXZMcF83cmFvSU9RRk85YTVwZll0TnZqTEpKQ0RVOUU5N05QdlI0aFVEQzJLWXJWQkpickRoUXJjWFZjcXVvdnF5MzlVUTE5RjB",
+      "source": "istories.media",
+      "published_at": "2026-09-23T12:41:26+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "Гигабитный домашний интернет от МТС появился в Хостинском районе Сочи",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTURVczlrczNrWk04TlBpTVg4MDJfRUJCTzhnUEJMVXdEZTVlYWNxVmVOLTg2NVN3bnNXQ0ZPSENLZXpPdzV2Vk5CZldPaGxmMEdBdnBoY2FNTmNYWFpKYy1aOU1fVG1iM09uSElnN1B1b2hrYk5DVldLdFQ3alZGYV8wUWhVbUI1TS1tNndkTWQzdERaQ3dHOG9aNk5MVGlGQnV",
+      "source": "Юга.ру",
+      "published_at": "2026-09-23T09:19:00+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Почему не работает мобильный интернет 23 сентября: причины, сбои в России",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUmE0RDYyeTd1X0tUbzBRQkg3Q1JyRzI3SHAtS2lWbFQ4dTFHVUkyMUJ1al9tWU1mbVhsaThvMTMySkpvd3V2WUxjMU1KcW9leVBtdlBEVkRfNGw1NGtheEtNZVRleWpJRzJGVFRkQk5UeWtZVVlkVVFFRjJCQk1FY1NKdHUxcXF1T2VQWE9XSG1CYnc2eFBuelh5dDZIOGxsWEp",
+      "source": "NEWS.ru",
+      "published_at": "2026-09-23T07:12:53+00:00"
+    },
     {
       "category": "infrastructure",
       "title": "Контакт-центр «Ростелекома» автоматизировал обработку документов кандидатов с помощью ITFB EasyDoc",
@@ -19,11 +47,11 @@
       "published_at": "2026-09-22T18:38:22+00:00"
     },
     {
-      "category": "telecom",
-      "title": "Услуги связи в Омской области подешевели больше, чем в среднем по России",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYWNIMnJWMGMxeHpJVzE0MW5VbzJXVkxQSFlDbVlUYmxPWXU1R0tueXRQUUdfSlBlOWI1dXNCSllhb3MwTVpPRnpnclFuX2dzbE03cVBjaXhTa0J4VDlDTkNXcEtRUjlqX1FvbUFEeWwtOWtqTFctUFlRUmttSFhPeVRoTmJuZ3RGZk1fb2tuWG1qNjlDd2ZtOVdPZVhaM0pJRzY",
-      "source": "KVnews.ru",
-      "published_at": "2026-09-22T08:30:00+00:00"
+      "category": "mts",
+      "title": "МТС улучшила качество связи в Ржеве у мемориального комплекса",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0tcnRQZndBdnFNem9lQW9GSWlaWS04dDlaRC1tZ291emoxR0o5WXZCa05MNFRMX2Z5Q01uRm1pbkJ5VnBJbmNB?oc=5",
+      "source": "TverNews",
+      "published_at": "2026-09-22T16:00:00+00:00"
     },
     {
       "category": "infrastructure",
@@ -34,17 +62,17 @@
     },
     {
       "category": "mts",
+      "title": "Мобильная связь появится во всех малых населенных пунктах",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9PZTBYR0VNYXdld2hQZnNQVjNKNlRZVnc1czd3N3FyUGt1X2FldzVPRVFadTFNODJEQmpwaXlEdGhnS2xpaGhz?oc=5",
+      "source": "ura.news",
+      "published_at": "2026-09-22T05:19:00+00:00"
+    },
+    {
+      "category": "mts",
       "title": "Старинная станица Етеревская впервые вышла на связь благодаря отечественной базовой станции МТС",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOamJUTWxmZ1E2RVZPOUlPQmlTVFI5THZoYlBSMDJmM2pkMHhtRWV2YnJmQ2oxT3FRYUkzeDBNdTJIdDJlMDlqalN5bmdGNXNBQjVTWmZFTUtGX1d6Yzd3X0NhX0FOVGtrZFdnRktVNHBNdi0wZ3FpLUFldVl2QjBvOWlweVJrYlBRZVp5eDFHeURJOWVQZVNDRWp5OGJDZ2doNk9",
       "source": "Городские вести» - Волгоград",
       "published_at": "2026-09-21T13:26:00+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Почему не работает мобильный интернет 21 сентября: причины, сбои в России",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS3dJeVh1TmxTREtDelQ4VUZQdHFIZWt3RHUyejVZTkpCQmhiTUJEclZXLVpoQlV1WmZtd1FWMEc3dXpqMy1SVG9IaUQ0QTZxME02RUxFckVpUWdKQm1mSWUweTd0V0lRREhMVEZOVzVHQ2R4LWhYMEVlUERxbi1xYlVGb1ZodjNaQ2VzYWRabTFobVlxQjNSa0ZfMjFEZ2g2aVo",
-      "source": "NEWS.ru",
-      "published_at": "2026-09-21T08:25:58+00:00"
     },
     {
       "category": "mts",
@@ -61,13 +89,6 @@
       "published_at": "2026-09-21T05:14:50+00:00"
     },
     {
-      "category": "telecom",
-      "title": "Видишь 5G? А он есть! Операторы связи не смогут развернуть 5G в диапазоне n79, пока не перейдут на отечественное оборудование",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOTWRHNWtReDVvLWlHUWJrN2wxdTNqX0JSVVNZTEpoNVhWSkpvM0VmRnd0eDF5MlNWYk85WjRiSkRpM2oxa0JKSU5xRDhPSTA0STNvZ2pSZjlGTTl3d1NZcS1IQklqd3hyalZFWUE1dEdMNjZfNVVBbXZZbG1zalAxNmwtM0xjZzNjVFdYU2thT1VaOTlOZlo0c293YnN1dTFoUEx",
-      "source": "ComNews.ru",
-      "published_at": "2026-09-20T23:44:58+00:00"
-    },
-    {
       "category": "mts",
       "title": "Что там с телекомом: 5G пока не радует, стройка дорожает, а МТС меняет дивидендную политику",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50WUd5UGNEa2l4RzRtem1TZ2ZKZ0JWTlVlcDFWQnFWakNWbVBlemJITFp3NzhHWEN0Tk5KTXhac2tEaGpvVzNWU1VCMzZ0ZVJpYUJV0gFYQVVfeXFMTWxMRUlHRHJ5dmtHMGhsbnBLVUZfdjFDU3FYZFYtdXRjY2k3dk01cGVTVWZpRXdUODlCZGowT0RMTTNIZEFWY1Fza1RQN0Y",
@@ -82,18 +103,11 @@
       "published_at": "2026-09-20T10:37:21+00:00"
     },
     {
-      "category": "mts",
-      "title": "МТС открывают выставку о технологиях «Взгляд в будущее с 5G»",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdGJCZkdRZ1ZLajNMN3RaUXhaREFZN3pETWJRdEVtMGNhY05CYnhqWUl5Q3pLNDctT2pqSi1CSWEwSlVTY0wwaTc4aE1QZFo1UXlkdzhuS2xKck43VlFYcHBhNHJFOHNpWHVFeVNKZ25VN0MzN0NMQ3BtN1Zwdzg2dkE2UE1BUkd3ZncxT0xaU1QtSFFBOXc?oc=5",
-      "source": "AKM.RU",
-      "published_at": "2026-09-18T09:23:35+00:00"
-    },
-    {
       "category": "telecom",
-      "title": "В России официально запустили 5G",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53NG01RDFsNEhPZ0FvdWs0bVk2el9YMmhtT3BHa3lqV1pjU2RqTlpvc2tOZnBCMkw5dUlTaVBRMGU1YzRUY05ILXhHSVNBaFhNN2hfZg?oc=5",
-      "source": "Naked Science",
-      "published_at": "2026-09-18T06:41:34+00:00"
+      "title": "10 выгодных комплексных тарифов связи осенью 2026 года",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tZk9VMTF3c1pUVnhRcjJSMTQwUDFvX212TlowUVdqUmJpc05lR0RndkdSVHh3ZjBVOXVUWjYxNVM1VmJvZzNtMVJUVE5GMVU?oc=5",
+      "source": "Т—Ж",
+      "published_at": "2026-09-18T12:43:17+00:00"
     },
     {
       "category": "mts",
@@ -108,20 +122,6 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdmZvQ1BQem9MR253Z0syOHBHWGNQZ2N2cXBXN1hYODlwRUVodXJKRHV0OXpmdXZPT0xRM1VGRDktTzA3TlJMajVoaVJGbHVKNkUxRGhNZE91Y0tmckY4Y2lVaFZWa0dpbmhYOG5oa19XbnV1ZjhOS01QUC11SmRPcE5td2pGY3dOcVptX3kyMEZ2TW9faHhCVnZ4dFN0Q2ll?oc",
       "source": "Forbes.ru",
       "published_at": "2026-09-17T21:00:00+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "5G в МТС",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdTN3dEdySERteTJNbkVLdk5ScC1RX3plNDQwenZjZW9YY2lIcVJFRTJfeXZBTWhNRnIwb2hzTjVwcDQ4WllFbE51cnNVYTVUMW15VkhidXJ0OWJ6Qno4T2xEZ0xjUk94REpMMDFZNWl5d0d2dEVkaXhYN0kybHFnUmF0SmEwVzEzYzZ3X05hUjRZeTg2bDJsaDNrQTBNQ0Fx?oc",
-      "source": "tadviser.ru",
-      "published_at": "2026-09-17T05:00:00+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС полностью покрыла связью Мстихино - Общество - Новости - Калужский перекресток Калуга",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3YTQwVnFpWUZ0Q0lUMDBYYnBLZWc3THJIZjQ0ZV9DQ3VLZDVsc2wxc00wbG5wQnZMWDhORnRtTVUwLXpZZDlESTdYaEo5VjN1N3c?oc=5",
-      "source": "Калужский перекрёсток",
-      "published_at": "2026-09-16T13:24:33+00:00"
     }
   ]
 }
