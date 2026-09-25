@@ -1,21 +1,35 @@
 {
   "version": 1,
-  "generated_at": "2026-09-24T09:17:09+00:00",
+  "generated_at": "2026-09-25T09:35:23+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
     {
+      "category": "mts",
+      "title": "Вслед за кошкой в дома Птушкино пришел более быстрый интернет МТС",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYUFoYS05SXJpNkVnOGt2YmhpMS1ZRXlfSjl6T2ZqMUxDVGE0ZU1FNV9zX2xwREw3LXUwaloyUUdSUDNidTJERWtJbU9rZW0xRDRTSllPVkk1bG9NUnVVdEhmbTluS2QwR0Fsak4tVkRmNno5aGlwdW5ydmdFZ2w5NA?oc=5",
+      "source": "CNews.ru",
+      "published_at": "2026-09-25T07:17:03+00:00"
+    },
+    {
       "category": "telecom",
-      "title": "После выборов в Думу власти поручили ввести для россиян плату за выход в мировой интернет",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUHdKNGZFTW91VlYwVmRIZURoNVhKNUhHSFVEdlFfMmpSbUVzWVBTbTRqX3NZeXp2cHJXWGE1UzlsN1NIZ3M3NXBiX0N6Y3BhYlZWSDJaMVE4c0Q3UktTdEFxVUV5SkdJcXpPVkNYb0JMNXlwNzlhR1FwUUc5Nml0c3JNbWJmZVc4Q1lWNDlGVlR2eG1GUDE4bDF3NU5hbHRFalh",
-      "source": "Русская служба The Moscow Times",
-      "published_at": "2026-09-23T12:51:00+00:00"
+      "title": "Россия разрушает телеком-инфраструктуру Украины: в стране начались проблемы с интернетом",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdHdJd0w0Nk1kb0c2SUpxYUxJR1pkWDJzQ3ZVZ1JGQXJLZkx2eEZaem9JSzkyQS1pMDR6QjhibEZNYmR0VDN1VDNzU25uU25hUmpHdzlPT2h0NHo0T3BIOGRWeHVYaUhXWVEwMU13emJyOHlYMUs4SU1IWUxEeGFndTdHRWdUS3p4b2c?oc=5",
+      "source": "CNews.ru",
+      "published_at": "2026-09-24T13:41:08+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "Россия наносит удары по дата-центрам Украины: что будет с интернетом и мобильной связью",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYWJ1UTRaenFxSDlSMUNmM1p1UUItYlZNOFZlNXlJb1VNbHAyVGkxSXJHbjdja3lHOFUwVVU5eFpDQkdzd1dQN285OUtyWGo1RGd6djA3amJ5a2F6eG9UQWh6S0NPZHQzaGZJbXdLbElVc1hTUFNXMzZmNVUwNVZVV0V6WWIwVUhhem9SWE42VDYzMXA2MGJIYzAtQ2I2dkxRb2Z",
+      "source": "UA.NEWS",
+      "published_at": "2026-09-24T13:22:36+00:00"
     },
     {
       "category": "telecom",
       "title": "Операторы могут начать взимать доплату за международный трафик 5G в рамках борьбы с VPN",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaF9IQThBSGJrUERwbDRHMjlKSDQ3NUFkYW9zQUpwaEh3ZUFHQlBzaEJiNXpWQTRSc2JFRHdmWjlSb2dMYUxxdC05c1lkQVpsQ0dkQWxnRkpDWXZMcF83cmFvSU9RRk85YTVwZll0TnZqTEpKQ0RVOUU5N05QdlI0aFVEQzJLWXJWQkpickRoUXJjWFZjcXVvdnF5MzlVUTE5RjB",
-      "source": "istories.media",
+      "source": "Важные истории",
       "published_at": "2026-09-23T12:41:26+00:00"
     },
     {
@@ -26,45 +40,38 @@
       "published_at": "2026-09-23T09:19:00+00:00"
     },
     {
-      "category": "telecom",
-      "title": "Почему не работает мобильный интернет 23 сентября: причины, сбои в России",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUmE0RDYyeTd1X0tUbzBRQkg3Q1JyRzI3SHAtS2lWbFQ4dTFHVUkyMUJ1al9tWU1mbVhsaThvMTMySkpvd3V2WUxjMU1KcW9leVBtdlBEVkRfNGw1NGtheEtNZVRleWpJRzJGVFRkQk5UeWtZVVlkVVFFRjJCQk1FY1NKdHUxcXF1T2VQWE9XSG1CYnc2eFBuelh5dDZIOGxsWEp",
-      "source": "NEWS.ru",
-      "published_at": "2026-09-23T07:12:53+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "Контакт-центр «Ростелекома» автоматизировал обработку документов кандидатов с помощью ITFB EasyDoc",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTGxUNTRrbFRXOGpCdWRsMTlGZmV3OG8yelRwRXFLR0JJUjBkbVRrbFJDNm10MmN2aTBfZFpKbkxQOWRULTlvNkpoVUVybVRCYUFSWUtqcjZqT0s5NjhiVk5VUDlXb3h2aG5YY1FzbGUzc0EzUzB3N29xSXFMNFB0MU0xUjM4cVpjMWQyUFpHVzJmNndLOGxqR1dXSHl6OEJxSmw",
-      "source": "prospect.com.ru",
-      "published_at": "2026-09-23T06:31:12+00:00"
-    },
-    {
       "category": "mts",
       "title": "МТС расширила сеть LTE в селах Курганской области",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbThjR3h0aGh0X1ZTRVJRdThiR2xMWkpMb0VjUngzMDVkOHFDUDJYUGp2RkJzZkVTdnYtbDBZVmp4T1lGZnp3UDJZbFU2UnA5TWFZSkFyR1dFVU1taXNTY0FWS2V2aUxpdHpwb3JHTXIyY1BXeUVfTnh4OGtIbHhobjJVSEluejlBcHlOWDVuYWdKbWpOaF9WM3RzNA?oc=5",
-      "source": "SHADR.info",
+      "source": "shadr.info",
       "published_at": "2026-09-22T18:38:22+00:00"
     },
     {
-      "category": "mts",
-      "title": "МТС улучшила качество связи в Ржеве у мемориального комплекса",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0tcnRQZndBdnFNem9lQW9GSWlaWS04dDlaRC1tZ291emoxR0o5WXZCa05MNFRMX2Z5Q01uRm1pbkJ5VnBJbmNB?oc=5",
-      "source": "TverNews",
-      "published_at": "2026-09-22T16:00:00+00:00"
+      "category": "telecom",
+      "title": "Услуги связи в Омской области подешевели больше, чем в среднем по России",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYWNIMnJWMGMxeHpJVzE0MW5VbzJXVkxQSFlDbVlUYmxPWXU1R0tueXRQUUdfSlBlOWI1dXNCSllhb3MwTVpPRnpnclFuX2dzbE03cVBjaXhTa0J4VDlDTkNXcEtRUjlqX1FvbUFEeWwtOWtqTFctUFlRUmttSFhPeVRoTmJuZ3RGZk1fb2tuWG1qNjlDd2ZtOVdPZVhaM0pJRzY",
+      "source": "KVnews.ru",
+      "published_at": "2026-09-22T08:30:00+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Почему не работает мобильный интернет 22 сентября: причины, сбои в России",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWEplWFV3Nktaa0lZeHk0NWpmcHVYRU9aQ1hnQlVWbm5EcVhjWDdXRm1UT3NJQWUwbVVPSzUtdVdySXNva1hGQ3hSNlJnYjdQNFpuNVcxZFY5a19HTldKaDFKckFjY2VxVFY4SndVRjR2eEZUbXBCTm00dG92bU1zRjZVRVo2cm9wcHo4UEZ4X0pTaU5Rck5zMFBqbWpjR0k?oc=",
+      "source": "news.ru",
+      "published_at": "2026-09-22T08:23:00+00:00"
     },
     {
       "category": "infrastructure",
       "title": "Казахстан расширяет магистральную инфраструктуру связи в рамках нацпроекта Доступный интернет",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5SV9acHEzXzllNFh2NEozdXhSelY0MFB1Uk5Kc0pGS2pEZnpfaFlfZzVCY1dIR0RvbXJCV09jQWpmNnVwdmVxeEZQcU9rY1hjenV5U0hkNlhwNU5xSERISjdLRUhmVHNCSTZ0VWZOWEEzdUFKMF95Yw?oc=5",
-      "source": "Правда.Ру",
+      "source": "pravda.ru",
       "published_at": "2026-09-22T07:02:00+00:00"
     },
     {
       "category": "mts",
       "title": "Мобильная связь появится во всех малых населенных пунктах",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9PZTBYR0VNYXdld2hQZnNQVjNKNlRZVnc1czd3N3FyUGt1X2FldzVPRVFadTFNODJEQmpwaXlEdGhnS2xpaGhz?oc=5",
-      "source": "ura.news",
+      "source": "URA.RU",
       "published_at": "2026-09-22T05:19:00+00:00"
     },
     {
@@ -84,9 +91,9 @@
     {
       "category": "telecom",
       "title": "Новые правила могут изменить интернет в России: что ждет операторов и абонентов",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWjgyM1VKRjFLOUtqdWtZQkJWRGx5SHh0R1BlNC1OS2kyOFludksyYnNSSExRYXVZcjlyamF2R3M2ZmNnSS1tRXhzVHkxN2UxZmY0X3A1UkVIdmh3RzZFQUo5NEVFS0JfV3ByWXFQV21GNi1HTG1yQlp0ZzRfX2Z1R0VkdklPZkRTdkszLWxnSG40VkN6b05UbjZ2ZGNoRHJlOEw",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWEtuX0lzblRyb0RZZjUtMzdWcUZ3OGZBSnU5d00zX3kzdXQ4SHlPMFE5WTZZQktNZ3NvUlVkZGFiblFTWUdIdFJPX3c1QnptcmZPVGhUb1lIOFdfLWpCYjlYUmJNSVB1SjF2RGJPVjVUWDVzV0VLcklyb1VWRVNWZGVTRGl6dElvREV1cGVtUWl6ZnRONWpsT0liTTBjWW9wWC1",
       "source": "prufy.ru",
-      "published_at": "2026-09-21T05:14:50+00:00"
+      "published_at": "2026-09-21T05:00:00+00:00"
     },
     {
       "category": "mts",
@@ -103,25 +110,18 @@
       "published_at": "2026-09-20T10:37:21+00:00"
     },
     {
+      "category": "mts",
+      "title": "МТС первой запустила связь в сахалинском Зеленодольске",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc2hfdkhKNlMtYUhuSzlnTEQ1RzNxSFBkdHFUX0FjNEIzRFZiV2VJX3h0b1Q3bXJmQU5rSHZXYUp1VVcxN0dUYWQtRkRieXZNMjQxM2tsYXZGTGllOXRYY05ZbE1QTEtacHA2RThXdjFwU193TE1BdzRSU2UwMEF2bDE3WkRhdUJ0YjZpelI5azJoMnUzbFBzRlVfVFNNVF9R?oc",
+      "source": "Сахалин-Курилы",
+      "published_at": "2026-09-19T22:18:17+00:00"
+    },
+    {
       "category": "telecom",
       "title": "10 выгодных комплексных тарифов связи осенью 2026 года",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tZk9VMTF3c1pUVnhRcjJSMTQwUDFvX212TlowUVdqUmJpc05lR0RndkdSVHh3ZjBVOXVUWjYxNVM1VmJvZzNtMVJUVE5GMVU?oc=5",
       "source": "Т—Ж",
       "published_at": "2026-09-18T12:43:17+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС запустила связь в сахалинском Зеленодольске",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWDVzeHk3bFNoSm81a2lzVDdvYy13R3NicXo2WmdNSUVSVEphMW4zbHlMbmViRk5NcWpiSVZ3M285eC1yNDhxUXdQamp4d2pwSXdsMUFzVnZCRUpqb1FpdXJzdENtNGUtVmN6RTZSd2lrQWlmYzhKRzR3OUNmYXczRQ?oc=5",
-      "source": "CNews.ru",
-      "published_at": "2026-09-18T04:25:11+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Запуск 5G в России повысил среднюю скорость интернета на 15%",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdmZvQ1BQem9MR253Z0syOHBHWGNQZ2N2cXBXN1hYODlwRUVodXJKRHV0OXpmdXZPT0xRM1VGRDktTzA3TlJMajVoaVJGbHVKNkUxRGhNZE91Y0tmckY4Y2lVaFZWa0dpbmhYOG5oa19XbnV1ZjhOS01QUC11SmRPcE5td2pGY3dOcVptX3kyMEZ2TW9faHhCVnZ4dFN0Q2ll?oc",
-      "source": "Forbes.ru",
-      "published_at": "2026-09-17T21:00:00+00:00"
     }
   ]
 }
