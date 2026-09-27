@@ -1,14 +1,56 @@
 {
   "version": 1,
-  "generated_at": "2026-09-26T09:19:59+00:00",
+  "generated_at": "2026-09-27T09:59:22+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
     {
+      "category": "infrastructure",
+      "title": "ВС России поразили в Киеве предоставлявший ВСУ услуги связи ЦОД «Водафон»",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ25sZmJhTXRnaFFWa3A0Q3JZand2cWIwMDJmX1lmdzRBSXRSUTlEbEMySlV1X2dycHgzVDVPLS0zMW4tNjNZLUotd3k5ZUN5VV84QTFsTVoweHlXaGZwaDE1cFJ5NGg3SVJlSERKVHN0Snh1OFpJTWRDbUdRWEFxanVWTUN6VGlKdXphRFFabDZ5S1NtOVQ3Mlp2RHkzcXNhQXA",
+      "source": "prospect.com.ru",
+      "published_at": "2026-09-27T06:05:29+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "МО: ВС РФ в Киеве поразили центр обработки данных, поддерживавший системы «Старлинк»",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVGNka2NVZHBjTVh4dnphSjZ6QlBYME9HdXFUaEFURWtkTVZuRVZJRUJTMURiNDF6UEVLZHNSTC1jSlFWR3dlVXBxLS1laTdoT3JJSFFiSGNEOE5RbzNGU3VJVUJkeF90ZmxibzhvUVVBcWU5YkwzM2lUYUZJMmR4UlhTRE1TbXVkVDNMUVNtaElsaWhrVkcyWHNUVjBZQmhsSEF",
+      "source": "prospect.com.ru",
+      "published_at": "2026-09-27T05:35:36+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "Армия России поразила центр обработки данных для Starlink в Киеве",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVTFtTjlqV2xzZ3I0eTZlUmR5VmJwT3hoYkR4ZEVTUkoxTDlkNzV1UnhMLVZ4N2FGb3ptYnpRbXl6NTFVd0NfRjNfQXJZQ2RnSGVLVGFFazNwM1AtcnVpQ0FveW1ZX2RPd0JXZ1JOZWEtWWpJdVB2cjhEQURjWllnRlV1MU5lOHBHc1pNZW44REhpdU1TZ1pSb0Z6b1RCMVZhWnh",
+      "source": "prospect.com.ru",
+      "published_at": "2026-09-26T23:00:11+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "ВС РФ поразили центр обработки данных «Космонова» в Киеве",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYnlVcllxT3V1dksxWlc0TUpFbkVaWW5Dd2daNlZUdVpaZkJ5TGF3LXZ4NVJTTzJ4R2JLY2ZfQTNMdmhsajJhdDJYdTRlTEc2aWN2OTJTNXlsZVNpODZvVUp3ZTNlbzFjYXpOeTFzOGJFVDRTcmlOOGVXRGNNd2YwUE1KWGZHNV92eG40VlN0QWg5Q1h4TlF5cEVxNllYcjQ?oc=",
+      "source": "prospect.com.ru",
+      "published_at": "2026-09-26T14:50:06+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "В Киеве поражен центр обработки данных, обеспечивающий работу Starlink для ВСУ",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNmNjdURJNTZUU3g1MG5EOVd3clBnMF9ZZzRlZUdfRG5jNjNodnNnQ3BzZDF2Y2t2MVhXMFNCNVZwaWMxdjM4WlpPRl9wT1pwTGFwT2pEcUlPeDI4TXBJNjZnOG1ERWxRTVpIN2xBdGdOekJRcVpmdV94ZHA3czYwSy1NNERWVmtXRklCcjRwdHdsT05UdzVSbzRjd0p0aWFQTGR",
+      "source": "prospect.com.ru",
+      "published_at": "2026-09-26T11:20:04+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "В РКН поручили операторам принять меры по борьбе с уязвимостями в MikroTik на своих сетях и у российских абонентов",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JMFRlVFdYUkZ0cjh4UVBDc0tnekphUkR6aDZOSnR6WjdwaUlPUHMwdUp0Mjc5WEMwSm9NVTRtTVJxZjAtUGd2THg4UjhlNU93cmNKYmh5V3HSAVhBVV95cUxNSTBUZVRXWFJGdHI4eFFQQ3NLZ3pKYVJEemg2Tkp0elo3cGlJT1BzMHVKdDI3OVhDMEpvTVU0bU1ScWYwLVBndkx",
+      "source": "Хабр",
+      "published_at": "2026-09-26T09:45:16+00:00"
+    },
+    {
       "category": "mts",
       "title": "Вслед за кошкой в дома Птушкино пришел более быстрый интернет МТС",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYUFoYS05SXJpNkVnOGt2YmhpMS1ZRXlfSjl6T2ZqMUxDVGE0ZU1FNV9zX2xwREw3LXUwaloyUUdSUDNidTJERWtJbU9rZW0xRDRTSllPVkk1bG9NUnVVdEhmbTluS2QwR0Fsak4tVkRmNno5aGlwdW5ydmdFZ2w5NA?oc=5",
-      "source": "cnews.ru",
+      "source": "CNews.ru",
       "published_at": "2026-09-25T07:17:03+00:00"
     },
     {
@@ -22,14 +64,14 @@
       "category": "telecom",
       "title": "Россия разрушает телеком-инфраструктуру Украины: в стране начались проблемы с интернетом",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdHdJd0w0Nk1kb0c2SUpxYUxJR1pkWDJzQ3ZVZ1JGQXJLZkx2eEZaem9JSzkyQS1pMDR6QjhibEZNYmR0VDN1VDNzU25uU25hUmpHdzlPT2h0NHo0T3BIOGRWeHVYaUhXWVEwMU13emJyOHlYMUs4SU1IWUxEeGFndTdHRWdUS3p4b2c?oc=5",
-      "source": "cnews.ru",
+      "source": "CNews.ru",
       "published_at": "2026-09-24T13:41:08+00:00"
     },
     {
       "category": "infrastructure",
       "title": "Россия наносит удары по дата-центрам Украины: что будет с интернетом и мобильной связью",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYWJ1UTRaenFxSDlSMUNmM1p1UUItYlZNOFZlNXlJb1VNbHAyVGkxSXJHbjdja3lHOFUwVVU5eFpDQkdzd1dQN285OUtyWGo1RGd6djA3amJ5a2F6eG9UQWh6S0NPZHQzaGZJbXdLbElVc1hTUFNXMzZmNVUwNVZVV0V6WWIwVUhhem9SWE42VDYzMXA2MGJIYzAtQ2I2dkxRb2Z",
-      "source": "UA.NEWS",
+      "source": "ua.news",
       "published_at": "2026-09-24T13:22:36+00:00"
     },
     {
@@ -40,18 +82,18 @@
       "published_at": "2026-09-24T00:54:56+00:00"
     },
     {
+      "category": "mts",
+      "title": "Около 3000 семей Астрахани получили доступ к обновлённой сети домашнего интернета МТС",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVTVKRWZsX1VzbXVzR1BYNFRmaHhKZnAzZ1FwOEdkeVJhSHBhaHdXQVdDcnRxX0JKYk95VmRaWmZYRWRsaEJScUtvTHFSTUk4Ul9wRUhENTZMazdZRWVvLUhLNjlHdUlWSGpzam5rN2F4UW1sZ2Z0N1B3R2NOMkdwU2VZbmd4UVhCMWVQTnpyNVA5eVYyV3pleXNmVERFTFFMTm4",
+      "source": "Астрахань 24",
+      "published_at": "2026-09-23T21:04:32+00:00"
+    },
+    {
       "category": "telecom",
       "title": "После выборов в Думу власти поручили ввести для россиян плату за выход в мировой интернет",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUHdKNGZFTW91VlYwVmRIZURoNVhKNUhHSFVEdlFfMmpSbUVzWVBTbTRqX3NZeXp2cHJXWGE1UzlsN1NIZ3M3NXBiX0N6Y3BhYlZWSDJaMVE4c0Q3UktTdEFxVUV5SkdJcXpPVkNYb0JMNXlwNzlhR1FwUUc5Nml0c3JNbWJmZVc4Q1lWNDlGVlR2eG1GUDE4bDF3NU5hbHRFalh",
       "source": "Русская служба The Moscow Times",
       "published_at": "2026-09-23T12:51:00+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Операторы могут начать взимать доплату за международный трафик 5G в рамках борьбы с VPN",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaF9IQThBSGJrUERwbDRHMjlKSDQ3NUFkYW9zQUpwaEh3ZUFHQlBzaEJiNXpWQTRSc2JFRHdmWjlSb2dMYUxxdC05c1lkQVpsQ0dkQWxnRkpDWXZMcF83cmFvSU9RRk85YTVwZll0TnZqTEpKQ0RVOUU5N05QdlI0aFVEQzJLWXJWQkpickRoUXJjWFZjcXVvdnF5MzlVUTE5RjB",
-      "source": "Важные истории",
-      "published_at": "2026-09-23T12:41:26+00:00"
     },
     {
       "category": "mts",
@@ -68,17 +110,10 @@
       "published_at": "2026-09-22T18:38:22+00:00"
     },
     {
-      "category": "mts",
-      "title": "МТС улучшила качество связи в Ржеве у мемориального комплекса",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0tcnRQZndBdnFNem9lQW9GSWlaWS04dDlaRC1tZ291emoxR0o5WXZCa05MNFRMX2Z5Q01uRm1pbkJ5VnBJbmNB?oc=5",
-      "source": "TverNews",
-      "published_at": "2026-09-22T16:00:00+00:00"
-    },
-    {
       "category": "infrastructure",
       "title": "Правительство назначило Минцифры ответственным за повышение цифровой грамотности граждан",
       "url": "https://news.google.com/rss/articles/CBMilwVBVV95cUxOdGt4SC0ydm0zWGotaXEycDFMdEhNeFNkeWNrWldlMGpERWpzbG1VRUNFWHRRS1h4eEROWnVWMUNYdm94X1l0d0J2ZFNVbHQtMDdhLVgzU2RHNlpiYmFyRWpHaVFJcmh4MHZqQzhmZDhtaTQxb1hkcVA3U0l0bG1nOU9MOXBsMV9tQjhhRnJoMFlwOVA5RjNocmhKcWRVTk9TWlY",
-      "source": "tadviser.ru",
+      "source": "TAdviser",
       "published_at": "2026-09-22T08:52:27+00:00"
     },
     {
@@ -94,41 +129,6 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWEplWFV3Nktaa0lZeHk0NWpmcHVYRU9aQ1hnQlVWbm5EcVhjWDdXRm1UT3NJQWUwbVVPSzUtdVdySXNva1hGQ3hSNlJnYjdQNFpuNVcxZFY5a19HTldKaDFKckFjY2VxVFY4SndVRjR2eEZUbXBCTm00dG92bU1zRjZVRVo2cm9wcHo4UEZ4X0pTaU5Rck5zMFBqbWpjR0k?oc=",
       "source": "NEWS.ru",
       "published_at": "2026-09-22T08:23:00+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "Казахстан расширяет магистральную инфраструктуру связи в рамках нацпроекта Доступный интернет",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5SV9acHEzXzllNFh2NEozdXhSelY0MFB1Uk5Kc0pGS2pEZnpfaFlfZzVCY1dIR0RvbXJCV09jQWpmNnVwdmVxeEZQcU9rY1hjenV5U0hkNlhwNU5xSERISjdLRUhmVHNCSTZ0VWZOWEEzdUFKMF95Yw?oc=5",
-      "source": "Правда.Ру",
-      "published_at": "2026-09-22T07:02:00+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "Старинная станица Етеревская впервые вышла на связь благодаря отечественной базовой станции МТС",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOamJUTWxmZ1E2RVZPOUlPQmlTVFI5THZoYlBSMDJmM2pkMHhtRWV2YnJmQ2oxT3FRYUkzeDBNdTJIdDJlMDlqalN5bmdGNXNBQjVTWmZFTUtGX1d6Yzd3X0NhX0FOVGtrZFdnRktVNHBNdi0wZ3FpLUFldVl2QjBvOWlweVJrYlBRZVp5eDFHeURJOWVQZVNDRWp5OGJDZ2doNk9",
-      "source": "Городские вести» - Волгоград",
-      "published_at": "2026-09-21T13:26:00+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "Оптический размах: «Ростелеком» в Ставропольском крае расширил телеком-инфраструктуру",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWFlzVjB2WHEzN05jeFp6Z2ZMc091YkNSN3ZtNE5aR3l5QnpKdGpWRTRFYjBUTUlPUkJXWjJub1BySUxTdFVpcVNXMjB0RXgxNlBsQW5aQUNyMHVLb3hEcWtLT2JOM19LeVZRTURDamlGNnZhUVYwSzRfX3Utb2FvWlJJamliRzlILXRqRGZaaXhWYmlsN01qazF4SnFXLVVaTHZ",
-      "source": "prospect.com.ru",
-      "published_at": "2026-09-21T09:22:06+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС обновила сеть в поселке угольщиков на западе Красноярского края",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1melB1U0loRUN3d2dRVmNBM1N3UTduMG8yNVI5Z1p3aUZZNGdrc2xtVThMbXRZN3hTQlVhNXdRRlhOSWViTEHSAVpBVV95cUxNRXZ1LVc1T3JUTlJCcC1IaWdrbjQ4WS1DV1A1a2d1SjdDNWRVcHdMelJhNUNjdjBMMXZReTJNZm9vaTVWMHlUbmVucDNWNWxKcTNSTng0bFNIZ1E",
-      "source": "Newslab.ru",
-      "published_at": "2026-09-21T08:01:00+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "Что там с телекомом: 5G пока не радует, стройка дорожает, а МТС меняет дивидендную политику",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50WUd5UGNEa2l4RzRtem1TZ2ZKZ0JWTlVlcDFWQnFWakNWbVBlemJITFp3NzhHWEN0Tk5KTXhac2tEaGpvVzNWU1VCMzZ0ZVJpYUJV0gFYQVVfeXFMTWxMRUlHRHJ5dmtHMGhsbnBLVUZfdjFDU3FYZFYtdXRjY2k3dk01cGVTVWZpRXdUODlCZGowT0RMTTNIZEFWY1Fza1RQN0Y",
-      "source": "Код.ру",
-      "published_at": "2026-09-20T23:30:27+00:00"
     }
   ]
 }
