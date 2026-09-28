@@ -1,50 +1,71 @@
 {
   "version": 1,
-  "generated_at": "2026-09-27T09:59:22+00:00",
+  "generated_at": "2026-09-28T10:51:51+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
+    {
+      "category": "mts",
+      "title": "МТС расширила сеть фиксированного интернета в Бийске",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUXplUWJ3VWJYSXhuODFxTXdxaVdKQml3ZDNCOWNFYWdzUHJSUkpUdTkxUXZ0dlJveGZuVWJwV1ZLd1dSd1RrWUg5dE5yU21fcnlocG1aTmo2RmNKZnVqVkg2V0hCbDNaWUVtZTNqYWlDMzJtcmtNZ2pYWmNzSmk4cHoyZldBNWM?oc=5",
+      "source": "ГТРК «Алтай",
+      "published_at": "2026-09-28T06:09:48+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Полна коробочка. Хватит ли емкости российских спутников связи к 2035 году",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRHRmcnlFQjZVSEJrSDhoc0NiV2xwS0F2ZHlUMGQ0YkxCdjhqenB4cThPdFFQS0RiZS1UekkyMk1FY1JhbVlJX0RWeWpsRW1JRjdGbGprOGlsR1ZrdnZscGRkVHVpTTZ2UzdfbVZ5ZTUtVHNRWlEtaE9TY1JhS0FMcnprSmZmV2hNRHVrRi10MmdaNWJseC1uWlBsZXU5OW1nRkh",
+      "source": "ComNews.ru",
+      "published_at": "2026-09-27T23:37:47+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "Российские войска поразили в Киеве центры обработки данных",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRC1Mbi1YTzhBS1pPSXZ3eDdzN3MwN08xOFRORkU0NnQxaDJxamhLc0lqMTNPVFlHOVJVSnZsTGFyT3REdXNCaTNZakY0Rkd4M3pzNGZIREY3M0NKOE10cmwyS0dqWldlSm5zaGFjaUNKZVBQdHRUbEhYcHVaTGVWSjFJVVlUZW5YN1ZiaHNtUFdYWnBOX24xcTBEOThYZU9ZSml",
+      "source": "prospect.com.ru",
+      "published_at": "2026-09-27T22:11:08+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Тимур Аитов: «5G или 4G — лишь бы ловил мобильный интернет»",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdmFhVVREZHU5eUpEdUZZamZKZ2dJMTBxSmlvaWUza3RZMTNRdXZ3eFdhUFJMamRkajhyZmlkMHFDTldPREFtOEhXbDJTWlNlVWlITmhNR2hQc1YxSzVfV3NqX0l6dHY5bWwtbDM1cUh4Qjd3TFQ1eGFtbGRaZWhJVmp0UjNhWTdkMmtTLTJRRTBNRUphSEJnQTJaNVNaay1K?oc",
+      "source": "Татцентр.ру",
+      "published_at": "2026-09-27T17:53:37+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "ВС РФ ударили по дата-центрам операторов «Киевстар» и «Омега Телеком» в Киеве",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5lb0V4S3BjcW1oeFh6T1FwTXpuQUVCYkE2bWo0dlQ4c2o2LXRVZ3JMRXF3cDRiTy1TdHc5SzluODkxNUE00gFKQVVfeXFMTlN1T1pheGdYOUw3UF9rVGY2SzJ0Zkw5RjNla18wT1JUYjFtaGZsQ181d0lmMDJmVlA4WVBoQ24zLWxTSXFvTXpGSHc?oc=5",
+      "source": "BFM.ru",
+      "published_at": "2026-09-27T16:50:27+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "Свыше 50 тысяч якутян получат высокоскоростной интернет благодаря «Синергии Арктики",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb2FWR2ozcW1Ed3VWQjZpMmNoOG5lWC1TRWxBN2dBUUlrZENJbXdDN19tTi1HQjc2S2E1djhzUy05UTM5VXNTWmNXUkxsbUttSGtFOFozNElRQkxxN29NYWR0cWhJYXoyNzdYUEVZMWVkc2J1MW4tUWxOc3VrVk5UeGU1eTZZMm0zVHJ4OHVKWXB6UDh1dnFQRFIyQVhuX2NqMlp",
+      "source": "ЯСИА",
+      "published_at": "2026-09-27T10:40:38+00:00"
+    },
     {
       "category": "infrastructure",
       "title": "ВС России поразили в Киеве предоставлявший ВСУ услуги связи ЦОД «Водафон»",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ25sZmJhTXRnaFFWa3A0Q3JZand2cWIwMDJmX1lmdzRBSXRSUTlEbEMySlV1X2dycHgzVDVPLS0zMW4tNjNZLUotd3k5ZUN5VV84QTFsTVoweHlXaGZwaDE1cFJ5NGg3SVJlSERKVHN0Snh1OFpJTWRDbUdRWEFxanVWTUN6VGlKdXphRFFabDZ5S1NtOVQ3Mlp2RHkzcXNhQXA",
       "source": "prospect.com.ru",
-      "published_at": "2026-09-27T06:05:29+00:00"
+      "published_at": "2026-09-27T07:40:15+00:00"
     },
     {
       "category": "infrastructure",
       "title": "МО: ВС РФ в Киеве поразили центр обработки данных, поддерживавший системы «Старлинк»",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVGNka2NVZHBjTVh4dnphSjZ6QlBYME9HdXFUaEFURWtkTVZuRVZJRUJTMURiNDF6UEVLZHNSTC1jSlFWR3dlVXBxLS1laTdoT3JJSFFiSGNEOE5RbzNGU3VJVUJkeF90ZmxibzhvUVVBcWU5YkwzM2lUYUZJMmR4UlhTRE1TbXVkVDNMUVNtaElsaWhrVkcyWHNUVjBZQmhsSEF",
       "source": "prospect.com.ru",
-      "published_at": "2026-09-27T05:35:36+00:00"
+      "published_at": "2026-09-27T07:00:12+00:00"
     },
     {
       "category": "infrastructure",
-      "title": "Армия России поразила центр обработки данных для Starlink в Киеве",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVTFtTjlqV2xzZ3I0eTZlUmR5VmJwT3hoYkR4ZEVTUkoxTDlkNzV1UnhMLVZ4N2FGb3ptYnpRbXl6NTFVd0NfRjNfQXJZQ2RnSGVLVGFFazNwM1AtcnVpQ0FveW1ZX2RPd0JXZ1JOZWEtWWpJdVB2cjhEQURjWllnRlV1MU5lOHBHc1pNZW44REhpdU1TZ1pSb0Z6b1RCMVZhWnh",
-      "source": "prospect.com.ru",
-      "published_at": "2026-09-26T23:00:11+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "ВС РФ поразили центр обработки данных «Космонова» в Киеве",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYnlVcllxT3V1dksxWlc0TUpFbkVaWW5Dd2daNlZUdVpaZkJ5TGF3LXZ4NVJTTzJ4R2JLY2ZfQTNMdmhsajJhdDJYdTRlTEc2aWN2OTJTNXlsZVNpODZvVUp3ZTNlbzFjYXpOeTFzOGJFVDRTcmlOOGVXRGNNd2YwUE1KWGZHNV92eG40VlN0QWg5Q1h4TlF5cEVxNllYcjQ?oc=",
-      "source": "prospect.com.ru",
-      "published_at": "2026-09-26T14:50:06+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "В Киеве поражен центр обработки данных, обеспечивающий работу Starlink для ВСУ",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNmNjdURJNTZUU3g1MG5EOVd3clBnMF9ZZzRlZUdfRG5jNjNodnNnQ3BzZDF2Y2t2MVhXMFNCNVZwaWMxdjM4WlpPRl9wT1pwTGFwT2pEcUlPeDI4TXBJNjZnOG1ERWxRTVpIN2xBdGdOekJRcVpmdV94ZHA3czYwSy1NNERWVmtXRklCcjRwdHdsT05UdzVSbzRjd0p0aWFQTGR",
-      "source": "prospect.com.ru",
-      "published_at": "2026-09-26T11:20:04+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "В РКН поручили операторам принять меры по борьбе с уязвимостями в MikroTik на своих сетях и у российских абонентов",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JMFRlVFdYUkZ0cjh4UVBDc0tnekphUkR6aDZOSnR6WjdwaUlPUHMwdUp0Mjc5WEMwSm9NVTRtTVJxZjAtUGd2THg4UjhlNU93cmNKYmh5V3HSAVhBVV95cUxNSTBUZVRXWFJGdHI4eFFQQ3NLZ3pKYVJEemg2Tkp0elo3cGlJT1BzMHVKdDI3OVhDMEpvTVU0bU1ScWYwLVBndkx",
-      "source": "Хабр",
-      "published_at": "2026-09-26T09:45:16+00:00"
+      "title": "Форум «Микроэлектроника-2026» соберёт самые громкие премьеры российских разработок",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcDBwdUZjekFxZnd1MzJDNjRJbExNSkpuZnNTRVpfTmlyTzIwUDdpb2ZHd055WkljbWV3TkdkNk1pMUJQY3NiY2xvU2RaZDJSb1hLRVVSVzFYeHRZQnhtXzZsTk4wWWN4OW92YnV2cDRVRmhSYXdaMUh3dERwdkpLVmdLbjgxaHY4ZGJGWGFTd0Yzd3B3bVI3T09VSjBmc3dHZ21",
+      "source": "RUБЕЖ",
+      "published_at": "2026-09-27T04:58:34+00:00"
     },
     {
       "category": "mts",
@@ -52,13 +73,6 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYUFoYS05SXJpNkVnOGt2YmhpMS1ZRXlfSjl6T2ZqMUxDVGE0ZU1FNV9zX2xwREw3LXUwaloyUUdSUDNidTJERWtJbU9rZW0xRDRTSllPVkk1bG9NUnVVdEhmbTluS2QwR0Fsak4tVkRmNno5aGlwdW5ydmdFZ2w5NA?oc=5",
       "source": "CNews.ru",
       "published_at": "2026-09-25T07:17:03+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "К 2030 году россияне смогут пользоваться интернетом в самолёте",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV045azlUZFdMS0RidDFqcUdCakR2ekVuVGducmJpUDMwZU1DUFdLcHZ1Z1ZHbVNMX1hJa3c0WlBTWXVGdW4tQTVMQURlYktqclFvaHNGdkhDN203c3g0T0MwX3Q3QUVjZlFDWGU2RjFBMlFYUlhWMXFKWmcxMmd2OElYV2JGeG5PdzRXQUJrSXVjeU02d0tPQUc3MTRsa0ltMW5",
-      "source": "Клопс - новости Калининград",
-      "published_at": "2026-09-25T05:23:19+00:00"
     },
     {
       "category": "telecom",
@@ -71,7 +85,7 @@
       "category": "infrastructure",
       "title": "Россия наносит удары по дата-центрам Украины: что будет с интернетом и мобильной связью",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYWJ1UTRaenFxSDlSMUNmM1p1UUItYlZNOFZlNXlJb1VNbHAyVGkxSXJHbjdja3lHOFUwVVU5eFpDQkdzd1dQN285OUtyWGo1RGd6djA3amJ5a2F6eG9UQWh6S0NPZHQzaGZJbXdLbElVc1hTUFNXMzZmNVUwNVZVV0V6WWIwVUhhem9SWE42VDYzMXA2MGJIYzAtQ2I2dkxRb2Z",
-      "source": "ua.news",
+      "source": "UA.NEWS",
       "published_at": "2026-09-24T13:22:36+00:00"
     },
     {
@@ -96,6 +110,13 @@
       "published_at": "2026-09-23T12:51:00+00:00"
     },
     {
+      "category": "telecom",
+      "title": "Операторы могут начать взимать доплату за международный трафик 5G в рамках борьбы с VPN",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaF9IQThBSGJrUERwbDRHMjlKSDQ3NUFkYW9zQUpwaEh3ZUFHQlBzaEJiNXpWQTRSc2JFRHdmWjlSb2dMYUxxdC05c1lkQVpsQ0dkQWxnRkpDWXZMcF83cmFvSU9RRk85YTVwZll0TnZqTEpKQ0RVOUU5N05QdlI0aFVEQzJLWXJWQkpickRoUXJjWFZjcXVvdnF5MzlVUTE5RjB",
+      "source": "Важные истории",
+      "published_at": "2026-09-23T12:41:26+00:00"
+    },
+    {
       "category": "mts",
       "title": "Гигабитный домашний интернет от МТС появился в Хостинском районе Сочи",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdE5CVzFEVWZHaURiYjRVb3dRTl90eTlEVDRQNHFYMWttQzdqLWJuRlNuLUlHUlZYdFJ1RU9lWHdCTXlaaHpyZ0dVX3hIY2x4cVZ1cHFzZVpOd180WDNleXlqWDBUX19zYnZxZ0lVME5IWE5vM3lYdjAtS3BDTlhOTExDUTdCSzd4VXlHNDJVRUJsSE5mTzBoWGhvYnJ5bThobnJ",
@@ -106,29 +127,8 @@
       "category": "mts",
       "title": "МТС расширила сеть LTE в селах Курганской области",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbThjR3h0aGh0X1ZTRVJRdThiR2xMWkpMb0VjUngzMDVkOHFDUDJYUGp2RkJzZkVTdnYtbDBZVmp4T1lGZnp3UDJZbFU2UnA5TWFZSkFyR1dFVU1taXNTY0FWS2V2aUxpdHpwb3JHTXIyY1BXeUVfTnh4OGtIbHhobjJVSEluejlBcHlOWDVuYWdKbWpOaF9WM3RzNA?oc=5",
-      "source": "SHADR.info",
+      "source": "shadr.info",
       "published_at": "2026-09-22T18:38:22+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "Правительство назначило Минцифры ответственным за повышение цифровой грамотности граждан",
-      "url": "https://news.google.com/rss/articles/CBMilwVBVV95cUxOdGt4SC0ydm0zWGotaXEycDFMdEhNeFNkeWNrWldlMGpERWpzbG1VRUNFWHRRS1h4eEROWnVWMUNYdm94X1l0d0J2ZFNVbHQtMDdhLVgzU2RHNlpiYmFyRWpHaVFJcmh4MHZqQzhmZDhtaTQxb1hkcVA3U0l0bG1nOU9MOXBsMV9tQjhhRnJoMFlwOVA5RjNocmhKcWRVTk9TWlY",
-      "source": "TAdviser",
-      "published_at": "2026-09-22T08:52:27+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Услуги связи в Омской области подешевели больше, чем в среднем по России",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYWNIMnJWMGMxeHpJVzE0MW5VbzJXVkxQSFlDbVlUYmxPWXU1R0tueXRQUUdfSlBlOWI1dXNCSllhb3MwTVpPRnpnclFuX2dzbE03cVBjaXhTa0J4VDlDTkNXcEtRUjlqX1FvbUFEeWwtOWtqTFctUFlRUmttSFhPeVRoTmJuZ3RGZk1fb2tuWG1qNjlDd2ZtOVdPZVhaM0pJRzY",
-      "source": "KVnews.ru",
-      "published_at": "2026-09-22T08:30:00+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Почему не работает мобильный интернет 22 сентября: причины, сбои в России",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWEplWFV3Nktaa0lZeHk0NWpmcHVYRU9aQ1hnQlVWbm5EcVhjWDdXRm1UT3NJQWUwbVVPSzUtdVdySXNva1hGQ3hSNlJnYjdQNFpuNVcxZFY5a19HTldKaDFKckFjY2VxVFY4SndVRjR2eEZUbXBCTm00dG92bU1zRjZVRVo2cm9wcHo4UEZ4X0pTaU5Rck5zMFBqbWpjR0k?oc=",
-      "source": "NEWS.ru",
-      "published_at": "2026-09-22T08:23:00+00:00"
     }
   ]
 }
