@@ -1,15 +1,57 @@
 {
   "version": 1,
-  "generated_at": "2026-09-30T10:28:03+00:00",
+  "generated_at": "2026-10-01T10:55:38+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
     {
+      "category": "telecom",
+      "title": "Операторы связи готовят запуск 5G в Ленинградской области",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lTGdEOHdSblRhNGh1T2p0dW1KSUJwcHc4XzMyNXRlbjdhdGhLZzJOYlhUWkR0QXJZSF9Dc0UxZEFMdmdGTHhGMUhVQ0p5clFNVHN0d3hKNVROaGxYbk1PeE9OTTlIZS1ESFg2S0xKTzfSAXtBVV95cUxPYWxFeUhabzNMUFBWdXJPa0dPdlViUHg1bDBpMjVuUVl3LU1VRDBOSXV",
+      "source": "dp.ru",
+      "published_at": "2026-10-01T08:54:00+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Оборот российских телеком-операторов вырос на 11,6% за восемь месяцев",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV1Eyci16YkdkaWY1UXhVcWMzQlhyU3l0Y3hUTDQ5M0tuSDNfdmdhZGpTdzhMdUFVWERDQ2dkV3c2VmdwV0h1cTEyMXAyS1BUVHo0VndGTHRyOGFHVnVyRkxvTmtqS2RiZlFIOFVUdVlpTE83RmN5YVREZnhmcG8weE02VWhTLUZTTmVMWGRnSHRIZGI1MXlEQUtIc21uUjNPd3J",
+      "source": "finance.mail.ru",
+      "published_at": "2026-10-01T06:31:12+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "Атаки России на дата-центры Киева: чем они угрожают интернету",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWVU1c2ZvWkZJZjJNbTBLdVhQLUNDeU1SS1RmaVRQODJWbnVrY0N2UzIxTkdTLVZUSVVFWkg4M1QybDJJcVIxYVJSbTVmT01rM0huVWxZcWlScDJmaEdSMndiMHFHekx4a3BZOTIwVFNJM2R3dHVlTmliSk5PS3Q2dUE4ZnJmN3RVX3N1RGdRajg5Q0hSQnJPNDY0MUhiZlpLdWl",
+      "source": "Вікна-новини",
+      "published_at": "2026-09-30T16:10:34+00:00"
+    },
+    {
       "category": "mts",
-      "title": "МТС прокачала связь для новосибирских пловцов — 30.09.2026, 12:27",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNGtYdDhwem83Z1lxVzdfUlVOdmVxOHQ5eU1xRjdWNE9nQm5RclNXNl9vejdwc1paQVR1Q1dTRzl5RmpLM09uSUxvcFVBakxkZllRX2xsdlFWOHdUc2pyVjliM0RKbzNVN0R4eGd0S0k2eEtod2dJREJVTjdXTEdNWGZUZ1hmU19vVXRfSGhMZXJ0eHkzOTFJ?oc=5",
-      "source": "om1.ru",
-      "published_at": "2026-09-30T06:27:00+00:00"
+      "title": "Сегодня, 30 сентября, в ряде регионов РФ не работает МТС",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLUNNM0ZjSkkwWEFMdEYzQS1MZC1TRURQNG9WOWRSRzA5Q1dXbEx1M0Z3YmNwVG1wT2Z5MGd6UloyYzJHMmR6S3ZGNHNkQm5oYThQcmpndTVNejlYUkx0TU5odi10V2xYbUxqSE9YVDB1MlRkU1haUXB2MERIWkM0bUNQWU1sOXI5R0hCaWFCMHdUMVgyN0U4VlREaU5raHZDbmd",
+      "source": "Инфо24",
+      "published_at": "2026-09-30T14:59:00+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "«Выжженная земля» 2.0: Россия объявила охоту на дата-центры Киева. Украину ждет каменный век",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSXhjNUFfbGFteFhWdDZRUzRLOGdYMFBKRzRnZ2g5b20tZjhKRGRkNWFibTNKNVlMeWNLZ1pCZkdUTUNoUDZlR19reWNqOElkcEhVT2FfOGJ0MEFweFdUbmt1emdIOG9MVVFMWnE3SHlYZ2N6aWJ1cWhDVmItaFV5OXZ3bHdQM2FvSHVVeF8xQTNhSzVEMDNMMUVyMzc3NjZ4Ull",
+      "source": "RuNews24",
+      "published_at": "2026-09-30T14:44:00+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС первым в стране покрыл «интернетом вещей» все районные центры и другие города Беларуси",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbGMyU2FqaHZHNWdJU2VHTExmcGc2VEdSZE1xWi1UVHJraGxjNl9mZ1Z4V21qWWZHZUZ2VGFFODB2Vl9HakJoV0JYSnczVFFKLV9haTFhOHhvamtZaEFwQWFGV0VwT3Ywa1pmRnpuaHltNy1oZGZrQVRKQ0VnVThwRk9lbGowNEk1TjRmUEVHWUN1V3labFBFSmVlNXlhOE5yOE5",
+      "source": "probusiness.io",
+      "published_at": "2026-09-30T13:00:00+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС прокачала связь для Новосибирских пловцов",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS0d5dExRTHlDYjNiTWJWZUNzWDlsQjFDcVdVcXlYbmVVcmtUX2VmTElHVWtUbVF5OXdtOThseEUwYXRLc0tNQ1oxT0NYbk5QZlJlVy1lVWRhWFJSX2xQR2gyd0k3b2Q5THhBRFBEekEzTG1FZW1uR1lkdlM0QmZXOXNGZUZRQ1Jy?oc=5",
+      "source": "CNews.ru",
+      "published_at": "2026-09-30T05:17:26+00:00"
     },
     {
       "category": "telecom",
@@ -27,10 +69,10 @@
     },
     {
       "category": "mts",
-      "title": "Некоторые пользователи МТС пожаловались на сбои в работе 29 сентября",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTDFaSHdJQXhsMHZCQWpXbmljY0NGcGlRY3JIQU9PMDZYLWYtMDdpNWV2UHFrYnJCS3lEaTVlcjJGdTJaNjl6ZHBkZ1lGR2MxVEVUVHpGcTJCOTB1ZHpiUzEwSS1IRkVUNWNUZmtTMVhycjBHLXMyMHgxeDhRM2paa29OV0h2T18zSzN3Yk5pS3BobVNsajZocklSOVViZlpodjJ",
-      "source": "Инфо24",
-      "published_at": "2026-09-29T08:31:00+00:00"
+      "title": "МТС прокачала связь на Сельдинском шоссе в Ульяновске",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbkRjRWIzR3NsaE1SV1VZWjYxcG4yeUZyMjlINnp1RE1SY1pLbEtWVWs5UllIMy1MUDhNM3dFWU5wZk11bUs2UHhYRERpRk55ano2anJvSld3ckF0d09Ib2xHdW0zdS1KVHRJaGplU2JSZHpnLU1obmNjOE1TVjg4SDZlM2hwbC1FUGhDS1R30gGOAUFVX3lxTE9uRGNFYjNHc2x",
+      "source": "73online.ru",
+      "published_at": "2026-09-29T08:33:00+00:00"
     },
     {
       "category": "infrastructure",
@@ -47,11 +89,11 @@
       "published_at": "2026-09-29T06:32:04+00:00"
     },
     {
-      "category": "mts",
-      "title": "МТС прокачала связь на Сельдинском шоссе в Ульяновске",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSnpkRGxoNm9wMTRKNUw3VDJkcWhNUVZ6UlROVG1VMi1LWXBJUF83ZnZERTZuMkxtQ2xwdHUyNzdEN25EZ3dFeXYyZUV5ZWZ6ci1kdlQ5N0dtUkY4NjhVUjNhZTY3amRsbFV5aUEtYmtuWVNKQnpGVy1EemFXQ2syS2xR?oc=5",
-      "source": "CNews.ru",
-      "published_at": "2026-09-29T06:10:48+00:00"
+      "category": "infrastructure",
+      "title": "Росреестр предложил разрешить размещение оборудования ЦОД без выделения отдельного вида использования земли",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONHU1UGQ1aTZKc1F4VzlZRmcxZGRxYmZORUl4THRQRkUxemR6bjdvbW5wYlVkdWpabERncFhZYTFwNWdEck85SWIzcmJKWHVfNlRYeFdhUi1GeGtCRGFOcWs0Mk9OaklXcmZvM0hKZWpILWNNeGI5VWtmS2JYS3E5VDd4alV2bUFRU1AxazJkSnlpSmNZU1pkdlE5cFFhZ01wV3h",
+      "source": "ru-bezh.ru",
+      "published_at": "2026-09-29T03:20:49+00:00"
     },
     {
       "category": "mts",
@@ -68,17 +110,10 @@
       "published_at": "2026-09-29T02:45:31+00:00"
     },
     {
-      "category": "infrastructure",
-      "title": "Росреестр предложил разрешить размещение оборудования ЦОД без выделения отдельного вида использования земли",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONHU1UGQ1aTZKc1F4VzlZRmcxZGRxYmZORUl4THRQRkUxemR6bjdvbW5wYlVkdWpabERncFhZYTFwNWdEck85SWIzcmJKWHVfNlRYeFdhUi1GeGtCRGFOcWs0Mk9OaklXcmZvM0hKZWpILWNNeGI5VWtmS2JYS3E5VDd4alV2bUFRU1AxazJkSnlpSmNZU1pkdlE5cFFhZ01wV3h",
-      "source": "RUБЕЖ",
-      "published_at": "2026-09-29T00:17:07+00:00"
-    },
-    {
       "category": "telecom",
       "title": "Архитектура независимости",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZnZuTmE0S09PVG5UajVMcjdpOG9VVi0zYkJINXFGV19tVm1ENzBhU3MtTmlTbFE3aEt2ZkFSckFfWXNMeWRGOHpqdVFtQUdiRU4zWm1OUWE3OE5RQjdRZkJqT2VHYjNFbHpkMHFpYVp6b1ZYaFNUU0xiaHNrMmtkV3h2bV83Mjhjc21PeFJNOHRoVG9DdUNFaE9hY1pVQ0VWYTJ",
-      "source": "vedomosti.ru",
+      "source": "Ведомости",
       "published_at": "2026-09-28T23:21:48+00:00"
     },
     {
@@ -94,41 +129,6 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd1A1djRGSmRuVVVta0xQc3ZwVEJPMUFBVFEtanJPcDJTSWFCTUxYWFJVb0x6TzA5OEM3RUJOc2Y5dUNnYTBEM3FmZ2JKWEF6X2w3M1BvSWJlNkxEVWxJUHhYYlNKdW9YckNwaDFFTnJMeGcwek5EXzNiUVpmNjRLcGtSY2tWRFlJR3Y4bENqb3M?oc=5",
       "source": "Gosrf.ru",
       "published_at": "2026-09-28T08:47:23+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС расширила сеть фиксированного интернета в Бийске",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUXplUWJ3VWJYSXhuODFxTXdxaVdKQml3ZDNCOWNFYWdzUHJSUkpUdTkxUXZ0dlJveGZuVWJwV1ZLd1dSd1RrWUg5dE5yU21fcnlocG1aTmo2RmNKZnVqVkg2V0hCbDNaWUVtZTNqYWlDMzJtcmtNZ2pYWmNzSmk4cHoyZldBNWM?oc=5",
-      "source": "ГТРК «Алтай",
-      "published_at": "2026-09-28T06:09:48+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Полна коробочка. Хватит ли емкости российских спутников связи к 2035 году",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRHRmcnlFQjZVSEJrSDhoc0NiV2xwS0F2ZHlUMGQ0YkxCdjhqenB4cThPdFFQS0RiZS1UekkyMk1FY1JhbVlJX0RWeWpsRW1JRjdGbGprOGlsR1ZrdnZscGRkVHVpTTZ2UzdfbVZ5ZTUtVHNRWlEtaE9TY1JhS0FMcnprSmZmV2hNRHVrRi10MmdaNWJseC1uWlBsZXU5OW1nRkh",
-      "source": "ComNews.ru",
-      "published_at": "2026-09-27T23:37:47+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Тимур Аитов: «5G или 4G — лишь бы ловил мобильный интернет»",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdmFhVVREZHU5eUpEdUZZamZKZ2dJMTBxSmlvaWUza3RZMTNRdXZ3eFdhUFJMamRkajhyZmlkMHFDTldPREFtOEhXbDJTWlNlVWlITmhNR2hQc1YxSzVfV3NqX0l6dHY5bWwtbDM1cUh4Qjd3TFQ1eGFtbGRaZWhJVmp0UjNhWTdkMmtTLTJRRTBNRUphSEJnQTJaNVNaay1K?oc",
-      "source": "Татцентр.ру",
-      "published_at": "2026-09-27T17:53:37+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "ВС РФ ударили по дата-центрам операторов «Киевстар» и «Омега Телеком» в Киеве",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5lb0V4S3BjcW1oeFh6T1FwTXpuQUVCYkE2bWo0dlQ4c2o2LXRVZ3JMRXF3cDRiTy1TdHc5SzluODkxNUE00gFKQVVfeXFMTlN1T1pheGdYOUw3UF9rVGY2SzJ0Zkw5RjNla18wT1JUYjFtaGZsQ181d0lmMDJmVlA4WVBoQ24zLWxTSXFvTXpGSHc?oc=5",
-      "source": "BFM.ru",
-      "published_at": "2026-09-27T16:50:27+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "Свыше 50 тысяч якутян получат высокоскоростной интернет благодаря «Синергии Арктики",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb2FWR2ozcW1Ed3VWQjZpMmNoOG5lWC1TRWxBN2dBUUlrZENJbXdDN19tTi1HQjc2S2E1djhzUy05UTM5VXNTWmNXUkxsbUttSGtFOFozNElRQkxxN29NYWR0cWhJYXoyNzdYUEVZMWVkc2J1MW4tUWxOc3VrVk5UeGU1eTZZMm0zVHJ4OHVKWXB6UDh1dnFQRFIyQVhuX2NqMlp",
-      "source": "ЯСИА",
-      "published_at": "2026-09-27T10:40:38+00:00"
     }
   ]
 }
