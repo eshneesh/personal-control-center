@@ -1,15 +1,29 @@
 {
   "version": 1,
-  "generated_at": "2026-10-02T10:29:04+00:00",
+  "generated_at": "2026-10-03T09:50:47+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
     {
       "category": "mts",
+      "title": "МТС расширила сеть домашнего интернета в Сарове",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1qNU1Ka0pLZ3l1a08tLWYwNlVlc0hILWJPNHB5Z1QtdWJmRlV6Nl9QQ1d1M2lYbFlKemxGd2I3ZUhKUVlRQWRpNi1n?oc=5",
+      "source": "Время Н",
+      "published_at": "2026-10-02T11:46:00+00:00"
+    },
+    {
+      "category": "mts",
       "title": "МТС защитила пожилых жителей Хабаровского края от более 1 млн мошеннических звонков",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jYWRjVXN5aGVhVmJId2dLQVhrckozVmVwLUl2VF9neGo5MXJoX1NVSmNva1FoY2lCeGZlT1RaQl9GaUdKVXhqbklHdy1XM09p?oc=5",
       "source": "Хабаровский край сегодня",
-      "published_at": "2026-10-02T07:14:44+00:00"
+      "published_at": "2026-10-02T07:41:21+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС ТВ в честь 10-летия дарит белорусам максимальную подписку за 1 рубль",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOEh2MWRkaURyX20yOFFDMjU3WEhVV0w5cTVLOGItNFB4YzdkMGJKRmJXNGdVVnlJY2pJYm00VDkwQ3EwTy1xejhNb1ZJSjBIbmViV2xaM29rOEhPNkJ3MkRVcnhvMmVidFRNbW1xcGFYY3lzUXBrc2NvVE95YXRPMWp1X2VDUEpvNlVka0thTC1pWm8?oc=5",
+      "source": "Smartpress.by",
+      "published_at": "2026-10-02T06:09:14+00:00"
     },
     {
       "category": "telecom",
@@ -29,7 +43,7 @@
       "category": "telecom",
       "title": "Оборот российских телеком-операторов вырос на 11,6% за восемь месяцев",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV1Eyci16YkdkaWY1UXhVcWMzQlhyU3l0Y3hUTDQ5M0tuSDNfdmdhZGpTdzhMdUFVWERDQ2dkV3c2VmdwV0h1cTEyMXAyS1BUVHo0VndGTHRyOGFHVnVyRkxvTmtqS2RiZlFIOFVUdVlpTE83RmN5YVREZnhmcG8weE02VWhTLUZTTmVMWGRnSHRIZGI1MXlEQUtIc21uUjNPd3J",
-      "source": "finance.mail.ru",
+      "source": "Финансы Mail",
       "published_at": "2026-10-01T06:31:12+00:00"
     },
     {
@@ -47,11 +61,25 @@
       "published_at": "2026-10-01T04:02:48+00:00"
     },
     {
+      "category": "telecom",
+      "title": "Салоны связи вместо банков. Как телеком заходит на территорию банков",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOem5BYnU3MWx5aFBHcnVta29JNm4tUEpfR2NYWW1jRFRYaFl6SUdmd3l4QlZ2Y2R6UHdWQm1NeTlyQzZwSHFSRnlJNEc3SjFrTFNDZVNfSVhib3ducnkyalZmNFhsTEd0Z29sdU1QVXE0eXVaTlRrclpULW9PTTZ3dW1xWi1RaTlIU1VUM2tYd0xveUN6UkRrZmZabmNlM0NaSDB",
+      "source": "ComNews.ru",
+      "published_at": "2026-09-30T23:44:46+00:00"
+    },
+    {
       "category": "mts",
       "title": "МТС вложила три десятка миллиардов рублей в 5G — сеть готова, но частот всё ещё нет",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeW1KdnVRYW1lRFlnR3dYRmNaX2ZFbHRXY29RTHNpWEFJTG9hN1p3QjdRXzRUa0FhWmsxaUY1VHp6THM5TnBrdDFtWERwX2hhX01uVG8wRXR2ZHlYVm5rQ01RN3I4WXdtWkVMLVJTcjVuRTdXR3JvSzVyM1FIMnpXQUk5eUJPN2NZYkZSSlNEMWRIcERmSlBrbElJamdGOWRXYkR",
-      "source": "3DNews",
+      "source": "3dnews.ru",
       "published_at": "2026-09-30T22:11:24+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "Атаки России на дата-центры Киева: чем они угрожают интернету",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWVU1c2ZvWkZJZjJNbTBLdVhQLUNDeU1SS1RmaVRQODJWbnVrY0N2UzIxTkdTLVZUSVVFWkg4M1QybDJJcVIxYVJSbTVmT01rM0huVWxZcWlScDJmaEdSMndiMHFHekx4a3BZOTIwVFNJM2R3dHVlTmliSk5PS3Q2dUE4ZnJmN3RVX3N1RGdRajg5Q0hSQnJPNDY0MUhiZlpLdWl",
+      "source": "vikna.tv",
+      "published_at": "2026-09-30T16:10:34+00:00"
     },
     {
       "category": "infrastructure",
@@ -62,9 +90,23 @@
     },
     {
       "category": "mts",
+      "title": "МТС первым в стране покрыл «интернетом вещей» все районные центры и другие города Беларуси",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbGMyU2FqaHZHNWdJU2VHTExmcGc2VEdSZE1xWi1UVHJraGxjNl9mZ1Z4V21qWWZHZUZ2VGFFODB2Vl9HakJoV0JYSnczVFFKLV9haTFhOHhvamtZaEFwQWFGV0VwT3Ywa1pmRnpuaHltNy1oZGZrQVRKQ0VnVThwRk9lbGowNEk1TjRmUEVHWUN1V3labFBFSmVlNXlhOE5yOE5",
+      "source": "probusiness.io",
+      "published_at": "2026-09-30T13:00:00+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Россия громит украинские ЦОДы и Vodafone. Власти призывают готовиться к худшему",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CWlhjcE5kTG5vTTZVY1VwQjI1bUlUXzNVNVliMjdxNVllSGp3THV2SkVUQTAySk80R05BQWxJYXhSMHd3M1J0bUhxeEM5QW9JR3N6dE14dldfMi1JZUFiUDdrY2FXR095ZlVWNk9HVzVTRldB?oc=5",
+      "source": "CNews.ru",
+      "published_at": "2026-09-30T05:46:00+00:00"
+    },
+    {
+      "category": "mts",
       "title": "МТС прокачала связь для Новосибирских пловцов",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS0d5dExRTHlDYjNiTWJWZUNzWDlsQjFDcVdVcXlYbmVVcmtUX2VmTElHVWtUbVF5OXdtOThseEUwYXRLc0tNQ1oxT0NYbk5QZlJlVy1lVWRhWFJSX2xQR2gyd0k3b2Q5THhBRFBEekEzTG1FZW1uR1lkdlM0QmZXOXNGZUZRQ1Jy?oc=5",
-      "source": "cnews.ru",
+      "source": "CNews.ru",
       "published_at": "2026-09-30T05:17:26+00:00"
     },
     {
@@ -75,34 +117,6 @@
       "published_at": "2026-09-29T13:33:08+00:00"
     },
     {
-      "category": "mts",
-      "title": "МТС прокачала связь на Сельдинском шоссе в Ульяновске",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbkRjRWIzR3NsaE1SV1VZWjYxcG4yeUZyMjlINnp1RE1SY1pLbEtWVWs5UllIMy1MUDhNM3dFWU5wZk11bUs2UHhYRERpRk55ano2anJvSld3ckF0d09Ib2xHdW0zdS1KVHRJaGplU2JSZHpnLU1obmNjOE1TVjg4SDZlM2hwbC1FUGhDS1R30gGOAUFVX3lxTE9uRGNFYjNHc2x",
-      "source": "73online.ru",
-      "published_at": "2026-09-29T08:33:00+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "«128 Кбит/с — это честный безлимит»: власти разрешили операторам связи резать скорость в роуминге",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMXVGYzFnX3FVdTFsRjl2d3piTVpmNDdCTjdINnEtTDF2ZnpyT0xUbzVKNUZuSEstdENNQmZVSjlwMEM2dXhBdXFyUkJQNktUZGt2UElUbjBrbU1fRFhTUC1vd0JuQktfSkxwR2ZLNWx2UEg4NmdlR1hvWjNUWGNaSGhlRjhFYTZM?oc=5",
-      "source": "cnews.ru",
-      "published_at": "2026-09-29T07:17:52+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "200 Гбит/с и никаких «узких мест»: в России создали коммуникационную систему для высокопроизводительных вычислений",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQX19Na0xHSDRkQzRzUEJpU00ySEp2MmNCUGdEOWd2TjM4UV9fM3p4SklwTFlCU3Jsb2xHcGFJQ0VrWnpfeHA4WjBMR19oaDJEUXpKcVIwWXY3cXpYenFkbWZKOF84MEtRYTVDbTN0ZXpqV1l5dF9CV3g1N3BKWnFEV29nWXcxTmpJb1FiTnI3RldPNXJnc1k4bDFocFNJZGZGNjN",
-      "source": "ixbt.com",
-      "published_at": "2026-09-29T07:12:29+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС нарастила скорости интернета для участников всероссийского конкурса «Мастер года» на Ямале",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOODFxSndQcnZqdm02XzJiN2p2MnR3NGJPbzZlRjhNN3lqUHNmdDVMdGxZcHAwbHU3eEs3cVNsNFlraFVhWmZJMTZUdjZObkpjY3F3SW5kYkVxZFJPdGhsYTEySk9sbl9DUkZ3YWc3SjlfNXdzTzRra01hYzZqbllpZTVtV3hPTTcxbGhPSDFyY3lqakxiX0ltTk4zU25EdE14UlZ",
-      "source": "yamal1.ru",
-      "published_at": "2026-09-29T06:32:04+00:00"
-    },
-    {
       "category": "infrastructure",
       "title": "Росреестр предложил разрешить размещение оборудования ЦОД без выделения отдельного вида использования земли",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONHU1UGQ1aTZKc1F4VzlZRmcxZGRxYmZORUl4THRQRkUxemR6bjdvbW5wYlVkdWpabERncFhZYTFwNWdEck85SWIzcmJKWHVfNlRYeFdhUi1GeGtCRGFOcWs0Mk9OaklXcmZvM0hKZWpILWNNeGI5VWtmS2JYS3E5VDd4alV2bUFRU1AxazJkSnlpSmNZU1pkdlE5cFFhZ01wV3h",
@@ -110,25 +124,11 @@
       "published_at": "2026-09-29T03:20:49+00:00"
     },
     {
-      "category": "mts",
-      "title": "МТС прокачала связь на участке трассы \"Сибирь\" от Заларей до Зимы",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92VGlHdEpNM190S3FLOS1lbGF4ZklIbzhwSS02RW10SGstV01INDY5SWxMcjllcTQzbVJ4XzBYNVFOYUhoNzRpaFhJQ3k4UQ?oc=5",
-      "source": "IrkutskMedia",
-      "published_at": "2026-09-29T02:45:31+00:00"
-    },
-    {
       "category": "telecom",
       "title": "Архитектура независимости",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZnZuTmE0S09PVG5UajVMcjdpOG9VVi0zYkJINXFGV19tVm1ENzBhU3MtTmlTbFE3aEt2ZkFSckFfWXNMeWRGOHpqdVFtQUdiRU4zWm1OUWE3OE5RQjdRZkJqT2VHYjNFbHpkMHFpYVp6b1ZYaFNUU0xiaHNrMmtkV3h2bV83Mjhjc21PeFJNOHRoVG9DdUNFaE9hY1pVQ0VWYTJ",
       "source": "Ведомости",
       "published_at": "2026-09-28T23:21:48+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "5G в России. Почему новый рынок будут двигать горнодобыча и нефтегаз. ТА мнения",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNSmRPM0hMN2wyajltd3ZiSFotZ3p1aW83Rkt1ZS14eld4aFdLWHdCX2x6VWp5QWNWbFk3RDhDLXhJQWw4S29yaGhYRU5SQ28tbXV4VkJkOThBcGNLNXJxUTBZcWRHMGR5ZDUzSzJXWFlmYzBFQk8wb3BnWlRGMVhsNmRVWURoVGhkQjVyYlFvN21oYlY0aFREU0UwbG15LW5HOVM",
-      "source": "TAdviser",
-      "published_at": "2026-09-28T09:55:12+00:00"
     }
   ]
 }
