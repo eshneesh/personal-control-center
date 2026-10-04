@@ -1,9 +1,44 @@
 {
   "version": 1,
-  "generated_at": "2026-10-03T09:50:47+00:00",
+  "generated_at": "2026-10-04T10:33:44+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
+    {
+      "category": "infrastructure",
+      "title": "Анатомия капитальных затрат: куда уходят триллионы на ИИ",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1TTmRKLUV4eXpoZnpodHVIcnUxaG5HOS1RNEwxZUVHMDdxX0VsSXdabGM4dzFPZ0Vnd1NBcFYzSnhyWHpZMmxCZFdfZzdGQQ?oc=5",
+      "source": "Smart-Lab",
+      "published_at": "2026-10-04T07:37:36+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "К 2030 году миру понадобится 860 млн км оптоволокна из-за роста ЦОД",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRllZYmRMWDU2RUh3bGV5bzJGTmlnYTRiRXA5Ums2N2lReUVPQXZraDNCOFFIZTZaUk1pWFJvUzNEOUpjbmE1OFFEUDhSWkpsMld1b09DWUkyV19aOGY3NzktSW45OVJQVkRpdVJpWmw3QlEyeG9HOFRVakVzcWx3UUpXTU1QX0pfZEU2dnI0WW0?oc=5",
+      "source": "itzine.ru",
+      "published_at": "2026-10-04T05:57:02+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "860 млн км оптоволокна к 2030 году — спрос со стороны ЦОД стремительно растёт",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdWY5WTBhalJFaW1rQjVIdlpJelVoUnpRQ19GTmczcFY1LUF2bGI4cnhvX3FUVzNMTGZpeTU3TUZWbXJPRElCQzYwVkRQajNQOVhGUlVlV0hOVlpSRU9YdHVBMkM1SWl1SDAzOVN4MnpSRk9fdjRmSzRoWFd4SnJJT2pjdllNai1MbDYxcEh3bV90UVF3VXhMMTYwNXhJOFZMTWd",
+      "source": "ixbt.com",
+      "published_at": "2026-10-04T05:06:08+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС вложила три десятка миллиардов рублей в 5G — сеть готова, но частот всё ещё нет",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeW1KdnVRYW1lRFlnR3dYRmNaX2ZFbHRXY29RTHNpWEFJTG9hN1p3QjdRXzRUa0FhWmsxaUY1VHp6THM5TnBrdDFtWERwX2hhX01uVG8wRXR2ZHlYVm5rQ01RN3I4WXdtWkVMLVJTcjVuRTdXR3JvSzVyM1FIMnpXQUk5eUJPN2NZYkZSSlNEMWRIcERmSlBrbElJamdGOWRXYkR",
+      "source": "3DNews",
+      "published_at": "2026-10-02T17:51:00+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "Опубликован график отключений света в Пензе с 5 по 30 октября",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE04cDI5aHY0ZnJ0amoteHBrWjAtWldTcnU3X0xicXJ0Z0llX3RxeWEtTkMzMUtFend5LVM4ZnA5ZE5mUG9kSTFhU25rbkgySTVEd1hLMVEwSQ?oc=5",
+      "source": "Пенза Пресс",
+      "published_at": "2026-10-02T15:16:37+00:00"
+    },
     {
       "category": "mts",
       "title": "МТС расширила сеть домашнего интернета в Сарове",
@@ -48,38 +83,10 @@
     },
     {
       "category": "telecom",
-      "title": "Телеком-операторы РФ в январе-августе нарастили оборот на 11,6%",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95YjU5b2M2U3BhUDhGbTRmTU56WU1rZFh2QXZsQnlhczZIWThfRkFiTkd3ZWtMdTB1YjkxNFFtNnpUZVp4N3Z6OGhZVXM3ZldOZXQw?oc=5",
-      "source": "lenta.profinansy.ru",
-      "published_at": "2026-10-01T06:17:02+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "«Атомдата» закрепилась в тройке лидеров рынка ЦОД на фоне нормативных реформ и дефицита электроэнергии в столице",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRjhOQXNqMG1CSVRZeFFLSlRIOXRmbXp0eXdiQ29qZGIxeUZOejY1VVBHTU5PUF9kaGhJdHdVSjNFNy16NXdCQzFNanZhX2lrZlNtOWtYeGZuYXk0VzdlcmxCLXZyUEN3eGVwX1NPZzRidmQ3U1RMZUhuU2tBcWMxbWNPSmhJaWs5NkJYdWh5d0g5UjcwZUh0MGgySmdZV1RHTEl",
-      "source": "RUБЕЖ",
-      "published_at": "2026-10-01T04:02:48+00:00"
-    },
-    {
-      "category": "telecom",
       "title": "Салоны связи вместо банков. Как телеком заходит на территорию банков",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOem5BYnU3MWx5aFBHcnVta29JNm4tUEpfR2NYWW1jRFRYaFl6SUdmd3l4QlZ2Y2R6UHdWQm1NeTlyQzZwSHFSRnlJNEc3SjFrTFNDZVNfSVhib3ducnkyalZmNFhsTEd0Z29sdU1QVXE0eXVaTlRrclpULW9PTTZ3dW1xWi1RaTlIU1VUM2tYd0xveUN6UkRrZmZabmNlM0NaSDB",
       "source": "ComNews.ru",
       "published_at": "2026-09-30T23:44:46+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС вложила три десятка миллиардов рублей в 5G — сеть готова, но частот всё ещё нет",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeW1KdnVRYW1lRFlnR3dYRmNaX2ZFbHRXY29RTHNpWEFJTG9hN1p3QjdRXzRUa0FhWmsxaUY1VHp6THM5TnBrdDFtWERwX2hhX01uVG8wRXR2ZHlYVm5rQ01RN3I4WXdtWkVMLVJTcjVuRTdXR3JvSzVyM1FIMnpXQUk5eUJPN2NZYkZSSlNEMWRIcERmSlBrbElJamdGOWRXYkR",
-      "source": "3dnews.ru",
-      "published_at": "2026-09-30T22:11:24+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "Атаки России на дата-центры Киева: чем они угрожают интернету",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWVU1c2ZvWkZJZjJNbTBLdVhQLUNDeU1SS1RmaVRQODJWbnVrY0N2UzIxTkdTLVZUSVVFWkg4M1QybDJJcVIxYVJSbTVmT01rM0huVWxZcWlScDJmaEdSMndiMHFHekx4a3BZOTIwVFNJM2R3dHVlTmliSk5PS3Q2dUE4ZnJmN3RVX3N1RGdRajg5Q0hSQnJPNDY0MUhiZlpLdWl",
-      "source": "vikna.tv",
-      "published_at": "2026-09-30T16:10:34+00:00"
     },
     {
       "category": "infrastructure",
@@ -87,13 +94,6 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSXhjNUFfbGFteFhWdDZRUzRLOGdYMFBKRzRnZ2g5b20tZjhKRGRkNWFibTNKNVlMeWNLZ1pCZkdUTUNoUDZlR19reWNqOElkcEhVT2FfOGJ0MEFweFdUbmt1emdIOG9MVVFMWnE3SHlYZ2N6aWJ1cWhDVmItaFV5OXZ3bHdQM2FvSHVVeF8xQTNhSzVEMDNMMUVyMzc3NjZ4Ull",
       "source": "RuNews24",
       "published_at": "2026-09-30T14:44:00+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС первым в стране покрыл «интернетом вещей» все районные центры и другие города Беларуси",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbGMyU2FqaHZHNWdJU2VHTExmcGc2VEdSZE1xWi1UVHJraGxjNl9mZ1Z4V21qWWZHZUZ2VGFFODB2Vl9HakJoV0JYSnczVFFKLV9haTFhOHhvamtZaEFwQWFGV0VwT3Ywa1pmRnpuaHltNy1oZGZrQVRKQ0VnVThwRk9lbGowNEk1TjRmUEVHWUN1V3labFBFSmVlNXlhOE5yOE5",
-      "source": "probusiness.io",
-      "published_at": "2026-09-30T13:00:00+00:00"
     },
     {
       "category": "telecom",
@@ -110,6 +110,13 @@
       "published_at": "2026-09-30T05:17:26+00:00"
     },
     {
+      "category": "telecom",
+      "title": "Корпоративная сеть становится гибридной: почему бизнес перестает выбирать между проводным и мобильным интернетом",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdUZiLUdhVFZNN1pzWjBRcDZrazFqWnF0elVaSzB4MDZZeWxmb0FvaEplWThhdG8zcnZIZGxSc1NKdUJXaTMzSmp3TXFGa0lUdzktNFVvS3A5cFVyQXVMczA4UnctNGdjM05SbmlHX0lNR3JvNUdleWo5VTViZEJ5MFF2a2tDV3MyM19yZFV2RnYyczFfM3Z5c3BHOUxJUlZHRm5",
+      "source": "Телеспутник",
+      "published_at": "2026-09-30T05:01:27+00:00"
+    },
+    {
       "category": "infrastructure",
       "title": "Якутия нарастит мощности ЦОДов с 2,5 до 100 МВт благодаря холоду и газу",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLUY4X2pfV1FfX05FMlBpVGdxRThFbTBHU3AtVXNJay0xOG1VbHJMeUI2TnYzLVZoN2swWVZINEJtX0hFUUw4VFJQNF9TTk40Wlh2QlN4QzZhaDNOeHdTQ0RyTDVjQ2V5VWNUeXR5a1NXRC1mNjkzdVdlUnl0bEJDZA?oc=5",
@@ -122,13 +129,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONHU1UGQ1aTZKc1F4VzlZRmcxZGRxYmZORUl4THRQRkUxemR6bjdvbW5wYlVkdWpabERncFhZYTFwNWdEck85SWIzcmJKWHVfNlRYeFdhUi1GeGtCRGFOcWs0Mk9OaklXcmZvM0hKZWpILWNNeGI5VWtmS2JYS3E5VDd4alV2bUFRU1AxazJkSnlpSmNZU1pkdlE5cFFhZ01wV3h",
       "source": "RUБЕЖ",
       "published_at": "2026-09-29T03:20:49+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Архитектура независимости",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZnZuTmE0S09PVG5UajVMcjdpOG9VVi0zYkJINXFGV19tVm1ENzBhU3MtTmlTbFE3aEt2ZkFSckFfWXNMeWRGOHpqdVFtQUdiRU4zWm1OUWE3OE5RQjdRZkJqT2VHYjNFbHpkMHFpYVp6b1ZYaFNUU0xiaHNrMmtkV3h2bV83Mjhjc21PeFJNOHRoVG9DdUNFaE9hY1pVQ0VWYTJ",
-      "source": "Ведомости",
-      "published_at": "2026-09-28T23:21:48+00:00"
     }
   ]
 }
