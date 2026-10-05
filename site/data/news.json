@@ -1,15 +1,57 @@
 {
   "version": 1,
-  "generated_at": "2026-10-04T10:33:44+00:00",
+  "generated_at": "2026-10-05T11:26:04+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
+    {
+      "category": "telecom",
+      "title": "В России массово исчезают операторы связи – за год закрылся каждый пятый",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tdkxLbF95cHdDdW5pTUJLVXhIUks3NGFGTmVZOWQ4UGlDS3Y5VUVRVDZEdmx2OHFaSkQyNlpQZnJuQTMyR21wejZQNDBlVDhYOFU3SXZyMmlseDU5bGpuRmw4a1M4NUx4MzR1ZXdLMVhYNmMzWjh4Y2I5Q3lFZw?oc=5",
+      "source": "CNews.ru",
+      "published_at": "2026-10-05T11:15:00+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Число операторов связи в России за год сократилось на 17%",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON0U3aGFBRENhbXVORHZ4blBpVXJaUUtoNEh1NEhXcms2bXRuM2dmazBsOGhfLUlRa29SRUU0dDZ0WTZoU2x6Njdua0lIbDdFSGVLMFkzTEdPaVctTXVEdXQxeTk0LVdhcXhzR25VMkplODNtVkFFakU5djNhVi10dWpPTnBOdURqME9MRURfMDkwcmpTRVpaV1A0YzIwQldrMjE",
+      "source": "Sostav.ru",
+      "published_at": "2026-10-05T06:09:32+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС включила 5G в Якутске",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9mcWFOQThIQkpGX2ZhcU50OGRaRXhDeGRka0ZpekY1dzF4WEhMMG42aGpHMG9ZTFNKS28zeHpUb05JSWRvUk9KREtmQXFBdk8wRVMyWjI0Z1FiSm9PY3NVM080Z9IBYkFVX3lxTFBEbjJJbjNiZGZNTFdNOWppN3lKcktOUDc0blZfYnFsbVdfVHFEOUxpbktXT3N5ZVV5TU1FeEN",
+      "source": "SakhaDay",
+      "published_at": "2026-10-05T05:44:19+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "СМИ: Минцифры обсуждает с операторами связи введение платы за пользование свыше 50 ГБ международного трафика в сетях 5G",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UVzVXZ2lsVURiMWxRaWw3eFpfdjFVVzVCN2RfTWMySkN3Ry1ISnVWUFFYcU9pRk1ycm5TQ2liNTM0RVMzWURRWC1OSk14UzZ6Rl9DMnFkeU3SAVhBVV95cUxPVFc1V2dpbFVEYjFsUWlsN3haX3YxVVc1QjdkX01jMkpDd0ctSEp1VlBRWHFPaUZNcnJuU0NpYjUzNEVTM1lEUVg",
+      "source": "Хабр",
+      "published_at": "2026-10-05T05:40:00+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "Что там с телекомом: SIM-карты закручивают, а МТС дорожает",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pRzNheklUckFNTWFDSUZtd2FUYTV2ZXQtMGFMY0VFMEJSQWhPZ1p6YXQwWkVCVVo0eDU3Um5haFU2SDQ1SWJKVtIBTkFVX3lxTE1EUDBGRk5yMXIyd2VoNlpoSHJueVk5dmEydWdndWdCRElsSnRZZlRVbW1xUWhxaEZNb19WZ3E4Q21ZWmx0b2RDTmVzeWJjZw?oc=5",
+      "source": "kod.ru",
+      "published_at": "2026-10-04T23:51:57+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС выражает соболезнования в связи с уходом из жизни Рустэма Саттарова",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OblFFRmRCblAwa2JpNEduT3c0NmgtNXFxbmtiUVFMWWVKZnNCb0JHQWlLdnhWMXU0bnRGbjlmLWJuNDJfYTNxMHR6TmtOTGZITzh0bdIBU0FVX3lxTE9oZ1VQSGxCTlpyQWlsUWZBQk01LW5WZ3pCU3ZiVmk3eGdMSzF5LTZCdkpZTWxqMHVWcndsWWVKUmd6eTQwbXVIbnpYUzJ",
+      "source": "БИЗНЕС Online — Новости Казани",
+      "published_at": "2026-10-04T13:13:00+00:00"
+    },
     {
       "category": "infrastructure",
       "title": "Анатомия капитальных затрат: куда уходят триллионы на ИИ",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1TTmRKLUV4eXpoZnpodHVIcnUxaG5HOS1RNEwxZUVHMDdxX0VsSXdabGM4dzFPZ0Vnd1NBcFYzSnhyWHpZMmxCZFdfZzdGQQ?oc=5",
       "source": "Smart-Lab",
-      "published_at": "2026-10-04T07:37:36+00:00"
+      "published_at": "2026-10-04T09:37:05+00:00"
     },
     {
       "category": "infrastructure",
@@ -34,16 +76,9 @@
     },
     {
       "category": "mts",
-      "title": "Опубликован график отключений света в Пензе с 5 по 30 октября",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE04cDI5aHY0ZnJ0amoteHBrWjAtWldTcnU3X0xicXJ0Z0llX3RxeWEtTkMzMUtFend5LVM4ZnA5ZE5mUG9kSTFhU25rbkgySTVEd1hLMVEwSQ?oc=5",
-      "source": "Пенза Пресс",
-      "published_at": "2026-10-02T15:16:37+00:00"
-    },
-    {
-      "category": "mts",
       "title": "МТС расширила сеть домашнего интернета в Сарове",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1qNU1Ka0pLZ3l1a08tLWYwNlVlc0hILWJPNHB5Z1QtdWJmRlV6Nl9QQ1d1M2lYbFlKemxGd2I3ZUhKUVlRQWRpNi1n?oc=5",
-      "source": "Время Н",
+      "source": "vremyan.ru",
       "published_at": "2026-10-02T11:46:00+00:00"
     },
     {
@@ -54,25 +89,11 @@
       "published_at": "2026-10-02T07:41:21+00:00"
     },
     {
-      "category": "mts",
-      "title": "МТС ТВ в честь 10-летия дарит белорусам максимальную подписку за 1 рубль",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOEh2MWRkaURyX20yOFFDMjU3WEhVV0w5cTVLOGItNFB4YzdkMGJKRmJXNGdVVnlJY2pJYm00VDkwQ3EwTy1xejhNb1ZJSjBIbmViV2xaM29rOEhPNkJ3MkRVcnhvMmVidFRNbW1xcGFYY3lzUXBrc2NvVE95YXRPMWp1X2VDUEpvNlVka0thTC1pWm8?oc=5",
-      "source": "Smartpress.by",
-      "published_at": "2026-10-02T06:09:14+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Операторы связи готовят запуск 5G в Ленинградской области",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lTGdEOHdSblRhNGh1T2p0dW1KSUJwcHc4XzMyNXRlbjdhdGhLZzJOYlhUWkR0QXJZSF9Dc0UxZEFMdmdGTHhGMUhVQ0p5clFNVHN0d3hKNVROaGxYbk1PeE9OTTlIZS1ESFg2S0xKTzfSAXtBVV95cUxPYWxFeUhabzNMUFBWdXJPa0dPdlViUHg1bDBpMjVuUVl3LU1VRDBOSXV",
-      "source": "dp.ru",
-      "published_at": "2026-10-01T08:54:00+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "Сегодня, 1 октября, в ряде регионов РФ не работает МТС",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOanJXQzhoYU00SXFXOTk2UHdfbUZoTUR1TWNFZnYxLU9YR19vZ0NxRGx2ckhaMXNOQ0w2dzlPdVRkVEhSRDlRNVpsdERNVGFLMm5neUF6R2dSdjNOaURnb2w3NTdud3EyX2RHeDVYdnN5RDRvSDk4RnFqM0l4ejRKakZ5TGp4aW5PXzhMUTMtU3JfYTd0LUFUTWtmbDVscnhOZFR",
-      "source": "Инфо24",
-      "published_at": "2026-10-01T07:35:00+00:00"
+      "category": "infrastructure",
+      "title": "На нацпроект «Экономика данных» заложили 147 млрд рублей. Структура",
+      "url": "https://news.google.com/rss/articles/CBMinAVBVV95cUxQNW5ValJYOHNFMzZRcHJzT2toZUtpeUxqcGwzeWZvSi1TNzhOVVptZjI5cXY3aGZSWUM2NTVXSGpoQmFSREpsOEpoSkgzQVRvVkNweVdWa3J4aC1VeHpxUERXdUdwc3lyektXcW5SVzhJX0pQdEd5R0RCUDNEdUJVbV9Id1RpZUtaeF81eE1DVWQ3YTgyejMxWGlaaEhPU0d3aE9",
+      "source": "TAdviser",
+      "published_at": "2026-10-02T07:01:27+00:00"
     },
     {
       "category": "telecom",
@@ -80,6 +101,13 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV1Eyci16YkdkaWY1UXhVcWMzQlhyU3l0Y3hUTDQ5M0tuSDNfdmdhZGpTdzhMdUFVWERDQ2dkV3c2VmdwV0h1cTEyMXAyS1BUVHo0VndGTHRyOGFHVnVyRkxvTmtqS2RiZlFIOFVUdVlpTE83RmN5YVREZnhmcG8weE02VWhTLUZTTmVMWGRnSHRIZGI1MXlEQUtIc21uUjNPd3J",
       "source": "Финансы Mail",
       "published_at": "2026-10-01T06:31:12+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "«Атомдата» закрепилась в тройке лидеров рынка ЦОД на фоне нормативных реформ и дефицита электроэнергии в столице",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRjhOQXNqMG1CSVRZeFFLSlRIOXRmbXp0eXdiQ29qZGIxeUZOejY1VVBHTU5PUF9kaGhJdHdVSjNFNy16NXdCQzFNanZhX2lrZlNtOWtYeGZuYXk0VzdlcmxCLXZyUEN3eGVwX1NPZzRidmQ3U1RMZUhuU2tBcWMxbWNPSmhJaWs5NkJYdWh5d0g5UjcwZUh0MGgySmdZV1RHTEl",
+      "source": "RUБЕЖ",
+      "published_at": "2026-10-01T04:02:48+00:00"
     },
     {
       "category": "telecom",
@@ -96,39 +124,11 @@
       "published_at": "2026-09-30T14:44:00+00:00"
     },
     {
-      "category": "telecom",
-      "title": "Россия громит украинские ЦОДы и Vodafone. Власти призывают готовиться к худшему",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CWlhjcE5kTG5vTTZVY1VwQjI1bUlUXzNVNVliMjdxNVllSGp3THV2SkVUQTAySk80R05BQWxJYXhSMHd3M1J0bUhxeEM5QW9JR3N6dE14dldfMi1JZUFiUDdrY2FXR095ZlVWNk9HVzVTRldB?oc=5",
-      "source": "CNews.ru",
-      "published_at": "2026-09-30T05:46:00+00:00"
-    },
-    {
       "category": "mts",
       "title": "МТС прокачала связь для Новосибирских пловцов",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS0d5dExRTHlDYjNiTWJWZUNzWDlsQjFDcVdVcXlYbmVVcmtUX2VmTElHVWtUbVF5OXdtOThseEUwYXRLc0tNQ1oxT0NYbk5QZlJlVy1lVWRhWFJSX2xQR2gyd0k3b2Q5THhBRFBEekEzTG1FZW1uR1lkdlM0QmZXOXNGZUZRQ1Jy?oc=5",
       "source": "CNews.ru",
       "published_at": "2026-09-30T05:17:26+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Корпоративная сеть становится гибридной: почему бизнес перестает выбирать между проводным и мобильным интернетом",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdUZiLUdhVFZNN1pzWjBRcDZrazFqWnF0elVaSzB4MDZZeWxmb0FvaEplWThhdG8zcnZIZGxSc1NKdUJXaTMzSmp3TXFGa0lUdzktNFVvS3A5cFVyQXVMczA4UnctNGdjM05SbmlHX0lNR3JvNUdleWo5VTViZEJ5MFF2a2tDV3MyM19yZFV2RnYyczFfM3Z5c3BHOUxJUlZHRm5",
-      "source": "Телеспутник",
-      "published_at": "2026-09-30T05:01:27+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "Якутия нарастит мощности ЦОДов с 2,5 до 100 МВт благодаря холоду и газу",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLUY4X2pfV1FfX05FMlBpVGdxRThFbTBHU3AtVXNJay0xOG1VbHJMeUI2TnYzLVZoN2swWVZINEJtX0hFUUw4VFJQNF9TTk40Wlh2QlN4QzZhaDNOeHdTQ0RyTDVjQ2V5VWNUeXR5a1NXRC1mNjkzdVdlUnl0bEJDZA?oc=5",
-      "source": "Techora.ru",
-      "published_at": "2026-09-29T13:33:08+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "Росреестр предложил разрешить размещение оборудования ЦОД без выделения отдельного вида использования земли",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONHU1UGQ1aTZKc1F4VzlZRmcxZGRxYmZORUl4THRQRkUxemR6bjdvbW5wYlVkdWpabERncFhZYTFwNWdEck85SWIzcmJKWHVfNlRYeFdhUi1GeGtCRGFOcWs0Mk9OaklXcmZvM0hKZWpILWNNeGI5VWtmS2JYS3E5VDd4alV2bUFRU1AxazJkSnlpSmNZU1pkdlE5cFFhZ01wV3h",
-      "source": "RUБЕЖ",
-      "published_at": "2026-09-29T03:20:49+00:00"
     }
   ]
 }
