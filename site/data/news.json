@@ -1,22 +1,57 @@
 {
   "version": 1,
-  "generated_at": "2026-10-05T11:26:04+00:00",
+  "generated_at": "2026-10-06T11:14:51+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
     {
       "category": "telecom",
+      "title": "\"Ростелеком\" запустил трансъевразийскую волоконно-оптическую линию связи TEA NEXT",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBSXVmVVhTY0h2ZlVLWVV5RWoxMjJvSmJybzItdUxXTkszNkJGeXZVenFDZnllZGZ1cWxVU3Q5M0hjbWxxUHRPbGQ0d1hrV3BYd3fSAUtBVV95cUxPTTN0eVVOVk85bTY0aHNiOGVROU9QWFFPbW92SzVLSllvSzBoY2VnZVRQd05sV3YtTkl2NDhFdFlfWFVjSmEtbkZ3ZUU?oc=",
+      "source": "Интерфакс",
+      "published_at": "2026-10-06T10:27:00+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Россия удвоит расходы на блокировки и фильтрацию интернет-трафика. За три года потратят 60 миллиардов рублей",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTnpfME9RaUJ6TFpZXzhEYko0a0h6UXFRc1diNzI4aldaWUx5MDB1cnRVUVZKdk51TTA3VUFQVm9wVUh6cGJ0MVdjRHcxamlFX2RZeXIyOHNsMExjVE1CZTc2NFJaTU93TzJvYmxadjVHM3ZZcUN3bXZocUtjaFJ6bFhuZHJWaEZqM1o5ZHhETE55VE5iMDZyMWxPeFJ3Z3ZmTVM",
+      "source": "Meduza",
+      "published_at": "2026-10-06T08:17:00+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС построила сеть для управления автономным транспортом «Яндекса»",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa1I4Nm1xV1VqMDNVQ0Y3R2w2TUJLZXJOY1Q1V2kyeHU4a0tZN2NqZUF4VGJUMkJDLVBfa2diN1c5UEhOWWV5RkhLQTN1S2RwcDhWcjZzTEk4OGt3SkdjQ0xPVFdHcjItUWo0MlhheEVlOExKYl82TDg5UjdZa3UxZEZrblFEY1hxc2tTTW9nbXphLUJBbzV3aGZGOHZSX1FkNXF",
+      "source": "vedomosti.ru",
+      "published_at": "2026-10-06T07:00:55+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС запустила пополнение карт МТС Деньги через мобильное приложение",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWjFDOG9ZTVVya3hqQXdmRmJ6UGpBeks4M3M1V0hFLUhlVGc2ckw1Rk9vdGoxRzhyYU9TcGVudGYtcE5uZ2lDazRlV1ZsOG5rMi1QQWFpbFF6RGdFbFpkYTkzc0MyWkVxdFNxdXVRS2liREIyaEJGSmRSY05yWGFwTEs3TXdjbWtnLW9YcTE1aTFBV3RCc2FUMzVFTnFDRVZVVnV",
+      "source": "TelecomDaily",
+      "published_at": "2026-10-06T00:37:20+00:00"
+    },
+    {
+      "category": "telecom",
       "title": "В России массово исчезают операторы связи – за год закрылся каждый пятый",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tdkxLbF95cHdDdW5pTUJLVXhIUks3NGFGTmVZOWQ4UGlDS3Y5VUVRVDZEdmx2OHFaSkQyNlpQZnJuQTMyR21wejZQNDBlVDhYOFU3SXZyMmlseDU5bGpuRmw4a1M4NUx4MzR1ZXdLMVhYNmMzWjh4Y2I5Q3lFZw?oc=5",
       "source": "CNews.ru",
-      "published_at": "2026-10-05T11:15:00+00:00"
+      "published_at": "2026-10-05T19:28:34+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Налог на VPN: в России готовятся изменения для мобильного интернета?",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTmMzTlNVNW5Ub2pvbWJQSDRqVS0zMFBQUE5Fc2dEVlFZcGRRalVaSkZZaExCNzF0a0dwMlR5cmFFZW1aakRwa3FtU1g1UTVZNlFIR0l4cjU0M0NHNWE4SDZLN25JRXRCQXhrRTRMRzJBTFdneG9Ma0hiTW5qU3FsTkRmOVR1ZGxmeFZXQ2tSRWtpSXMxZjF2TUcxU3A?oc=5",
+      "source": "ForPost",
+      "published_at": "2026-10-05T14:15:02+00:00"
     },
     {
       "category": "telecom",
       "title": "Число операторов связи в России за год сократилось на 17%",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON0U3aGFBRENhbXVORHZ4blBpVXJaUUtoNEh1NEhXcms2bXRuM2dmazBsOGhfLUlRa29SRUU0dDZ0WTZoU2x6Njdua0lIbDdFSGVLMFkzTEdPaVctTXVEdXQxeTk0LVdhcXhzR25VMkplODNtVkFFakU5djNhVi10dWpPTnBOdURqME9MRURfMDkwcmpTRVpaV1A0YzIwQldrMjE",
-      "source": "Sostav.ru",
-      "published_at": "2026-10-05T06:09:32+00:00"
+      "source": "sostav.ru",
+      "published_at": "2026-10-05T10:54:53+00:00"
     },
     {
       "category": "mts",
@@ -36,7 +71,7 @@
       "category": "mts",
       "title": "Что там с телекомом: SIM-карты закручивают, а МТС дорожает",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pRzNheklUckFNTWFDSUZtd2FUYTV2ZXQtMGFMY0VFMEJSQWhPZ1p6YXQwWkVCVVo0eDU3Um5haFU2SDQ1SWJKVtIBTkFVX3lxTE1EUDBGRk5yMXIyd2VoNlpoSHJueVk5dmEydWdndWdCRElsSnRZZlRVbW1xUWhxaEZNb19WZ3E4Q21ZWmx0b2RDTmVzeWJjZw?oc=5",
-      "source": "kod.ru",
+      "source": "Код.ру",
       "published_at": "2026-10-04T23:51:57+00:00"
     },
     {
@@ -55,30 +90,23 @@
     },
     {
       "category": "infrastructure",
-      "title": "К 2030 году миру понадобится 860 млн км оптоволокна из-за роста ЦОД",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRllZYmRMWDU2RUh3bGV5bzJGTmlnYTRiRXA5Ums2N2lReUVPQXZraDNCOFFIZTZaUk1pWFJvUzNEOUpjbmE1OFFEUDhSWkpsMld1b09DWUkyV19aOGY3NzktSW45OVJQVkRpdVJpWmw3QlEyeG9HOFRVakVzcWx3UUpXTU1QX0pfZEU2dnI0WW0?oc=5",
-      "source": "itzine.ru",
-      "published_at": "2026-10-04T05:57:02+00:00"
-    },
-    {
-      "category": "infrastructure",
       "title": "860 млн км оптоволокна к 2030 году — спрос со стороны ЦОД стремительно растёт",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdWY5WTBhalJFaW1rQjVIdlpJelVoUnpRQ19GTmczcFY1LUF2bGI4cnhvX3FUVzNMTGZpeTU3TUZWbXJPRElCQzYwVkRQajNQOVhGUlVlV0hOVlpSRU9YdHVBMkM1SWl1SDAzOVN4MnpSRk9fdjRmSzRoWFd4SnJJT2pjdllNai1MbDYxcEh3bV90UVF3VXhMMTYwNXhJOFZMTWd",
       "source": "ixbt.com",
       "published_at": "2026-10-04T05:06:08+00:00"
     },
     {
-      "category": "mts",
-      "title": "МТС вложила три десятка миллиардов рублей в 5G — сеть готова, но частот всё ещё нет",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeW1KdnVRYW1lRFlnR3dYRmNaX2ZFbHRXY29RTHNpWEFJTG9hN1p3QjdRXzRUa0FhWmsxaUY1VHp6THM5TnBrdDFtWERwX2hhX01uVG8wRXR2ZHlYVm5rQ01RN3I4WXdtWkVMLVJTcjVuRTdXR3JvSzVyM1FIMnpXQUk5eUJPN2NZYkZSSlNEMWRIcERmSlBrbElJamdGOWRXYkR",
-      "source": "3DNews",
-      "published_at": "2026-10-02T17:51:00+00:00"
+      "category": "infrastructure",
+      "title": "В России оценили масштаб обновления стареющих линий связи",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMEpQb0VkeWZCNGdHS3hrSE5MSmxoX2xveENZakdKXzRGaTFGT25TWkczaTc4aEVyeHhyd3hoZG1JS2c2TUFsVlI5YWxrSFpWSHBWdzl1VVRvZHRWX05nSlN3T0ItN0oybGRmU0NSWEFMRk1OX3V1YS1zalVyRWlxQzE3cmxzb01zQU5mWTBQX0ZLdUYyUmd2RURuREttcXZIXzV",
+      "source": "prospect.com.ru",
+      "published_at": "2026-10-02T12:24:06+00:00"
     },
     {
       "category": "mts",
       "title": "МТС расширила сеть домашнего интернета в Сарове",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1qNU1Ka0pLZ3l1a08tLWYwNlVlc0hILWJPNHB5Z1QtdWJmRlV6Nl9QQ1d1M2lYbFlKemxGd2I3ZUhKUVlRQWRpNi1n?oc=5",
-      "source": "vremyan.ru",
+      "source": "Время Н",
       "published_at": "2026-10-02T11:46:00+00:00"
     },
     {
@@ -99,36 +127,8 @@
       "category": "telecom",
       "title": "Оборот российских телеком-операторов вырос на 11,6% за восемь месяцев",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV1Eyci16YkdkaWY1UXhVcWMzQlhyU3l0Y3hUTDQ5M0tuSDNfdmdhZGpTdzhMdUFVWERDQ2dkV3c2VmdwV0h1cTEyMXAyS1BUVHo0VndGTHRyOGFHVnVyRkxvTmtqS2RiZlFIOFVUdVlpTE83RmN5YVREZnhmcG8weE02VWhTLUZTTmVMWGRnSHRIZGI1MXlEQUtIc21uUjNPd3J",
-      "source": "Финансы Mail",
+      "source": "finance.mail.ru",
       "published_at": "2026-10-01T06:31:12+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "«Атомдата» закрепилась в тройке лидеров рынка ЦОД на фоне нормативных реформ и дефицита электроэнергии в столице",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRjhOQXNqMG1CSVRZeFFLSlRIOXRmbXp0eXdiQ29qZGIxeUZOejY1VVBHTU5PUF9kaGhJdHdVSjNFNy16NXdCQzFNanZhX2lrZlNtOWtYeGZuYXk0VzdlcmxCLXZyUEN3eGVwX1NPZzRidmQ3U1RMZUhuU2tBcWMxbWNPSmhJaWs5NkJYdWh5d0g5UjcwZUh0MGgySmdZV1RHTEl",
-      "source": "RUБЕЖ",
-      "published_at": "2026-10-01T04:02:48+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Салоны связи вместо банков. Как телеком заходит на территорию банков",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOem5BYnU3MWx5aFBHcnVta29JNm4tUEpfR2NYWW1jRFRYaFl6SUdmd3l4QlZ2Y2R6UHdWQm1NeTlyQzZwSHFSRnlJNEc3SjFrTFNDZVNfSVhib3ducnkyalZmNFhsTEd0Z29sdU1QVXE0eXVaTlRrclpULW9PTTZ3dW1xWi1RaTlIU1VUM2tYd0xveUN6UkRrZmZabmNlM0NaSDB",
-      "source": "ComNews.ru",
-      "published_at": "2026-09-30T23:44:46+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "«Выжженная земля» 2.0: Россия объявила охоту на дата-центры Киева. Украину ждет каменный век",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSXhjNUFfbGFteFhWdDZRUzRLOGdYMFBKRzRnZ2g5b20tZjhKRGRkNWFibTNKNVlMeWNLZ1pCZkdUTUNoUDZlR19reWNqOElkcEhVT2FfOGJ0MEFweFdUbmt1emdIOG9MVVFMWnE3SHlYZ2N6aWJ1cWhDVmItaFV5OXZ3bHdQM2FvSHVVeF8xQTNhSzVEMDNMMUVyMzc3NjZ4Ull",
-      "source": "RuNews24",
-      "published_at": "2026-09-30T14:44:00+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС прокачала связь для Новосибирских пловцов",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS0d5dExRTHlDYjNiTWJWZUNzWDlsQjFDcVdVcXlYbmVVcmtUX2VmTElHVWtUbVF5OXdtOThseEUwYXRLc0tNQ1oxT0NYbk5QZlJlVy1lVWRhWFJSX2xQR2gyd0k3b2Q5THhBRFBEekEzTG1FZW1uR1lkdlM0QmZXOXNGZUZRQ1Jy?oc=5",
-      "source": "CNews.ru",
-      "published_at": "2026-09-30T05:17:26+00:00"
     }
   ]
 }
