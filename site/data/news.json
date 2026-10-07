@@ -1,13 +1,48 @@
 {
   "version": 1,
-  "generated_at": "2026-10-06T11:14:51+00:00",
+  "generated_at": "2026-10-07T11:03:04+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
     {
+      "category": "infrastructure",
+      "title": "«РТК-ЦОД» сообщил о создании Центра сертификации доверенной IT-инфраструктуры",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVDcyY1JTN3FlVk1nelpmUUlDWl9KQmh5S01nLV9iWlJqTFZTd25ocG9NUVlaY1dyOHlGUU5ZdVZ5WHdlalVvSjJLMmtUTFNwX1Y1ellUSW1iSmJRVHNSd2ZCYWpBYWFDSG9HQm9rWTdRdWpQeDEtb3h1N01VQzdWUWdDZTc0alNNUHVTQTBXSGJ5ak83ZkljQ1NXWGVONGtzYV8",
+      "source": "Digital Russia",
+      "published_at": "2026-10-07T10:21:43+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "Аэромобильные комплексы связи МТС на базе гексакоптера: где развернут, как работает",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaV9lcThENkZiQXZyUUo2cExXSnk2cXZSNThvUWt5MWJJa1ZUbVpnQXNTU1JoTF9rS3BwVVlRYnVocHRfb3E5Z0NsM3hiRHBSdVdaRXoybElaaS02dVk5bVV4cTZlNVZnc3p5YXdYemh4eUhfenFhd2tkbE1ycEU4TnE2bGtRR2F1MGlZNno4Sm5iNHhxa3pwUkctbVROSVA0WFI",
+      "source": "Финансы Mail",
+      "published_at": "2026-10-07T08:51:24+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "Исследование: МТС лидирует в развитии технологий среди операторов связи",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRXltT2dOaXpyMm5OSmcwcmJjU1VOT0RTRW5KU3UyMzZYWF91U19OOHVpR0ZiRVVfclhEWlBSMG5wNkVRNzQ4b1JSV1VfSEhIcXU3TXcxYVpIc1JaYzVGamVDWnB0ektzNk5TcVVKZFFpdlVvUlc1MExmY1lUTHE3NjdFamR4bE5TdG1MTjNvS18zS0lGQWlPbTg4R241clpNaEN",
+      "source": "The World Inform",
+      "published_at": "2026-10-07T08:06:02+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "Мишустин: Инвестиции в создание центров обработки данных в России превысили 280 млрд",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZXhkT25sMHVTalBGQXV5dGVqajduU2lQZnRGVjczdkY4bWh3aU1tRmNBQVg1ZXZlRDBCNjZaUlhyc1BZZmE3WGUwdktvWkNDb0NST19kXzhPRVNmQ2ZIUUZ6UUdrckMyUUtBemlIME9RNEZ1RTVUT1d6RExFOEQzcDdpZTc5UWFPQjNjSDlBUU1qWWhBRkFCc1R1U0xDa282VHQ",
+      "source": "prospect.com.ru",
+      "published_at": "2026-10-06T18:24:48+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "«Ростелеком» запустил ТрансЕврАзийскую волоконно-оптическую линию TEA NEXT",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XanV2OXVPa0tvdlJVX3FMMzJYSTdIUXZyR01KZkRYdzQwamRULU5ZRkQxUU5Ja0NnYXVkOFRWcDVoNWRYUmg0QVdacFN4SGFCT1hXTlZ3?oc=5",
+      "source": "Pg21.ru",
+      "published_at": "2026-10-06T12:31:54+00:00"
+    },
+    {
       "category": "telecom",
       "title": "\"Ростелеком\" запустил трансъевразийскую волоконно-оптическую линию связи TEA NEXT",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBSXVmVVhTY0h2ZlVLWVV5RWoxMjJvSmJybzItdUxXTkszNkJGeXZVenFDZnllZGZ1cWxVU3Q5M0hjbWxxUHRPbGQ0d1hrV3BYd3fSAUtBVV95cUxPTTN0eVVOVk85bTY0aHNiOGVROU9QWFFPbW92SzVLSllvSzBoY2VnZVRQd05sV3YtTkl2NDhFdFlfWFVjSmEtbkZ3ZUU?oc=",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NM3R5VU5WTzltNjRoc2I4ZVE5T1BYUU9tb3ZLNUtKWW9LMGhjZWdlVFB3TmxXdi1OSXY0OEV0WV9YVWNKYS1uRndlRdIBS0FVX3lxTE9NM3R5VU5WTzltNjRoc2I4ZVE5T1BYUU9tb3ZLNUtKWW9LMGhjZWdlVFB3TmxXdi1OSXY0OEV0WV9YVWNKYS1uRndlRQ?oc=5",
       "source": "Интерфакс",
       "published_at": "2026-10-06T10:27:00+00:00"
     },
@@ -22,7 +57,7 @@
       "category": "mts",
       "title": "МТС построила сеть для управления автономным транспортом «Яндекса»",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa1I4Nm1xV1VqMDNVQ0Y3R2w2TUJLZXJOY1Q1V2kyeHU4a0tZN2NqZUF4VGJUMkJDLVBfa2diN1c5UEhOWWV5RkhLQTN1S2RwcDhWcjZzTEk4OGt3SkdjQ0xPVFdHcjItUWo0MlhheEVlOExKYl82TDg5UjdZa3UxZEZrblFEY1hxc2tTTW9nbXphLUJBbzV3aGZGOHZSX1FkNXF",
-      "source": "vedomosti.ru",
+      "source": "Ведомости",
       "published_at": "2026-10-06T07:00:55+00:00"
     },
     {
@@ -41,17 +76,17 @@
     },
     {
       "category": "telecom",
-      "title": "Налог на VPN: в России готовятся изменения для мобильного интернета?",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTmMzTlNVNW5Ub2pvbWJQSDRqVS0zMFBQUE5Fc2dEVlFZcGRRalVaSkZZaExCNzF0a0dwMlR5cmFFZW1aakRwa3FtU1g1UTVZNlFIR0l4cjU0M0NHNWE4SDZLN25JRXRCQXhrRTRMRzJBTFdneG9Ma0hiTW5qU3FsTkRmOVR1ZGxmeFZXQ2tSRWtpSXMxZjF2TUcxU3A?oc=5",
-      "source": "ForPost",
-      "published_at": "2026-10-05T14:15:02+00:00"
-    },
-    {
-      "category": "telecom",
       "title": "Число операторов связи в России за год сократилось на 17%",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON0U3aGFBRENhbXVORHZ4blBpVXJaUUtoNEh1NEhXcms2bXRuM2dmazBsOGhfLUlRa29SRUU0dDZ0WTZoU2x6Njdua0lIbDdFSGVLMFkzTEdPaVctTXVEdXQxeTk0LVdhcXhzR25VMkplODNtVkFFakU5djNhVi10dWpPTnBOdURqME9MRURfMDkwcmpTRVpaV1A0YzIwQldrMjE",
-      "source": "sostav.ru",
+      "source": "Sostav.ru",
       "published_at": "2026-10-05T10:54:53+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "67% мощностей ЦОДов в Московском регионе, заявленных к запуску в 2026 году, отложены на более поздние сроки из-за дефицита электричества",
+      "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxNanJTWl9ucFZqejVjR0U4RkJvcXc1TE9laFFlM1d3U0NKX3ZZeW5wd2ZtY3J3aWh2TGlFN2xiczFUamNDSWZaNDY5ZFlUM0RFakt3T2xnd1IzMUprdHBiMXotNGl5Nk1jM25pTGVUUFVWZkNxRmRMWUh1TEptSEc4M21qTlFMYURIYUpjeGlfdU1nVk5heTJpY3RZaDExUXhvV2J",
+      "source": "TAdviser",
+      "published_at": "2026-10-05T05:56:19+00:00"
     },
     {
       "category": "mts",
@@ -89,46 +124,11 @@
       "published_at": "2026-10-04T09:37:05+00:00"
     },
     {
-      "category": "infrastructure",
-      "title": "860 млн км оптоволокна к 2030 году — спрос со стороны ЦОД стремительно растёт",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdWY5WTBhalJFaW1rQjVIdlpJelVoUnpRQ19GTmczcFY1LUF2bGI4cnhvX3FUVzNMTGZpeTU3TUZWbXJPRElCQzYwVkRQajNQOVhGUlVlV0hOVlpSRU9YdHVBMkM1SWl1SDAzOVN4MnpSRk9fdjRmSzRoWFd4SnJJT2pjdllNai1MbDYxcEh3bV90UVF3VXhMMTYwNXhJOFZMTWd",
-      "source": "ixbt.com",
-      "published_at": "2026-10-04T05:06:08+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "В России оценили масштаб обновления стареющих линий связи",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMEpQb0VkeWZCNGdHS3hrSE5MSmxoX2xveENZakdKXzRGaTFGT25TWkczaTc4aEVyeHhyd3hoZG1JS2c2TUFsVlI5YWxrSFpWSHBWdzl1VVRvZHRWX05nSlN3T0ItN0oybGRmU0NSWEFMRk1OX3V1YS1zalVyRWlxQzE3cmxzb01zQU5mWTBQX0ZLdUYyUmd2RURuREttcXZIXzV",
-      "source": "prospect.com.ru",
-      "published_at": "2026-10-02T12:24:06+00:00"
-    },
-    {
       "category": "mts",
       "title": "МТС расширила сеть домашнего интернета в Сарове",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1qNU1Ka0pLZ3l1a08tLWYwNlVlc0hILWJPNHB5Z1QtdWJmRlV6Nl9QQ1d1M2lYbFlKemxGd2I3ZUhKUVlRQWRpNi1n?oc=5",
-      "source": "Время Н",
-      "published_at": "2026-10-02T11:46:00+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС защитила пожилых жителей Хабаровского края от более 1 млн мошеннических звонков",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jYWRjVXN5aGVhVmJId2dLQVhrckozVmVwLUl2VF9neGo5MXJoX1NVSmNva1FoY2lCeGZlT1RaQl9GaUdKVXhqbklHdy1XM09p?oc=5",
-      "source": "Хабаровский край сегодня",
-      "published_at": "2026-10-02T07:41:21+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "На нацпроект «Экономика данных» заложили 147 млрд рублей. Структура",
-      "url": "https://news.google.com/rss/articles/CBMinAVBVV95cUxQNW5ValJYOHNFMzZRcHJzT2toZUtpeUxqcGwzeWZvSi1TNzhOVVptZjI5cXY3aGZSWUM2NTVXSGpoQmFSREpsOEpoSkgzQVRvVkNweVdWa3J4aC1VeHpxUERXdUdwc3lyektXcW5SVzhJX0pQdEd5R0RCUDNEdUJVbV9Id1RpZUtaeF81eE1DVWQ3YTgyejMxWGlaaEhPU0d3aE9",
-      "source": "TAdviser",
-      "published_at": "2026-10-02T07:01:27+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Оборот российских телеком-операторов вырос на 11,6% за восемь месяцев",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV1Eyci16YkdkaWY1UXhVcWMzQlhyU3l0Y3hUTDQ5M0tuSDNfdmdhZGpTdzhMdUFVWERDQ2dkV3c2VmdwV0h1cTEyMXAyS1BUVHo0VndGTHRyOGFHVnVyRkxvTmtqS2RiZlFIOFVUdVlpTE83RmN5YVREZnhmcG8weE02VWhTLUZTTmVMWGRnSHRIZGI1MXlEQUtIc21uUjNPd3J",
-      "source": "finance.mail.ru",
-      "published_at": "2026-10-01T06:31:12+00:00"
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnNDZnMEJHYzk3RldOSWY4OFR1Mlk2bmp5X2N5OGNOSHYtcWNSLXRrYThJbkZEUTUydU1NVTFTaEJnYW9GQTBsRkQtU0NyZGVkM2xVX1VrNTJmOTBjb19SdVdPMUlEd2hjUUx0dlBZS0NoMHRma2dzV0N0VQ?oc=5",
+      "source": "CNews.ru",
+      "published_at": "2026-10-02T10:36:24+00:00"
     }
   ]
 }
