@@ -1,15 +1,57 @@
 {
   "version": 1,
-  "generated_at": "2026-10-07T11:03:04+00:00",
+  "generated_at": "2026-10-08T11:20:15+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
+    {
+      "category": "infrastructure",
+      "title": "Украинские БПЛА атаковали ЦОД «Яндекса».",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9DRnBXOG5fNzdHSzZ5TVM1dG83UXppUm9JTFcxRWp6b3Zhblc0M0FWcGNVUENBTXZLMUZIZUhKSXNldEdGNGFYSw?oc=5",
+      "source": "Runet.news",
+      "published_at": "2026-10-08T11:07:24+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС запустила решения для обеспечения связью труднодоступных территорий",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NTjExdjZzQ2xndC16SkJEQ2c5QW9KdUtoMFZWM2dGWGl0UDQ4VERleDhmbG1Ca1RXX2xiN0ZmVFhnNnVvd2NVa2o4d3RQTlE?oc=5",
+      "source": "Волга Ньюс",
+      "published_at": "2026-10-08T05:35:00+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС запустила связь в аале на юге Хакасии",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RdU96LXFKRFpRQmhHQmZLVF9WQ2E4ZnltLXJZajFKOHdGSnp5NUh6ODV6Z1dVNV9qQ0VlMXFXWjA4MVJITzcyTVh5WVpDOGk4RG55VlZEbW5icTFJN3doVVNIMHBNcEpycDVwd0ZkRFZ3eU04cTFZ?oc=5",
+      "source": "CNews.ru",
+      "published_at": "2026-10-08T04:53:51+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС поможет обеспечить связью удаленные и малонаселенные территории Татарстана",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPejBHRzNiM2M1S05Wb0NwV1BlX0ZxNk1PY2xuSk9SZWNGVHdreTA2TkFPcG11WVhKWkZpT0diQjgtZUt4VEFMQTIxUUdHUTVCdE9NTWtLWWdTNFQwbUFyeVZCQ2w4WUdBVFVmNk5mRHFjejhEWFYtSUlWRWNuM2xXYzZrM0JuTmxRM04tNnVhX2xIQ0l6X3F2SlJTYndubF9Fc2c",
+      "source": "Реальное время",
+      "published_at": "2026-10-07T14:25:00+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС возглавил рейтинг технологического развития российских операторов связи",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZVV1M3NMT1YtVm5VXzhJMWRGbEtXQXNhT19RbE5MWDktVno2NXBXMkM2MFhNVzgwQXhXeF9BV0Nsb3c3THV5MkZFNm0zTE1xNldwaU9fd3E1Y1lSOTMyVHZRdEtZcnJNR3BIT01TMUFRSzFQZDA0VGJoVUhyVGNUakNCaWxUQmcweGxYUGhLMDMybDV5VGJwOVZvT0JnczRZQVl",
+      "source": "Компьютерра",
+      "published_at": "2026-10-07T11:42:32+00:00"
+    },
     {
       "category": "infrastructure",
       "title": "«РТК-ЦОД» сообщил о создании Центра сертификации доверенной IT-инфраструктуры",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVDcyY1JTN3FlVk1nelpmUUlDWl9KQmh5S01nLV9iWlJqTFZTd25ocG9NUVlaY1dyOHlGUU5ZdVZ5WHdlalVvSjJLMmtUTFNwX1Y1ellUSW1iSmJRVHNSd2ZCYWpBYWFDSG9HQm9rWTdRdWpQeDEtb3h1N01VQzdWUWdDZTc0alNNUHVTQTBXSGJ5ak83ZkljQ1NXWGVONGtzYV8",
       "source": "Digital Russia",
       "published_at": "2026-10-07T10:21:43+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "J’son & Partners: рейтинг технологического развития российских телеком-операторов",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOEp4NF84S0M3YklpVUk5cHlqUWZjWXB6N3YzR1BlNGpYWVBTUEFGWVhnb0RKak04R1hjbWJ6RFFENXd5X0ZENnc3WUFEYVlXbTVmZWxiUWlYVm5iYkJLVTRlT2ZqMG5aZnFoRFdqOTlGWVQ0eExJSzdvd0pqcHZBWTJsMnFkR2p4VmNRanUzdG1PUzZoYVNYLXBFOTdfN0t5TVd",
+      "source": "Телеспутник",
+      "published_at": "2026-10-07T09:49:04+00:00"
     },
     {
       "category": "mts",
@@ -19,18 +61,25 @@
       "published_at": "2026-10-07T08:51:24+00:00"
     },
     {
-      "category": "mts",
-      "title": "Исследование: МТС лидирует в развитии технологий среди операторов связи",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRXltT2dOaXpyMm5OSmcwcmJjU1VOT0RTRW5KU3UyMzZYWF91U19OOHVpR0ZiRVVfclhEWlBSMG5wNkVRNzQ4b1JSV1VfSEhIcXU3TXcxYVpIc1JaYzVGamVDWnB0ektzNk5TcVVKZFFpdlVvUlc1MExmY1lUTHE3NjdFamR4bE5TdG1MTjNvS18zS0lGQWlPbTg4R241clpNaEN",
-      "source": "The World Inform",
-      "published_at": "2026-10-07T08:06:02+00:00"
+      "category": "infrastructure",
+      "title": "Российский рынок пассивного сетевого оборудования: обзор ведущих производителей, тенденции на ближайшее будущее (2026-2030)",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ON0h6dFJoWFh5bFRIRDE2c0hpalRGSFpTdGJqN1l0bnQ0S1dWZ3JHcDZSUXg3M0l6dzhtdC04QzRmcHVCRUtVTHFWNUZ6eWtfb1E?oc=5",
+      "source": "Sostav.ru",
+      "published_at": "2026-10-07T07:59:36+00:00"
     },
     {
-      "category": "infrastructure",
-      "title": "Мишустин: Инвестиции в создание центров обработки данных в России превысили 280 млрд",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZXhkT25sMHVTalBGQXV5dGVqajduU2lQZnRGVjczdkY4bWh3aU1tRmNBQVg1ZXZlRDBCNjZaUlhyc1BZZmE3WGUwdktvWkNDb0NST19kXzhPRVNmQ2ZIUUZ6UUdrckMyUUtBemlIME9RNEZ1RTVUT1d6RExFOEQzcDdpZTc5UWFPQjNjSDlBUU1qWWhBRkFCc1R1U0xDa282VHQ",
-      "source": "prospect.com.ru",
-      "published_at": "2026-10-06T18:24:48+00:00"
+      "category": "telecom",
+      "title": "Количество базовых станций связи в России за год выросло на 9% и достигло 1 млн штук",
+      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxONUdVYkdHZnFJRFpTMU40VjJSdEZ3ZkowSk1SekgzcTNoV1U4RFBNWUFURWwxWXB4X2hybmx0ZEFWX1dDdnFFZHlrMGFnUVlUSTVQUjZ1a09Pd0F6UVZYVDJKVnpxRFBRcGpzMW84MXdyRWR4VjBqckY1SmVBaTc2TnJ0Nm81aFRoTzJIRDc2by1BRHB5bURvNTYyN3FUYTktUm0",
+      "source": "TAdviser",
+      "published_at": "2026-10-07T07:43:21+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС представила решение для связи в труднодоступных районах Красноярского края",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBZTlA3X0NsQVlPemxCMmtBTjA4LVJfd3JnTEplaUhMcDhBN3pQWFNFUXA5eXdzQmM3VXRqenNJSlhDbFJMSEHSAVpBVV95cUxOaXVrazh0ZFRnVWFIU1BMRHVwdmc3T01ocGo0WE9EazJkbVdPWWZRTndsSkUzXzYybWJsb0hyNmI3bUR6d1B6NGNVUmxMUUlpckZZTXZmWVhkbmc",
+      "source": "Newslab.ru",
+      "published_at": "2026-10-07T07:37:00+00:00"
     },
     {
       "category": "infrastructure",
@@ -79,56 +128,7 @@
       "title": "Число операторов связи в России за год сократилось на 17%",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON0U3aGFBRENhbXVORHZ4blBpVXJaUUtoNEh1NEhXcms2bXRuM2dmazBsOGhfLUlRa29SRUU0dDZ0WTZoU2x6Njdua0lIbDdFSGVLMFkzTEdPaVctTXVEdXQxeTk0LVdhcXhzR25VMkplODNtVkFFakU5djNhVi10dWpPTnBOdURqME9MRURfMDkwcmpTRVpaV1A0YzIwQldrMjE",
       "source": "Sostav.ru",
-      "published_at": "2026-10-05T10:54:53+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "67% мощностей ЦОДов в Московском регионе, заявленных к запуску в 2026 году, отложены на более поздние сроки из-за дефицита электричества",
-      "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxNanJTWl9ucFZqejVjR0U4RkJvcXc1TE9laFFlM1d3U0NKX3ZZeW5wd2ZtY3J3aWh2TGlFN2xiczFUamNDSWZaNDY5ZFlUM0RFakt3T2xnd1IzMUprdHBiMXotNGl5Nk1jM25pTGVUUFVWZkNxRmRMWUh1TEptSEc4M21qTlFMYURIYUpjeGlfdU1nVk5heTJpY3RZaDExUXhvV2J",
-      "source": "TAdviser",
-      "published_at": "2026-10-05T05:56:19+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС включила 5G в Якутске",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9mcWFOQThIQkpGX2ZhcU50OGRaRXhDeGRka0ZpekY1dzF4WEhMMG42aGpHMG9ZTFNKS28zeHpUb05JSWRvUk9KREtmQXFBdk8wRVMyWjI0Z1FiSm9PY3NVM080Z9IBYkFVX3lxTFBEbjJJbjNiZGZNTFdNOWppN3lKcktOUDc0blZfYnFsbVdfVHFEOUxpbktXT3N5ZVV5TU1FeEN",
-      "source": "SakhaDay",
-      "published_at": "2026-10-05T05:44:19+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "СМИ: Минцифры обсуждает с операторами связи введение платы за пользование свыше 50 ГБ международного трафика в сетях 5G",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UVzVXZ2lsVURiMWxRaWw3eFpfdjFVVzVCN2RfTWMySkN3Ry1ISnVWUFFYcU9pRk1ycm5TQ2liNTM0RVMzWURRWC1OSk14UzZ6Rl9DMnFkeU3SAVhBVV95cUxPVFc1V2dpbFVEYjFsUWlsN3haX3YxVVc1QjdkX01jMkpDd0ctSEp1VlBRWHFPaUZNcnJuU0NpYjUzNEVTM1lEUVg",
-      "source": "Хабр",
-      "published_at": "2026-10-05T05:40:00+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "Что там с телекомом: SIM-карты закручивают, а МТС дорожает",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pRzNheklUckFNTWFDSUZtd2FUYTV2ZXQtMGFMY0VFMEJSQWhPZ1p6YXQwWkVCVVo0eDU3Um5haFU2SDQ1SWJKVtIBTkFVX3lxTE1EUDBGRk5yMXIyd2VoNlpoSHJueVk5dmEydWdndWdCRElsSnRZZlRVbW1xUWhxaEZNb19WZ3E4Q21ZWmx0b2RDTmVzeWJjZw?oc=5",
-      "source": "Код.ру",
-      "published_at": "2026-10-04T23:51:57+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС выражает соболезнования в связи с уходом из жизни Рустэма Саттарова",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OblFFRmRCblAwa2JpNEduT3c0NmgtNXFxbmtiUVFMWWVKZnNCb0JHQWlLdnhWMXU0bnRGbjlmLWJuNDJfYTNxMHR6TmtOTGZITzh0bdIBU0FVX3lxTE9oZ1VQSGxCTlpyQWlsUWZBQk01LW5WZ3pCU3ZiVmk3eGdMSzF5LTZCdkpZTWxqMHVWcndsWWVKUmd6eTQwbXVIbnpYUzJ",
-      "source": "БИЗНЕС Online — Новости Казани",
-      "published_at": "2026-10-04T13:13:00+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "Анатомия капитальных затрат: куда уходят триллионы на ИИ",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1TTmRKLUV4eXpoZnpodHVIcnUxaG5HOS1RNEwxZUVHMDdxX0VsSXdabGM4dzFPZ0Vnd1NBcFYzSnhyWHpZMmxCZFdfZzdGQQ?oc=5",
-      "source": "Smart-Lab",
-      "published_at": "2026-10-04T09:37:05+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС расширила сеть домашнего интернета в Сарове",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnNDZnMEJHYzk3RldOSWY4OFR1Mlk2bmp5X2N5OGNOSHYtcWNSLXRrYThJbkZEUTUydU1NVTFTaEJnYW9GQTBsRkQtU0NyZGVkM2xVX1VrNTJmOTBjb19SdVdPMUlEd2hjUUx0dlBZS0NoMHRma2dzV0N0VQ?oc=5",
-      "source": "CNews.ru",
-      "published_at": "2026-10-02T10:36:24+00:00"
+      "published_at": "2026-10-05T06:09:32+00:00"
     }
   ]
 }
