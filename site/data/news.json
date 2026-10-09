@@ -1,9 +1,65 @@
 {
   "version": 1,
-  "generated_at": "2026-10-08T11:20:15+00:00",
+  "generated_at": "2026-10-09T11:18:14+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
+    {
+      "category": "infrastructure",
+      "title": "Удар ВСУ по ЦОД «Яндекса» в Сасово вызвал масштабные сбои в Рунете",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54TTBoMl9fUnlRZEkxRWVsYVJjaWJfVVZ6LXg5RzZlLWxMNzY0NWpoaklVbi1wYm9venFGa3A0NDhDVkZnV1ZWcmF6QnNWTUtIcU51a2Q4bl9ISnpIY0ZQUHJfVmUzVFFraFpLdTBrSQ?oc=5",
+      "source": "Techora.ru",
+      "published_at": "2026-10-09T09:12:27+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "Атака на Сасовский ЦОД «Яндекса» привела к сбоям Yandex Cloud, «Циана», «Мострансавто»",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWGpNYTNBdTlUV1plc3VMWTZqSWV2MFU3a3kwM0ZvYWtBaXRDaVpneU5ZbTk2TmNpRzVvYW9hNTZ1SE8zY2twQW5sSW5MSmRtRk5CM1NMSFo1eWVGc3c1UmlVUkV1VzdzNm9BY1dCdGxLRm9DS2VNYUJnY2gxZnR6Mm5HRDQ1RllRYmFmbkUzeFJXU3FQVzZNdVNJLS1hSmZxTHJ",
+      "source": "RUБЕЖ",
+      "published_at": "2026-10-09T08:23:20+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "Рейтинг технологического развития российских операторов возглавила компания МТС",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBSS1V1V1hrNmx1ZVkwNmlXODhoa0JJTlBMTm1PYTlSb2R3dmdqaXB0aWF2N21senBOUzZVdjdwQ2tEa2xMWU5iZ3NB?oc=5",
+      "source": "Агентство Бизнес Информации - Черноземье",
+      "published_at": "2026-10-09T06:00:51+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Лихая тройка против банков. Как MVNO раскололи телеком-рынок",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVms1bWZJVkN3aHFoV1VmVzR6LVhDUjhvdmdkbmdzb01rRTFfQnN2X2Ewb3dMMkRPZFZBRVRINktSd2hzR0t5U2dVczBLaVdjTGVwbExMcjd5aE5sb0VhbEZGd0l2VHVDMkw0UXdpTHNHUU1ITlQ0amJValVBUnJoMHFFSFBSU01hMWlrbHZxSTNZSzJYWWlmUXYweUNmd1lBa01",
+      "source": "ComNews.ru",
+      "published_at": "2026-10-08T23:42:06+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС получили премию «Цифровые решения» за инновационность цифровой системы FSM для инженеров",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONk1jOUtZcnZ4dHdUcFZoRnA2SkU1ZmVOMkRTV1QyUjNDUnVjc19QV2ljTS1zRWpFN1BET3JvQ0pQSDhRbDNuUVpkRl9WbDBlSGVhTlZETkl0cXB5TjJqUnYtOFlGUmFkajJmNElDRXdPdU1UOUswa1VnekswRUdFYnJEemlqcHRmUTZBSXF5QVBpQzRPS2JSRkhPLVlTSW53Rkt",
+      "source": "AKM.RU",
+      "published_at": "2026-10-08T15:22:54+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Операторы заявили, что банковские мобильные операторы разрушают телеком-рынок",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5qXzJWT05scHdkNkNVNGxYUHdzZHRrVmJZbUl2aloxNXhDZHBES1EwOVpDZ2lJVUI2c1o3U2NjbWFpOWFnT2taLTZvSdIBS0FVX3lxTE5qXzJWT05scHdkNkNVNGxYUHdzZHRrVmJZbUl2aloxNXhDZHBES1EwOVpDZ2lJVUI2c1o3U2NjbWFpOWFnT2taLTZvSQ?oc=5",
+      "source": "Интерфакс",
+      "published_at": "2026-10-08T14:45:00+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "«Ростелеком» запустил ТрансЕврАзийскую волоконно-оптическую линию TEA NEXT",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT2hlejcyaVBQYTFPZlM1WGtFMzhaR0ZnM3JkRDNhZjkwcFJ6RjlrUk00UGh3YlFHbEcwTWR2TklIc2ZHemxDOFN4aXhBZXNyTVpGTUZvRzFvUTBia2ptYmh0NERSbUpsZWJIaWZ2UHNnb3RTMFRiNzJYUEU5MDlhdXFLbncxcVY1RWFKcUtTTW1WUF9jNGFDZ3lNcER4Sks3ODZ",
+      "source": "Известия Мордовии",
+      "published_at": "2026-10-08T14:31:08+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Доверие к связи: как будет развиваться российский телеком",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSm5rQWZLTURBcmV5c0VhTEFQOUp3QUowYWlxYWxmM3pNZmdJVWVOU09CeDlTQkwwVXFwc3ZkSlhibmQxV2xwb0JaVURpSGtyLWxTNG1SZkVaTEotNWFaSEU2RlJvZ2gxaENGVTVKVHRCNVhtMUVKUFZ4ZlFXN1hHa0t4aUxqNTFIME8wdjJJcUF4SXFmT1FjWXhJaUNLQ2l5RVN",
+      "source": "Национальные проекты России",
+      "published_at": "2026-10-08T12:19:50+00:00"
+    },
     {
       "category": "infrastructure",
       "title": "Украинские БПЛА атаковали ЦОД «Яндекса».",
@@ -13,10 +69,17 @@
     },
     {
       "category": "mts",
-      "title": "МТС запустила решения для обеспечения связью труднодоступных территорий",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NTjExdjZzQ2xndC16SkJEQ2c5QW9KdUtoMFZWM2dGWGl0UDQ4VERleDhmbG1Ca1RXX2xiN0ZmVFhnNnVvd2NVa2o4d3RQTlE?oc=5",
-      "source": "Волга Ньюс",
-      "published_at": "2026-10-08T05:35:00+00:00"
+      "title": "МТС поможет обеспечить связью труднодоступные таежные зоны Бурятии",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aVVpocTltNVg2MnNSNDJrM2oxWTd0UFdMWkR4NFFwTXo4N2VQRXpmeW93X2o4OEpQQllYbjhWNHJhOWxYNjZzcEhlWHN2Zw?oc=5",
+      "source": "Восток-Телеинформ",
+      "published_at": "2026-10-08T09:27:07+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "«Яндекс» оценивает ущерб от удара беспилотников по центру обработки данных в Рязанской области",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE12VzR6TnRNaEZsZkZ2SHlkWG9jR3RPTmlxbl9GdlY0Ukc3ZF9tVlZBYUJ6Nk43T2ZtUnF4NmtSTVVBcGtS0gFKQVVfeXFMT1R6SkU4YzNPNVkzRkk0dTNaeGpRZFZEamkwdzhtbjdQa2oyeUxqcENsUW5NRHRkZmVQWUNsMzZKT1RSbzZnQ1hjYkE?oc=5",
+      "source": "BFM.ru",
+      "published_at": "2026-10-08T06:52:26+00:00"
     },
     {
       "category": "mts",
@@ -26,11 +89,11 @@
       "published_at": "2026-10-08T04:53:51+00:00"
     },
     {
-      "category": "mts",
-      "title": "МТС поможет обеспечить связью удаленные и малонаселенные территории Татарстана",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPejBHRzNiM2M1S05Wb0NwV1BlX0ZxNk1PY2xuSk9SZWNGVHdreTA2TkFPcG11WVhKWkZpT0diQjgtZUt4VEFMQTIxUUdHUTVCdE9NTWtLWWdTNFQwbUFyeVZCQ2w4WUdBVFVmNk5mRHFjejhEWFYtSUlWRWNuM2xXYzZrM0JuTmxRM04tNnVhX2xIQ0l6X3F2SlJTYndubF9Fc2c",
-      "source": "Реальное время",
-      "published_at": "2026-10-07T14:25:00+00:00"
+      "category": "telecom",
+      "title": "Российские операторы связи. Сравнительный анализ технологического развития",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWXFsU1FQVExJdjZ3WGlRX2dacFpGUXJ3c2VHbWEtNkppQ0dKME94MFpKSGY1WmZjNkZxUnVCMzF3RmRQMXRLQjVTUUY2emlEb0Q2MjFxSkR0X1BCcEkwQ3ZRZG9wUGxqbGg0NGNDanVnSW1MLXczMnQ5cnZ2a1BtNDlzeHhJaXJIX2lyQVNxbVJyNFp4cjBMREF0cDFZMTNkeUZ",
+      "source": "J’son & Partners Consulting",
+      "published_at": "2026-10-07T15:02:14+00:00"
     },
     {
       "category": "mts",
@@ -66,69 +129,6 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ON0h6dFJoWFh5bFRIRDE2c0hpalRGSFpTdGJqN1l0bnQ0S1dWZ3JHcDZSUXg3M0l6dzhtdC04QzRmcHVCRUtVTHFWNUZ6eWtfb1E?oc=5",
       "source": "Sostav.ru",
       "published_at": "2026-10-07T07:59:36+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Количество базовых станций связи в России за год выросло на 9% и достигло 1 млн штук",
-      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxONUdVYkdHZnFJRFpTMU40VjJSdEZ3ZkowSk1SekgzcTNoV1U4RFBNWUFURWwxWXB4X2hybmx0ZEFWX1dDdnFFZHlrMGFnUVlUSTVQUjZ1a09Pd0F6UVZYVDJKVnpxRFBRcGpzMW84MXdyRWR4VjBqckY1SmVBaTc2TnJ0Nm81aFRoTzJIRDc2by1BRHB5bURvNTYyN3FUYTktUm0",
-      "source": "TAdviser",
-      "published_at": "2026-10-07T07:43:21+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС представила решение для связи в труднодоступных районах Красноярского края",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBZTlA3X0NsQVlPemxCMmtBTjA4LVJfd3JnTEplaUhMcDhBN3pQWFNFUXA5eXdzQmM3VXRqenNJSlhDbFJMSEHSAVpBVV95cUxOaXVrazh0ZFRnVWFIU1BMRHVwdmc3T01ocGo0WE9EazJkbVdPWWZRTndsSkUzXzYybWJsb0hyNmI3bUR6d1B6NGNVUmxMUUlpckZZTXZmWVhkbmc",
-      "source": "Newslab.ru",
-      "published_at": "2026-10-07T07:37:00+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "«Ростелеком» запустил ТрансЕврАзийскую волоконно-оптическую линию TEA NEXT",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XanV2OXVPa0tvdlJVX3FMMzJYSTdIUXZyR01KZkRYdzQwamRULU5ZRkQxUU5Ja0NnYXVkOFRWcDVoNWRYUmg0QVdacFN4SGFCT1hXTlZ3?oc=5",
-      "source": "Pg21.ru",
-      "published_at": "2026-10-06T12:31:54+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "\"Ростелеком\" запустил трансъевразийскую волоконно-оптическую линию связи TEA NEXT",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NM3R5VU5WTzltNjRoc2I4ZVE5T1BYUU9tb3ZLNUtKWW9LMGhjZWdlVFB3TmxXdi1OSXY0OEV0WV9YVWNKYS1uRndlRdIBS0FVX3lxTE9NM3R5VU5WTzltNjRoc2I4ZVE5T1BYUU9tb3ZLNUtKWW9LMGhjZWdlVFB3TmxXdi1OSXY0OEV0WV9YVWNKYS1uRndlRQ?oc=5",
-      "source": "Интерфакс",
-      "published_at": "2026-10-06T10:27:00+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Россия удвоит расходы на блокировки и фильтрацию интернет-трафика. За три года потратят 60 миллиардов рублей",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTnpfME9RaUJ6TFpZXzhEYko0a0h6UXFRc1diNzI4aldaWUx5MDB1cnRVUVZKdk51TTA3VUFQVm9wVUh6cGJ0MVdjRHcxamlFX2RZeXIyOHNsMExjVE1CZTc2NFJaTU93TzJvYmxadjVHM3ZZcUN3bXZocUtjaFJ6bFhuZHJWaEZqM1o5ZHhETE55VE5iMDZyMWxPeFJ3Z3ZmTVM",
-      "source": "Meduza",
-      "published_at": "2026-10-06T08:17:00+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС построила сеть для управления автономным транспортом «Яндекса»",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa1I4Nm1xV1VqMDNVQ0Y3R2w2TUJLZXJOY1Q1V2kyeHU4a0tZN2NqZUF4VGJUMkJDLVBfa2diN1c5UEhOWWV5RkhLQTN1S2RwcDhWcjZzTEk4OGt3SkdjQ0xPVFdHcjItUWo0MlhheEVlOExKYl82TDg5UjdZa3UxZEZrblFEY1hxc2tTTW9nbXphLUJBbzV3aGZGOHZSX1FkNXF",
-      "source": "Ведомости",
-      "published_at": "2026-10-06T07:00:55+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС запустила пополнение карт МТС Деньги через мобильное приложение",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWjFDOG9ZTVVya3hqQXdmRmJ6UGpBeks4M3M1V0hFLUhlVGc2ckw1Rk9vdGoxRzhyYU9TcGVudGYtcE5uZ2lDazRlV1ZsOG5rMi1QQWFpbFF6RGdFbFpkYTkzc0MyWkVxdFNxdXVRS2liREIyaEJGSmRSY05yWGFwTEs3TXdjbWtnLW9YcTE1aTFBV3RCc2FUMzVFTnFDRVZVVnV",
-      "source": "TelecomDaily",
-      "published_at": "2026-10-06T00:37:20+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "В России массово исчезают операторы связи – за год закрылся каждый пятый",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tdkxLbF95cHdDdW5pTUJLVXhIUks3NGFGTmVZOWQ4UGlDS3Y5VUVRVDZEdmx2OHFaSkQyNlpQZnJuQTMyR21wejZQNDBlVDhYOFU3SXZyMmlseDU5bGpuRmw4a1M4NUx4MzR1ZXdLMVhYNmMzWjh4Y2I5Q3lFZw?oc=5",
-      "source": "CNews.ru",
-      "published_at": "2026-10-05T19:28:34+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Число операторов связи в России за год сократилось на 17%",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON0U3aGFBRENhbXVORHZ4blBpVXJaUUtoNEh1NEhXcms2bXRuM2dmazBsOGhfLUlRa29SRUU0dDZ0WTZoU2x6Njdua0lIbDdFSGVLMFkzTEdPaVctTXVEdXQxeTk0LVdhcXhzR25VMkplODNtVkFFakU5djNhVi10dWpPTnBOdURqME9MRURfMDkwcmpTRVpaV1A0YzIwQldrMjE",
-      "source": "Sostav.ru",
-      "published_at": "2026-10-05T06:09:32+00:00"
     }
   ]
 }
