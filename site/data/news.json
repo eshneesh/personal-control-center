@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09T11:18:14+00:00",
+  "generated_at": "2026-10-10T10:35:07+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
     {
       "category": "infrastructure",
-      "title": "Удар ВСУ по ЦОД «Яндекса» в Сасово вызвал масштабные сбои в Рунете",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54TTBoMl9fUnlRZEkxRWVsYVJjaWJfVVZ6LXg5RzZlLWxMNzY0NWpoaklVbi1wYm9venFGa3A0NDhDVkZnV1ZWcmF6QnNWTUtIcU51a2Q4bl9ISnpIY0ZQUHJfVmUzVFFraFpLdTBrSQ?oc=5",
-      "source": "Techora.ru",
-      "published_at": "2026-10-09T09:12:27+00:00"
+      "title": "Сбой у провайдера защиты от DDoS-атак Curator на фоне атаки на ЦОД Яндекса",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMEtIbjVZczJVQlRnVXhYNWpNTm1KWmpVNTlua29GSTZtYzR3ajMyOXhzZWFzUDZxYXozUGZLbmJkT3E2MFQ0am5RSDc1cHAwUHBxNDRWRWFGRXYyb1BWdkNhd1FJLUtwNWluMFFpTkU4WTZnU0FseGs1TmRGc1hzYmx6SDA4MFZMZXVOSlFwTG1uSWZEUWR3R01SM1JrR1pl?oc",
+      "source": "Gosrf.ru",
+      "published_at": "2026-10-09T08:52:12+00:00"
     },
     {
       "category": "infrastructure",
@@ -42,7 +42,7 @@
     {
       "category": "telecom",
       "title": "Операторы заявили, что банковские мобильные операторы разрушают телеком-рынок",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5qXzJWT05scHdkNkNVNGxYUHdzZHRrVmJZbUl2aloxNXhDZHBES1EwOVpDZ2lJVUI2c1o3U2NjbWFpOWFnT2taLTZvSdIBS0FVX3lxTE5qXzJWT05scHdkNkNVNGxYUHdzZHRrVmJZbUl2aloxNXhDZHBES1EwOVpDZ2lJVUI2c1o3U2NjbWFpOWFnT2taLTZvSQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ETUFWMkxLYnNRYmZPUW9XRTUyc292d2NsMXdUS2NTc3BSNDNQWERBVnFCd0NRUjV5SFQ2aExyOGdsTllvTzZDMmNwSEpkeFVjcXfSAUtBVV95cUxOal8yVk9ObHB3ZDZDVTRsWFB3c2R0a1ZiWW1JdmpaMTV4Q2RwREtRMDlaQ2dpSVVCNnNaN1NjY21haTlhZ09rWi02b0k?oc=",
       "source": "Интерфакс",
       "published_at": "2026-10-08T14:45:00+00:00"
     },
@@ -103,13 +103,6 @@
       "published_at": "2026-10-07T11:42:32+00:00"
     },
     {
-      "category": "infrastructure",
-      "title": "«РТК-ЦОД» сообщил о создании Центра сертификации доверенной IT-инфраструктуры",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVDcyY1JTN3FlVk1nelpmUUlDWl9KQmh5S01nLV9iWlJqTFZTd25ocG9NUVlaY1dyOHlGUU5ZdVZ5WHdlalVvSjJLMmtUTFNwX1Y1ellUSW1iSmJRVHNSd2ZCYWpBYWFDSG9HQm9rWTdRdWpQeDEtb3h1N01VQzdWUWdDZTc0alNNUHVTQTBXSGJ5ak83ZkljQ1NXWGVONGtzYV8",
-      "source": "Digital Russia",
-      "published_at": "2026-10-07T10:21:43+00:00"
-    },
-    {
       "category": "telecom",
       "title": "J’son & Partners: рейтинг технологического развития российских телеком-операторов",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOEp4NF84S0M3YklpVUk5cHlqUWZjWXB6N3YzR1BlNGpYWVBTUEFGWVhnb0RKak04R1hjbWJ6RFFENXd5X0ZENnc3WUFEYVlXbTVmZWxiUWlYVm5iYkJLVTRlT2ZqMG5aZnFoRFdqOTlGWVQ0eExJSzdvd0pqcHZBWTJsMnFkR2p4VmNRanUzdG1PUzZoYVNYLXBFOTdfN0t5TVd",
@@ -129,6 +122,13 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ON0h6dFJoWFh5bFRIRDE2c0hpalRGSFpTdGJqN1l0bnQ0S1dWZ3JHcDZSUXg3M0l6dzhtdC04QzRmcHVCRUtVTHFWNUZ6eWtfb1E?oc=5",
       "source": "Sostav.ru",
       "published_at": "2026-10-07T07:59:36+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Количество базовых станций связи в России за год выросло на 9% и достигло 1 млн штук",
+      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxONUdVYkdHZnFJRFpTMU40VjJSdEZ3ZkowSk1SekgzcTNoV1U4RFBNWUFURWwxWXB4X2hybmx0ZEFWX1dDdnFFZHlrMGFnUVlUSTVQUjZ1a09Pd0F6UVZYVDJKVnpxRFBRcGpzMW84MXdyRWR4VjBqckY1SmVBaTc2TnJ0Nm81aFRoTzJIRDc2by1BRHB5bURvNTYyN3FUYTktUm0",
+      "source": "TAdviser",
+      "published_at": "2026-10-07T07:43:21+00:00"
     }
   ]
 }
