@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-10T10:35:07+00:00",
+  "generated_at": "2026-10-11T10:47:50+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
@@ -24,13 +24,6 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBSS1V1V1hrNmx1ZVkwNmlXODhoa0JJTlBMTm1PYTlSb2R3dmdqaXB0aWF2N21senBOUzZVdjdwQ2tEa2xMWU5iZ3NB?oc=5",
       "source": "Агентство Бизнес Информации - Черноземье",
       "published_at": "2026-10-09T06:00:51+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Лихая тройка против банков. Как MVNO раскололи телеком-рынок",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVms1bWZJVkN3aHFoV1VmVzR6LVhDUjhvdmdkbmdzb01rRTFfQnN2X2Ewb3dMMkRPZFZBRVRINktSd2hzR0t5U2dVczBLaVdjTGVwbExMcjd5aE5sb0VhbEZGd0l2VHVDMkw0UXdpTHNHUU1ITlQ0amJValVBUnJoMHFFSFBSU01hMWlrbHZxSTNZSzJYWWlmUXYweUNmd1lBa01",
-      "source": "ComNews.ru",
-      "published_at": "2026-10-08T23:42:06+00:00"
     },
     {
       "category": "mts",
@@ -73,13 +66,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aVVpocTltNVg2MnNSNDJrM2oxWTd0UFdMWkR4NFFwTXo4N2VQRXpmeW93X2o4OEpQQllYbjhWNHJhOWxYNjZzcEhlWHN2Zw?oc=5",
       "source": "Восток-Телеинформ",
       "published_at": "2026-10-08T09:27:07+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "«Яндекс» оценивает ущерб от удара беспилотников по центру обработки данных в Рязанской области",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE12VzR6TnRNaEZsZkZ2SHlkWG9jR3RPTmlxbl9GdlY0Ukc3ZF9tVlZBYUJ6Nk43T2ZtUnF4NmtSTVVBcGtS0gFKQVVfeXFMT1R6SkU4YzNPNVkzRkk0dTNaeGpRZFZEamkwdzhtbjdQa2oyeUxqcENsUW5NRHRkZmVQWUNsMzZKT1RSbzZnQ1hjYkE?oc=5",
-      "source": "BFM.ru",
-      "published_at": "2026-10-08T06:52:26+00:00"
     },
     {
       "category": "mts",
@@ -129,6 +115,20 @@
       "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxONUdVYkdHZnFJRFpTMU40VjJSdEZ3ZkowSk1SekgzcTNoV1U4RFBNWUFURWwxWXB4X2hybmx0ZEFWX1dDdnFFZHlrMGFnUVlUSTVQUjZ1a09Pd0F6UVZYVDJKVnpxRFBRcGpzMW84MXdyRWR4VjBqckY1SmVBaTc2TnJ0Nm81aFRoTzJIRDc2by1BRHB5bURvNTYyN3FUYTktUm0",
       "source": "TAdviser",
       "published_at": "2026-10-07T07:43:21+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "Красивые номера МТС: какие бывают, сколько стоят и как купить со скидкой",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jNDkwRkMtbDg5MU95cHZzMDFsYU4tdFU1QWkxZG1ldWxNUlA5TU56RXJNbGxCYmo2YW5CMG5UNnh2TjVUdHZXMzR1RGgzNkdlYjFUQWl6VVRXYjdBSmtNRWJ2Qjc?oc=5",
+      "source": "МТС Редспот",
+      "published_at": "2026-10-07T07:00:00+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "Форум «Цифровые решения»",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAxSTRDNlJYZDJHZ2pKN1NxUERDQmNGOU9UZ1ZWMGF6VnhaTktQSHR0ZnBFNWNKN0NVYlppNXRmb3d1VTJlWlNZ?oc=5",
+      "source": "Правительство России",
+      "published_at": "2026-10-06T21:07:41+00:00"
     }
   ]
 }
