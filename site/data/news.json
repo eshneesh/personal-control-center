@@ -1,15 +1,36 @@
 {
   "version": 1,
-  "generated_at": "2026-10-11T10:47:50+00:00",
+  "generated_at": "2026-10-12T11:55:25+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
     {
+      "category": "mts",
+      "title": "МТС Exolve наращивает инфраструктурные мощности",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRjR2NGV4MFIxaEdIaHgyREw4eVdlWGhqc2s5RXFNYzJweFNMV1lSSDZBSkRIaS1DZ1dSeTIwTnpsN3RTSkZtRDNiekNKMy1yS2owdkowSmdaZWhzR2NMdzVBWU5EZ1VVZjR5QVhyZ3pTd0xWdGsxR0p5dXFXN1kzTlk2UGxlYk9yQXJhTzlxWnNUSFhBQ3VsQg?oc=5",
+      "source": "TelecomDaily",
+      "published_at": "2026-10-12T10:45:10+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "Рейтинг технологичности российских операторов возглавил МТС",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9GbWdPVEo4Z2xqVVBRMUF0SGNZcDJ4VW9UazAxQWFFanh1cE9JV3lXSHBmLXZRWUwtRk1ZQldRb0hnVTVIYmfSAVpBVV95cUxNci1Ga2h5eVdUN1NYZGxRV1FBQ01ZNGEwZlk5eEtYUHc5c2RmUllkaHpIZUllaE5uNXhodC0yMzRqVUVVUXEyVXEtd0ZZbGRBLW5XYUxqMkhDN3c",
+      "source": "Newslab",
+      "published_at": "2026-10-12T03:40:00+00:00"
+    },
+    {
       "category": "infrastructure",
-      "title": "Сбой у провайдера защиты от DDoS-атак Curator на фоне атаки на ЦОД Яндекса",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMEtIbjVZczJVQlRnVXhYNWpNTm1KWmpVNTlua29GSTZtYzR3ajMyOXhzZWFzUDZxYXozUGZLbmJkT3E2MFQ0am5RSDc1cHAwUHBxNDRWRWFGRXYyb1BWdkNhd1FJLUtwNWluMFFpTkU4WTZnU0FseGs1TmRGc1hzYmx6SDA4MFZMZXVOSlFwTG1uSWZEUWR3R01SM1JrR1pl?oc",
-      "source": "Gosrf.ru",
-      "published_at": "2026-10-09T08:52:12+00:00"
+      "title": "Хоть под землю провались. Что предпринять \"Яндексу\" и другим владельцам ЦОД для защиты от БПЛА",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQajFQRHl4YjFrTElBWlhUYnJqODd5WE1JOW90dnhiM0ZvNVdhbnJnRGJjX0FLVEF3a2MxQTJBTlNscXNXWUhISHhrbWxDZWFiWjdaTzRTU1BMSFRMSkM1T0owa0w5R1BsQThwNnZHckxuUFYzeE1XM2xsWVBVM1hXaTZubUNGNVV4djFWbEQwX1RWdHEwQXd4aWs1VzlPOUZkd0h",
+      "source": "ComNews.ru",
+      "published_at": "2026-10-12T00:00:01+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "«РусГидро» модернизирует ЦОДы, чтобы повысить их катастрофоустойчивость",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSjVLbWY4eUYya0JBSUxaamptY2pTQlZMR2RhY1ctbnpiTjFBLWVEbnVROFN4TThnbEhvWnFOenVVTkc5Q0tRMVVBLXZnRFp5NWtSdFhFTUtBejJkVEdjTFQ0dzBfbHBETHd0b0Z3VThuaDAwY1NmSUZleXpyUVBXeDRzNmJwMC1sS2lKWF9HeGJvS2FOaGNUTGxfUnZVUUNQRG4",
+      "source": "ICT-Online.ru",
+      "published_at": "2026-10-09T10:44:25+00:00"
     },
     {
       "category": "infrastructure",
@@ -26,11 +47,11 @@
       "published_at": "2026-10-09T06:00:51+00:00"
     },
     {
-      "category": "mts",
-      "title": "МТС получили премию «Цифровые решения» за инновационность цифровой системы FSM для инженеров",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONk1jOUtZcnZ4dHdUcFZoRnA2SkU1ZmVOMkRTV1QyUjNDUnVjc19QV2ljTS1zRWpFN1BET3JvQ0pQSDhRbDNuUVpkRl9WbDBlSGVhTlZETkl0cXB5TjJqUnYtOFlGUmFkajJmNElDRXdPdU1UOUswa1VnekswRUdFYnJEemlqcHRmUTZBSXF5QVBpQzRPS2JSRkhPLVlTSW53Rkt",
-      "source": "AKM.RU",
-      "published_at": "2026-10-08T15:22:54+00:00"
+      "category": "telecom",
+      "title": "Лихая тройка против банков. Как MVNO раскололи телеком-рынок",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVms1bWZJVkN3aHFoV1VmVzR6LVhDUjhvdmdkbmdzb01rRTFfQnN2X2Ewb3dMMkRPZFZBRVRINktSd2hzR0t5U2dVczBLaVdjTGVwbExMcjd5aE5sb0VhbEZGd0l2VHVDMkw0UXdpTHNHUU1ITlQ0amJValVBUnJoMHFFSFBSU01hMWlrbHZxSTNZSzJYWWlmUXYweUNmd1lBa01",
+      "source": "ComNews.ru",
+      "published_at": "2026-10-08T23:42:06+00:00"
     },
     {
       "category": "telecom",
@@ -42,7 +63,7 @@
     {
       "category": "infrastructure",
       "title": "«Ростелеком» запустил ТрансЕврАзийскую волоконно-оптическую линию TEA NEXT",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT2hlejcyaVBQYTFPZlM1WGtFMzhaR0ZnM3JkRDNhZjkwcFJ6RjlrUk00UGh3YlFHbEcwTWR2TklIc2ZHemxDOFN4aXhBZXNyTVpGTUZvRzFvUTBia2ptYmh0NERSbUpsZWJIaWZ2UHNnb3RTMFRiNzJYUEU5MDlhdXFLbncxcVY1RWFKcUtTTW1WUF9jNGFDZ3lNcER4Sks3ODZ",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQd3hEdGVzRnFwbHhuTXlqNzVXUVdtSzVUd2k2Wk40UHlXbUVZQk85WGI0YmM1UldMZFkwNGFiTl9aanFNNFlneklTdkhxdzAzbGJZZklDU0lmRnludk92TmdyZ0U3Y3NybXBmSEhXSDFnOUZuLWRmSTBPZUU3c2o5QlVZcVM3NGNlZHVvLS1ncG1xMy1HRWVnTHFEM05IZzY2Z0V",
       "source": "Известия Мордовии",
       "published_at": "2026-10-08T14:31:08+00:00"
     },
@@ -82,7 +103,7 @@
       "published_at": "2026-10-07T15:02:14+00:00"
     },
     {
-      "category": "mts",
+      "category": "telecom",
       "title": "МТС возглавил рейтинг технологического развития российских операторов связи",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZVV1M3NMT1YtVm5VXzhJMWRGbEtXQXNhT19RbE5MWDktVno2NXBXMkM2MFhNVzgwQXhXeF9BV0Nsb3c3THV5MkZFNm0zTE1xNldwaU9fd3E1Y1lSOTMyVHZRdEtZcnJNR3BIT01TMUFRSzFQZDA0VGJoVUhyVGNUakNCaWxUQmcweGxYUGhLMDMybDV5VGJwOVZvT0JnczRZQVl",
       "source": "Компьютерра",
@@ -108,27 +129,6 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ON0h6dFJoWFh5bFRIRDE2c0hpalRGSFpTdGJqN1l0bnQ0S1dWZ3JHcDZSUXg3M0l6dzhtdC04QzRmcHVCRUtVTHFWNUZ6eWtfb1E?oc=5",
       "source": "Sostav.ru",
       "published_at": "2026-10-07T07:59:36+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Количество базовых станций связи в России за год выросло на 9% и достигло 1 млн штук",
-      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxONUdVYkdHZnFJRFpTMU40VjJSdEZ3ZkowSk1SekgzcTNoV1U4RFBNWUFURWwxWXB4X2hybmx0ZEFWX1dDdnFFZHlrMGFnUVlUSTVQUjZ1a09Pd0F6UVZYVDJKVnpxRFBRcGpzMW84MXdyRWR4VjBqckY1SmVBaTc2TnJ0Nm81aFRoTzJIRDc2by1BRHB5bURvNTYyN3FUYTktUm0",
-      "source": "TAdviser",
-      "published_at": "2026-10-07T07:43:21+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "Красивые номера МТС: какие бывают, сколько стоят и как купить со скидкой",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jNDkwRkMtbDg5MU95cHZzMDFsYU4tdFU1QWkxZG1ldWxNUlA5TU56RXJNbGxCYmo2YW5CMG5UNnh2TjVUdHZXMzR1RGgzNkdlYjFUQWl6VVRXYjdBSmtNRWJ2Qjc?oc=5",
-      "source": "МТС Редспот",
-      "published_at": "2026-10-07T07:00:00+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "Форум «Цифровые решения»",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAxSTRDNlJYZDJHZ2pKN1NxUERDQmNGOU9UZ1ZWMGF6VnhaTktQSHR0ZnBFNWNKN0NVYlppNXRmb3d1VTJlWlNZ?oc=5",
-      "source": "Правительство России",
-      "published_at": "2026-10-06T21:07:41+00:00"
     }
   ]
 }
