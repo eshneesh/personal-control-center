@@ -1,15 +1,43 @@
 {
   "version": 1,
-  "generated_at": "2026-10-12T11:55:25+00:00",
+  "generated_at": "2026-10-13T11:44:24+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
+    {
+      "category": "telecom",
+      "title": "«Ростелеком» предложил небольшим региональным операторам передать ему своих абонентов, а взамен снять с них расходы на СОРМ",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVTd1ZTlpWHNFN04zRFR0M0lOb2FYbU4zaVVsQWkwWGFBQldZbV9McFdoLVJhQ3d0WEItel8tdnQxdkQxQ0c5MjJRX3dxa25MenZub241dk9xbmppZWgwblVUOFRha05iQW9TcUZqdlJPOEd6Rm5UOVN4Q0t0cmpQOXRJVlFuc0t2N0FEV1RaYzNlckNNQ3lmR18tTXBjcGREUk1",
+      "source": "Meduza",
+      "published_at": "2026-10-13T06:30:00+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "«Большая четверка»: о демпинге и регулировании MVNO-операторов",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcEpJMDMwUkpPZDF5Wk83T3Z6d2RJLUpjdXZUdTJ5REZRZjN2TXNmeDRHbFlLbEpfcEhMQXBNaXNJTExuNkN0OG5hVDkwYUVzLU45Z3drNlVNNlFnVXNQYmJhSWpSU3JKTnVLdlFOcFVaWVFXcF81aXMzV2pMMUlMelFVZk5zZFZ0WklVSlJNTUh3WVBEMnNlTXhKOWRGWEFocHd",
+      "source": "TelecomDaily",
+      "published_at": "2026-10-13T06:15:56+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "«Нонсенс для лидера Рунета!»: горькие уроки для бизнеса после атак на «Яндекс»",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkUVVwdHZ2bzktTUt3ZTg1RU5Xc0tMbmpQQ1htQ2ZFTTV2NGp4dkRiUHZkU0lnUk8zMkNhcDBGU2NuUFBMNkZseHZfQWJmbU9obHVj0gFTQVVfeXFMUGRRVXB0dnZvOS1NS3dlODVFTldzS0xualBDWG1DZkVNNXY0anh2RGJQdmRTSWdSTzMyQ2FwMEZTY25QUEw2Rmx4dl9BYmZ",
+      "source": "БИЗНЕС Online — Новости Казани",
+      "published_at": "2026-10-13T05:00:00+00:00"
+    },
     {
       "category": "mts",
       "title": "МТС Exolve наращивает инфраструктурные мощности",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRjR2NGV4MFIxaEdIaHgyREw4eVdlWGhqc2s5RXFNYzJweFNMV1lSSDZBSkRIaS1DZ1dSeTIwTnpsN3RTSkZtRDNiekNKMy1yS2owdkowSmdaZWhzR2NMdzVBWU5EZ1VVZjR5QVhyZ3pTd0xWdGsxR0p5dXFXN1kzTlk2UGxlYk9yQXJhTzlxWnNUSFhBQ3VsQg?oc=5",
       "source": "TelecomDaily",
-      "published_at": "2026-10-12T10:45:10+00:00"
+      "published_at": "2026-10-12T10:47:35+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Дешевой мобильной связи не останется. Виртуальных сотовых операторов отрегулируют, чтобы не демпинговали",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mTEpwWVplVHBxRmRoU2E3a1VpRlpoTFppa3hlWUh5V1RPNXJWVXFDMk9wSUJuZmJVaGxFS191SWtvVUtaLXFhaUFMUndQTTVfRXFhMFVsRlFDREJScHJ2a0k4RFk4M29PaTZ4QzQtdUZEUlU?oc=5",
+      "source": "CNews.ru",
+      "published_at": "2026-10-12T09:41:46+00:00"
     },
     {
       "category": "mts",
@@ -24,13 +52,6 @@
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQajFQRHl4YjFrTElBWlhUYnJqODd5WE1JOW90dnhiM0ZvNVdhbnJnRGJjX0FLVEF3a2MxQTJBTlNscXNXWUhISHhrbWxDZWFiWjdaTzRTU1BMSFRMSkM1T0owa0w5R1BsQThwNnZHckxuUFYzeE1XM2xsWVBVM1hXaTZubUNGNVV4djFWbEQwX1RWdHEwQXd4aWs1VzlPOUZkd0h",
       "source": "ComNews.ru",
       "published_at": "2026-10-12T00:00:01+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "«РусГидро» модернизирует ЦОДы, чтобы повысить их катастрофоустойчивость",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSjVLbWY4eUYya0JBSUxaamptY2pTQlZMR2RhY1ctbnpiTjFBLWVEbnVROFN4TThnbEhvWnFOenVVTkc5Q0tRMVVBLXZnRFp5NWtSdFhFTUtBejJkVEdjTFQ0dzBfbHBETHd0b0Z3VThuaDAwY1NmSUZleXpyUVBXeDRzNmJwMC1sS2lKWF9HeGJvS2FOaGNUTGxfUnZVUUNQRG4",
-      "source": "ICT-Online.ru",
-      "published_at": "2026-10-09T10:44:25+00:00"
     },
     {
       "category": "infrastructure",
@@ -63,9 +84,9 @@
     {
       "category": "infrastructure",
       "title": "«Ростелеком» запустил ТрансЕврАзийскую волоконно-оптическую линию TEA NEXT",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQd3hEdGVzRnFwbHhuTXlqNzVXUVdtSzVUd2k2Wk40UHlXbUVZQk85WGI0YmM1UldMZFkwNGFiTl9aanFNNFlneklTdkhxdzAzbGJZZklDU0lmRnludk92TmdyZ0U3Y3NybXBmSEhXSDFnOUZuLWRmSTBPZUU3c2o5QlVZcVM3NGNlZHVvLS1ncG1xMy1HRWVnTHFEM05IZzY2Z0V",
-      "source": "Известия Мордовии",
-      "published_at": "2026-10-08T14:31:08+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTWNXNTFTcmpackZVWXBVNFc3RTNFZ1A5NHVwUDY0NHhab2FHdlZxNWRwLXViNmh1OW92TWpqdHNKNkZBT3ZsNUZfVTZPNkVWdjJDOGdzaVBYdElBcUthbl9iX2x3Tmh0YXkxVF9DMHI2b0ZRTk56QnVzVkJEWHhxMEt3ZkVRTTBabkIyajcyVXpqYmVMdXJnbURhZGR6R3pOdlN",
+      "source": "РИА Калмыкия",
+      "published_at": "2026-10-08T13:00:32+00:00"
     },
     {
       "category": "telecom",
@@ -73,20 +94,6 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSm5rQWZLTURBcmV5c0VhTEFQOUp3QUowYWlxYWxmM3pNZmdJVWVOU09CeDlTQkwwVXFwc3ZkSlhibmQxV2xwb0JaVURpSGtyLWxTNG1SZkVaTEotNWFaSEU2RlJvZ2gxaENGVTVKVHRCNVhtMUVKUFZ4ZlFXN1hHa0t4aUxqNTFIME8wdjJJcUF4SXFmT1FjWXhJaUNLQ2l5RVN",
       "source": "Национальные проекты России",
       "published_at": "2026-10-08T12:19:50+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "Украинские БПЛА атаковали ЦОД «Яндекса».",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9DRnBXOG5fNzdHSzZ5TVM1dG83UXppUm9JTFcxRWp6b3Zhblc0M0FWcGNVUENBTXZLMUZIZUhKSXNldEdGNGFYSw?oc=5",
-      "source": "Runet.news",
-      "published_at": "2026-10-08T11:07:24+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС поможет обеспечить связью труднодоступные таежные зоны Бурятии",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aVVpocTltNVg2MnNSNDJrM2oxWTd0UFdMWkR4NFFwTXo4N2VQRXpmeW93X2o4OEpQQllYbjhWNHJhOWxYNjZzcEhlWHN2Zw?oc=5",
-      "source": "Восток-Телеинформ",
-      "published_at": "2026-10-08T09:27:07+00:00"
     },
     {
       "category": "mts",
@@ -103,32 +110,25 @@
       "published_at": "2026-10-07T15:02:14+00:00"
     },
     {
-      "category": "telecom",
+      "category": "mts",
+      "title": "МТС поможет обеспечить связью удаленные и малонаселенные территории Татарстана",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPejBHRzNiM2M1S05Wb0NwV1BlX0ZxNk1PY2xuSk9SZWNGVHdreTA2TkFPcG11WVhKWkZpT0diQjgtZUt4VEFMQTIxUUdHUTVCdE9NTWtLWWdTNFQwbUFyeVZCQ2w4WUdBVFVmNk5mRHFjejhEWFYtSUlWRWNuM2xXYzZrM0JuTmxRM04tNnVhX2xIQ0l6X3F2SlJTYndubF9Fc2c",
+      "source": "Реальное время",
+      "published_at": "2026-10-07T14:25:00+00:00"
+    },
+    {
+      "category": "mts",
       "title": "МТС возглавил рейтинг технологического развития российских операторов связи",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZVV1M3NMT1YtVm5VXzhJMWRGbEtXQXNhT19RbE5MWDktVno2NXBXMkM2MFhNVzgwQXhXeF9BV0Nsb3c3THV5MkZFNm0zTE1xNldwaU9fd3E1Y1lSOTMyVHZRdEtZcnJNR3BIT01TMUFRSzFQZDA0VGJoVUhyVGNUakNCaWxUQmcweGxYUGhLMDMybDV5VGJwOVZvT0JnczRZQVl",
       "source": "Компьютерра",
       "published_at": "2026-10-07T11:42:32+00:00"
     },
     {
-      "category": "telecom",
-      "title": "J’son & Partners: рейтинг технологического развития российских телеком-операторов",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOEp4NF84S0M3YklpVUk5cHlqUWZjWXB6N3YzR1BlNGpYWVBTUEFGWVhnb0RKak04R1hjbWJ6RFFENXd5X0ZENnc3WUFEYVlXbTVmZWxiUWlYVm5iYkJLVTRlT2ZqMG5aZnFoRFdqOTlGWVQ0eExJSzdvd0pqcHZBWTJsMnFkR2p4VmNRanUzdG1PUzZoYVNYLXBFOTdfN0t5TVd",
-      "source": "Телеспутник",
-      "published_at": "2026-10-07T09:49:04+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "Аэромобильные комплексы связи МТС на базе гексакоптера: где развернут, как работает",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaV9lcThENkZiQXZyUUo2cExXSnk2cXZSNThvUWt5MWJJa1ZUbVpnQXNTU1JoTF9rS3BwVVlRYnVocHRfb3E5Z0NsM3hiRHBSdVdaRXoybElaaS02dVk5bVV4cTZlNVZnc3p5YXdYemh4eUhfenFhd2tkbE1ycEU4TnE2bGtRR2F1MGlZNno4Sm5iNHhxa3pwUkctbVROSVA0WFI",
-      "source": "Финансы Mail",
-      "published_at": "2026-10-07T08:51:24+00:00"
-    },
-    {
       "category": "infrastructure",
-      "title": "Российский рынок пассивного сетевого оборудования: обзор ведущих производителей, тенденции на ближайшее будущее (2026-2030)",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ON0h6dFJoWFh5bFRIRDE2c0hpalRGSFpTdGJqN1l0bnQ0S1dWZ3JHcDZSUXg3M0l6dzhtdC04QzRmcHVCRUtVTHFWNUZ6eWtfb1E?oc=5",
-      "source": "Sostav.ru",
-      "published_at": "2026-10-07T07:59:36+00:00"
+      "title": "«РТК-ЦОД» сообщил о создании Центра сертификации доверенной IT-инфраструктуры",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVDcyY1JTN3FlVk1nelpmUUlDWl9KQmh5S01nLV9iWlJqTFZTd25ocG9NUVlaY1dyOHlGUU5ZdVZ5WHdlalVvSjJLMmtUTFNwX1Y1ellUSW1iSmJRVHNSd2ZCYWpBYWFDSG9HQm9rWTdRdWpQeDEtb3h1N01VQzdWUWdDZTc0alNNUHVTQTBXSGJ5ak83ZkljQ1NXWGVONGtzYV8",
+      "source": "Digital Russia",
+      "published_at": "2026-10-07T10:21:43+00:00"
     }
   ]
 }
