@@ -1,9 +1,23 @@
 {
   "version": 1,
-  "generated_at": "2026-10-13T11:44:24+00:00",
+  "generated_at": "2026-10-14T09:29:24+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
+    {
+      "category": "telecom",
+      "title": "Крупные телеком-операторы предложили малым провайдерам «отдаться» в обмен на долю выручки",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9oTmNSbkhZYnA1MFlZb19lNk8xUlVlS0dxUlR1MExTWGlWakN2bF9sa1dNOVJ5MlpHY0NrWENwV0VnODQ?oc=5",
+      "source": "ServerNews",
+      "published_at": "2026-10-13T20:17:00+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС усилила связь в одном из старейших поселений в Чувашии",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5fcGptTlRSTWtHTHlxamFiYUY0OGFOMGVqOE5nMnMydUVjNVZZV2kxV1hMa2dsdFdUTWdJVE5qcUY?oc=5",
+      "source": "PG21.RU",
+      "published_at": "2026-10-13T12:46:30+00:00"
+    },
     {
       "category": "telecom",
       "title": "«Ростелеком» предложил небольшим региональным операторам передать ему своих абонентов, а взамен снять с них расходы на СОРМ",
@@ -12,11 +26,11 @@
       "published_at": "2026-10-13T06:30:00+00:00"
     },
     {
-      "category": "telecom",
-      "title": "«Большая четверка»: о демпинге и регулировании MVNO-операторов",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcEpJMDMwUkpPZDF5Wk83T3Z6d2RJLUpjdXZUdTJ5REZRZjN2TXNmeDRHbFlLbEpfcEhMQXBNaXNJTExuNkN0OG5hVDkwYUVzLU45Z3drNlVNNlFnVXNQYmJhSWpSU3JKTnVLdlFOcFVaWVFXcF81aXMzV2pMMUlMelFVZk5zZFZ0WklVSlJNTUh3WVBEMnNlTXhKOWRGWEFocHd",
-      "source": "TelecomDaily",
-      "published_at": "2026-10-13T06:15:56+00:00"
+      "category": "mts",
+      "title": "Компания МТС разогнала LTE на ключевой промышленной магистрали Ульяновска",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNmZENll3Wm55ODBlNHJyXzNESWJLYi1xYmdzVXROR0R1V3R2LVpyMk1vaU9aZGlkZF9FV0E3Ym1xR0paZ05ZellBemhlUHRaN0FxamVJTGZnWDNmZ3dXZjFOUHZOMW8zWHNpUzhCZDRfUVZuQmtlbF9oX1MxRmtSNjNRa3NQazhlTzVKdHNjMU5ZODkzQUM2aDI3Z2VBWElBcGR",
+      "source": "73online.ru",
+      "published_at": "2026-10-13T06:25:00+00:00"
     },
     {
       "category": "infrastructure",
@@ -54,6 +68,13 @@
       "published_at": "2026-10-12T00:00:01+00:00"
     },
     {
+      "category": "telecom",
+      "title": "максимальные скорости в сетях 5G диапазона n79 достигли 1,5 Гбит/с",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMFlRWnRkS0VYaDZPcm01VHpVamdmdEkyWlJGUFRWaTlqWDVnYkV0R2RHOWkzU0N3QWJkUEc1ZUdOLWpNeTR3MGswWEtQTGc0LWJBc1BSSE5sTUpOSGJvM3hVVUJFOXl5VElmb1YwQjBFbEROQzdUNnJHR1FFc1JveUFLWU9MZFdqbzMyTXl6dk0tMHFuUmZ4T0N3cHlBOHRXcmh",
+      "source": "TelecomDaily",
+      "published_at": "2026-10-11T23:31:23+00:00"
+    },
+    {
       "category": "infrastructure",
       "title": "Атака на Сасовский ЦОД «Яндекса» привела к сбоям Yandex Cloud, «Циана», «Мострансавто»",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWGpNYTNBdTlUV1plc3VMWTZqSWV2MFU3a3kwM0ZvYWtBaXRDaVpneU5ZbTk2TmNpRzVvYW9hNTZ1SE8zY2twQW5sSW5MSmRtRk5CM1NMSFo1eWVGc3c1UmlVUkV1VzdzNm9BY1dCdGxLRm9DS2VNYUJnY2gxZnR6Mm5HRDQ1RllRYmFmbkUzeFJXU3FQVzZNdVNJLS1hSmZxTHJ",
@@ -61,16 +82,9 @@
       "published_at": "2026-10-09T08:23:20+00:00"
     },
     {
-      "category": "mts",
-      "title": "Рейтинг технологического развития российских операторов возглавила компания МТС",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBSS1V1V1hrNmx1ZVkwNmlXODhoa0JJTlBMTm1PYTlSb2R3dmdqaXB0aWF2N21senBOUzZVdjdwQ2tEa2xMWU5iZ3NB?oc=5",
-      "source": "Агентство Бизнес Информации - Черноземье",
-      "published_at": "2026-10-09T06:00:51+00:00"
-    },
-    {
       "category": "telecom",
-      "title": "Лихая тройка против банков. Как MVNO раскололи телеком-рынок",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVms1bWZJVkN3aHFoV1VmVzR6LVhDUjhvdmdkbmdzb01rRTFfQnN2X2Ewb3dMMkRPZFZBRVRINktSd2hzR0t5U2dVczBLaVdjTGVwbExMcjd5aE5sb0VhbEZGd0l2VHVDMkw0UXdpTHNHUU1ITlQ0amJValVBUnJoMHFFSFBSU01hMWlrbHZxSTNZSzJYWWlmUXYweUNmd1lBa01",
+      "title": "Это не шутка. Минцифры впервые публично рассказало о планах реформы лицензирования в телекоме",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQd2NqdEI3NEtVNXZReE9mWmNJODV4UUtCbmROSlpTZXpSU1FtVmNpQ0pFcUxzTmNHUWx2RGo3X2lzTFB0ZzNBQmQzTUV0bHhmUmdpOE1OWmxTM0hzR0dBZlBUWmZiVmtHc3c3M1BNZkdiSjRyME4tcXdYckZ5a3BnV3dEdHBsZGhoSnQwUS0zeFlzY2NlbHhPSGR5UEFCRXNXcW9",
       "source": "ComNews.ru",
       "published_at": "2026-10-08T23:42:06+00:00"
     },
@@ -96,39 +110,25 @@
       "published_at": "2026-10-08T12:19:50+00:00"
     },
     {
-      "category": "mts",
-      "title": "МТС запустила связь в аале на юге Хакасии",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RdU96LXFKRFpRQmhHQmZLVF9WQ2E4ZnltLXJZajFKOHdGSnp5NUh6ODV6Z1dVNV9qQ0VlMXFXWjA4MVJITzcyTVh5WVpDOGk4RG55VlZEbW5icTFJN3doVVNIMHBNcEpycDVwd0ZkRFZ3eU04cTFZ?oc=5",
-      "source": "CNews.ru",
-      "published_at": "2026-10-08T04:53:51+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Российские операторы связи. Сравнительный анализ технологического развития",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWXFsU1FQVExJdjZ3WGlRX2dacFpGUXJ3c2VHbWEtNkppQ0dKME94MFpKSGY1WmZjNkZxUnVCMzF3RmRQMXRLQjVTUUY2emlEb0Q2MjFxSkR0X1BCcEkwQ3ZRZG9wUGxqbGg0NGNDanVnSW1MLXczMnQ5cnZ2a1BtNDlzeHhJaXJIX2lyQVNxbVJyNFp4cjBMREF0cDFZMTNkeUZ",
-      "source": "J’son & Partners Consulting",
-      "published_at": "2026-10-07T15:02:14+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС поможет обеспечить связью удаленные и малонаселенные территории Татарстана",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPejBHRzNiM2M1S05Wb0NwV1BlX0ZxNk1PY2xuSk9SZWNGVHdreTA2TkFPcG11WVhKWkZpT0diQjgtZUt4VEFMQTIxUUdHUTVCdE9NTWtLWWdTNFQwbUFyeVZCQ2w4WUdBVFVmNk5mRHFjejhEWFYtSUlWRWNuM2xXYzZrM0JuTmxRM04tNnVhX2xIQ0l6X3F2SlJTYndubF9Fc2c",
-      "source": "Реальное время",
-      "published_at": "2026-10-07T14:25:00+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС возглавил рейтинг технологического развития российских операторов связи",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZVV1M3NMT1YtVm5VXzhJMWRGbEtXQXNhT19RbE5MWDktVno2NXBXMkM2MFhNVzgwQXhXeF9BV0Nsb3c3THV5MkZFNm0zTE1xNldwaU9fd3E1Y1lSOTMyVHZRdEtZcnJNR3BIT01TMUFRSzFQZDA0VGJoVUhyVGNUakNCaWxUQmcweGxYUGhLMDMybDV5VGJwOVZvT0JnczRZQVl",
-      "source": "Компьютерра",
-      "published_at": "2026-10-07T11:42:32+00:00"
-    },
-    {
       "category": "infrastructure",
-      "title": "«РТК-ЦОД» сообщил о создании Центра сертификации доверенной IT-инфраструктуры",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVDcyY1JTN3FlVk1nelpmUUlDWl9KQmh5S01nLV9iWlJqTFZTd25ocG9NUVlaY1dyOHlGUU5ZdVZ5WHdlalVvSjJLMmtUTFNwX1Y1ellUSW1iSmJRVHNSd2ZCYWpBYWFDSG9HQm9rWTdRdWpQeDEtb3h1N01VQzdWUWdDZTc0alNNUHVTQTBXSGJ5ak83ZkljQ1NXWGVONGtzYV8",
-      "source": "Digital Russia",
-      "published_at": "2026-10-07T10:21:43+00:00"
+      "title": "Украинские БПЛА атаковали ЦОД «Яндекса».",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9DRnBXOG5fNzdHSzZ5TVM1dG83UXppUm9JTFcxRWp6b3Zhblc0M0FWcGNVUENBTXZLMUZIZUhKSXNldEdGNGFYSw?oc=5",
+      "source": "Runet.news",
+      "published_at": "2026-10-08T11:07:24+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС поможет обеспечить связью отдаленные и труднодоступные улусы Якутии",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblB4VTQ1ejAyaFFFekJmdHI1bEFxSGhhYUNZXzBaWTJ2eUhTZG53cWxvTjloQWwtTG5vV0FuMDVXd1lRSHhtdkR0akU5MmcxODNhSm5rRGpkV1BncHJ5V0wtYXA1US1mejNHQVVwb0FpUXVMQzZPNE9RZHp6al9ySU9ZOXQxUDZ4RFpXRV9STGNrVWNvdnc?oc=5",
+      "source": "ЯСИА",
+      "published_at": "2026-10-08T08:17:54+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС поможет обеспечить связью труднодоступные территории Магаданской области",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLWs0TV9GeEgyZENvcUZiTG9WOEhmZzJ1YUNtQ3BVYVM5THdTRlJqYWRsU2pEWXRNSUdEWVlyZnl2NjRvbUQ4bmRQS3JFaHA1cmg3M2tuMThMY1lVZFJ1LWZWMTVmRjE0SHBZWG5yN2RJbHBYdVNPa2JubXY0M3dsc28yZ2UzMHdwUm56dDBQU1ZBWURjaXJfU0R5UFJGMnY0SEt",
+      "source": "Kolyma.ru",
+      "published_at": "2026-10-08T06:14:58+00:00"
     }
   ]
 }
