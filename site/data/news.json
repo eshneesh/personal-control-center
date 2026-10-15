@@ -1,9 +1,65 @@
 {
   "version": 1,
-  "generated_at": "2026-10-14T09:29:24+00:00",
+  "generated_at": "2026-10-15T09:07:35+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
+    {
+      "category": "infrastructure",
+      "title": "В России предложили создать резервные дата-центры на случай масштабных аварий",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWE93eXpXMHlCdG9oYkJvbVNFUXN1ZjV3OEVaZEE4ZzFuakRqQlhpN0JBOTVhazFsLUpTdEVvRVN0aldXOGd1dmg0LV8zWWR0bEtlZy05LVRBVHhnRHQyTkNrelNTUWM1NWlBZkQydks5S1BZVEFNeXE3ODlBREdWY05oSXk5QVczcnVBUHM3cFdTQk02QWJ3Q3VqM2phb1JJM04",
+      "source": "TKS.RU",
+      "published_at": "2026-10-15T08:13:45+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "«Ростелеком» предлагает создать в РФ центр обработки данных судного дня",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE16aUNfWWZDNVlXV0R5SE5EUU1meFVQdlRMcl8wUE1hbHoteGdjTm0zMVZZcUJZNG9ZMW1lc0NfVXg1TGF2NERJUjliQkXSAUxBVV95cUxNemlDX1lmQzVZV1dEeUhORFFNZnhVUHZUTHJfMFBNYWx6LXhnY05tMzFWWXFCWTRvWTFtZXNDX1V4NUxhdjRESVI5YkJF?oc=5",
+      "source": "DK.RU",
+      "published_at": "2026-10-15T05:53:00+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС обеспечит связью труднодоступные и малонаселенные территории Камчатки",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVkIxMm9vdndUeVZ4M2JPU09nek1MM19WUHI2TUYwakM4d2pDS2M0Y1d3QTNnOWxINXlhU1plcjdzR21HV0ozWGtibVNRanV0RWJJRUpac21WTDZZTGhILUhYenpoZ3R1WDFWLVBnUkpWNHRHUlVzSi1kbFNLWkdoOHRReXdtYTQ?oc=5",
+      "source": "CNews.ru",
+      "published_at": "2026-10-15T05:05:04+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС признан самым технологически развитым оператором связи в России",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9saHBzQjRnZGVZMnRoSTk2MVRLR0VhLWVmYlJONi00QVlTUGhybEtWaHNjTUJpSnpsVmZMMmEtSzdlZXZlbTVXTHRmYnRZVWpnTXBEYkdPaVBkTU15YmRyRTBCanhJZEE?oc=5",
+      "source": "IT Channel News",
+      "published_at": "2026-10-14T21:00:00+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "«Ростелеком» предложил создавать ЦОДы «судного дня»",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRHhra29CUk95QXJlZWtxTGdVbEZkVGNnd3NVR2ZReU5TUkNWN3BicVM2NUVrcWFINGRNMnBFM0YtZXlocnRycEQxcThYS0U0ZHc4blRqNHpybmhsbWxKQ1RGdjhRc3FNNEVIbGE0eGUzMXVrMXRlLVc5WTJ2WmVkRzY3OVNpVzJaaHZFeW1IT091dU9jb0NTbHR1dlNaVlZkVVN",
+      "source": "Вёрстка",
+      "published_at": "2026-10-14T18:40:50+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "В \"Ростелекоме\" заявили о необходимости ЦОДов \"судного дня\"",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzZl9fQ2UwMHFNeTdIOUR6ZHZVdWREYmFUZ2RWaFhjRTNpTUQ4Z1oyUGlrZE9ING5DVWJTUGYtNHBhcmZQVktrRW41Z2lyRTjSAUtBVV95cUxQdGx0Z3N0VU1idFI3eHRPRkxfMFJ5Zi1KWldja2dUSS1iay11eGhlVVVTWjJXZ3BUVDgtMHhDY2t3T054ekZoQTg5U1k?oc=5",
+      "source": "Интерфакс",
+      "published_at": "2026-10-14T14:38:00+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "«Ростелеком» признал перегрузку магистральной сети России и предложил создавать «ЦОДы судного дня» после атак на «Яндекс»",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFB0dEY1MUM0bmhCYlU4NXUyOGNDOVk1b3BVNWFBMG1jcUxzTkY2SzVnOGg1cTBLTEFWaEl6aEtxV3drVWc?oc=5",
+      "source": "The Insider",
+      "published_at": "2026-10-14T13:55:17+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "Почему дата-центры оказались так уязвимы перед атаками дронов? Могли ли «Яндекс» и «Сбер» предотвратить эти удары?",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQUR5SldYaDE3VXRjeXFQYk4yWnVrVmZPajZjdDlsdF9SY3FxaU84TUhXNmxocE1lOUxYc2lLYlVVN0FVNzRTWEVHNGxLOTRwbWRYck56aWYxLVdDRU5XNnZnZkJoRTlCNFJVZDZXZmU3UTFhWi04dldSTS1XbVBHR1NtWnVqeWFMT1NvaUxXUXJFblFBSEpabl9Fb2NVcWlFUjV",
+      "source": "Meduza",
+      "published_at": "2026-10-14T10:01:00+00:00"
+    },
     {
       "category": "telecom",
       "title": "Крупные телеком-операторы предложили малым провайдерам «отдаться» в обмен на долю выручки",
@@ -12,11 +68,25 @@
       "published_at": "2026-10-13T20:17:00+00:00"
     },
     {
+      "category": "telecom",
+      "title": "«Большая четверка»: о демпинге и регулировании MVNO-операторов",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcEpJMDMwUkpPZDF5Wk83T3Z6d2RJLUpjdXZUdTJ5REZRZjN2TXNmeDRHbFlLbEpfcEhMQXBNaXNJTExuNkN0OG5hVDkwYUVzLU45Z3drNlVNNlFnVXNQYmJhSWpSU3JKTnVLdlFOcFVaWVFXcF81aXMzV2pMMUlMelFVZk5zZFZ0WklVSlJNTUh3WVBEMnNlTXhKOWRGWEFocHd",
+      "source": "TelecomDaily",
+      "published_at": "2026-10-13T19:55:59+00:00"
+    },
+    {
       "category": "mts",
       "title": "МТС усилила связь в одном из старейших поселений в Чувашии",
       "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5fcGptTlRSTWtHTHlxamFiYUY0OGFOMGVqOE5nMnMydUVjNVZZV2kxV1hMa2dsdFdUTWdJVE5qcUY?oc=5",
       "source": "PG21.RU",
       "published_at": "2026-10-13T12:46:30+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Мобильная связь на новых территориях России: объясняем, как работает",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb2RFbDdwOVY3WlZwODM4dXptNHQ3QVFCUWlNeXc1T2VpTEtzTDVjNG1wYmNOWHVfZDRpUkdOUmxUN3BHZGt1ekxzOFB2WWF5YzBXT3BvTmZaU2FKV0RmaXdobTZ2ZlJJeFl3Z2UxQmFTajFZelFmNi1rekdiZVRwcHhpV3RZLXc4YkNjUXlreHU?oc=5",
+      "source": "ВФокусе Mail",
+      "published_at": "2026-10-13T09:00:00+00:00"
     },
     {
       "category": "telecom",
@@ -33,25 +103,18 @@
       "published_at": "2026-10-13T06:25:00+00:00"
     },
     {
-      "category": "infrastructure",
-      "title": "«Нонсенс для лидера Рунета!»: горькие уроки для бизнеса после атак на «Яндекс»",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkUVVwdHZ2bzktTUt3ZTg1RU5Xc0tMbmpQQ1htQ2ZFTTV2NGp4dkRiUHZkU0lnUk8zMkNhcDBGU2NuUFBMNkZseHZfQWJmbU9obHVj0gFTQVVfeXFMUGRRVXB0dnZvOS1NS3dlODVFTldzS0xualBDWG1DZkVNNXY0anh2RGJQdmRTSWdSTzMyQ2FwMEZTY25QUEw2Rmx4dl9BYmZ",
-      "source": "БИЗНЕС Online — Новости Казани",
-      "published_at": "2026-10-13T05:00:00+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС Exolve наращивает инфраструктурные мощности",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRjR2NGV4MFIxaEdIaHgyREw4eVdlWGhqc2s5RXFNYzJweFNMV1lSSDZBSkRIaS1DZ1dSeTIwTnpsN3RTSkZtRDNiekNKMy1yS2owdkowSmdaZWhzR2NMdzVBWU5EZ1VVZjR5QVhyZ3pTd0xWdGsxR0p5dXFXN1kzTlk2UGxlYk9yQXJhTzlxWnNUSFhBQ3VsQg?oc=5",
-      "source": "TelecomDaily",
-      "published_at": "2026-10-12T10:47:35+00:00"
-    },
-    {
       "category": "telecom",
       "title": "Дешевой мобильной связи не останется. Виртуальных сотовых операторов отрегулируют, чтобы не демпинговали",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mTEpwWVplVHBxRmRoU2E3a1VpRlpoTFppa3hlWUh5V1RPNXJWVXFDMk9wSUJuZmJVaGxFS191SWtvVUtaLXFhaUFMUndQTTVfRXFhMFVsRlFDREJScHJ2a0k4RFk4M29PaTZ4QzQtdUZEUlU?oc=5",
       "source": "CNews.ru",
       "published_at": "2026-10-12T09:41:46+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "максимальные скорости в сетях 5G диапазона n79 достигли 1,5 Гбит/с",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMFlRWnRkS0VYaDZPcm01VHpVamdmdEkyWlJGUFRWaTlqWDVnYkV0R2RHOWkzU0N3QWJkUEc1ZUdOLWpNeTR3MGswWEtQTGc0LWJBc1BSSE5sTUpOSGJvM3hVVUJFOXl5VElmb1YwQjBFbEROQzdUNnJHR1FFc1JveUFLWU9MZFdqbzMyTXl6dk0tMHFuUmZ4T0N3cHlBOHRXcmh",
+      "source": "TelecomDaily",
+      "published_at": "2026-10-12T05:00:00+00:00"
     },
     {
       "category": "mts",
@@ -66,69 +129,6 @@
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQajFQRHl4YjFrTElBWlhUYnJqODd5WE1JOW90dnhiM0ZvNVdhbnJnRGJjX0FLVEF3a2MxQTJBTlNscXNXWUhISHhrbWxDZWFiWjdaTzRTU1BMSFRMSkM1T0owa0w5R1BsQThwNnZHckxuUFYzeE1XM2xsWVBVM1hXaTZubUNGNVV4djFWbEQwX1RWdHEwQXd4aWs1VzlPOUZkd0h",
       "source": "ComNews.ru",
       "published_at": "2026-10-12T00:00:01+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "максимальные скорости в сетях 5G диапазона n79 достигли 1,5 Гбит/с",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMFlRWnRkS0VYaDZPcm01VHpVamdmdEkyWlJGUFRWaTlqWDVnYkV0R2RHOWkzU0N3QWJkUEc1ZUdOLWpNeTR3MGswWEtQTGc0LWJBc1BSSE5sTUpOSGJvM3hVVUJFOXl5VElmb1YwQjBFbEROQzdUNnJHR1FFc1JveUFLWU9MZFdqbzMyTXl6dk0tMHFuUmZ4T0N3cHlBOHRXcmh",
-      "source": "TelecomDaily",
-      "published_at": "2026-10-11T23:31:23+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "Атака на Сасовский ЦОД «Яндекса» привела к сбоям Yandex Cloud, «Циана», «Мострансавто»",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWGpNYTNBdTlUV1plc3VMWTZqSWV2MFU3a3kwM0ZvYWtBaXRDaVpneU5ZbTk2TmNpRzVvYW9hNTZ1SE8zY2twQW5sSW5MSmRtRk5CM1NMSFo1eWVGc3c1UmlVUkV1VzdzNm9BY1dCdGxLRm9DS2VNYUJnY2gxZnR6Mm5HRDQ1RllRYmFmbkUzeFJXU3FQVzZNdVNJLS1hSmZxTHJ",
-      "source": "RUБЕЖ",
-      "published_at": "2026-10-09T08:23:20+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Это не шутка. Минцифры впервые публично рассказало о планах реформы лицензирования в телекоме",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQd2NqdEI3NEtVNXZReE9mWmNJODV4UUtCbmROSlpTZXpSU1FtVmNpQ0pFcUxzTmNHUWx2RGo3X2lzTFB0ZzNBQmQzTUV0bHhmUmdpOE1OWmxTM0hzR0dBZlBUWmZiVmtHc3c3M1BNZkdiSjRyME4tcXdYckZ5a3BnV3dEdHBsZGhoSnQwUS0zeFlzY2NlbHhPSGR5UEFCRXNXcW9",
-      "source": "ComNews.ru",
-      "published_at": "2026-10-08T23:42:06+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Операторы заявили, что банковские мобильные операторы разрушают телеком-рынок",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ETUFWMkxLYnNRYmZPUW9XRTUyc292d2NsMXdUS2NTc3BSNDNQWERBVnFCd0NRUjV5SFQ2aExyOGdsTllvTzZDMmNwSEpkeFVjcXfSAUtBVV95cUxOal8yVk9ObHB3ZDZDVTRsWFB3c2R0a1ZiWW1JdmpaMTV4Q2RwREtRMDlaQ2dpSVVCNnNaN1NjY21haTlhZ09rWi02b0k?oc=",
-      "source": "Интерфакс",
-      "published_at": "2026-10-08T14:45:00+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "«Ростелеком» запустил ТрансЕврАзийскую волоконно-оптическую линию TEA NEXT",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTWNXNTFTcmpackZVWXBVNFc3RTNFZ1A5NHVwUDY0NHhab2FHdlZxNWRwLXViNmh1OW92TWpqdHNKNkZBT3ZsNUZfVTZPNkVWdjJDOGdzaVBYdElBcUthbl9iX2x3Tmh0YXkxVF9DMHI2b0ZRTk56QnVzVkJEWHhxMEt3ZkVRTTBabkIyajcyVXpqYmVMdXJnbURhZGR6R3pOdlN",
-      "source": "РИА Калмыкия",
-      "published_at": "2026-10-08T13:00:32+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Доверие к связи: как будет развиваться российский телеком",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSm5rQWZLTURBcmV5c0VhTEFQOUp3QUowYWlxYWxmM3pNZmdJVWVOU09CeDlTQkwwVXFwc3ZkSlhibmQxV2xwb0JaVURpSGtyLWxTNG1SZkVaTEotNWFaSEU2RlJvZ2gxaENGVTVKVHRCNVhtMUVKUFZ4ZlFXN1hHa0t4aUxqNTFIME8wdjJJcUF4SXFmT1FjWXhJaUNLQ2l5RVN",
-      "source": "Национальные проекты России",
-      "published_at": "2026-10-08T12:19:50+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "Украинские БПЛА атаковали ЦОД «Яндекса».",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9DRnBXOG5fNzdHSzZ5TVM1dG83UXppUm9JTFcxRWp6b3Zhblc0M0FWcGNVUENBTXZLMUZIZUhKSXNldEdGNGFYSw?oc=5",
-      "source": "Runet.news",
-      "published_at": "2026-10-08T11:07:24+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС поможет обеспечить связью отдаленные и труднодоступные улусы Якутии",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblB4VTQ1ejAyaFFFekJmdHI1bEFxSGhhYUNZXzBaWTJ2eUhTZG53cWxvTjloQWwtTG5vV0FuMDVXd1lRSHhtdkR0akU5MmcxODNhSm5rRGpkV1BncHJ5V0wtYXA1US1mejNHQVVwb0FpUXVMQzZPNE9RZHp6al9ySU9ZOXQxUDZ4RFpXRV9STGNrVWNvdnc?oc=5",
-      "source": "ЯСИА",
-      "published_at": "2026-10-08T08:17:54+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС поможет обеспечить связью труднодоступные территории Магаданской области",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLWs0TV9GeEgyZENvcUZiTG9WOEhmZzJ1YUNtQ3BVYVM5THdTRlJqYWRsU2pEWXRNSUdEWVlyZnl2NjRvbUQ4bmRQS3JFaHA1cmg3M2tuMThMY1lVZFJ1LWZWMTVmRjE0SHBZWG5yN2RJbHBYdVNPa2JubXY0M3dsc28yZ2UzMHdwUm56dDBQU1ZBWURjaXJfU0R5UFJGMnY0SEt",
-      "source": "Kolyma.ru",
-      "published_at": "2026-10-08T06:14:58+00:00"
     }
   ]
 }
