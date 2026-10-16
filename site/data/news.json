@@ -1,9 +1,51 @@
 {
   "version": 1,
-  "generated_at": "2026-10-15T09:07:35+00:00",
+  "generated_at": "2026-10-16T08:59:40+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
+    {
+      "category": "mts",
+      "title": "МТС начинают собирать технологические решения для задач бизнеса",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdWxXdkFSckZacVVybnNEU19tcTA3ckJmXzJZRWY5UkF4VzR5eDF2QUQ0TWlqZUgwMG9BWERXSzg4aHI0dlg0M2hZdjR4S2h5cGNyNGU2RUtEblVfNldlVjdLVUVjUzR0WXFnWkxISC01NkY3bkVTYUtBdXUwZkhDa28tWlRuSHJuZmtsX0pPNExWU2N5VkVLWWdIQQ?oc=5",
+      "source": "AKM.RU",
+      "published_at": "2026-10-15T15:31:53+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "Жителям Мценска Орловской области стал доступен гигабитный интернет МТС",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10LXlHQjd0VXBxMzREV21GeHNJTURicTJIbjZqUzMyVHVRT3FIWHhkOE5YbUItNGJISjJ3S0VmYS1Jbzdtc1BlY2NEX1dlWFp5Z245MzN1S1NMNENxNEp2X0x0a2Nzcy02Qjhwb1RDOW1sTWZmV05tZFBR?oc=5",
+      "source": "CNews.ru",
+      "published_at": "2026-10-15T13:54:34+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "Югра располагает профицитом мощности и необходимой инфраструктурой для размещения ЦОДов - губернатор",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdVdTNUozLXliN0VKcHBHcTdsdW1nLVB4ZG0tcWU1SGtnUTlpZUVTV3MyV05TdHlLMEE3MVlLcGFTcTc1WEk5YzVkUC1JMUxBSjdqZURJR0FzUkw2dktOMXdMM1diR2JmdUlFY0tQaU1kQTJ1TkpFdnpnX1Z4OEhqUXk5STcyRUliZ29FemtJUC1IWURJNHJDQzFhamJOeWlYaHl",
+      "source": "Интерфакс Россия",
+      "published_at": "2026-10-15T11:23:55+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "Как и почему мы проектировали последнее коммерческое облако России и от какого буллшита избавились по ходу",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TNGIxNVJpeWtIT2hGdzFJWXRSYlhZUDRZdEtnWkxhSWd5UV9ZUExOS1JzYVJoNUNrUVlRc2RMMTFlNUE3eWRvNjk5OTRGRGpVb0F1dTA5Y9IBV0FVX3lxTE1TNGIxNVJpeWtIT2hGdzFJWXRSYlhZUDRZdEtnWkxhSWd5UV9ZUExOS1JzYVJoNUNrUVlRc2RMMTFlNUE3eWRvNjk",
+      "source": "Хабр",
+      "published_at": "2026-10-15T11:01:11+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Назван телеком-оператор, обеспечивающий самое широкое покрытие 5G в регионах РФ",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9QNmZURVhmUnFGNVBTLW5zME5ia3BxSWtyVk92b0pIV3N3TW1EWTZURTdYdWVkcHIzSjh4YUUyNjlwVjBhVUpiTmY1Y9IBS0FVX3lxTE9QNmZURVhmUnFGNVBTLW5zME5ia3BxSWtyVk92b0pIV3N3TW1EWTZURTdYdWVkcHIzSjh4YUUyNjlwVjBhVUpiTmY1Yw?oc=5",
+      "source": "DK.RU",
+      "published_at": "2026-10-15T10:51:00+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "Сети 5G заработали уже в 35 городах России — больше всех охватил МТС",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZzd3d3I4TDRzVUsxaHpSdi02TU5IVV9vc1VSd21xZkRJcTlNUmp0QzVUQ2pCX3p0OHhOY3F5bmxpWGpmd05mSXBOVUNtQ2d5YnlBS3BOMFlBaExxNDk5SnpHWXppc1ZpRWRNMEFZSTZScW5tLUx5dGVla0M4Q0FDVWExeXFUaXc0ejAxTHozWTBlTy0wQV800gGcAUFVX3lxTE9",
+      "source": "3DNews",
+      "published_at": "2026-10-15T08:37:00+00:00"
+    },
     {
       "category": "infrastructure",
       "title": "В России предложили создать резервные дата-центры на случай масштабных аварий",
@@ -17,13 +59,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE16aUNfWWZDNVlXV0R5SE5EUU1meFVQdlRMcl8wUE1hbHoteGdjTm0zMVZZcUJZNG9ZMW1lc0NfVXg1TGF2NERJUjliQkXSAUxBVV95cUxNemlDX1lmQzVZV1dEeUhORFFNZnhVUHZUTHJfMFBNYWx6LXhnY05tMzFWWXFCWTRvWTFtZXNDX1V4NUxhdjRESVI5YkJF?oc=5",
       "source": "DK.RU",
       "published_at": "2026-10-15T05:53:00+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС обеспечит связью труднодоступные и малонаселенные территории Камчатки",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVkIxMm9vdndUeVZ4M2JPU09nek1MM19WUHI2TUYwakM4d2pDS2M0Y1d3QTNnOWxINXlhU1plcjdzR21HV0ozWGtibVNRanV0RWJJRUpac21WTDZZTGhILUhYenpoZ3R1WDFWLVBnUkpWNHRHUlVzSi1kbFNLWkdoOHRReXdtYTQ?oc=5",
-      "source": "CNews.ru",
-      "published_at": "2026-10-15T05:05:04+00:00"
     },
     {
       "category": "mts",
@@ -54,13 +89,6 @@
       "published_at": "2026-10-14T13:55:17+00:00"
     },
     {
-      "category": "infrastructure",
-      "title": "Почему дата-центры оказались так уязвимы перед атаками дронов? Могли ли «Яндекс» и «Сбер» предотвратить эти удары?",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQUR5SldYaDE3VXRjeXFQYk4yWnVrVmZPajZjdDlsdF9SY3FxaU84TUhXNmxocE1lOUxYc2lLYlVVN0FVNzRTWEVHNGxLOTRwbWRYck56aWYxLVdDRU5XNnZnZkJoRTlCNFJVZDZXZmU3UTFhWi04dldSTS1XbVBHR1NtWnVqeWFMT1NvaUxXUXJFblFBSEpabl9Fb2NVcWlFUjV",
-      "source": "Meduza",
-      "published_at": "2026-10-14T10:01:00+00:00"
-    },
-    {
       "category": "telecom",
       "title": "Крупные телеком-операторы предложили малым провайдерам «отдаться» в обмен на долю выручки",
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9oTmNSbkhZYnA1MFlZb19lNk8xUlVlS0dxUlR1MExTWGlWakN2bF9sa1dNOVJ5MlpHY0NrWENwV0VnODQ?oc=5",
@@ -69,10 +97,10 @@
     },
     {
       "category": "telecom",
-      "title": "«Большая четверка»: о демпинге и регулировании MVNO-операторов",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcEpJMDMwUkpPZDF5Wk83T3Z6d2RJLUpjdXZUdTJ5REZRZjN2TXNmeDRHbFlLbEpfcEhMQXBNaXNJTExuNkN0OG5hVDkwYUVzLU45Z3drNlVNNlFnVXNQYmJhSWpSU3JKTnVLdlFOcFVaWVFXcF81aXMzV2pMMUlMelFVZk5zZFZ0WklVSlJNTUh3WVBEMnNlTXhKOWRGWEFocHd",
-      "source": "TelecomDaily",
-      "published_at": "2026-10-13T19:55:59+00:00"
+      "title": "Слабых добьют, сильные поделят рынок. Российский телеком готовится к большой зачистке",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPRzhxY3lVZlJPN0JoeUlLZWtsOFlGQTdac3dRdzZhN3U2MzdQZV9RWWtyRUJ4UE1fS2NyZjhlM1EzOGY1eHJvdUJPMGVJdkVnN0hDMw?oc=5",
+      "source": "SecurityLab.ru",
+      "published_at": "2026-10-13T18:05:49+00:00"
     },
     {
       "category": "mts",
@@ -90,17 +118,10 @@
     },
     {
       "category": "telecom",
-      "title": "«Ростелеком» предложил небольшим региональным операторам передать ему своих абонентов, а взамен снять с них расходы на СОРМ",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVTd1ZTlpWHNFN04zRFR0M0lOb2FYbU4zaVVsQWkwWGFBQldZbV9McFdoLVJhQ3d0WEItel8tdnQxdkQxQ0c5MjJRX3dxa25MenZub241dk9xbmppZWgwblVUOFRha05iQW9TcUZqdlJPOEd6Rm5UOVN4Q0t0cmpQOXRJVlFuc0t2N0FEV1RaYzNlckNNQ3lmR18tTXBjcGREUk1",
-      "source": "Meduza",
-      "published_at": "2026-10-13T06:30:00+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "Компания МТС разогнала LTE на ключевой промышленной магистрали Ульяновска",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNmZENll3Wm55ODBlNHJyXzNESWJLYi1xYmdzVXROR0R1V3R2LVpyMk1vaU9aZGlkZF9FV0E3Ym1xR0paZ05ZellBemhlUHRaN0FxamVJTGZnWDNmZ3dXZjFOUHZOMW8zWHNpUzhCZDRfUVZuQmtlbF9oX1MxRmtSNjNRa3NQazhlTzVKdHNjMU5ZODkzQUM2aDI3Z2VBWElBcGR",
-      "source": "73online.ru",
-      "published_at": "2026-10-13T06:25:00+00:00"
+      "title": "«Большая четверка»: о демпинге и регулировании MVNO-операторов",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcEpJMDMwUkpPZDF5Wk83T3Z6d2RJLUpjdXZUdTJ5REZRZjN2TXNmeDRHbFlLbEpfcEhMQXBNaXNJTExuNkN0OG5hVDkwYUVzLU45Z3drNlVNNlFnVXNQYmJhSWpSU3JKTnVLdlFOcFVaWVFXcF81aXMzV2pMMUlMelFVZk5zZFZ0WklVSlJNTUh3WVBEMnNlTXhKOWRGWEFocHd",
+      "source": "TelecomDaily",
+      "published_at": "2026-10-13T08:16:28+00:00"
     },
     {
       "category": "telecom",
@@ -108,27 +129,6 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mTEpwWVplVHBxRmRoU2E3a1VpRlpoTFppa3hlWUh5V1RPNXJWVXFDMk9wSUJuZmJVaGxFS191SWtvVUtaLXFhaUFMUndQTTVfRXFhMFVsRlFDREJScHJ2a0k4RFk4M29PaTZ4QzQtdUZEUlU?oc=5",
       "source": "CNews.ru",
       "published_at": "2026-10-12T09:41:46+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "максимальные скорости в сетях 5G диапазона n79 достигли 1,5 Гбит/с",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMFlRWnRkS0VYaDZPcm01VHpVamdmdEkyWlJGUFRWaTlqWDVnYkV0R2RHOWkzU0N3QWJkUEc1ZUdOLWpNeTR3MGswWEtQTGc0LWJBc1BSSE5sTUpOSGJvM3hVVUJFOXl5VElmb1YwQjBFbEROQzdUNnJHR1FFc1JveUFLWU9MZFdqbzMyTXl6dk0tMHFuUmZ4T0N3cHlBOHRXcmh",
-      "source": "TelecomDaily",
-      "published_at": "2026-10-12T05:00:00+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "Рейтинг технологичности российских операторов возглавил МТС",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9GbWdPVEo4Z2xqVVBRMUF0SGNZcDJ4VW9UazAxQWFFanh1cE9JV3lXSHBmLXZRWUwtRk1ZQldRb0hnVTVIYmfSAVpBVV95cUxNci1Ga2h5eVdUN1NYZGxRV1FBQ01ZNGEwZlk5eEtYUHc5c2RmUllkaHpIZUllaE5uNXhodC0yMzRqVUVVUXEyVXEtd0ZZbGRBLW5XYUxqMkhDN3c",
-      "source": "Newslab",
-      "published_at": "2026-10-12T03:40:00+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "Хоть под землю провались. Что предпринять \"Яндексу\" и другим владельцам ЦОД для защиты от БПЛА",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQajFQRHl4YjFrTElBWlhUYnJqODd5WE1JOW90dnhiM0ZvNVdhbnJnRGJjX0FLVEF3a2MxQTJBTlNscXNXWUhISHhrbWxDZWFiWjdaTzRTU1BMSFRMSkM1T0owa0w5R1BsQThwNnZHckxuUFYzeE1XM2xsWVBVM1hXaTZubUNGNVV4djFWbEQwX1RWdHEwQXd4aWs1VzlPOUZkd0h",
-      "source": "ComNews.ru",
-      "published_at": "2026-10-12T00:00:01+00:00"
     }
   ]
 }
