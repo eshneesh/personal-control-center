@@ -1,9 +1,23 @@
 {
   "version": 1,
-  "generated_at": "2026-10-16T08:59:40+00:00",
+  "generated_at": "2026-10-17T08:32:02+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
+    {
+      "category": "telecom",
+      "title": "Операторы потратили около 1 млрд ₽ на рекламу 5G — телевидение стало главным каналом продвижения",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdmcyRUtWcWZ5Q1dsYVo0MFVaWTlJbENMeU03QWlGelNSR3dSSkUxYzJiRXB1Nklub1UtaGczNDk0QWlhMmFJbFh2VGZxOE9tWUpaNTBQUE0zU2d5VUlTRFlsMGV1c3MwUmtlNFFWUXYwVFVLM2VLemZCMlFBYWhvWDU1T2cxdDZzUDFFRG9YaDlnTnd0eHBpRFVIbXBTZjkyUEt",
+      "source": "RB.RU",
+      "published_at": "2026-10-16T10:15:00+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Операторы связи вложили почти миллиард рублей в 5G на ТВ",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WTk85UGtZNDRZTjlEeXRLUTZjc0hTdGZSSmgyM1p5WWEwWlhZb0EtNVZiYTVTYlVOQlBZN3JqWjJtQ3ExbkVEM3dmY3BUVHowYUw3MHVMSnk3WHJSRjNYdFRGY2d5OUHSAWxBVV95cUxPTllkdWdMRnBPX2UySnlUMHdFVTlHckdxSXliYUp2WTJNSERNbVF1dEdoaHE0UVgyVEJ",
+      "source": "Anti-Malware.ru",
+      "published_at": "2026-10-16T07:46:29+00:00"
+    },
     {
       "category": "mts",
       "title": "МТС начинают собирать технологические решения для задач бизнеса",
@@ -12,18 +26,18 @@
       "published_at": "2026-10-15T15:31:53+00:00"
     },
     {
+      "category": "infrastructure",
+      "title": "6 крупнейших в России операторов дата-центров",
+      "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxNanJTWl9ucFZqejVjR0U4RkJvcXc1TE9laFFlM1d3U0NKX3ZZeW5wd2ZtY3J3aWh2TGlFN2xiczFUamNDSWZaNDY5ZFlUM0RFakt3T2xnd1IzMUprdHBiMXotNGl5Nk1jM25pTGVUUFVWZkNxRmRMWUh1TEptSEc4M21qTlFMYURIYUpjeGlfdU1nVk5heTJpY3RZaDExUXhvV2J",
+      "source": "TAdviser",
+      "published_at": "2026-10-15T14:17:09+00:00"
+    },
+    {
       "category": "mts",
       "title": "Жителям Мценска Орловской области стал доступен гигабитный интернет МТС",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10LXlHQjd0VXBxMzREV21GeHNJTURicTJIbjZqUzMyVHVRT3FIWHhkOE5YbUItNGJISjJ3S0VmYS1Jbzdtc1BlY2NEX1dlWFp5Z245MzN1S1NMNENxNEp2X0x0a2Nzcy02Qjhwb1RDOW1sTWZmV05tZFBR?oc=5",
       "source": "CNews.ru",
       "published_at": "2026-10-15T13:54:34+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "Югра располагает профицитом мощности и необходимой инфраструктурой для размещения ЦОДов - губернатор",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdVdTNUozLXliN0VKcHBHcTdsdW1nLVB4ZG0tcWU1SGtnUTlpZUVTV3MyV05TdHlLMEE3MVlLcGFTcTc1WEk5YzVkUC1JMUxBSjdqZURJR0FzUkw2dktOMXdMM1diR2JmdUlFY0tQaU1kQTJ1TkpFdnpnX1Z4OEhqUXk5STcyRUliZ29FemtJUC1IWURJNHJDQzFhamJOeWlYaHl",
-      "source": "Интерфакс Россия",
-      "published_at": "2026-10-15T11:23:55+00:00"
     },
     {
       "category": "infrastructure",
@@ -96,13 +110,6 @@
       "published_at": "2026-10-13T20:17:00+00:00"
     },
     {
-      "category": "telecom",
-      "title": "Слабых добьют, сильные поделят рынок. Российский телеком готовится к большой зачистке",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPRzhxY3lVZlJPN0JoeUlLZWtsOFlGQTdac3dRdzZhN3U2MzdQZV9RWWtyRUJ4UE1fS2NyZjhlM1EzOGY1eHJvdUJPMGVJdkVnN0hDMw?oc=5",
-      "source": "SecurityLab.ru",
-      "published_at": "2026-10-13T18:05:49+00:00"
-    },
-    {
       "category": "mts",
       "title": "МТС усилила связь в одном из старейших поселений в Чувашии",
       "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5fcGptTlRSTWtHTHlxamFiYUY0OGFOMGVqOE5nMnMydUVjNVZZV2kxV1hMa2dsdFdUTWdJVE5qcUY?oc=5",
@@ -110,25 +117,18 @@
       "published_at": "2026-10-13T12:46:30+00:00"
     },
     {
+      "category": "mts",
+      "title": "МТС запустила оплату товаров по QR-коду в Колумбии и Аргентине",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY3NGTEctMGRwdDhuMjA0QXBiY0VXbEJWeHVhaVZJdElOalpiVzJLU1JfMkRQNjFCenpsVy1oem9qbjl0bUt6ck4yRm16cHZ4S1RmT2FzOWdGMVRBZWwyRGRhalRSMDkxVnJoU2xUQmZEem04SkpacmFOcTVZeTljcURKNkpRY2lwN1VTNGc4eURXdFNvTWlLeXFhVElOeGQ2VjJ",
+      "source": "TelecomDaily",
+      "published_at": "2026-10-13T12:04:41+00:00"
+    },
+    {
       "category": "telecom",
       "title": "Мобильная связь на новых территориях России: объясняем, как работает",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb2RFbDdwOVY3WlZwODM4dXptNHQ3QVFCUWlNeXc1T2VpTEtzTDVjNG1wYmNOWHVfZDRpUkdOUmxUN3BHZGt1ekxzOFB2WWF5YzBXT3BvTmZaU2FKV0RmaXdobTZ2ZlJJeFl3Z2UxQmFTajFZelFmNi1rekdiZVRwcHhpV3RZLXc4YkNjUXlreHU?oc=5",
       "source": "ВФокусе Mail",
       "published_at": "2026-10-13T09:00:00+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "«Большая четверка»: о демпинге и регулировании MVNO-операторов",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcEpJMDMwUkpPZDF5Wk83T3Z6d2RJLUpjdXZUdTJ5REZRZjN2TXNmeDRHbFlLbEpfcEhMQXBNaXNJTExuNkN0OG5hVDkwYUVzLU45Z3drNlVNNlFnVXNQYmJhSWpSU3JKTnVLdlFOcFVaWVFXcF81aXMzV2pMMUlMelFVZk5zZFZ0WklVSlJNTUh3WVBEMnNlTXhKOWRGWEFocHd",
-      "source": "TelecomDaily",
-      "published_at": "2026-10-13T08:16:28+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Дешевой мобильной связи не останется. Виртуальных сотовых операторов отрегулируют, чтобы не демпинговали",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mTEpwWVplVHBxRmRoU2E3a1VpRlpoTFppa3hlWUh5V1RPNXJWVXFDMk9wSUJuZmJVaGxFS191SWtvVUtaLXFhaUFMUndQTTVfRXFhMFVsRlFDREJScHJ2a0k4RFk4M29PaTZ4QzQtdUZEUlU?oc=5",
-      "source": "CNews.ru",
-      "published_at": "2026-10-12T09:41:46+00:00"
     }
   ]
 }
