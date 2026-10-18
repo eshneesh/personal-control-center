@@ -1,29 +1,36 @@
 {
   "version": 1,
-  "generated_at": "2026-10-17T08:32:02+00:00",
+  "generated_at": "2026-10-18T08:49:34+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
     {
       "category": "telecom",
+      "title": "В 27 регионах России могут полностью исчезнуть местные интернет-провайдеры",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVC0yTXNxbi1TZ3Z5M1FSVkVoN0JxbHRXNHowSkd3cDNpd0dSbXdMZW16dVMxS240YUg3WDkzUS1CQVBvRmFTRWlWRmZtMFRoSGtQbTdKNkxld2xXN1JDTnNyNERCWXlscnhSMFZBNE9VVU5MYk5DN3FVWkxSbUhxRzhzdS0yeTFqamNQWmRwTFc5ZndLV09qYmlpVzVFOC1MV0Z",
+      "source": "KVnews.ru",
+      "published_at": "2026-10-18T05:30:00+00:00"
+    },
+    {
+      "category": "telecom",
       "title": "Операторы потратили около 1 млрд ₽ на рекламу 5G — телевидение стало главным каналом продвижения",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdmcyRUtWcWZ5Q1dsYVo0MFVaWTlJbENMeU03QWlGelNSR3dSSkUxYzJiRXB1Nklub1UtaGczNDk0QWlhMmFJbFh2VGZxOE9tWUpaNTBQUE0zU2d5VUlTRFlsMGV1c3MwUmtlNFFWUXYwVFVLM2VLemZCMlFBYWhvWDU1T2cxdDZzUDFFRG9YaDlnTnd0eHBpRFVIbXBTZjkyUEt",
-      "source": "RB.RU",
+      "source": "RB.ru",
       "published_at": "2026-10-16T10:15:00+00:00"
     },
     {
       "category": "telecom",
       "title": "Операторы связи вложили почти миллиард рублей в 5G на ТВ",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WTk85UGtZNDRZTjlEeXRLUTZjc0hTdGZSSmgyM1p5WWEwWlhZb0EtNVZiYTVTYlVOQlBZN3JqWjJtQ3ExbkVEM3dmY3BUVHowYUw3MHVMSnk3WHJSRjNYdFRGY2d5OUHSAWxBVV95cUxPTllkdWdMRnBPX2UySnlUMHdFVTlHckdxSXliYUp2WTJNSERNbVF1dEdoaHE0UVgyVEJ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OWWR1Z0xGcE9fZTJKeVQwd0VVOUdyR3FJeWJhSnZZMk1IRE1tUXV0R2hocTRRWDJUQm4xZzdGdHhyM1Z5Q2VQM0RJZVV3Q2s3YjJvc2l1dEwwbWotT3pKdmlOVlNOaDdFVzczSNIBbEFVX3lxTE9OWWR1Z0xGcE9fZTJKeVQwd0VVOUdyR3FJeWJhSnZZMk1IRE1tUXV0R2hocTR",
       "source": "Anti-Malware.ru",
       "published_at": "2026-10-16T07:46:29+00:00"
     },
     {
       "category": "mts",
-      "title": "МТС начинают собирать технологические решения для задач бизнеса",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdWxXdkFSckZacVVybnNEU19tcTA3ckJmXzJZRWY5UkF4VzR5eDF2QUQ0TWlqZUgwMG9BWERXSzg4aHI0dlg0M2hZdjR4S2h5cGNyNGU2RUtEblVfNldlVjdLVUVjUzR0WXFnWkxISC01NkY3bkVTYUtBdXUwZkhDa28tWlRuSHJuZmtsX0pPNExWU2N5VkVLWWdIQQ?oc=5",
-      "source": "AKM.RU",
-      "published_at": "2026-10-15T15:31:53+00:00"
+      "title": "Жители «Ботаники» получили доступ к гигабитному интернету МТС",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kZ3pUb0R0dUNCbHg2ZUI3UEhRS2piNDM0MGc5LU9OS013TEJVYVRRN1kyempSaGpKcUhpQjNESWZ4bmpzUlpQaS1kazlzaGRTMEJKSHRreW9aMHZJdHdWcDk2bWVPUHM?oc=5",
+      "source": "Сибирское информационное агентство",
+      "published_at": "2026-10-16T04:12:00+00:00"
     },
     {
       "category": "infrastructure",
@@ -75,13 +82,6 @@
       "published_at": "2026-10-15T05:53:00+00:00"
     },
     {
-      "category": "mts",
-      "title": "МТС признан самым технологически развитым оператором связи в России",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9saHBzQjRnZGVZMnRoSTk2MVRLR0VhLWVmYlJONi00QVlTUGhybEtWaHNjTUJpSnpsVmZMMmEtSzdlZXZlbTVXTHRmYnRZVWpnTXBEYkdPaVBkTU15YmRyRTBCanhJZEE?oc=5",
-      "source": "IT Channel News",
-      "published_at": "2026-10-14T21:00:00+00:00"
-    },
-    {
       "category": "infrastructure",
       "title": "«Ростелеком» предложил создавать ЦОДы «судного дня»",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRHhra29CUk95QXJlZWtxTGdVbEZkVGNnd3NVR2ZReU5TUkNWN3BicVM2NUVrcWFINGRNMnBFM0YtZXlocnRycEQxcThYS0U0ZHc4blRqNHpybmhsbWxKQ1RGdjhRc3FNNEVIbGE0eGUzMXVrMXRlLVc5WTJ2WmVkRzY3OVNpVzJaaHZFeW1IT091dU9jb0NTbHR1dlNaVlZkVVN",
@@ -103,6 +103,13 @@
       "published_at": "2026-10-14T13:55:17+00:00"
     },
     {
+      "category": "mts",
+      "title": "МТС включила 5G на территории спорткомплекса «Лужники»",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbzdLNXd1RFJ0ODFfSUVLMW0xX2hqRVV2MVhESmIzZTk0NHhxZU5aT1N4RmJXaS1OOXFwd0tCUWUyWVRMTHZXT1E5eXdSVjl0VzZ2V3BvSzliYTRmTVZDMDJPUFJ4Ny0wMXd4dWRnX3Jxc1ZoQzVxdHZBVUtEeUxIU2dsMWF4N0UzZnh5YUh4M08xSlIwNW51UjBuOA?oc=5",
+      "source": "TelecomDaily",
+      "published_at": "2026-10-14T08:43:14+00:00"
+    },
+    {
       "category": "telecom",
       "title": "Крупные телеком-операторы предложили малым провайдерам «отдаться» в обмен на долю выручки",
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9oTmNSbkhZYnA1MFlZb19lNk8xUlVlS0dxUlR1MExTWGlWakN2bF9sa1dNOVJ5MlpHY0NrWENwV0VnODQ?oc=5",
@@ -111,24 +118,17 @@
     },
     {
       "category": "mts",
+      "title": "Сбои интернета в Красноярске и массовые перебои у МТС",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcDlTdlJTeGZ1MmlRM2NpSk9JZEFmOFhPUi11b3RBTktISllfYzZxYVF6Unp6ZXNuRWFTQ2JLUG9UaHFEUHZNTEhCbHJLN2RDSjlfbW9UZWR2TkpYZk92SGQ0Z25LZ0pjT2lHLVFyNjhsTzl6NlFJYVNoQ3V0eTY5RA?oc=5",
+      "source": "Techora.ru",
+      "published_at": "2026-10-13T15:57:58+00:00"
+    },
+    {
+      "category": "mts",
       "title": "МТС усилила связь в одном из старейших поселений в Чувашии",
       "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5fcGptTlRSTWtHTHlxamFiYUY0OGFOMGVqOE5nMnMydUVjNVZZV2kxV1hMa2dsdFdUTWdJVE5qcUY?oc=5",
       "source": "PG21.RU",
       "published_at": "2026-10-13T12:46:30+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС запустила оплату товаров по QR-коду в Колумбии и Аргентине",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY3NGTEctMGRwdDhuMjA0QXBiY0VXbEJWeHVhaVZJdElOalpiVzJLU1JfMkRQNjFCenpsVy1oem9qbjl0bUt6ck4yRm16cHZ4S1RmT2FzOWdGMVRBZWwyRGRhalRSMDkxVnJoU2xUQmZEem04SkpacmFOcTVZeTljcURKNkpRY2lwN1VTNGc4eURXdFNvTWlLeXFhVElOeGQ2VjJ",
-      "source": "TelecomDaily",
-      "published_at": "2026-10-13T12:04:41+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Мобильная связь на новых территориях России: объясняем, как работает",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb2RFbDdwOVY3WlZwODM4dXptNHQ3QVFCUWlNeXc1T2VpTEtzTDVjNG1wYmNOWHVfZDRpUkdOUmxUN3BHZGt1ekxzOFB2WWF5YzBXT3BvTmZaU2FKV0RmaXdobTZ2ZlJJeFl3Z2UxQmFTajFZelFmNi1rekdiZVRwcHhpV3RZLXc4YkNjUXlreHU?oc=5",
-      "source": "ВФокусе Mail",
-      "published_at": "2026-10-13T09:00:00+00:00"
     }
   ]
 }
