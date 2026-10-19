@@ -1,36 +1,43 @@
 {
   "version": 1,
-  "generated_at": "2026-10-18T08:49:34+00:00",
+  "generated_at": "2026-10-19T09:51:29+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
     {
       "category": "telecom",
-      "title": "В 27 регионах России могут полностью исчезнуть местные интернет-провайдеры",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVC0yTXNxbi1TZ3Z5M1FSVkVoN0JxbHRXNHowSkd3cDNpd0dSbXdMZW16dVMxS240YUg3WDkzUS1CQVBvRmFTRWlWRmZtMFRoSGtQbTdKNkxld2xXN1JDTnNyNERCWXlscnhSMFZBNE9VVU5MYk5DN3FVWkxSbUhxRzhzdS0yeTFqamNQWmRwTFc5ZndLV09qYmlpVzVFOC1MV0Z",
-      "source": "KVnews.ru",
-      "published_at": "2026-10-18T05:30:00+00:00"
+      "title": "Скорость мобильного интернета в России выросла почти на 20% после запуска 5G",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DT2hyYVV1aDNwZG5kbzJ5bXRTQkxuVXZwNE5LN1BWMDFKY0wzQzlYN3g1MkRwRHU1RElLRkFYNFdBSjdSSGJtNndjQm9Qc1YwQzIyOXEwTHg3OUJQU29DNjM5ZTdiakc0YmfSAXRBVV95cUxPYzQzTGVZTmdXalBCYl9qcVI0U0RtOFl0c1ZoRzZsUVR2RDJLMnRtRG5OdHJMRll",
+      "source": "dp.ru",
+      "published_at": "2026-10-19T07:21:00+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "В России выросли скорости заблокированного мобильного интернета. Помог внезапный 5G",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qTWxGMkY0a003OVd6N2NkRmx3eHdHVGR6VnpVeWduMG00VnhKRnFVZVFMbVZzZVIzaDRYUXI1dmpOX1U3bGx0cHpGVDJ3WnRVTTEwLVdEZzJOWlNDS3JvV3FXd0ZNSlNXTmxmSjM4V01aWTRz?oc=5",
+      "source": "CNews.ru",
+      "published_at": "2026-10-19T07:01:05+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС улучшила связь в самом большом районе Мордовии",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9MQ0RoYjhXWnQ3Rm93Z0FSUjZoclpCTTdiTXVZUGJFLWtTMXpkYnBvYWd2X0pLWHlUelVGaWtOWEtYRG1POU9HR2NJNnVRQU5OZFNPMExIdzBMano2c09uT0dQSmhTUmFsdVdLbU40Z2Ryb0FuOWJEQlRn?oc=5",
+      "source": "CNews.ru",
+      "published_at": "2026-10-19T06:32:03+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "Почему развитие ИИ не вызвало бум строительства ЦОДов в России",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Jd2FfVGxxa09oV2tFOXQ4dGE0bmphWEctbmNINS1qWDRKclNhSTVwWG9TV19ZVDRCbVFRUDR3YmdvSVJ2SE9kQnY1QnZTWmM2N1ZWMzV6U0tFVC1MMUpXSTlORzZnQzlVT1QxSUt3?oc=5",
+      "source": "Эксперт",
+      "published_at": "2026-10-18T08:00:00+00:00"
     },
     {
       "category": "telecom",
       "title": "Операторы потратили около 1 млрд ₽ на рекламу 5G — телевидение стало главным каналом продвижения",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdmcyRUtWcWZ5Q1dsYVo0MFVaWTlJbENMeU03QWlGelNSR3dSSkUxYzJiRXB1Nklub1UtaGczNDk0QWlhMmFJbFh2VGZxOE9tWUpaNTBQUE0zU2d5VUlTRFlsMGV1c3MwUmtlNFFWUXYwVFVLM2VLemZCMlFBYWhvWDU1T2cxdDZzUDFFRG9YaDlnTnd0eHBpRFVIbXBTZjkyUEt",
-      "source": "RB.ru",
+      "source": "RB.RU",
       "published_at": "2026-10-16T10:15:00+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Операторы связи вложили почти миллиард рублей в 5G на ТВ",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OWWR1Z0xGcE9fZTJKeVQwd0VVOUdyR3FJeWJhSnZZMk1IRE1tUXV0R2hocTRRWDJUQm4xZzdGdHhyM1Z5Q2VQM0RJZVV3Q2s3YjJvc2l1dEwwbWotT3pKdmlOVlNOaDdFVzczSNIBbEFVX3lxTE9OWWR1Z0xGcE9fZTJKeVQwd0VVOUdyR3FJeWJhSnZZMk1IRE1tUXV0R2hocTR",
-      "source": "Anti-Malware.ru",
-      "published_at": "2026-10-16T07:46:29+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "Жители «Ботаники» получили доступ к гигабитному интернету МТС",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kZ3pUb0R0dUNCbHg2ZUI3UEhRS2piNDM0MGc5LU9OS013TEJVYVRRN1kyempSaGpKcUhpQjNESWZ4bmpzUlpQaS1kazlzaGRTMEJKSHRreW9aMHZJdHdWcDk2bWVPUHM?oc=5",
-      "source": "Сибирское информационное агентство",
-      "published_at": "2026-10-16T04:12:00+00:00"
     },
     {
       "category": "infrastructure",
@@ -75,11 +82,18 @@
       "published_at": "2026-10-15T08:13:45+00:00"
     },
     {
-      "category": "infrastructure",
-      "title": "«Ростелеком» предлагает создать в РФ центр обработки данных судного дня",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE16aUNfWWZDNVlXV0R5SE5EUU1meFVQdlRMcl8wUE1hbHoteGdjTm0zMVZZcUJZNG9ZMW1lc0NfVXg1TGF2NERJUjliQkXSAUxBVV95cUxNemlDX1lmQzVZV1dEeUhORFFNZnhVUHZUTHJfMFBNYWx6LXhnY05tMzFWWXFCWTRvWTFtZXNDX1V4NUxhdjRESVI5YkJF?oc=5",
-      "source": "DK.RU",
-      "published_at": "2026-10-15T05:53:00+00:00"
+      "category": "mts",
+      "title": "сети 5G уже работают в 27 российских городах",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbk9YYnZPNFhvS2FOOG4tb2ZhSUt2LXRKLXhTd2lxa1FFdzJ4dUc1Tld1dHQxQXh5em85c3lFWlVNMVgzVk1DbXhXYmJudFBsTFRHRjQ2cVdfQnU4WnpXV2lSeGR4U2JaVGgtbFNVeFZadXp6RE9XeVhOUTV6N0J4MGItbEIxVWxTT2JidWxzT3RDT2tJeHpUQ2dNZmlDWE45RFR",
+      "source": "TelecomDaily",
+      "published_at": "2026-10-15T06:58:01+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС признан самым технологически развитым оператором связи в России",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9saHBzQjRnZGVZMnRoSTk2MVRLR0VhLWVmYlJONi00QVlTUGhybEtWaHNjTUJpSnpsVmZMMmEtSzdlZXZlbTVXTHRmYnRZVWpnTXBEYkdPaVBkTU15YmRyRTBCanhJZEE?oc=5",
+      "source": "IT Channel News",
+      "published_at": "2026-10-14T21:00:00+00:00"
     },
     {
       "category": "infrastructure",
@@ -103,11 +117,11 @@
       "published_at": "2026-10-14T13:55:17+00:00"
     },
     {
-      "category": "mts",
-      "title": "МТС включила 5G на территории спорткомплекса «Лужники»",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbzdLNXd1RFJ0ODFfSUVLMW0xX2hqRVV2MVhESmIzZTk0NHhxZU5aT1N4RmJXaS1OOXFwd0tCUWUyWVRMTHZXT1E5eXdSVjl0VzZ2V3BvSzliYTRmTVZDMDJPUFJ4Ny0wMXd4dWRnX3Jxc1ZoQzVxdHZBVUtEeUxIU2dsMWF4N0UzZnh5YUh4M08xSlIwNW51UjBuOA?oc=5",
-      "source": "TelecomDaily",
-      "published_at": "2026-10-14T08:43:14+00:00"
+      "category": "infrastructure",
+      "title": "Почему дата-центры оказались так уязвимы перед атаками дронов? Могли ли «Яндекс» и «Сбер» предотвратить эти удары?",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQUR5SldYaDE3VXRjeXFQYk4yWnVrVmZPajZjdDlsdF9SY3FxaU84TUhXNmxocE1lOUxYc2lLYlVVN0FVNzRTWEVHNGxLOTRwbWRYck56aWYxLVdDRU5XNnZnZkJoRTlCNFJVZDZXZmU3UTFhWi04dldSTS1XbVBHR1NtWnVqeWFMT1NvaUxXUXJFblFBSEpabl9Fb2NVcWlFUjV",
+      "source": "Meduza",
+      "published_at": "2026-10-14T10:01:00+00:00"
     },
     {
       "category": "telecom",
@@ -115,20 +129,6 @@
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9oTmNSbkhZYnA1MFlZb19lNk8xUlVlS0dxUlR1MExTWGlWakN2bF9sa1dNOVJ5MlpHY0NrWENwV0VnODQ?oc=5",
       "source": "ServerNews",
       "published_at": "2026-10-13T20:17:00+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "Сбои интернета в Красноярске и массовые перебои у МТС",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcDlTdlJTeGZ1MmlRM2NpSk9JZEFmOFhPUi11b3RBTktISllfYzZxYVF6Unp6ZXNuRWFTQ2JLUG9UaHFEUHZNTEhCbHJLN2RDSjlfbW9UZWR2TkpYZk92SGQ0Z25LZ0pjT2lHLVFyNjhsTzl6NlFJYVNoQ3V0eTY5RA?oc=5",
-      "source": "Techora.ru",
-      "published_at": "2026-10-13T15:57:58+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС усилила связь в одном из старейших поселений в Чувашии",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5fcGptTlRSTWtHTHlxamFiYUY0OGFOMGVqOE5nMnMydUVjNVZZV2kxV1hMa2dsdFdUTWdJVE5qcUY?oc=5",
-      "source": "PG21.RU",
-      "published_at": "2026-10-13T12:46:30+00:00"
     }
   ]
 }
