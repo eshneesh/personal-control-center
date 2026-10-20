@@ -1,15 +1,29 @@
 {
   "version": 1,
-  "generated_at": "2026-10-19T09:51:29+00:00",
+  "generated_at": "2026-10-20T09:23:42+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
     {
+      "category": "mts",
+      "title": "МТС расширила покрытие сети в Челно-Вершинском районе - Волга Ньюс",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yUGRlcXBIVzdRRFJ2VXhPdXN3d19WelM4VzJ5UFRnaTg2bUFKZk1SbE9HRWNqWU9HZ1J4cWozLTQtbWVBeUNJNXY1VENCdWc?oc=5",
+      "source": "Волга Ньюс",
+      "published_at": "2026-10-19T13:23:00+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС улучшила связь в самом большом районе Мордовии",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcU5BZk9UYjVDSVNZa0pIS1daZU93dkFISkh1ZWxGeUZ5LWN5RExEbWgybHN5eVNMWjdudU9kX3BKa2NIenlrUmlpNTBNWWdXTmFBMGczcTFQS3RkRm9MOEh3bkxadGJkTG52dWI1OHZKckZVQlVBRkJYOTUzbUZuNUYzdnVtQnVSekZxSHhPQUNvdDA?oc=5",
+      "source": "Инфо РМ",
+      "published_at": "2026-10-19T11:04:05+00:00"
+    },
+    {
       "category": "telecom",
-      "title": "Скорость мобильного интернета в России выросла почти на 20% после запуска 5G",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DT2hyYVV1aDNwZG5kbzJ5bXRTQkxuVXZwNE5LN1BWMDFKY0wzQzlYN3g1MkRwRHU1RElLRkFYNFdBSjdSSGJtNndjQm9Qc1YwQzIyOXEwTHg3OUJQU29DNjM5ZTdiakc0YmfSAXRBVV95cUxPYzQzTGVZTmdXalBCYl9qcVI0U0RtOFl0c1ZoRzZsUVR2RDJLMnRtRG5OdHJMRll",
-      "source": "dp.ru",
-      "published_at": "2026-10-19T07:21:00+00:00"
+      "title": "После запуска 5G средняя скорость мобильного интернета в России выросла почти на 20%",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBhMHp4dl9Nd0F3QmpCQ2dMeTFjMWVkRFI0YzBlR1hPRjNaa1VVbUtWeVFWQ2d6RDkxaG5EWlMzWWxSUWFGV0NyetIBWEFVX3lxTFBYWV8yak9XWkVsV0RJeW4wU1R1REpnT0tIR2swN0lJeURUNFRNRW5JR25uak1pV21seDVzQTkxZ1ZveXh1enE4NWkxdWJCX0IzZUJvNlZWQlU",
+      "source": "Хабр",
+      "published_at": "2026-10-19T10:11:38+00:00"
     },
     {
       "category": "telecom",
@@ -19,11 +33,18 @@
       "published_at": "2026-10-19T07:01:05+00:00"
     },
     {
-      "category": "mts",
-      "title": "МТС улучшила связь в самом большом районе Мордовии",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9MQ0RoYjhXWnQ3Rm93Z0FSUjZoclpCTTdiTXVZUGJFLWtTMXpkYnBvYWd2X0pLWHlUelVGaWtOWEtYRG1POU9HR2NJNnVRQU5OZFNPMExIdzBMano2c09uT0dQSmhTUmFsdVdLbU40Z2Ryb0FuOWJEQlRn?oc=5",
-      "source": "CNews.ru",
-      "published_at": "2026-10-19T06:32:03+00:00"
+      "category": "telecom",
+      "title": "Скорость мобильного интернета выросла на 20% после запуска в России 5G",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLWQ0UXZMa2JIYXZpa29vN25sVXhvR21KMkN5b0pQWkRQdVE1RjNMYWNsVDVOT0pXT1lldTRHRS1XamxXVVRhZEdNUGxLYlNUVDVCaXFoTERfWi1pNmhtSFZmYlllUnRrRGJfRERxNHIxek9PRUVBWEFSNlVMQ0tIajRMcw?oc=5",
+      "source": "Ведомости",
+      "published_at": "2026-10-19T05:15:59+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Минцифры услышало тысячи малых операторов",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOWl5dXZTbE5ITVlLZjlWSG9RUzlDSFo1MDFmUmtPMHBzSU41bTM2eEZWbXI1ckM1TTN3TW00d1VrY0dNMHZRVzB4ZERVRmVHTUpPZ3FlSjdpVmFQcFI4SjMyVUJ0LUplaDNSSm1Dclh4LUd0U0dOLUJxbzlMR1FuQTNteEZac3BBaXZpaE1zanZJTVdUMm9laDd6WDM1dGFvY21",
+      "source": "ComNews.ru",
+      "published_at": "2026-10-19T02:12:35+00:00"
     },
     {
       "category": "infrastructure",
@@ -55,10 +76,10 @@
     },
     {
       "category": "infrastructure",
-      "title": "Как и почему мы проектировали последнее коммерческое облако России и от какого буллшита избавились по ходу",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TNGIxNVJpeWtIT2hGdzFJWXRSYlhZUDRZdEtnWkxhSWd5UV9ZUExOS1JzYVJoNUNrUVlRc2RMMTFlNUE3eWRvNjk5OTRGRGpVb0F1dTA5Y9IBV0FVX3lxTE1TNGIxNVJpeWtIT2hGdzFJWXRSYlhZUDRZdEtnWkxhSWd5UV9ZUExOS1JzYVJoNUNrUVlRc2RMMTFlNUE3eWRvNjk",
-      "source": "Хабр",
-      "published_at": "2026-10-15T11:01:11+00:00"
+      "title": "Югра располагает профицитом мощности и необходимой инфраструктурой для размещения ЦОДов - губернатор",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdVdTNUozLXliN0VKcHBHcTdsdW1nLVB4ZG0tcWU1SGtnUTlpZUVTV3MyV05TdHlLMEE3MVlLcGFTcTc1WEk5YzVkUC1JMUxBSjdqZURJR0FzUkw2dktOMXdMM1diR2JmdUlFY0tQaU1kQTJ1TkpFdnpnX1Z4OEhqUXk5STcyRUliZ29FemtJUC1IWURJNHJDQzFhamJOeWlYaHl",
+      "source": "Интерфакс Россия",
+      "published_at": "2026-10-15T11:23:55+00:00"
     },
     {
       "category": "telecom",
@@ -80,13 +101,6 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWE93eXpXMHlCdG9oYkJvbVNFUXN1ZjV3OEVaZEE4ZzFuakRqQlhpN0JBOTVhazFsLUpTdEVvRVN0aldXOGd1dmg0LV8zWWR0bEtlZy05LVRBVHhnRHQyTkNrelNTUWM1NWlBZkQydks5S1BZVEFNeXE3ODlBREdWY05oSXk5QVczcnVBUHM3cFdTQk02QWJ3Q3VqM2phb1JJM04",
       "source": "TKS.RU",
       "published_at": "2026-10-15T08:13:45+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "сети 5G уже работают в 27 российских городах",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbk9YYnZPNFhvS2FOOG4tb2ZhSUt2LXRKLXhTd2lxa1FFdzJ4dUc1Tld1dHQxQXh5em85c3lFWlVNMVgzVk1DbXhXYmJudFBsTFRHRjQ2cVdfQnU4WnpXV2lSeGR4U2JaVGgtbFNVeFZadXp6RE9XeVhOUTV6N0J4MGItbEIxVWxTT2JidWxzT3RDT2tJeHpUQ2dNZmlDWE45RFR",
-      "source": "TelecomDaily",
-      "published_at": "2026-10-15T06:58:01+00:00"
     },
     {
       "category": "mts",
@@ -115,20 +129,6 @@
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFB0dEY1MUM0bmhCYlU4NXUyOGNDOVk1b3BVNWFBMG1jcUxzTkY2SzVnOGg1cTBLTEFWaEl6aEtxV3drVWc?oc=5",
       "source": "The Insider",
       "published_at": "2026-10-14T13:55:17+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "Почему дата-центры оказались так уязвимы перед атаками дронов? Могли ли «Яндекс» и «Сбер» предотвратить эти удары?",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQUR5SldYaDE3VXRjeXFQYk4yWnVrVmZPajZjdDlsdF9SY3FxaU84TUhXNmxocE1lOUxYc2lLYlVVN0FVNzRTWEVHNGxLOTRwbWRYck56aWYxLVdDRU5XNnZnZkJoRTlCNFJVZDZXZmU3UTFhWi04dldSTS1XbVBHR1NtWnVqeWFMT1NvaUxXUXJFblFBSEpabl9Fb2NVcWlFUjV",
-      "source": "Meduza",
-      "published_at": "2026-10-14T10:01:00+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Крупные телеком-операторы предложили малым провайдерам «отдаться» в обмен на долю выручки",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9oTmNSbkhZYnA1MFlZb19lNk8xUlVlS0dxUlR1MExTWGlWakN2bF9sa1dNOVJ5MlpHY0NrWENwV0VnODQ?oc=5",
-      "source": "ServerNews",
-      "published_at": "2026-10-13T20:17:00+00:00"
     }
   ]
 }
