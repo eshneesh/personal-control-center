@@ -1,9 +1,37 @@
 {
   "version": 1,
-  "generated_at": "2026-10-20T09:23:42+00:00",
+  "generated_at": "2026-10-21T09:20:21+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
+    {
+      "category": "mts",
+      "title": "МТС усилила связь на въезде в Оренбург",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeGxKal9MZWlaRWVxZUZrTFlrZkJqcTRheWhQOExqVXhFWWtKdDJmQ3ZCeFlRd0R2RUwwY0JadFQyMkdQdGR1QUt2cHEtSnctQzBMVHYtRDA4TktvVFFnaVh5S1JnWE9CU21hRzYzeHplZ0taRlBEOV9uQ3lDVjJLLTVucGdKQQ?oc=5",
+      "source": "56orb.ru",
+      "published_at": "2026-10-21T07:39:37+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС включила 5G в Иркутске",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwZEIxQzAtZUhhLWFjQUNsZTRCVUZ5Mm9JZmc2NGFIbWh1MGpzdkNUTzkwaW5tc2UtU2ZuUTFDWFNHbVY2ZmRuN2VNMUdrV1BCM0c5Tg?oc=5",
+      "source": "Твой Иркутск",
+      "published_at": "2026-10-21T03:43:00+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "В Нижнем Тагиле сообщается о запуске сети 5G оператором связи МТС | ОТВ - Новости",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaUM0anZDZFZ3b2I3ZjkzenJwbTREb2M3YlZCajM3bGpsNmxDTjZvVjd5ckJvWFh0ckU2eGRIcDRFQXhLR2xVbGFJbHFaZFlQSHBxRnk5SE5QNUFFdXZjaEFQcHlMMDUwb3pybDQyQ1BRelZYTWwyQkdNUWVEWjd1c0FxLWJ0NXhkZ2hJVGVNbkhuNVpjMHJ4Q0YzNA?oc=5",
+      "source": "obltv.ru",
+      "published_at": "2026-10-20T09:36:31+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС просит плату за доступ к 5G",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5HRHp5RkVRdnpiTFZaQzk3N2Fabl84R2hiRThIQTA0UmIwWFVCODQzb3c3bjF1VlBmZnpVbzBKbklDbGhlbC1lS29GRUxKUXhUWW1UTDNwSUhFSFhEeHhyYUFRNWtiNF92S3BPQkkwYVQxVlRnaDBaNGFNaw?oc=5",
+      "source": "TelecomDaily",
+      "published_at": "2026-10-20T06:43:16+00:00"
+    },
     {
       "category": "mts",
       "title": "МТС расширила покрытие сети в Челно-Вершинском районе - Волга Ньюс",
@@ -12,18 +40,18 @@
       "published_at": "2026-10-19T13:23:00+00:00"
     },
     {
-      "category": "mts",
-      "title": "МТС улучшила связь в самом большом районе Мордовии",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcU5BZk9UYjVDSVNZa0pIS1daZU93dkFISkh1ZWxGeUZ5LWN5RExEbWgybHN5eVNMWjdudU9kX3BKa2NIenlrUmlpNTBNWWdXTmFBMGczcTFQS3RkRm9MOEh3bkxadGJkTG52dWI1OHZKckZVQlVBRkJYOTUzbUZuNUYzdnVtQnVSekZxSHhPQUNvdDA?oc=5",
-      "source": "Инфо РМ",
-      "published_at": "2026-10-19T11:04:05+00:00"
-    },
-    {
       "category": "telecom",
       "title": "После запуска 5G средняя скорость мобильного интернета в России выросла почти на 20%",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBhMHp4dl9Nd0F3QmpCQ2dMeTFjMWVkRFI0YzBlR1hPRjNaa1VVbUtWeVFWQ2d6RDkxaG5EWlMzWWxSUWFGV0NyetIBWEFVX3lxTFBYWV8yak9XWkVsV0RJeW4wU1R1REpnT0tIR2swN0lJeURUNFRNRW5JR25uak1pV21seDVzQTkxZ1ZveXh1enE4NWkxdWJCX0IzZUJvNlZWQlU",
       "source": "Хабр",
       "published_at": "2026-10-19T10:11:38+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Скорость мобильного интернета в России выросла почти на 20% после запуска 5G",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DT2hyYVV1aDNwZG5kbzJ5bXRTQkxuVXZwNE5LN1BWMDFKY0wzQzlYN3g1MkRwRHU1RElLRkFYNFdBSjdSSGJtNndjQm9Qc1YwQzIyOXEwTHg3OUJQU29DNjM5ZTdiakc0YmfSAXRBVV95cUxPYzQzTGVZTmdXalBCYl9qcVI0U0RtOFl0c1ZoRzZsUVR2RDJLMnRtRG5OdHJMRll",
+      "source": "dp.ru",
+      "published_at": "2026-10-19T07:21:00+00:00"
     },
     {
       "category": "telecom",
@@ -48,6 +76,13 @@
     },
     {
       "category": "infrastructure",
+      "title": "«Жадные» гиперскейлеры, старые столбы и другие неочевидные причины, по которым в разных странах «не летает» интернет",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ZSkpTbXp2U3BWcGMyeHg4YUplWU1lc2xRM1lDY2FfcTEtLU9ESGRGX3dXWlVJckozcDM1eU5rQVBqWHdNeW5IOUJlUkZkRXpKeVVPdmlMNzTSAVhBVV95cUxNWUpKU216dlNwVnBjMnh4OGFKZVlNZXNsUTNZQ2NhX3ExLS1PREhkRl93V1pVSXJKM3AzNXlOa0FQalh3TXluSDl",
+      "source": "Хабр",
+      "published_at": "2026-10-18T09:01:03+00:00"
+    },
+    {
+      "category": "infrastructure",
       "title": "Почему развитие ИИ не вызвало бум строительства ЦОДов в России",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Jd2FfVGxxa09oV2tFOXQ4dGE0bmphWEctbmNINS1qWDRKclNhSTVwWG9TV19ZVDRCbVFRUDR3YmdvSVJ2SE9kQnY1QnZTWmM2N1ZWMzV6U0tFVC1MMUpXSTlORzZnQzlVT1QxSUt3?oc=5",
       "source": "Эксперт",
@@ -59,13 +94,6 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdmcyRUtWcWZ5Q1dsYVo0MFVaWTlJbENMeU03QWlGelNSR3dSSkUxYzJiRXB1Nklub1UtaGczNDk0QWlhMmFJbFh2VGZxOE9tWUpaNTBQUE0zU2d5VUlTRFlsMGV1c3MwUmtlNFFWUXYwVFVLM2VLemZCMlFBYWhvWDU1T2cxdDZzUDFFRG9YaDlnTnd0eHBpRFVIbXBTZjkyUEt",
       "source": "RB.RU",
       "published_at": "2026-10-16T10:15:00+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "6 крупнейших в России операторов дата-центров",
-      "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxNanJTWl9ucFZqejVjR0U4RkJvcXc1TE9laFFlM1d3U0NKX3ZZeW5wd2ZtY3J3aWh2TGlFN2xiczFUamNDSWZaNDY5ZFlUM0RFakt3T2xnd1IzMUprdHBiMXotNGl5Nk1jM25pTGVUUFVWZkNxRmRMWUh1TEptSEc4M21qTlFMYURIYUpjeGlfdU1nVk5heTJpY3RZaDExUXhvV2J",
-      "source": "TAdviser",
-      "published_at": "2026-10-15T14:17:09+00:00"
     },
     {
       "category": "mts",
@@ -101,34 +129,6 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWE93eXpXMHlCdG9oYkJvbVNFUXN1ZjV3OEVaZEE4ZzFuakRqQlhpN0JBOTVhazFsLUpTdEVvRVN0aldXOGd1dmg0LV8zWWR0bEtlZy05LVRBVHhnRHQyTkNrelNTUWM1NWlBZkQydks5S1BZVEFNeXE3ODlBREdWY05oSXk5QVczcnVBUHM3cFdTQk02QWJ3Q3VqM2phb1JJM04",
       "source": "TKS.RU",
       "published_at": "2026-10-15T08:13:45+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС признан самым технологически развитым оператором связи в России",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9saHBzQjRnZGVZMnRoSTk2MVRLR0VhLWVmYlJONi00QVlTUGhybEtWaHNjTUJpSnpsVmZMMmEtSzdlZXZlbTVXTHRmYnRZVWpnTXBEYkdPaVBkTU15YmRyRTBCanhJZEE?oc=5",
-      "source": "IT Channel News",
-      "published_at": "2026-10-14T21:00:00+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "«Ростелеком» предложил создавать ЦОДы «судного дня»",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRHhra29CUk95QXJlZWtxTGdVbEZkVGNnd3NVR2ZReU5TUkNWN3BicVM2NUVrcWFINGRNMnBFM0YtZXlocnRycEQxcThYS0U0ZHc4blRqNHpybmhsbWxKQ1RGdjhRc3FNNEVIbGE0eGUzMXVrMXRlLVc5WTJ2WmVkRzY3OVNpVzJaaHZFeW1IT091dU9jb0NTbHR1dlNaVlZkVVN",
-      "source": "Вёрстка",
-      "published_at": "2026-10-14T18:40:50+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "В \"Ростелекоме\" заявили о необходимости ЦОДов \"судного дня\"",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzZl9fQ2UwMHFNeTdIOUR6ZHZVdWREYmFUZ2RWaFhjRTNpTUQ4Z1oyUGlrZE9ING5DVWJTUGYtNHBhcmZQVktrRW41Z2lyRTjSAUtBVV95cUxQdGx0Z3N0VU1idFI3eHRPRkxfMFJ5Zi1KWldja2dUSS1iay11eGhlVVVTWjJXZ3BUVDgtMHhDY2t3T054ekZoQTg5U1k?oc=5",
-      "source": "Интерфакс",
-      "published_at": "2026-10-14T14:38:00+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "«Ростелеком» признал перегрузку магистральной сети России и предложил создавать «ЦОДы судного дня» после атак на «Яндекс»",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFB0dEY1MUM0bmhCYlU4NXUyOGNDOVk1b3BVNWFBMG1jcUxzTkY2SzVnOGg1cTBLTEFWaEl6aEtxV3drVWc?oc=5",
-      "source": "The Insider",
-      "published_at": "2026-10-14T13:55:17+00:00"
     }
   ]
 }
