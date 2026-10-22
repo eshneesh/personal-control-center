@@ -1,15 +1,29 @@
 {
   "version": 1,
-  "generated_at": "2026-10-21T09:20:21+00:00",
+  "generated_at": "2026-10-22T09:23:09+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
+    {
+      "category": "telecom",
+      "title": "Минцифры РФ готовит реформу системы лицензирования в телекоме",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oY1BPTkNvWlRpcnlqTjJjNzVxellscUQ3bWtVLVllQkNuWGxuNHlQNTc0TlZJZnlSdy1rOHp0dmN5aUcxLXZZaHRNd9IBS0FVX3lxTE9oY1BPTkNvWlRpcnlqTjJjNzVxellscUQ3bWtVLVllQkNuWGxuNHlQNTc0TlZJZnlSdy1rOHp0dmN5aUcxLXZZaHRNdw?oc=5",
+      "source": "Интерфакс",
+      "published_at": "2026-10-21T17:28:00+00:00"
+    },
     {
       "category": "mts",
       "title": "МТС усилила связь на въезде в Оренбург",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeGxKal9MZWlaRWVxZUZrTFlrZkJqcTRheWhQOExqVXhFWWtKdDJmQ3ZCeFlRd0R2RUwwY0JadFQyMkdQdGR1QUt2cHEtSnctQzBMVHYtRDA4TktvVFFnaVh5S1JnWE9CU21hRzYzeHplZ0taRlBEOV9uQ3lDVjJLLTVucGdKQQ?oc=5",
       "source": "56orb.ru",
       "published_at": "2026-10-21T07:39:37+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС на треть ускорила интернет в сахалинском Горнозаводске",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Id2FQT2xRSEhGcF81WjR3S3ZWNUNBYmdJdENyRlhYMDlCT25adjM3TktBY3NTS3ZReTRwYjdYU0Y4VWpXemNBT1FZaGt2M1ViZ1pvd245d1Z5TVBPVUIyS19jS3R5eGRBcXFFLWNTdl9SekFvVS1RM2dZMA?oc=5",
+      "source": "CNews.ru",
+      "published_at": "2026-10-21T05:18:11+00:00"
     },
     {
       "category": "mts",
@@ -34,10 +48,17 @@
     },
     {
       "category": "mts",
-      "title": "МТС расширила покрытие сети в Челно-Вершинском районе - Волга Ньюс",
+      "title": "МТС расширила покрытие сети в Челно-Вершинском районе",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yUGRlcXBIVzdRRFJ2VXhPdXN3d19WelM4VzJ5UFRnaTg2bUFKZk1SbE9HRWNqWU9HZ1J4cWozLTQtbWVBeUNJNXY1VENCdWc?oc=5",
       "source": "Волга Ньюс",
       "published_at": "2026-10-19T13:23:00+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС улучшила связь в самом большом районе Мордовии",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcU5BZk9UYjVDSVNZa0pIS1daZU93dkFISkh1ZWxGeUZ5LWN5RExEbWgybHN5eVNMWjdudU9kX3BKa2NIenlrUmlpNTBNWWdXTmFBMGczcTFQS3RkRm9MOEh3bkxadGJkTG52dWI1OHZKckZVQlVBRkJYOTUzbUZuNUYzdnVtQnVSekZxSHhPQUNvdDA?oc=5",
+      "source": "Инфо РМ",
+      "published_at": "2026-10-19T11:04:05+00:00"
     },
     {
       "category": "telecom",
@@ -62,13 +83,6 @@
     },
     {
       "category": "telecom",
-      "title": "Скорость мобильного интернета выросла на 20% после запуска в России 5G",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLWQ0UXZMa2JIYXZpa29vN25sVXhvR21KMkN5b0pQWkRQdVE1RjNMYWNsVDVOT0pXT1lldTRHRS1XamxXVVRhZEdNUGxLYlNUVDVCaXFoTERfWi1pNmhtSFZmYlllUnRrRGJfRERxNHIxek9PRUVBWEFSNlVMQ0tIajRMcw?oc=5",
-      "source": "Ведомости",
-      "published_at": "2026-10-19T05:15:59+00:00"
-    },
-    {
-      "category": "telecom",
       "title": "Минцифры услышало тысячи малых операторов",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOWl5dXZTbE5ITVlLZjlWSG9RUzlDSFo1MDFmUmtPMHBzSU41bTM2eEZWbXI1ckM1TTN3TW00d1VrY0dNMHZRVzB4ZERVRmVHTUpPZ3FlSjdpVmFQcFI4SjMyVUJ0LUplaDNSSm1Dclh4LUd0U0dOLUJxbzlMR1FuQTNteEZac3BBaXZpaE1zanZJTVdUMm9laDd6WDM1dGFvY21",
       "source": "ComNews.ru",
@@ -76,10 +90,17 @@
     },
     {
       "category": "infrastructure",
-      "title": "«Жадные» гиперскейлеры, старые столбы и другие неочевидные причины, по которым в разных странах «не летает» интернет",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ZSkpTbXp2U3BWcGMyeHg4YUplWU1lc2xRM1lDY2FfcTEtLU9ESGRGX3dXWlVJckozcDM1eU5rQVBqWHdNeW5IOUJlUkZkRXpKeVVPdmlMNzTSAVhBVV95cUxNWUpKU216dlNwVnBjMnh4OGFKZVlNZXNsUTNZQ2NhX3ExLS1PREhkRl93V1pVSXJKM3AzNXlOa0FQalh3TXluSDl",
-      "source": "Хабр",
-      "published_at": "2026-10-18T09:01:03+00:00"
+      "title": "В Сибири разворачивается конкуренция за размещение центров обработки данных — 19.10.2026",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeDc1YkdGZDN0WTRJaWtzRWpraW5XX1dKSWhud05oeERmUDAxeWJjbFJKckFSWXByZGtFdDhGQ1VYWjRUeU9vZ1lvY3F2blhrWHhXTGpDNTJUMEJOa2hyRzVvMDZIMkFJeFhjYndRaUR1YmIxRHJSeFpUUmdudjJyZVBjLUdDb3JRd0VGYnNXc25pOVJqeFNEdFlwTXowd29qcGx",
+      "source": "Томская интернет-газета",
+      "published_at": "2026-10-19T00:40:52+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "Российский рынок пассивного сетевого оборудования: обзор ведущих производителей, тенденции на ближайшее будущее (2026-2030)",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ON0h6dFJoWFh5bFRIRDE2c0hpalRGSFpTdGJqN1l0bnQ0S1dWZ3JHcDZSUXg3M0l6dzhtdC04QzRmcHVCRUtVTHFWNUZ6eWtfb1E?oc=5",
+      "source": "Sostav.ru",
+      "published_at": "2026-10-18T22:12:34+00:00"
     },
     {
       "category": "infrastructure",
@@ -90,45 +111,24 @@
     },
     {
       "category": "telecom",
+      "title": "В 27 регионах России могут полностью исчезнуть местные интернет-провайдеры",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVC0yTXNxbi1TZ3Z5M1FSVkVoN0JxbHRXNHowSkd3cDNpd0dSbXdMZW16dVMxS240YUg3WDkzUS1CQVBvRmFTRWlWRmZtMFRoSGtQbTdKNkxld2xXN1JDTnNyNERCWXlscnhSMFZBNE9VVU5MYk5DN3FVWkxSbUhxRzhzdS0yeTFqamNQWmRwTFc5ZndLV09qYmlpVzVFOC1MV0Z",
+      "source": "KVnews.ru",
+      "published_at": "2026-10-18T05:30:00+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "Подземный ЦОД уязвим для БПЛА: ученый объяснил, почему бетон не спасет серверы",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY3JtWnI0MGVrc0VhWVB5ZGZkeFJ0dkQ3UzdtODRINVN1RGQ2WndUU2lRMzUxRzlNTG82UjlFN2NoUDh5QXQyVTNMMEFwSFhQY0RYSHZtVkpOOWc4OWFfQTF4SzRYLVdkYWwtZXZmZEYyVTdwY1l5c1FkUWFDNUhieXRvcHlxWTJ5Um50dG4zQ19SUEtHWXZhYzNnd3ROaTJlRW5",
+      "source": "www1.ru",
+      "published_at": "2026-10-17T15:33:36+00:00"
+    },
+    {
+      "category": "telecom",
       "title": "Операторы потратили около 1 млрд ₽ на рекламу 5G — телевидение стало главным каналом продвижения",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdmcyRUtWcWZ5Q1dsYVo0MFVaWTlJbENMeU03QWlGelNSR3dSSkUxYzJiRXB1Nklub1UtaGczNDk0QWlhMmFJbFh2VGZxOE9tWUpaNTBQUE0zU2d5VUlTRFlsMGV1c3MwUmtlNFFWUXYwVFVLM2VLemZCMlFBYWhvWDU1T2cxdDZzUDFFRG9YaDlnTnd0eHBpRFVIbXBTZjkyUEt",
       "source": "RB.RU",
       "published_at": "2026-10-16T10:15:00+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "Жителям Мценска Орловской области стал доступен гигабитный интернет МТС",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10LXlHQjd0VXBxMzREV21GeHNJTURicTJIbjZqUzMyVHVRT3FIWHhkOE5YbUItNGJISjJ3S0VmYS1Jbzdtc1BlY2NEX1dlWFp5Z245MzN1S1NMNENxNEp2X0x0a2Nzcy02Qjhwb1RDOW1sTWZmV05tZFBR?oc=5",
-      "source": "CNews.ru",
-      "published_at": "2026-10-15T13:54:34+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "Югра располагает профицитом мощности и необходимой инфраструктурой для размещения ЦОДов - губернатор",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdVdTNUozLXliN0VKcHBHcTdsdW1nLVB4ZG0tcWU1SGtnUTlpZUVTV3MyV05TdHlLMEE3MVlLcGFTcTc1WEk5YzVkUC1JMUxBSjdqZURJR0FzUkw2dktOMXdMM1diR2JmdUlFY0tQaU1kQTJ1TkpFdnpnX1Z4OEhqUXk5STcyRUliZ29FemtJUC1IWURJNHJDQzFhamJOeWlYaHl",
-      "source": "Интерфакс Россия",
-      "published_at": "2026-10-15T11:23:55+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Назван телеком-оператор, обеспечивающий самое широкое покрытие 5G в регионах РФ",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9QNmZURVhmUnFGNVBTLW5zME5ia3BxSWtyVk92b0pIV3N3TW1EWTZURTdYdWVkcHIzSjh4YUUyNjlwVjBhVUpiTmY1Y9IBS0FVX3lxTE9QNmZURVhmUnFGNVBTLW5zME5ia3BxSWtyVk92b0pIV3N3TW1EWTZURTdYdWVkcHIzSjh4YUUyNjlwVjBhVUpiTmY1Yw?oc=5",
-      "source": "DK.RU",
-      "published_at": "2026-10-15T10:51:00+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "Сети 5G заработали уже в 35 городах России — больше всех охватил МТС",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZzd3d3I4TDRzVUsxaHpSdi02TU5IVV9vc1VSd21xZkRJcTlNUmp0QzVUQ2pCX3p0OHhOY3F5bmxpWGpmd05mSXBOVUNtQ2d5YnlBS3BOMFlBaExxNDk5SnpHWXppc1ZpRWRNMEFZSTZScW5tLUx5dGVla0M4Q0FDVWExeXFUaXc0ejAxTHozWTBlTy0wQV800gGcAUFVX3lxTE9",
-      "source": "3DNews",
-      "published_at": "2026-10-15T08:37:00+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "В России предложили создать резервные дата-центры на случай масштабных аварий",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWE93eXpXMHlCdG9oYkJvbVNFUXN1ZjV3OEVaZEE4ZzFuakRqQlhpN0JBOTVhazFsLUpTdEVvRVN0aldXOGd1dmg0LV8zWWR0bEtlZy05LVRBVHhnRHQyTkNrelNTUWM1NWlBZkQydks5S1BZVEFNeXE3ODlBREdWY05oSXk5QVczcnVBUHM3cFdTQk02QWJ3Q3VqM2phb1JJM04",
-      "source": "TKS.RU",
-      "published_at": "2026-10-15T08:13:45+00:00"
     }
   ]
 }
