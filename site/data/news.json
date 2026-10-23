@@ -1,9 +1,65 @@
 {
   "version": 1,
-  "generated_at": "2026-10-22T09:23:09+00:00",
+  "generated_at": "2026-10-23T09:19:16+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
+    {
+      "category": "mts",
+      "title": "МТС первой запустила связь в местах легендарной экспедиции Арсеньева",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42RWktT1RjTUk3WFZxY0ZPaXZ6QUxwMmhueFJWaHViVzFqd29CS3lYb3oyRlM2aHRtajVOOWhCTUdsNkloNTVYSHM4dnVrdi1zU2RZck1OQVFpcktQV0EwUjhLWGJ1OFRQNnBQajVnX05GRU1NYjVJ?oc=5",
+      "source": "CNews.ru",
+      "published_at": "2026-10-23T07:44:26+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Операторы предупредили о рисках для связи из-за правил ГКРЧ на 2028 год",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaDNqeG5iY0dSMVVZSk9IeEFTTXhqcVpUZlJNVXJMeUFBQ3JBdzFCWmNZclE4V2VkWUM4RnRDN0pSTDhOUWNNMENtV0NpMjdnV1V3TGZTVXh4MmVEeUFZZEd5ZzJEZWRZQzZkVWtSMm03YVQtLWVIOWlMdnl0MzRMNjljX3ZiMEl1VEVoRGppNEtGcW5EOGVCUkY0TFJacllVa0h",
+      "source": "TelecomDaily",
+      "published_at": "2026-10-23T07:40:29+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС в Хабаровске расширила сеть на Ореховой сопке и Чёрной речке",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40eGVDV2YxNjNMU29pdXRGckRMa0F4eW1NNWE1NGhyRV9QSVhaRDdlSzlHRTRjMmxCU3NiZkVxVmRVN1FpaDdDQ05SVUV3R0Vw?oc=5",
+      "source": "Хабаровский край сегодня",
+      "published_at": "2026-10-23T05:46:20+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "Рынок аксессуаров для волоконно-оптических кабелей до 2035 года: спрос растет за счет уплотнения 5G и граничных ЦОД - Новости и статистика",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX0N4MFE2NjlXWTRrMktxaHU0ZF9DMWhMamxFUDF2aWMteGxiek1OMUFibThkV1JRTlJ5Yld6S05JM0gzelpOblB1b05INzdqYktJRlVzUDdVdzJlbVhsd19XaFVDVXZvSU8ySElCc1JQVTkxaXVIS2dQSFhFSlJCaHlPRmYzdjMxUVVobnA1bWFwd2pTeG90SGxLRnVFVEFUQzF",
+      "source": "IndexBox",
+      "published_at": "2026-10-22T19:16:04+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Телеком готовят к очищению рынка / Экономика",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sRTNYTWdnVlZxakpORnpuWXZKY0ZwWERXaXZsVEJUcjNBYWM3a0wxZkhfbXJhcW9seXFfenR5NWhSTjAySmRYWGZaUXNXcUxsaHhKc2J1RFFvQzhzMlBvdlMyUFJEd291c3c?oc=5",
+      "source": "Независимая газета",
+      "published_at": "2026-10-22T16:54:05+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "«Интернет хотят укрепить. Но кто-то может остаться без связи». Почему белгородские провайдеры опасаются реформы, которая может изменить рынок до неузнаваемости",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQV0VNVkhLYlZfTS1PbnptdnFvb2N4aTlwTDFrYm1Lc2twTDJsbzlRWDgwLVAxNzFpcFBPM1FKdnZubkxaUlIxUmNjWnRNWEJ3bFZ0T1JTWVZOXzFNaGtZMldTbGRjVEFZQndPYzhwUk9YeFV2WFlPc3hTZXJ3YVdVemJ0a0lSVExqSzJVa1Bjc29Xc245QUo2a2J5amNnY3k2Vlp",
+      "source": "Fonar.tv",
+      "published_at": "2026-10-22T12:45:23+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "Экономика данных и цифровая трансформация государства (национальный проект)",
+      "url": "https://news.google.com/rss/articles/CBMinAVBVV95cUxQNW5ValJYOHNFMzZRcHJzT2toZUtpeUxqcGwzeWZvSi1TNzhOVVptZjI5cXY3aGZSWUM2NTVXSGpoQmFSREpsOEpoSkgzQVRvVkNweVdWa3J4aC1VeHpxUERXdUdwc3lyektXcW5SVzhJX0pQdEd5R0RCUDNEdUJVbV9Id1RpZUtaeF81eE1DVWQ3YTgyejMxWGlaaEhPU0d3aE9",
+      "source": "TAdviser",
+      "published_at": "2026-10-22T06:29:07+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "Украина ввела режим чрезвычайного положения в сфере дата-центров и интернет-доступа",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQUGZmMEItWE9CUFgzcjU5d2JlX0MzSkh5NHJadU00YUYzdVlPRjVGQUJtcUJnNktJajR5bUY0NlNYdzUzRU0zZkFHaEc3MFRZdHFsakxweVNtVEI0RU01SUdDdE5fMEY1WU1pQzJTMTNFUVlwaXpXb3N0TnQxcy1WM2pVc2xfaTFMdmtYZWMzSjlzU1NETFRJeXRwZ0NnTmRDRzV",
+      "source": "TAdviser",
+      "published_at": "2026-10-22T06:28:25+00:00"
+    },
     {
       "category": "telecom",
       "title": "Минцифры РФ готовит реформу системы лицензирования в телекоме",
@@ -17,13 +73,6 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeGxKal9MZWlaRWVxZUZrTFlrZkJqcTRheWhQOExqVXhFWWtKdDJmQ3ZCeFlRd0R2RUwwY0JadFQyMkdQdGR1QUt2cHEtSnctQzBMVHYtRDA4TktvVFFnaVh5S1JnWE9CU21hRzYzeHplZ0taRlBEOV9uQ3lDVjJLLTVucGdKQQ?oc=5",
       "source": "56orb.ru",
       "published_at": "2026-10-21T07:39:37+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС на треть ускорила интернет в сахалинском Горнозаводске",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Id2FQT2xRSEhGcF81WjR3S3ZWNUNBYmdJdENyRlhYMDlCT25adjM3TktBY3NTS3ZReTRwYjdYU0Y4VWpXemNBT1FZaGt2M1ViZ1pvd245d1Z5TVBPVUIyS19jS3R5eGRBcXFFLWNTdl9SekFvVS1RM2dZMA?oc=5",
-      "source": "CNews.ru",
-      "published_at": "2026-10-21T05:18:11+00:00"
     },
     {
       "category": "mts",
@@ -47,11 +96,11 @@
       "published_at": "2026-10-20T06:43:16+00:00"
     },
     {
-      "category": "mts",
-      "title": "МТС расширила покрытие сети в Челно-Вершинском районе",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yUGRlcXBIVzdRRFJ2VXhPdXN3d19WelM4VzJ5UFRnaTg2bUFKZk1SbE9HRWNqWU9HZ1J4cWozLTQtbWVBeUNJNXY1VENCdWc?oc=5",
-      "source": "Волга Ньюс",
-      "published_at": "2026-10-19T13:23:00+00:00"
+      "category": "infrastructure",
+      "title": "Опубликована программа SOC Forum 2026: Чэнь Цюфань и два дня об ИИ в бизнесе и кибербезопасности",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd1ZDaTZqaWxNazZEUnJNQ3NmVWI5anhQOC01aVhNc1I4MEpsZDZqOGZObFhxWFR6b0NTSTIwa1V1T09hNnMtWnYzcTVJeVVUakJQZGVDU0dINHUyUzZzd256MVNBVXlEYlhVSW9sUEJfeW1RcEx3UmxNUTZHTjhMQS16VElsT2c0M0NTMWZldG14UTVEcjE1WQ?oc=5",
+      "source": "cisoclub",
+      "published_at": "2026-10-19T20:12:30+00:00"
     },
     {
       "category": "mts",
@@ -59,13 +108,6 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcU5BZk9UYjVDSVNZa0pIS1daZU93dkFISkh1ZWxGeUZ5LWN5RExEbWgybHN5eVNMWjdudU9kX3BKa2NIenlrUmlpNTBNWWdXTmFBMGczcTFQS3RkRm9MOEh3bkxadGJkTG52dWI1OHZKckZVQlVBRkJYOTUzbUZuNUYzdnVtQnVSekZxSHhPQUNvdDA?oc=5",
       "source": "Инфо РМ",
       "published_at": "2026-10-19T11:04:05+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "После запуска 5G средняя скорость мобильного интернета в России выросла почти на 20%",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBhMHp4dl9Nd0F3QmpCQ2dMeTFjMWVkRFI0YzBlR1hPRjNaa1VVbUtWeVFWQ2d6RDkxaG5EWlMzWWxSUWFGV0NyetIBWEFVX3lxTFBYWV8yak9XWkVsV0RJeW4wU1R1REpnT0tIR2swN0lJeURUNFRNRW5JR25uak1pV21seDVzQTkxZ1ZveXh1enE4NWkxdWJCX0IzZUJvNlZWQlU",
-      "source": "Хабр",
-      "published_at": "2026-10-19T10:11:38+00:00"
     },
     {
       "category": "telecom",
@@ -85,50 +127,8 @@
       "category": "telecom",
       "title": "Минцифры услышало тысячи малых операторов",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOWl5dXZTbE5ITVlLZjlWSG9RUzlDSFo1MDFmUmtPMHBzSU41bTM2eEZWbXI1ckM1TTN3TW00d1VrY0dNMHZRVzB4ZERVRmVHTUpPZ3FlSjdpVmFQcFI4SjMyVUJ0LUplaDNSSm1Dclh4LUd0U0dOLUJxbzlMR1FuQTNteEZac3BBaXZpaE1zanZJTVdUMm9laDd6WDM1dGFvY21",
-      "source": "ComNews.ru",
+      "source": "ComNews",
       "published_at": "2026-10-19T02:12:35+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "В Сибири разворачивается конкуренция за размещение центров обработки данных — 19.10.2026",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeDc1YkdGZDN0WTRJaWtzRWpraW5XX1dKSWhud05oeERmUDAxeWJjbFJKckFSWXByZGtFdDhGQ1VYWjRUeU9vZ1lvY3F2blhrWHhXTGpDNTJUMEJOa2hyRzVvMDZIMkFJeFhjYndRaUR1YmIxRHJSeFpUUmdudjJyZVBjLUdDb3JRd0VGYnNXc25pOVJqeFNEdFlwTXowd29qcGx",
-      "source": "Томская интернет-газета",
-      "published_at": "2026-10-19T00:40:52+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "Российский рынок пассивного сетевого оборудования: обзор ведущих производителей, тенденции на ближайшее будущее (2026-2030)",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ON0h6dFJoWFh5bFRIRDE2c0hpalRGSFpTdGJqN1l0bnQ0S1dWZ3JHcDZSUXg3M0l6dzhtdC04QzRmcHVCRUtVTHFWNUZ6eWtfb1E?oc=5",
-      "source": "Sostav.ru",
-      "published_at": "2026-10-18T22:12:34+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "Почему развитие ИИ не вызвало бум строительства ЦОДов в России",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Jd2FfVGxxa09oV2tFOXQ4dGE0bmphWEctbmNINS1qWDRKclNhSTVwWG9TV19ZVDRCbVFRUDR3YmdvSVJ2SE9kQnY1QnZTWmM2N1ZWMzV6U0tFVC1MMUpXSTlORzZnQzlVT1QxSUt3?oc=5",
-      "source": "Эксперт",
-      "published_at": "2026-10-18T08:00:00+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "В 27 регионах России могут полностью исчезнуть местные интернет-провайдеры",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVC0yTXNxbi1TZ3Z5M1FSVkVoN0JxbHRXNHowSkd3cDNpd0dSbXdMZW16dVMxS240YUg3WDkzUS1CQVBvRmFTRWlWRmZtMFRoSGtQbTdKNkxld2xXN1JDTnNyNERCWXlscnhSMFZBNE9VVU5MYk5DN3FVWkxSbUhxRzhzdS0yeTFqamNQWmRwTFc5ZndLV09qYmlpVzVFOC1MV0Z",
-      "source": "KVnews.ru",
-      "published_at": "2026-10-18T05:30:00+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "Подземный ЦОД уязвим для БПЛА: ученый объяснил, почему бетон не спасет серверы",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY3JtWnI0MGVrc0VhWVB5ZGZkeFJ0dkQ3UzdtODRINVN1RGQ2WndUU2lRMzUxRzlNTG82UjlFN2NoUDh5QXQyVTNMMEFwSFhQY0RYSHZtVkpOOWc4OWFfQTF4SzRYLVdkYWwtZXZmZEYyVTdwY1l5c1FkUWFDNUhieXRvcHlxWTJ5Um50dG4zQ19SUEtHWXZhYzNnd3ROaTJlRW5",
-      "source": "www1.ru",
-      "published_at": "2026-10-17T15:33:36+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Операторы потратили около 1 млрд ₽ на рекламу 5G — телевидение стало главным каналом продвижения",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdmcyRUtWcWZ5Q1dsYVo0MFVaWTlJbENMeU03QWlGelNSR3dSSkUxYzJiRXB1Nklub1UtaGczNDk0QWlhMmFJbFh2VGZxOE9tWUpaNTBQUE0zU2d5VUlTRFlsMGV1c3MwUmtlNFFWUXYwVFVLM2VLemZCMlFBYWhvWDU1T2cxdDZzUDFFRG9YaDlnTnd0eHBpRFVIbXBTZjkyUEt",
-      "source": "RB.RU",
-      "published_at": "2026-10-16T10:15:00+00:00"
     }
   ]
 }
