@@ -1,9 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T08:51:11+00:00",
+  "generated_at": "2026-10-25T09:07:39+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
+    {
+      "category": "infrastructure",
+      "title": "Операторы предупредили об угрозе массовых отключений связи в России",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWlFXemUwUWhhcFktX3ZmV3ppWUxLUHl4WUhuaDh2NVQyNW85cUxDUndEa3JUNDVhNFRXME5zRjR5QjFKNC0yZFpFRGV2MmFIY0o3cEU4bHY0TG9RQWQtT29xT244b2tjQVdEYU5TWGxqNFJ2dGMzRzZUdVVoVHFDbFRlLUpDLVhkMW4ya2JaYVRGM2JBYzFVb1NrZERPdDFyVmx",
+      "source": "prospect.com.ru",
+      "published_at": "2026-10-25T01:22:54+00:00"
+    },
     {
       "category": "infrastructure",
       "title": "В России усиливают защиту дата-центров после атак беспилотников на ЦОДы",
@@ -17,6 +24,13 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaDNqeG5iY0dSMVVZSk9IeEFTTXhqcVpUZlJNVXJMeUFBQ3JBdzFCWmNZclE4V2VkWUM4RnRDN0pSTDhOUWNNMENtV0NpMjdnV1V3TGZTVXh4MmVEeUFZZEd5ZzJEZWRZQzZkVWtSMm03YVQtLWVIOWlMdnl0MzRMNjljX3ZiMEl1VEVoRGppNEtGcW5EOGVCUkY0TFJacllVa0h",
       "source": "Telecom Daily",
       "published_at": "2026-10-23T07:57:48+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС запустила LTE в селе памяти о переселенцах в Чурапчинском улусе",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON2VfVzM2Mk1ZaUZyY0k4OTdxM3FRbVN1dThMYlRUNUcwbmE0bW04SGY3b2RHZUh4MklXa0ZGQ0hFa29ZOG9yS19YNUN2SUFUUElRX2RDQURvY1RLTmcwSG0xNVlVNnRETkZ2dDhUSDdUVXJyR251XzliV1dzQndqakhuQTlGck5sQm5USkJ5UQ?oc=5",
+      "source": "ЯСИА",
+      "published_at": "2026-10-23T07:31:53+00:00"
     },
     {
       "category": "mts",
@@ -40,13 +54,6 @@
       "published_at": "2026-10-22T20:20:17+00:00"
     },
     {
-      "category": "infrastructure",
-      "title": "Рынок аксессуаров для волоконно-оптических кабелей до 2035 года: спрос растет за счет уплотнения 5G и граничных ЦОД - Новости и статистика",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX0N4MFE2NjlXWTRrMktxaHU0ZF9DMWhMamxFUDF2aWMteGxiek1OMUFibThkV1JRTlJ5Yld6S05JM0gzelpOblB1b05INzdqYktJRlVzUDdVdzJlbVhsd19XaFVDVXZvSU8ySElCc1JQVTkxaXVIS2dQSFhFSlJCaHlPRmYzdjMxUVVobnA1bWFwd2pTeG90SGxLRnVFVEFUQzF",
-      "source": "IndexBox",
-      "published_at": "2026-10-22T19:16:04+00:00"
-    },
-    {
       "category": "telecom",
       "title": "Телеком готовят к очищению рынка / Экономика",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sRTNYTWdnVlZxakpORnpuWXZKY0ZwWERXaXZsVEJUcjNBYWM3a0wxZkhfbXJhcW9seXFfenR5NWhSTjAySmRYWGZaUXNXcUxsaHhKc2J1RFFvQzhzMlBvdlMyUFJEd291c3c?oc=5",
@@ -62,10 +69,10 @@
     },
     {
       "category": "infrastructure",
-      "title": "Украина ввела режим чрезвычайного положения в сфере дата-центров и интернет-доступа",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQUGZmMEItWE9CUFgzcjU5d2JlX0MzSkh5NHJadU00YUYzdVlPRjVGQUJtcUJnNktJajR5bUY0NlNYdzUzRU0zZkFHaEc3MFRZdHFsakxweVNtVEI0RU01SUdDdE5fMEY1WU1pQzJTMTNFUVlwaXpXb3N0TnQxcy1WM2pVc2xfaTFMdmtYZWMzSjlzU1NETFRJeXRwZ0NnTmRDRzV",
+      "title": "Экономика данных и цифровая трансформация государства (национальный проект)",
+      "url": "https://news.google.com/rss/articles/CBMinAVBVV95cUxQNW5ValJYOHNFMzZRcHJzT2toZUtpeUxqcGwzeWZvSi1TNzhOVVptZjI5cXY3aGZSWUM2NTVXSGpoQmFSREpsOEpoSkgzQVRvVkNweVdWa3J4aC1VeHpxUERXdUdwc3lyektXcW5SVzhJX0pQdEd5R0RCUDNEdUJVbV9Id1RpZUtaeF81eE1DVWQ3YTgyejMxWGlaaEhPU0d3aE9",
       "source": "TAdviser",
-      "published_at": "2026-10-22T06:28:25+00:00"
+      "published_at": "2026-10-22T06:29:07+00:00"
     },
     {
       "category": "telecom",
@@ -73,13 +80,6 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oY1BPTkNvWlRpcnlqTjJjNzVxellscUQ3bWtVLVllQkNuWGxuNHlQNTc0TlZJZnlSdy1rOHp0dmN5aUcxLXZZaHRNd9IBS0FVX3lxTE9oY1BPTkNvWlRpcnlqTjJjNzVxellscUQ3bWtVLVllQkNuWGxuNHlQNTc0TlZJZnlSdy1rOHp0dmN5aUcxLXZZaHRNdw?oc=5",
       "source": "Интерфакс",
       "published_at": "2026-10-21T17:28:00+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС усилила связь на въезде в Оренбург",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeGxKal9MZWlaRWVxZUZrTFlrZkJqcTRheWhQOExqVXhFWWtKdDJmQ3ZCeFlRd0R2RUwwY0JadFQyMkdQdGR1QUt2cHEtSnctQzBMVHYtRDA4TktvVFFnaVh5S1JnWE9CU21hRzYzeHplZ0taRlBEOV9uQ3lDVjJLLTVucGdKQQ?oc=5",
-      "source": "56orb.ru",
-      "published_at": "2026-10-21T07:39:37+00:00"
     },
     {
       "category": "mts",
@@ -110,6 +110,13 @@
       "published_at": "2026-10-19T20:12:30+00:00"
     },
     {
+      "category": "infrastructure",
+      "title": "Российская армия ударила по двум химзаводам, дата-центру и ж/д депо в Киеве // Минобороны: ВС РФ поразили в Киеве предприятия «Химволокно» и «Планета пластик»",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSTZQTm1kMV9xTmZnRFRTVm0wSFNkWlUtellVX2RJblpBN1NsQklRRUIxME04SDZfR0N6YVh5WmRLVWhqc19GaTI1X0JKTDRzTFA1VW5qTHFVRF9EZU8xcjlWMTZxaWI1SjY0dEFTMFhwSHBOc1lSMDVLdkJBRTFjYnE2UEFBc29hakNjR3UwaGlCS3lpbVJIS3dLaXUwUWZ1NVF",
+      "source": "prospect.com.ru",
+      "published_at": "2026-10-19T19:54:57+00:00"
+    },
+    {
       "category": "mts",
       "title": "МТС улучшила связь в самом большом районе Мордовии",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcU5BZk9UYjVDSVNZa0pIS1daZU93dkFISkh1ZWxGeUZ5LWN5RExEbWgybHN5eVNMWjdudU9kX3BKa2NIenlrUmlpNTBNWWdXTmFBMGczcTFQS3RkRm9MOEh3bkxadGJkTG52dWI1OHZKckZVQlVBRkJYOTUzbUZuNUYzdnVtQnVSekZxSHhPQUNvdDA?oc=5",
@@ -122,13 +129,6 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DT2hyYVV1aDNwZG5kbzJ5bXRTQkxuVXZwNE5LN1BWMDFKY0wzQzlYN3g1MkRwRHU1RElLRkFYNFdBSjdSSGJtNndjQm9Qc1YwQzIyOXEwTHg3OUJQU29DNjM5ZTdiakc0YmfSAXRBVV95cUxPYzQzTGVZTmdXalBCYl9qcVI0U0RtOFl0c1ZoRzZsUVR2RDJLMnRtRG5OdHJMRll",
       "source": "dp.ru",
       "published_at": "2026-10-19T07:21:00+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "В России выросли скорости заблокированного мобильного интернета. Помог внезапный 5G",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qTWxGMkY0a003OVd6N2NkRmx3eHdHVGR6VnpVeWduMG00VnhKRnFVZVFMbVZzZVIzaDRYUXI1dmpOX1U3bGx0cHpGVDJ3WnRVTTEwLVdEZzJOWlNDS3JvV3FXd0ZNSlNXTmxmSjM4V01aWTRz?oc=5",
-      "source": "CNews.ru",
-      "published_at": "2026-10-19T07:01:05+00:00"
     }
   ]
 }
