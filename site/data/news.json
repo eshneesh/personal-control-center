@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-25T09:07:39+00:00",
+  "generated_at": "2026-10-26T10:04:13+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
@@ -19,11 +19,39 @@
       "published_at": "2026-10-23T13:22:42+00:00"
     },
     {
+      "category": "mts",
+      "title": "МТС первой запустила связь в местах легендарной экспедиции Арсеньева",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42RWktT1RjTUk3WFZxY0ZPaXZ6QUxwMmhueFJWaHViVzFqd29CS3lYb3oyRlM2aHRtajVOOWhCTUdsNkloNTVYSHM4dnVrdi1zU2RZck1OQVFpcktQV0EwUjhLWGJ1OFRQNnBQajVnX05GRU1NYjVJ?oc=5",
+      "source": "CNews.ru",
+      "published_at": "2026-10-23T10:46:03+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Украина атаковала российскую телефонную компанию. Есть погибшие",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqWGR3NTlJa1BSLTBtVmVpVGZwNHBJUzNNLVdfWDlGeExYMjJWS196bVA2UzFxT2o4ZnZJWElfZU1BNngzM2l5ZzkzWFRVODhjSzZvX24yT19QQTJwQ1FNblZ4UTRiek1GYmtHOEwxcmdWZUIzRXdDeFlR?oc=5",
+      "source": "CNews.ru",
+      "published_at": "2026-10-23T09:20:25+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "МИД России: между Москвой и НАТО существует канал связи",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS293clhRNlR2SVBmYUFvZ1UyNUhIMUYtV2duZnVXT2hBcVlISFRpY1pmTTdOdmRwYzBOMFVnYUt3MkRaNGpscWdjbWFXckFpMXplNy1KckdRaF9IbldkQ21BVl9waWtmcEVnSE9YaHdCQVBHMXlNUmhFbTdNTFJUOVhPMXdQZGlPMHhCNkRVTE8tZmQyTU5QQ2lZMVczVmZn?oc",
+      "source": "prospect.com.ru",
+      "published_at": "2026-10-23T09:12:24+00:00"
+    },
+    {
       "category": "telecom",
       "title": "Операторы предупредили о рисках для связи из-за правил ГКРЧ на 2028 год",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaDNqeG5iY0dSMVVZSk9IeEFTTXhqcVpUZlJNVXJMeUFBQ3JBdzFCWmNZclE4V2VkWUM4RnRDN0pSTDhOUWNNMENtV0NpMjdnV1V3TGZTVXh4MmVEeUFZZEd5ZzJEZWRZQzZkVWtSMm03YVQtLWVIOWlMdnl0MzRMNjljX3ZiMEl1VEVoRGppNEtGcW5EOGVCUkY0TFJacllVa0h",
       "source": "Telecom Daily",
       "published_at": "2026-10-23T07:57:48+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "🌐 Операторы предупредили о риске массового отключения мобильной связи в 2028 году",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53OF8zcEc1dXBlMXlqWmlGckd3dXNUcG9zNHVMV25CMS1KRVl0QWtFQnF0cWRvSGJyN2VXNko5d2MwQ1JYTV9pTVpZd3gwZw?oc=5",
+      "source": "Клерк.ру",
+      "published_at": "2026-10-23T07:36:00+00:00"
     },
     {
       "category": "mts",
@@ -33,25 +61,18 @@
       "published_at": "2026-10-23T07:31:53+00:00"
     },
     {
+      "category": "infrastructure",
+      "title": "ВС РФ поразили мост Южный в Киеве",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQclpQVWxqR3lLbUlYUk1YX3U1OHgweEJxT1Z3ZXFIMU9Gdk04bmlWcTdYQXlNS1dVUFIwV3hoY2hzSHRoNXZJWmstc2VWOGlwWm9TeFUxdzB0ZGVseFRfdWNhLUtXamdHTWw2dTFqQlRnV3pyRHF0QTljWXVtNDdLUFZR?oc=5",
+      "source": "prospect.com.ru",
+      "published_at": "2026-10-23T07:19:34+00:00"
+    },
+    {
       "category": "mts",
       "title": "МТС в Хабаровске расширила сеть на Ореховой сопке и Чёрной речке",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40eGVDV2YxNjNMU29pdXRGckRMa0F4eW1NNWE1NGhyRV9QSVhaRDdlSzlHRTRjMmxCU3NiZkVxVmRVN1FpaDdDQ05SVUV3R0Vw?oc=5",
       "source": "Хабаровский край сегодня",
       "published_at": "2026-10-23T05:46:20+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС первой запустила связь в местах легендарной экспедиции Арсеньева",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwWVl6ajJINVdFSld4ZjJadWxsWmVwbVdnWTlXSHRvQXBzajdSaURwdzZOR0VlVmNVcVN3RkhvekhOc2wyVGY0c0RFaw?oc=5",
-      "source": "PrimaMedia.ru",
-      "published_at": "2026-10-23T02:57:00+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС Exolve автоматизировал коммуникации крупного сервиса онлайн-записи и автоматизации",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeGtidlBoZWFhMW1oRmk1Q3g1M1VocGFZdUE0RWxyMHh0YTlkaGpGdi15ZjI4ZGhvSmFkdGlmQnNZdDhuZXpHQW5ldmRKT0cwREt6d1kwalhyRTU4cWdwVzc2QmpTYkpnejhfeDJmWkJXQXA1Umt2UDdCMk0wazFhSEdmWjJPT24yV2x2dlFfdmhJcFNFY1d3OXhZaWtiZlhyX3Z",
-      "source": "Telecom Daily",
-      "published_at": "2026-10-22T20:20:17+00:00"
     },
     {
       "category": "telecom",
@@ -68,6 +89,13 @@
       "published_at": "2026-10-22T12:45:23+00:00"
     },
     {
+      "category": "mts",
+      "title": "МТС Exolve автоматизировал коммуникации крупного сервиса онлайн-записи и автоматизации",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeGtidlBoZWFhMW1oRmk1Q3g1M1VocGFZdUE0RWxyMHh0YTlkaGpGdi15ZjI4ZGhvSmFkdGlmQnNZdDhuZXpHQW5ldmRKT0cwREt6d1kwalhyRTU4cWdwVzc2QmpTYkpnejhfeDJmWkJXQXA1Umt2UDdCMk0wazFhSEdmWjJPT24yV2x2dlFfdmhJcFNFY1d3OXhZaWtiZlhyX3Z",
+      "source": "Telecom Daily",
+      "published_at": "2026-10-22T08:50:20+00:00"
+    },
+    {
       "category": "infrastructure",
       "title": "Экономика данных и цифровая трансформация государства (национальный проект)",
       "url": "https://news.google.com/rss/articles/CBMinAVBVV95cUxQNW5ValJYOHNFMzZRcHJzT2toZUtpeUxqcGwzeWZvSi1TNzhOVVptZjI5cXY3aGZSWUM2NTVXSGpoQmFSREpsOEpoSkgzQVRvVkNweVdWa3J4aC1VeHpxUERXdUdwc3lyektXcW5SVzhJX0pQdEd5R0RCUDNEdUJVbV9Id1RpZUtaeF81eE1DVWQ3YTgyejMxWGlaaEhPU0d3aE9",
@@ -77,16 +105,16 @@
     {
       "category": "telecom",
       "title": "Минцифры РФ готовит реформу системы лицензирования в телекоме",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oY1BPTkNvWlRpcnlqTjJjNzVxellscUQ3bWtVLVllQkNuWGxuNHlQNTc0TlZJZnlSdy1rOHp0dmN5aUcxLXZZaHRNd9IBS0FVX3lxTE9oY1BPTkNvWlRpcnlqTjJjNzVxellscUQ3bWtVLVllQkNuWGxuNHlQNTc0TlZJZnlSdy1rOHp0dmN5aUcxLXZZaHRNdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1TENHWWVWRU9lVzhYRkNEZkZiZkp0Mld6dkdCbnAxTEtWQjFTR1NxQ09OV0N6SGxJVEJNcVBuMk9fTGo3WTdrX0ZUT29FalnSAUtBVV95cUxPaGNQT05Db1pUaXJ5ak4yYzc1cXpZbHFEN21rVS1ZZUJDblhsbjR5UDU3NE5WSWZ5Unctazh6dHZjeWlHMS12WWh0TXc?oc=5",
       "source": "Интерфакс",
       "published_at": "2026-10-21T17:28:00+00:00"
     },
     {
       "category": "mts",
       "title": "МТС на треть ускорила интернет в сахалинском Горнозаводске",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Id2FQT2xRSEhGcF81WjR3S3ZWNUNBYmdJdENyRlhYMDlCT25adjM3TktBY3NTS3ZReTRwYjdYU0Y4VWpXemNBT1FZaGt2M1ViZ1pvd245d1Z5TVBPVUIyS19jS3R5eGRBcXFFLWNTdl9SekFvVS1RM2dZMA?oc=5",
-      "source": "CNews.ru",
-      "published_at": "2026-10-21T05:18:11+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrY013a1RXMHlLVkVLaDBEcFg5bUdQTVdCQlQ3cFVHeHpRLWdFOWJfV0dSc29sN3kzM3JNSjd3ZWlYTXVkVng3UWJpSGZfNHM?oc=5",
+      "source": "SakhalinMedia",
+      "published_at": "2026-10-21T06:10:24+00:00"
     },
     {
       "category": "mts",
@@ -101,34 +129,6 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaUM0anZDZFZ3b2I3ZjkzenJwbTREb2M3YlZCajM3bGpsNmxDTjZvVjd5ckJvWFh0ckU2eGRIcDRFQXhLR2xVbGFJbHFaZFlQSHBxRnk5SE5QNUFFdXZjaEFQcHlMMDUwb3pybDQyQ1BRelZYTWwyQkdNUWVEWjd1c0FxLWJ0NXhkZ2hJVGVNbkhuNVpjMHJ4Q0YzNA?oc=5",
       "source": "obltv.ru",
       "published_at": "2026-10-20T09:36:31+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "Опубликована программа SOC Forum 2026: Чэнь Цюфань и два дня об ИИ в бизнесе и кибербезопасности",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd1ZDaTZqaWxNazZEUnJNQ3NmVWI5anhQOC01aVhNc1I4MEpsZDZqOGZObFhxWFR6b0NTSTIwa1V1T09hNnMtWnYzcTVJeVVUakJQZGVDU0dINHUyUzZzd256MVNBVXlEYlhVSW9sUEJfeW1RcEx3UmxNUTZHTjhMQS16VElsT2c0M0NTMWZldG14UTVEcjE1WQ?oc=5",
-      "source": "cisoclub",
-      "published_at": "2026-10-19T20:12:30+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "Российская армия ударила по двум химзаводам, дата-центру и ж/д депо в Киеве // Минобороны: ВС РФ поразили в Киеве предприятия «Химволокно» и «Планета пластик»",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSTZQTm1kMV9xTmZnRFRTVm0wSFNkWlUtellVX2RJblpBN1NsQklRRUIxME04SDZfR0N6YVh5WmRLVWhqc19GaTI1X0JKTDRzTFA1VW5qTHFVRF9EZU8xcjlWMTZxaWI1SjY0dEFTMFhwSHBOc1lSMDVLdkJBRTFjYnE2UEFBc29hakNjR3UwaGlCS3lpbVJIS3dLaXUwUWZ1NVF",
-      "source": "prospect.com.ru",
-      "published_at": "2026-10-19T19:54:57+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС улучшила связь в самом большом районе Мордовии",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcU5BZk9UYjVDSVNZa0pIS1daZU93dkFISkh1ZWxGeUZ5LWN5RExEbWgybHN5eVNMWjdudU9kX3BKa2NIenlrUmlpNTBNWWdXTmFBMGczcTFQS3RkRm9MOEh3bkxadGJkTG52dWI1OHZKckZVQlVBRkJYOTUzbUZuNUYzdnVtQnVSekZxSHhPQUNvdDA?oc=5",
-      "source": "Инфо РМ",
-      "published_at": "2026-10-19T11:04:05+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Скорость мобильного интернета в России выросла почти на 20% после запуска 5G",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DT2hyYVV1aDNwZG5kbzJ5bXRTQkxuVXZwNE5LN1BWMDFKY0wzQzlYN3g1MkRwRHU1RElLRkFYNFdBSjdSSGJtNndjQm9Qc1YwQzIyOXEwTHg3OUJQU29DNjM5ZTdiakc0YmfSAXRBVV95cUxPYzQzTGVZTmdXalBCYl9qcVI0U0RtOFl0c1ZoRzZsUVR2RDJLMnRtRG5OdHJMRll",
-      "source": "dp.ru",
-      "published_at": "2026-10-19T07:21:00+00:00"
     }
   ]
 }
