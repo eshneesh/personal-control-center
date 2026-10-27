@@ -1,15 +1,50 @@
 {
   "version": 1,
-  "generated_at": "2026-10-26T10:04:13+00:00",
+  "generated_at": "2026-10-27T09:47:13+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
     {
+      "category": "telecom",
+      "title": "В России хотят ввести минимальную цену мобильной связи в 250 рублей",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wM182RWJxdEZudVBWVTFhUDhzN19tanV1cWRKbVBSTkxSbXdLQzZXbWxXTmplOXNkYVR0MXdCVEZVeGpnWlFFQTBtaFFqeHF2ZThMbVh1Q0xaakpCLUNyamhSbFMwQm9j?oc=5",
+      "source": "Newsroom24",
+      "published_at": "2026-10-27T06:28:49+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС включила LTE в Белоозерске, селе где наблюдают за краснокнижными птицами",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX0kwcG80dE5vVUg5RWxZSDZqb2xXQ3FIVnB3YlRqcExOUG9NZThVb1FLaUtfbks1TmN0cGZQbGF0M2ZUcGFrd0JDN0JTMHltOFBJcGk2dGNDbEY3Wm1mWVBwb3hKOFk1d2lBQzg2enVlVXFKMjFhQVRwaVRoM1hfc1BCMWk3QW1ERDNkWS15VzVnVElfbmdXaEpMbkg0N293WjF",
+      "source": "Infpol.ru",
+      "published_at": "2026-10-27T06:05:55+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "За недопуск операторов в МКД антимонопольная служба начала возбуждать административные дела",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQWRQc2RpLUVZZUxNQXFJM0M2ajNJbktSUFlrU0xVSVVpemR3UnU4UzMxb2kzWmlxOUJMQkRFVldHYXVHaWVFVkVvNDI2SHZmVF9hQXNoZHNHYkVXVFpGWGlvcVhoZHhhS09fMzBWSW42SzNvdnVjaUxSVXEzSDIyU1RWWmx2cldHZ2J4V1ZkbU1GQlJkd0tjZGJjZ25BNlF6V01",
+      "source": "ComNews.ru",
+      "published_at": "2026-10-26T23:40:44+00:00"
+    },
+    {
       "category": "infrastructure",
-      "title": "Операторы предупредили об угрозе массовых отключений связи в России",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWlFXemUwUWhhcFktX3ZmV3ppWUxLUHl4WUhuaDh2NVQyNW85cUxDUndEa3JUNDVhNFRXME5zRjR5QjFKNC0yZFpFRGV2MmFIY0o3cEU4bHY0TG9RQWQtT29xT244b2tjQVdEYU5TWGxqNFJ2dGMzRzZUdVVoVHFDbFRlLUpDLVhkMW4ya2JaYVRGM2JBYzFVb1NrZERPdDFyVmx",
+      "title": "Операторы связи России попросили увеличить переходный период получения новых лицензий",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdENOWDZER1pDUHFxZ2xWc1djT2d4dExreTVvbFN1T0RLdkZMaGpOSTd3SlZBTktQTzBoNFE4dExsSXJVOE5hV2JIbTNNN1M4OUFCNV8yS2ZzTHBFYW1NMTNqY2ZXR2FfWHk1VUNMLU9RNUpyRktmd0o1Si1JaXJZdWhOUjVBQUl4VmhZam1qcTRGSFJnT3dTTHVXSXNxNTZWMHV",
       "source": "prospect.com.ru",
-      "published_at": "2026-10-25T01:22:54+00:00"
+      "published_at": "2026-10-26T18:13:27+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "Геораспределенность крупных ЦОД с мощными ВОЛС как фактор обеспечения безопасности цифровых данных",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSjVCX2xid3RrR1pKTWItQVhoMzVfX0RfTTgzeXVIdTZvVkRRbWtPNjd3Q2hyOEFlbThFSUdDR1ZaaUticlp0Q3U0RW4xRVRjTDJ5RzV5dWlGNFZkSTZZTUduRUY3U0F6UWVFWWNDLVpjX0VITmJNLWQyaVNWZXVnWGhTWENlV2k0b3RTT3VybEVNSnlsSFVWRnJia2lZWS1MRkh",
+      "source": "J’son & Partners Consulting",
+      "published_at": "2026-10-26T14:59:55+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "Что с МТС сегодня, 25 октября: не работает интернет, нет связи, что делать",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYWN5T3YtNmdha2tkSk1fRlR4SGZwOW9xY3NXQ3Fzc3V3VVY0cjhjNHpRWUxsZDFtOG5YQlBpOFVaLXBIUnVGYzFVY0p0XzFBNldwWVIyZThiREpsaHNUNDZXVHJXOS1hRTJzb3E3eFlZTy02Q0Frbm5CNnFHMldjczBaQzFrSV9OMzhvcllTYkdpWlRvU1hlc0xHVWEycmxCLWY",
+      "source": "Инфо24",
+      "published_at": "2026-10-25T13:25:00+00:00"
     },
     {
       "category": "infrastructure",
@@ -68,20 +103,6 @@
       "published_at": "2026-10-23T07:19:34+00:00"
     },
     {
-      "category": "mts",
-      "title": "МТС в Хабаровске расширила сеть на Ореховой сопке и Чёрной речке",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40eGVDV2YxNjNMU29pdXRGckRMa0F4eW1NNWE1NGhyRV9QSVhaRDdlSzlHRTRjMmxCU3NiZkVxVmRVN1FpaDdDQ05SVUV3R0Vw?oc=5",
-      "source": "Хабаровский край сегодня",
-      "published_at": "2026-10-23T05:46:20+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Телеком готовят к очищению рынка / Экономика",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sRTNYTWdnVlZxakpORnpuWXZKY0ZwWERXaXZsVEJUcjNBYWM3a0wxZkhfbXJhcW9seXFfenR5NWhSTjAySmRYWGZaUXNXcUxsaHhKc2J1RFFvQzhzMlBvdlMyUFJEd291c3c?oc=5",
-      "source": "Независимая газета",
-      "published_at": "2026-10-22T16:54:05+00:00"
-    },
-    {
       "category": "telecom",
       "title": "«Интернет хотят укрепить. Но кто-то может остаться без связи». Почему белгородские провайдеры опасаются реформы, которая может изменить рынок до неузнаваемости",
       "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQV0VNVkhLYlZfTS1PbnptdnFvb2N4aTlwTDFrYm1Lc2twTDJsbzlRWDgwLVAxNzFpcFBPM1FKdnZubkxaUlIxUmNjWnRNWEJ3bFZ0T1JTWVZOXzFNaGtZMldTbGRjVEFZQndPYzhwUk9YeFV2WFlPc3hTZXJ3YVdVemJ0a0lSVExqSzJVa1Bjc29Xc245QUo2a2J5amNnY3k2Vlp",
@@ -96,11 +117,11 @@
       "published_at": "2026-10-22T08:50:20+00:00"
     },
     {
-      "category": "infrastructure",
-      "title": "Экономика данных и цифровая трансформация государства (национальный проект)",
-      "url": "https://news.google.com/rss/articles/CBMinAVBVV95cUxQNW5ValJYOHNFMzZRcHJzT2toZUtpeUxqcGwzeWZvSi1TNzhOVVptZjI5cXY3aGZSWUM2NTVXSGpoQmFSREpsOEpoSkgzQVRvVkNweVdWa3J4aC1VeHpxUERXdUdwc3lyektXcW5SVzhJX0pQdEd5R0RCUDNEdUJVbV9Id1RpZUtaeF81eE1DVWQ3YTgyejMxWGlaaEhPU0d3aE9",
-      "source": "TAdviser",
-      "published_at": "2026-10-22T06:29:07+00:00"
+      "category": "mts",
+      "title": "Размещение облигаций МТС 003P-04: стройка под 5G и дивиденды больше прибыли",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5OTXB3dUdEX1RrakpsY0lSQk9jQlhSa2VJU2w0cmNTbkRxYllYSHRaQ2h0ZWkwQkZPQWVqZFZUeVhtZFNJRDk1cGNBNXZDdw?oc=5",
+      "source": "Smart-Lab",
+      "published_at": "2026-10-22T07:45:00+00:00"
     },
     {
       "category": "telecom",
@@ -108,27 +129,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1TENHWWVWRU9lVzhYRkNEZkZiZkp0Mld6dkdCbnAxTEtWQjFTR1NxQ09OV0N6SGxJVEJNcVBuMk9fTGo3WTdrX0ZUT29FalnSAUtBVV95cUxPaGNQT05Db1pUaXJ5ak4yYzc1cXpZbHFEN21rVS1ZZUJDblhsbjR5UDU3NE5WSWZ5Unctazh6dHZjeWlHMS12WWh0TXc?oc=5",
       "source": "Интерфакс",
       "published_at": "2026-10-21T17:28:00+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС на треть ускорила интернет в сахалинском Горнозаводске",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrY013a1RXMHlLVkVLaDBEcFg5bUdQTVdCQlQ3cFVHeHpRLWdFOWJfV0dSc29sN3kzM3JNSjd3ZWlYTXVkVng3UWJpSGZfNHM?oc=5",
-      "source": "SakhalinMedia",
-      "published_at": "2026-10-21T06:10:24+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС включила 5G в Иркутске",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwZEIxQzAtZUhhLWFjQUNsZTRCVUZ5Mm9JZmc2NGFIbWh1MGpzdkNUTzkwaW5tc2UtU2ZuUTFDWFNHbVY2ZmRuN2VNMUdrV1BCM0c5Tg?oc=5",
-      "source": "Твой Иркутск",
-      "published_at": "2026-10-21T03:43:00+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "В Нижнем Тагиле сообщается о запуске сети 5G оператором связи МТС | ОТВ - Новости",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaUM0anZDZFZ3b2I3ZjkzenJwbTREb2M3YlZCajM3bGpsNmxDTjZvVjd5ckJvWFh0ckU2eGRIcDRFQXhLR2xVbGFJbHFaZFlQSHBxRnk5SE5QNUFFdXZjaEFQcHlMMDUwb3pybDQyQ1BRelZYTWwyQkdNUWVEWjd1c0FxLWJ0NXhkZ2hJVGVNbkhuNVpjMHJ4Q0YzNA?oc=5",
-      "source": "obltv.ru",
-      "published_at": "2026-10-20T09:36:31+00:00"
     }
   ]
 }
