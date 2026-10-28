@@ -1,15 +1,71 @@
 {
   "version": 1,
-  "generated_at": "2026-10-27T09:47:13+00:00",
+  "generated_at": "2026-10-28T10:32:52+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
     {
       "category": "telecom",
-      "title": "В России хотят ввести минимальную цену мобильной связи в 250 рублей",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wM182RWJxdEZudVBWVTFhUDhzN19tanV1cWRKbVBSTkxSbXdLQzZXbWxXTmplOXNkYVR0MXdCVEZVeGpnWlFFQTBtaFFqeHF2ZThMbVh1Q0xaakpCLUNyamhSbFMwQm9j?oc=5",
-      "source": "Newsroom24",
-      "published_at": "2026-10-27T06:28:49+00:00"
+      "title": "«Мегафон» оказался лидером по числу отключений мобильного интернета в России",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMnJPUkFVcVNNcHF0alJ6bWI1XzNRSndERmZqRlI1cWRkdU1aZU10aFRfbnhVMEh5aDhFUkt1VFljdHVPdEJwT1diTzUwYkhzU1BOWS12STZnQUxsTWluekMtcy1pRmE2eTlvNUdTSDlJb0liaXZzUXFCSFczbmFSbGlwaExpZzQzS1B4N2NwRVBtc211QzZaUVozSUNDVmpl?oc",
+      "source": "Вёрстка",
+      "published_at": "2026-10-28T10:03:44+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС прокачала LTE для жителей 203 микрорайона Якутска",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mSVpobjg4aG1WWHhfNHhTQTdrb3BZSmxra1JPS2VIaUY4RjRhTVVEZ1FQaHdWZjlKWFZWZkJZUmYzNW92TGxUY1pJYVNQU0draDllWUJjR2k0Y2xZak1XWnZXVGdDaE4tTlQycUlNUDU3SkJnbDl1b1lhR2RzbGM?oc=5",
+      "source": "ЯСИА",
+      "published_at": "2026-10-28T08:40:07+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Минцифры обсуждает ограничения зарубежного интернет-трафика для пользователей в России",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9xcDlaTlN1aUFNbXhoRUtBWTA3QUNBZzVtRnAydkVkeW14amtLVWFMeE1jalJ0VTJMLTl1eVh5ZWI0RlU?oc=5",
+      "source": "The Insider",
+      "published_at": "2026-10-28T07:23:19+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС Exolve представил контакт-центр нового поколения",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZnVxdHd2WEhyLXZJNTdYcGZ4VVQxc2hBbi04ZzhsaW9ldlZya1B6UWxqYjc4YV9GUWhlTGRfeHFpZU1OU0tDVVd1WkRBX25IMEg4RFIzRl9UUFZuZXBZX255M0VUYldIUE1xVERJcm5GaUo1Y0E0ZF9VOGhXcWpEUUpmamdYZjBNLWJURldkOVM1S29zV2JVYg?oc=5",
+      "source": "Telecom Daily",
+      "published_at": "2026-10-27T22:20:20+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Доменная печь: Минцифры может ввести лимит на потребление зарубежного трафика",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOTVsci1qb1JNS1hDZUJEclExc1Q5a3JVREVjUVE0S0tLWEtySFpPV2JZcldGbUFBd0tEVld6UHZHVDM0T2l0S0NIVklYMXJXZ2FOclRJREtLUXdoQVAtUS0wa2hKZDNQanhRWHBwN0xPaUJIeWdnTzlLdEVac18tcEZpZmRUbzlOdkI0Q2txWjNfR0x4X1JzMWRXSFRET1d3VVd",
+      "source": "Forbes.ru",
+      "published_at": "2026-10-27T21:00:00+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "В России готовят ограничения для виртуальных операторов связи: тарифы могут поднять",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMk9jdEViRWdQa0lSNGlFcE95SWFzdUxyY0RJblN6RWY1SjVPZF9RN3VFWWVmbE9IRThpNWVQamg5NWprWkpQbUloMkZtNEtRTHJHeWVLYWFGRzRNd3dZWkdFNjhBRnl6TzlPU3BOeDFVcV9ZTDduTnJNdjRBVXF5NG5tTVFUSFFLakpkNTN5U0lDeVFnay1qZEhrM004aWdMUFp",
+      "source": "prospect.com.ru",
+      "published_at": "2026-10-27T18:12:01+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "От города до спутника: в России разработали алгоритмы для улучшения беспроводной связи",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdUxISzJickZ3OUc1Zk1oaFJKRHJ3dFYtZ0FtalNVSTQyZm9Pa1F5MXJmWkE1LVBEOV96ejRRcE5oMm8zRDhCckdRaW1CTW9qUmpZNjJsNGZxOEV0cHZlTEZsWTFTS3RWcVduOG96Q0cyM1NmWHA2MnR5d3lMTmJYNFNRX1RmUkxPYWlNVjhxa091VDlQNC1aVExhR1dqeTI4VEE",
+      "source": "prospect.com.ru",
+      "published_at": "2026-10-27T16:32:01+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "ИИ сделает привычных кибербезопасников ненужными. Добро пожаловать на стройки ЦОДов",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZkswZWtBdEE5enJzRjJ0SDU5RlJwME5qRGJ4Q2VUMHpLRjM3RTJiUGFBYllOQnVlM29acFdhd2pnRHVFSHVGWDhYWGZSeUd0cmJlbUszcncwYjJKMXRnTHBSeHJxYWRBN0dXVmFqelBWS3FibUVmWmJQc3MwOUZUOFVLUkh6RTBOQmdBa1pObUJTQ1FhS05XMm1UWWxZTHUxcEh",
+      "source": "Incrussia",
+      "published_at": "2026-10-27T11:31:12+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "Глава «Ростелекома» допустил появление ЦОДов на малых ядерных реакторах в РФ",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdHFHTG9xcFpCcFlLdXhTUThER1RtTTdtWWlJRE1WVmtpZ0ZKdXJvVHpXLVJGYmdyZmFBRXdHazNXU3lOcmRwaUtWeHMtcExmcjkwQzRtNGJOQkNqMUhBMWVxTHdZQm9jVTBnLXR1Q0xmb2stS1g2a3VBd2pOeGRFWmtTa1J5SXdpOXc?oc=5",
+      "source": "Techora.ru",
+      "published_at": "2026-10-27T10:37:34+00:00"
     },
     {
       "category": "mts",
@@ -20,17 +76,31 @@
     },
     {
       "category": "telecom",
+      "title": "«Ъ»: Бесплатную связь виртуальных операторов могут заменить тарифами от 250 рублей",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RMzluaXhqbkk2LWF2Qy1CZUhURHMzYnpwbXdyZzJydmMyc05qS3RUZ3V0YjZJNmlVdkhEREg5TWVRcWFLLTh3R19LQmdGTUk4UDNTa9IBU0FVX3lxTE9LTU1TZzZ2bGhCUzR4RS1TYk9XWTNiTmtvaGl6S0kya1BSb3NyTk5PVWhudFZIdFRLa2hBOVBvRWcxY0cxZTltc1BLRjl",
+      "source": "БИЗНЕС Online",
+      "published_at": "2026-10-27T06:05:00+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "Сеть от МТС появилась в Блинах и Красном Береге",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZzVaaExGTUVCb3pPcUFxcktRbER0cG1NX3Q5Z2xaNHRQZW5QUEphNGVuREZwQVVmM3RuTVJEMzItVDk2aThJc2pOVklVUHFHemg0Y2xTaV9NR1FEWm9lRF9LSHNjQi1McU42Um5tbXVENU9KRXpLamt3TVJwMHpJTkhUdnBhQQ?oc=5",
+      "source": "Новости Кунгурского округа",
+      "published_at": "2026-10-27T04:56:42+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "«СберМобайл» достиг 7,5 млн: как банковские MVNO меняют рынок мобильной связи",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeXltTkxNQ0o2OW9CM1dQcTZyTG5mZHlKVWFVdzZ4dUl6b1licW05elo1TW9XRjZrU2pJTVZqZHlwanoyelhZT1dwNjFzZFJSQmM5QmU0SnhEQTdXN1FpUGJha2M1U1ZzS25sekItTm5HWllILXNTY2dqbGVMQnhWLWtZS2txaTNtaktCa2g4RG9pX2Zwc0hkc2ZmRFdJQll1c1F",
+      "source": "Telecom Daily",
+      "published_at": "2026-10-27T01:42:08+00:00"
+    },
+    {
+      "category": "telecom",
       "title": "За недопуск операторов в МКД антимонопольная служба начала возбуждать административные дела",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQWRQc2RpLUVZZUxNQXFJM0M2ajNJbktSUFlrU0xVSVVpemR3UnU4UzMxb2kzWmlxOUJMQkRFVldHYXVHaWVFVkVvNDI2SHZmVF9hQXNoZHNHYkVXVFpGWGlvcVhoZHhhS09fMzBWSW42SzNvdnVjaUxSVXEzSDIyU1RWWmx2cldHZ2J4V1ZkbU1GQlJkd0tjZGJjZ25BNlF6V01",
       "source": "ComNews.ru",
       "published_at": "2026-10-26T23:40:44+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "Операторы связи России попросили увеличить переходный период получения новых лицензий",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdENOWDZER1pDUHFxZ2xWc1djT2d4dExreTVvbFN1T0RLdkZMaGpOSTd3SlZBTktQTzBoNFE4dExsSXJVOE5hV2JIbTNNN1M4OUFCNV8yS2ZzTHBFYW1NMTNqY2ZXR2FfWHk1VUNMLU9RNUpyRktmd0o1Si1JaXJZdWhOUjVBQUl4VmhZam1qcTRGSFJnT3dTTHVXSXNxNTZWMHV",
-      "source": "prospect.com.ru",
-      "published_at": "2026-10-26T18:13:27+00:00"
     },
     {
       "category": "infrastructure",
@@ -48,87 +118,17 @@
     },
     {
       "category": "infrastructure",
+      "title": "Операторы предупредили об угрозе массовых отключений связи в России",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWlFXemUwUWhhcFktX3ZmV3ppWUxLUHl4WUhuaDh2NVQyNW85cUxDUndEa3JUNDVhNFRXME5zRjR5QjFKNC0yZFpFRGV2MmFIY0o3cEU4bHY0TG9RQWQtT29xT244b2tjQVdEYU5TWGxqNFJ2dGMzRzZUdVVoVHFDbFRlLUpDLVhkMW4ya2JaYVRGM2JBYzFVb1NrZERPdDFyVmx",
+      "source": "prospect.com.ru",
+      "published_at": "2026-10-25T01:22:54+00:00"
+    },
+    {
+      "category": "infrastructure",
       "title": "В России усиливают защиту дата-центров после атак беспилотников на ЦОДы",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc3BILWJXdDctU2VfdlZxS2taZnF0TldSdTNNdVVtb0RZQjNUWnlSLVNYSkFOcmZLc2ZwQ1R5YXFjTGk4Y0Z4UlE1Vm53R3Q2MFR3X1NVeTV1VHJ6QVBDRjNVRlBhZVJObndaVTdidmluTjgyRW9Ub2JMWjFGaHc2OU9NdGlyT1k?oc=5",
       "source": "35медиа",
       "published_at": "2026-10-23T13:22:42+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС первой запустила связь в местах легендарной экспедиции Арсеньева",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42RWktT1RjTUk3WFZxY0ZPaXZ6QUxwMmhueFJWaHViVzFqd29CS3lYb3oyRlM2aHRtajVOOWhCTUdsNkloNTVYSHM4dnVrdi1zU2RZck1OQVFpcktQV0EwUjhLWGJ1OFRQNnBQajVnX05GRU1NYjVJ?oc=5",
-      "source": "CNews.ru",
-      "published_at": "2026-10-23T10:46:03+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Украина атаковала российскую телефонную компанию. Есть погибшие",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqWGR3NTlJa1BSLTBtVmVpVGZwNHBJUzNNLVdfWDlGeExYMjJWS196bVA2UzFxT2o4ZnZJWElfZU1BNngzM2l5ZzkzWFRVODhjSzZvX24yT19QQTJwQ1FNblZ4UTRiek1GYmtHOEwxcmdWZUIzRXdDeFlR?oc=5",
-      "source": "CNews.ru",
-      "published_at": "2026-10-23T09:20:25+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "МИД России: между Москвой и НАТО существует канал связи",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS293clhRNlR2SVBmYUFvZ1UyNUhIMUYtV2duZnVXT2hBcVlISFRpY1pmTTdOdmRwYzBOMFVnYUt3MkRaNGpscWdjbWFXckFpMXplNy1KckdRaF9IbldkQ21BVl9waWtmcEVnSE9YaHdCQVBHMXlNUmhFbTdNTFJUOVhPMXdQZGlPMHhCNkRVTE8tZmQyTU5QQ2lZMVczVmZn?oc",
-      "source": "prospect.com.ru",
-      "published_at": "2026-10-23T09:12:24+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Операторы предупредили о рисках для связи из-за правил ГКРЧ на 2028 год",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaDNqeG5iY0dSMVVZSk9IeEFTTXhqcVpUZlJNVXJMeUFBQ3JBdzFCWmNZclE4V2VkWUM4RnRDN0pSTDhOUWNNMENtV0NpMjdnV1V3TGZTVXh4MmVEeUFZZEd5ZzJEZWRZQzZkVWtSMm03YVQtLWVIOWlMdnl0MzRMNjljX3ZiMEl1VEVoRGppNEtGcW5EOGVCUkY0TFJacllVa0h",
-      "source": "Telecom Daily",
-      "published_at": "2026-10-23T07:57:48+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "🌐 Операторы предупредили о риске массового отключения мобильной связи в 2028 году",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53OF8zcEc1dXBlMXlqWmlGckd3dXNUcG9zNHVMV25CMS1KRVl0QWtFQnF0cWRvSGJyN2VXNko5d2MwQ1JYTV9pTVpZd3gwZw?oc=5",
-      "source": "Клерк.ру",
-      "published_at": "2026-10-23T07:36:00+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС запустила LTE в селе памяти о переселенцах в Чурапчинском улусе",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON2VfVzM2Mk1ZaUZyY0k4OTdxM3FRbVN1dThMYlRUNUcwbmE0bW04SGY3b2RHZUh4MklXa0ZGQ0hFa29ZOG9yS19YNUN2SUFUUElRX2RDQURvY1RLTmcwSG0xNVlVNnRETkZ2dDhUSDdUVXJyR251XzliV1dzQndqakhuQTlGck5sQm5USkJ5UQ?oc=5",
-      "source": "ЯСИА",
-      "published_at": "2026-10-23T07:31:53+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "ВС РФ поразили мост Южный в Киеве",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQclpQVWxqR3lLbUlYUk1YX3U1OHgweEJxT1Z3ZXFIMU9Gdk04bmlWcTdYQXlNS1dVUFIwV3hoY2hzSHRoNXZJWmstc2VWOGlwWm9TeFUxdzB0ZGVseFRfdWNhLUtXamdHTWw2dTFqQlRnV3pyRHF0QTljWXVtNDdLUFZR?oc=5",
-      "source": "prospect.com.ru",
-      "published_at": "2026-10-23T07:19:34+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "«Интернет хотят укрепить. Но кто-то может остаться без связи». Почему белгородские провайдеры опасаются реформы, которая может изменить рынок до неузнаваемости",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQV0VNVkhLYlZfTS1PbnptdnFvb2N4aTlwTDFrYm1Lc2twTDJsbzlRWDgwLVAxNzFpcFBPM1FKdnZubkxaUlIxUmNjWnRNWEJ3bFZ0T1JTWVZOXzFNaGtZMldTbGRjVEFZQndPYzhwUk9YeFV2WFlPc3hTZXJ3YVdVemJ0a0lSVExqSzJVa1Bjc29Xc245QUo2a2J5amNnY3k2Vlp",
-      "source": "Fonar.tv",
-      "published_at": "2026-10-22T12:45:23+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС Exolve автоматизировал коммуникации крупного сервиса онлайн-записи и автоматизации",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeGtidlBoZWFhMW1oRmk1Q3g1M1VocGFZdUE0RWxyMHh0YTlkaGpGdi15ZjI4ZGhvSmFkdGlmQnNZdDhuZXpHQW5ldmRKT0cwREt6d1kwalhyRTU4cWdwVzc2QmpTYkpnejhfeDJmWkJXQXA1Umt2UDdCMk0wazFhSEdmWjJPT24yV2x2dlFfdmhJcFNFY1d3OXhZaWtiZlhyX3Z",
-      "source": "Telecom Daily",
-      "published_at": "2026-10-22T08:50:20+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "Размещение облигаций МТС 003P-04: стройка под 5G и дивиденды больше прибыли",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5OTXB3dUdEX1RrakpsY0lSQk9jQlhSa2VJU2w0cmNTbkRxYllYSHRaQ2h0ZWkwQkZPQWVqZFZUeVhtZFNJRDk1cGNBNXZDdw?oc=5",
-      "source": "Smart-Lab",
-      "published_at": "2026-10-22T07:45:00+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Минцифры РФ готовит реформу системы лицензирования в телекоме",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1TENHWWVWRU9lVzhYRkNEZkZiZkp0Mld6dkdCbnAxTEtWQjFTR1NxQ09OV0N6SGxJVEJNcVBuMk9fTGo3WTdrX0ZUT29FalnSAUtBVV95cUxPaGNQT05Db1pUaXJ5ak4yYzc1cXpZbHFEN21rVS1ZZUJDblhsbjR5UDU3NE5WSWZ5Unctazh6dHZjeWlHMS12WWh0TXc?oc=5",
-      "source": "Интерфакс",
-      "published_at": "2026-10-21T17:28:00+00:00"
     }
   ]
 }
