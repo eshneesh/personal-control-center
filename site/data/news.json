@@ -1,15 +1,36 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T10:52:15+00:00",
+  "generated_at": "2026-10-30T10:50:47+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
+    {
+      "category": "telecom",
+      "title": "Свет в конце канала: каковы коммерческие перспективы TEA Next",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYnZCSi1PQXN1SUZnYkhzN0tlelBoRE5meWZWYUVsOHNJWXZJOVN0RHdhNXZkWU5GZUVzSWZmQU9tVDNnR0dHVDl3ZGZTal9Nb1Noc2wzVjhBWTdoZ3NfajdkWERoR2czbk5vQU54bHRvWGFnTmo0Z3N0aTlrOEVzQmhGOTZNeE9ucERvYngyOVBzRmVZSXlXZkdIYUVPZDFjU0h",
+      "source": "Ведомости",
+      "published_at": "2026-10-29T21:05:00+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Минцифры РФ предлагает блокировать сим-карты мошенников и ограничить оформление новых",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9FY3ZjUUtJU1JjNkJzeDJXMEhXS1VtNkVNa25Rb3dzME84bU1OOFhSNXZBYVhpTy1wcGRhLUQtSjJsTkVXR1RTSnFCQdIBS0FVX3lxTE9FY3ZjUUtJU1JjNkJzeDJXMEhXS1VtNkVNa25Rb3dzME84bU1OOFhSNXZBYVhpTy1wcGRhLUQtSjJsTkVXR1RTSnFCQQ?oc=5",
+      "source": "Интерфакс",
+      "published_at": "2026-10-29T17:48:00+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС открыла набор технологических решений для задач бизнеса",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XNnNJQ196Nk05LXViLTFvSnZ5VHhJcUtaeFdLTG5VTmt2bEdyczU3U3BXWl9JTm5VUXVqXzIxQzZ2cXRLOGd2eFphUHJfT0ZobllaZG84c2lGVDltMW9IVmd2VUlzcEJfTU5adU1B?oc=5",
+      "source": "ФОНТАНКА.ру",
+      "published_at": "2026-10-29T12:42:27+00:00"
+    },
     {
       "category": "infrastructure",
       "title": "Кухарук анонсировал строительство крупных центров обработки данных в ХМАО",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSFVDQjROc1htY2gwd2pSdTNnZUZLcWRrWFFmZWtrZGdOa2x2OWFPZG1ULW4wTms4cFAxQXpQUDMxSWlUanYxWXpzeFR5alpldUliR1VQMUZicmRUTUU0SmRZR2s3YVJuZDNaRlZ1dmRXZXVUazU5Sm91T29MUnZkckdaT0dLaDZ4b09OU0VGd0F6Y0RIdmF5THo0WE5Wemkxc05",
       "source": "prospect.com.ru",
-      "published_at": "2026-10-29T08:14:35+00:00"
+      "published_at": "2026-10-29T10:14:40+00:00"
     },
     {
       "category": "infrastructure",
@@ -19,18 +40,25 @@
       "published_at": "2026-10-28T19:02:00+00:00"
     },
     {
-      "category": "infrastructure",
-      "title": "Группа компаний «СПБ» выстраивает «Мосты безопасности» со своими партнёрами и представляет рынку новые решения",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFByY0Y4VnZtLW1reWxzR2FEbVhEdU5VOFMtc1diVFNWQThURURBVWNvOUliVmh6RlB3Y3JiSDRpUFdNU1l5MzlveUQwdExDQVF3ZVBXMmxkTVhxa01xVG5Lc1hMYWhhSnd2QW1LMkZrM2xNQQ?oc=5",
-      "source": "Пресс-релиз.ру",
-      "published_at": "2026-10-28T18:27:44+00:00"
+      "category": "telecom",
+      "title": "В России могут ограничить зарубежный интернет-трафик",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObFJmeHZndTVlOVo5SF9Nc3B3OW42bll3cThUc0VQQk04eVB4ajVOV1hnNnZOOGRTcTNrMk9hLWxpVm13R2J4Zkh4NElQMzN5SVVNNnJhOWR5WERPaVZfTzBiNVU3M09Pa1NMc3c5a3VJekwwNGY1ZzJ4c2p6b3h6QWw3NVhpSTQ?oc=5",
+      "source": "Incrussia",
+      "published_at": "2026-10-28T11:05:43+00:00"
     },
     {
       "category": "infrastructure",
       "title": "Китайские исследователи достигли 3,2 Пбит/с при двусторонней передаче данных по оптоволокну",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRE9qcG0yRk53RVBKOVp1aXZxdzROTjlWSHlteFJNak5fTHo2bmYtYjAxSVJIOUM1TGx2ejdreng2WVg1ZnJoRFNuUDBGQ3YyazFJa2NlQi1xYW5sU255cll3NGtZSTh6b0R6N21JY3Y4TzFKNnkzOV9KaVQ1Y0lzeG9vZWdxTlp5QzdfREllMV9Xdi1NaDRyaUJ1RDFqTW5tNmF",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORWZUM1Yxbm5PY1FMWEhBbE1mbGR2ZGQxX2V1VThvdUFydXFIcFB4aVh5MjFSN3luUF9WNl9mRmJTUlhXLXgxOUtLM3NIeGZTOW5iaXh4V0FnelNPSzBXdlU4NWMzRFpnY19XZlF6ZlcxdHRJY3JDLVRBNE5kdjhpWERkUGg?oc=5",
       "source": "Hardwareluxx Russia",
       "published_at": "2026-10-28T10:45:36+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "К началу работы подъёмников в Шерегеше развернули новое покрытие LTE",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUFp3QTJuR2RGRnhDZWR0Mkh4MUpXNmVDZl9rcGNYUWdMcjRvdnM5Y1FWR2FRR1VhQ1BHdkhwNEtaV05WbTUzRzVycTFYRk5ySUtIdGVRR1ZOU1dCNU9UVUYwYzVieGxHSlhsT3AwYXo4VV9DSXhUaXo2bnVjTTJYWm1NWV9pTEZqYUtyazlFU0hNWlg2cmRzVjdvRHNtaEFEU1J",
+      "source": "gazeta@a42",
+      "published_at": "2026-10-28T09:41:54+00:00"
     },
     {
       "category": "mts",
@@ -38,6 +66,27 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mSVpobjg4aG1WWHhfNHhTQTdrb3BZSmxra1JPS2VIaUY4RjRhTVVEZ1FQaHdWZjlKWFZWZkJZUmYzNW92TGxUY1pJYVNQU0draDllWUJjR2k0Y2xZak1XWnZXVGdDaE4tTlQycUlNUDU3SkJnbDl1b1lhR2RzbGM?oc=5",
       "source": "ЯСИА",
       "published_at": "2026-10-28T08:40:07+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Минцифры снова обсуждает введение лимита на зарубежный интернет-трафик",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeGRHendWaDZpdXgwdmJlemtDUHFmRG5hdjE2SmgtczRuR1ZSbnJicF9fSkJ2S3lDdXlTYlhyYUlvM1N0UlRfb09uUEtUNFRHb2c5ekZQWGl3cktiTlRyZlBENzJlRFlzMVl6VTgwTUdyU284aXY0c2xCdWVEcjl2bXRjQnE0UGR1ekU0RTd0b1FpSWJYaU9ZWDJpXzEzOGpIelp",
+      "source": "RB.RU",
+      "published_at": "2026-10-28T07:59:00+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "«Ростелеком» автоматизировал работу поставщика в личном кабинете интернет-магазина для операторов связи",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BVWFJSGFBWEUwbFJJVnJqUHEyV0RRUV9VUktRN0FBVmdmY3BZMXFLYTRjQ05Fc3d3Snk0SDlYcUxNSFlmSU9FYS1xYkpkMVQydW1sTEo4aXRTSTZoWXdEQlRPT1lQcTdkVWFXQ29qLXhBczE0a2lZ?oc=5",
+      "source": "CNews.ru",
+      "published_at": "2026-10-28T07:56:52+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Минцифры обсуждает ограничения зарубежного интернет-трафика для пользователей в России",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9xcDlaTlN1aUFNbXhoRUtBWTA3QUNBZzVtRnAydkVkeW14amtLVWFMeE1jalJ0VTJMLTl1eVh5ZWI0RlU?oc=5",
+      "source": "The Insider",
+      "published_at": "2026-10-28T07:23:19+00:00"
     },
     {
       "category": "mts",
@@ -55,17 +104,17 @@
     },
     {
       "category": "infrastructure",
+      "title": "От города до спутника: в России разработали алгоритмы для улучшения беспроводной связи",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdUxISzJickZ3OUc1Zk1oaFJKRHJ3dFYtZ0FtalNVSTQyZm9Pa1F5MXJmWkE1LVBEOV96ejRRcE5oMm8zRDhCckdRaW1CTW9qUmpZNjJsNGZxOEV0cHZlTEZsWTFTS3RWcVduOG96Q0cyM1NmWHA2MnR5d3lMTmJYNFNRX1RmUkxPYWlNVjhxa091VDlQNC1aVExhR1dqeTI4VEE",
+      "source": "prospect.com.ru",
+      "published_at": "2026-10-27T16:32:01+00:00"
+    },
+    {
+      "category": "infrastructure",
       "title": "ИИ сделает привычных кибербезопасников ненужными. Добро пожаловать на стройки ЦОДов",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZkswZWtBdEE5enJzRjJ0SDU5RlJwME5qRGJ4Q2VUMHpLRjM3RTJiUGFBYllOQnVlM29acFdhd2pnRHVFSHVGWDhYWGZSeUd0cmJlbUszcncwYjJKMXRnTHBSeHJxYWRBN0dXVmFqelBWS3FibUVmWmJQc3MwOUZUOFVLUkh6RTBOQmdBa1pObUJTQ1FhS05XMm1UWWxZTHUxcEh",
       "source": "Incrussia",
       "published_at": "2026-10-27T11:31:12+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС провела высокоскоростной интернет в кластер «Образовательный» долины МГУ",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeXYyQ2RJa0N5aEsyd3ZteVNMZm5tZHVJRHBjMDdoVzBDS0dfQ3hxWW9INGphbWdQcEZKSkF4bXJhLTM0VlNhRjU5TFEzVkRoZ0UwNXdjRnZhY0RHQWFFSEdwTjRxbmxyUVE3VUlORUJaVDNDMGhrZ19Uc2tlTFAzR1dEMkctcHQ5ZGdkTlhnSkEzR2dsVlBuUU95V1RadnZja0p",
-      "source": "ICT-Online.ru",
-      "published_at": "2026-10-27T10:51:29+00:00"
     },
     {
       "category": "infrastructure",
@@ -75,60 +124,11 @@
       "published_at": "2026-10-27T10:37:34+00:00"
     },
     {
-      "category": "telecom",
-      "title": "Минцифры готовит ограничения для виртуальных операторов связи",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKYk9ZZXJiM2RWemJ0M00zc0ttd2tiVG0yMGVOQXVIQXd5LS01bGFRS1A4LWY4S0YxY1lnQ255S0d4c0wwZktBbXVNNG1ONlMteWY2OTlnMEHSAVhBVV95cUxQSmJPWWVyYjNkVnpidDNNM3NLbXdrYlRtMjBlTkF1SEF3eS0tNWxhUUtQOC1mOEtGMWNZZ0NueUtHeHNMMGZLQW1",
-      "source": "Хабр",
-      "published_at": "2026-10-27T09:19:49+00:00"
-    },
-    {
       "category": "mts",
       "title": "МТС включила LTE в Белоозерске, селе где наблюдают за краснокнижными птицами",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX0kwcG80dE5vVUg5RWxZSDZqb2xXQ3FIVnB3YlRqcExOUG9NZThVb1FLaUtfbks1TmN0cGZQbGF0M2ZUcGFrd0JDN0JTMHltOFBJcGk2dGNDbEY3Wm1mWVBwb3hKOFk1d2lBQzg2enVlVXFKMjFhQVRwaVRoM1hfc1BCMWk3QW1ERDNkWS15VzVnVElfbmdXaEpMbkg0N293WjF",
       "source": "Infpol.ru",
       "published_at": "2026-10-27T06:05:55+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "Геораспределенность крупных ЦОД с мощными ВОЛС как фактор обеспечения безопасности цифровых данных",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSjVCX2xid3RrR1pKTWItQVhoMzVfX0RfTTgzeXVIdTZvVkRRbWtPNjd3Q2hyOEFlbThFSUdDR1ZaaUticlp0Q3U0RW4xRVRjTDJ5RzV5dWlGNFZkSTZZTUduRUY3U0F6UWVFWWNDLVpjX0VITmJNLWQyaVNWZXVnWGhTWENlV2k0b3RTT3VybEVNSnlsSFVWRnJia2lZWS1MRkh",
-      "source": "J’son & Partners Consulting",
-      "published_at": "2026-10-26T14:59:55+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "Что с МТС сегодня, 25 октября: не работает интернет, нет связи, что делать",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYWN5T3YtNmdha2tkSk1fRlR4SGZwOW9xY3NXQ3Fzc3V3VVY0cjhjNHpRWUxsZDFtOG5YQlBpOFVaLXBIUnVGYzFVY0p0XzFBNldwWVIyZThiREpsaHNUNDZXVHJXOS1hRTJzb3E3eFlZTy02Q0Frbm5CNnFHMldjczBaQzFrSV9OMzhvcllTYkdpWlRvU1hlc0xHVWEycmxCLWY",
-      "source": "Инфо24",
-      "published_at": "2026-10-25T13:25:00+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Где в России самый быстрый интернет",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1DbFFhZDBrWHBLZ0tYaEFueEdyYVpYSWJXZ29TemZHak5yOE9kMFF5ejc3OGZaSjcydnhPZ01WTDYzUUh2cGJqUk9B?oc=5",
-      "source": "Т—Ж",
-      "published_at": "2026-10-25T07:00:00+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "В России усиливают защиту дата-центров после атак беспилотников на ЦОДы",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc3BILWJXdDctU2VfdlZxS2taZnF0TldSdTNNdVVtb0RZQjNUWnlSLVNYSkFOcmZLc2ZwQ1R5YXFjTGk4Y0Z4UlE1Vm53R3Q2MFR3X1NVeTV1VHJ6QVBDRjNVRlBhZVJObndaVTdidmluTjgyRW9Ub2JMWjFGaHc2OU9NdGlyT1k?oc=5",
-      "source": "35медиа",
-      "published_at": "2026-10-23T13:22:42+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Украина атаковала российскую телефонную компанию. Есть погибшие",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqWGR3NTlJa1BSLTBtVmVpVGZwNHBJUzNNLVdfWDlGeExYMjJWS196bVA2UzFxT2o4ZnZJWElfZU1BNngzM2l5ZzkzWFRVODhjSzZvX24yT19QQTJwQ1FNblZ4UTRiek1GYmtHOEwxcmdWZUIzRXdDeFlR?oc=5",
-      "source": "CNews.ru",
-      "published_at": "2026-10-23T09:20:25+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Операторы предупредили о рисках для связи из-за правил ГКРЧ на 2028 год",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaDNqeG5iY0dSMVVZSk9IeEFTTXhqcVpUZlJNVXJMeUFBQ3JBdzFCWmNZclE4V2VkWUM4RnRDN0pSTDhOUWNNMENtV0NpMjdnV1V3TGZTVXh4MmVEeUFZZEd5ZzJEZWRZQzZkVWtSMm03YVQtLWVIOWlMdnl0MzRMNjljX3ZiMEl1VEVoRGppNEtGcW5EOGVCUkY0TFJacllVa0h",
-      "source": "Telecom Daily",
-      "published_at": "2026-10-23T07:57:48+00:00"
     }
   ]
 }
