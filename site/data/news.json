@@ -1,9 +1,37 @@
 {
   "version": 1,
-  "generated_at": "2026-10-30T10:50:47+00:00",
+  "generated_at": "2026-10-31T10:21:46+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
+    {
+      "category": "telecom",
+      "title": "Телеком-операторы отложат до 13 ноября блокировку звонков из банков за отсутствие маркировки",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9YWll0M3pZU3MzOTVRR3RDc0pZYkhGYkVUM2Jaa0RkM0VaUjQ0ZHplMDdXQ250RHZkTlNkUUdqcElVTkFCbXhYNmJuNNIBS0FVX3lxTE9YWll0M3pZU3MzOTVRR3RDc0pZYkhGYkVUM2Jaa0RkM0VaUjQ0ZHplMDdXQ250RHZkTlNkUUdqcElVTkFCbXhYNmJuNA?oc=5",
+      "source": "Интерфакс",
+      "published_at": "2026-10-30T15:44:00+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Телеком-операторы РФ отложат до 13 ноября блокировку звонков из банков за отсутствие маркировки",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vcHZ2Qm5LZ01oTmNTTFlLT3JBLUh4SjRnLUd5Tl9OemxLUnhjZnRsc1ZQVXBjT2NkSmY0RUpHeHcyVlpfc215MXZTN3N6Y2dDMmRz?oc=5",
+      "source": "pro.finansy",
+      "published_at": "2026-10-30T15:40:00+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "В России могут ограничить зарубежный интернет квотой: что это значит для пользователей",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zSlNkeVcxNEViSmktTndNeUs4a3lla1RjbHQxTExQUkdUMzF4Zm4zR245UmJTVW95QmRuVjJTZEY5aW9QOWpISE1ISE1pSU02ZF9LaVJqdHNhQjlFUVdsNA?oc=5",
+      "source": "УралПолит.ру",
+      "published_at": "2026-10-30T12:02:00+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС обновила связь в районе «Михайловских казарм» в историческом центре Оренбурга",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWS1LRDMxVWY1ZUdmcVZSRVBhb1hlbnNfTExrY0pOS0JacjF1RVEtMXBIYjJPZGthZklGSE9iY3ZweWlydDc0T1ZaazdyZUZCWkZTQnpvWVI4enJOZjdWNURIS1gzRWVDUTh3LUc4U3NNZnpoMGdteWo4RVNVTFdPVjlVLUJUUzYzNjNFRXVueTNtSkQ5eE9YQy0zYUoyaTY1NlV",
+      "source": "56orb.ru",
+      "published_at": "2026-10-30T11:28:35+00:00"
+    },
     {
       "category": "telecom",
       "title": "Свет в конце канала: каковы коммерческие перспективы TEA Next",
@@ -12,18 +40,18 @@
       "published_at": "2026-10-29T21:05:00+00:00"
     },
     {
-      "category": "telecom",
-      "title": "Минцифры РФ предлагает блокировать сим-карты мошенников и ограничить оформление новых",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9FY3ZjUUtJU1JjNkJzeDJXMEhXS1VtNkVNa25Rb3dzME84bU1OOFhSNXZBYVhpTy1wcGRhLUQtSjJsTkVXR1RTSnFCQdIBS0FVX3lxTE9FY3ZjUUtJU1JjNkJzeDJXMEhXS1VtNkVNa25Rb3dzME84bU1OOFhSNXZBYVhpTy1wcGRhLUQtSjJsTkVXR1RTSnFCQQ?oc=5",
-      "source": "Интерфакс",
-      "published_at": "2026-10-29T17:48:00+00:00"
-    },
-    {
       "category": "mts",
       "title": "МТС открыла набор технологических решений для задач бизнеса",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XNnNJQ196Nk05LXViLTFvSnZ5VHhJcUtaeFdLTG5VTmt2bEdyczU3U3BXWl9JTm5VUXVqXzIxQzZ2cXRLOGd2eFphUHJfT0ZobllaZG84c2lGVDltMW9IVmd2VUlzcEJfTU5adU1B?oc=5",
       "source": "ФОНТАНКА.ру",
       "published_at": "2026-10-29T12:42:27+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "8 самых дешевых тарифов связи осенью 2026 года",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83NkRvdExpNTZMU3AtMTJrVHlNMTVYRnlPMFZlVzVNZHJMV1laMU5rODIyMFJ1UVVFRTRhRHN6ZC0ydWFXdGZlajN2aw?oc=5",
+      "source": "Т—Ж",
+      "published_at": "2026-10-29T10:40:36+00:00"
     },
     {
       "category": "infrastructure",
@@ -34,17 +62,10 @@
     },
     {
       "category": "infrastructure",
-      "title": "Промышленность будущего: эпоха умных ЦОДов",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LZDFDd25XMzhIMFRzZVBuRmJuSDVZVjJqWGo5NkQ4cFI5X0NLOVZIVnZURy1pdEhZa05CQ0RFN3lrcHZ0NnpNT1VlaVBvVWZXTnpqdnNB?oc=5",
-      "source": "Энергетика и промышленность России",
-      "published_at": "2026-10-28T19:02:00+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "В России могут ограничить зарубежный интернет-трафик",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObFJmeHZndTVlOVo5SF9Nc3B3OW42bll3cThUc0VQQk04eVB4ajVOV1hnNnZOOGRTcTNrMk9hLWxpVm13R2J4Zkh4NElQMzN5SVVNNnJhOWR5WERPaVZfTzBiNVU3M09Pa1NMc3c5a3VJekwwNGY1ZzJ4c2p6b3h6QWw3NVhpSTQ?oc=5",
-      "source": "Incrussia",
-      "published_at": "2026-10-28T11:05:43+00:00"
+      "title": "Группа компаний «СПБ» выстраивает «Мосты безопасности» со своими партнёрами и представляет рынку новые решения",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFByY0Y4VnZtLW1reWxzR2FEbVhEdU5VOFMtc1diVFNWQThURURBVWNvOUliVmh6RlB3Y3JiSDRpUFdNU1l5MzlveUQwdExDQVF3ZVBXMmxkTVhxa01xVG5Lc1hMYWhhSnd2QW1LMkZrM2xNQQ?oc=5",
+      "source": "Пресс-релиз.ру",
+      "published_at": "2026-10-28T18:27:44+00:00"
     },
     {
       "category": "infrastructure",
@@ -55,17 +76,17 @@
     },
     {
       "category": "mts",
+      "title": "Пользователи инвестировали в «МТС Накопления» около 30 млрд рублей",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOTgyZFVkaGtnY1pyNVNXTFY4OHdqeldpQmZPLWZCLTl3LW91cDZ6U3I4a0lqWlhWYVA4d19yZDg0Nnp4TEJHdHItdTBaN3V6aTRoLUZjTnZ1ZWpqRDJsd251ZWJnWVdtRmx4T3J0aXFmYXpyWmlkMGlrdXZKOWU5UVdnQ1I1Y2kyNEV0dG5YMXlObHVfdXkxZXYzaGxMOVVWOWF",
+      "source": "Telecom Daily",
+      "published_at": "2026-10-28T10:39:51+00:00"
+    },
+    {
+      "category": "mts",
       "title": "К началу работы подъёмников в Шерегеше развернули новое покрытие LTE",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUFp3QTJuR2RGRnhDZWR0Mkh4MUpXNmVDZl9rcGNYUWdMcjRvdnM5Y1FWR2FRR1VhQ1BHdkhwNEtaV05WbTUzRzVycTFYRk5ySUtIdGVRR1ZOU1dCNU9UVUYwYzVieGxHSlhsT3AwYXo4VV9DSXhUaXo2bnVjTTJYWm1NWV9pTEZqYUtyazlFU0hNWlg2cmRzVjdvRHNtaEFEU1J",
       "source": "gazeta@a42",
       "published_at": "2026-10-28T09:41:54+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС прокачала LTE для жителей 203 микрорайона Якутска",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mSVpobjg4aG1WWHhfNHhTQTdrb3BZSmxra1JPS2VIaUY4RjRhTVVEZ1FQaHdWZjlKWFZWZkJZUmYzNW92TGxUY1pJYVNQU0draDllWUJjR2k0Y2xZak1XWnZXVGdDaE4tTlQycUlNUDU3SkJnbDl1b1lhR2RzbGM?oc=5",
-      "source": "ЯСИА",
-      "published_at": "2026-10-28T08:40:07+00:00"
     },
     {
       "category": "telecom",
@@ -76,24 +97,10 @@
     },
     {
       "category": "telecom",
-      "title": "«Ростелеком» автоматизировал работу поставщика в личном кабинете интернет-магазина для операторов связи",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BVWFJSGFBWEUwbFJJVnJqUHEyV0RRUV9VUktRN0FBVmdmY3BZMXFLYTRjQ05Fc3d3Snk0SDlYcUxNSFlmSU9FYS1xYkpkMVQydW1sTEo4aXRTSTZoWXdEQlRPT1lQcTdkVWFXQ29qLXhBczE0a2lZ?oc=5",
-      "source": "CNews.ru",
-      "published_at": "2026-10-28T07:56:52+00:00"
-    },
-    {
-      "category": "telecom",
       "title": "Минцифры обсуждает ограничения зарубежного интернет-трафика для пользователей в России",
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9xcDlaTlN1aUFNbXhoRUtBWTA3QUNBZzVtRnAydkVkeW14amtLVWFMeE1jalJ0VTJMLTl1eVh5ZWI0RlU?oc=5",
       "source": "The Insider",
       "published_at": "2026-10-28T07:23:19+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС Exolve представил контакт-центр нового поколения",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZnVxdHd2WEhyLXZJNTdYcGZ4VVQxc2hBbi04ZzhsaW9ldlZya1B6UWxqYjc4YV9GUWhlTGRfeHFpZU1OU0tDVVd1WkRBX25IMEg4RFIzRl9UUFZuZXBZX255M0VUYldIUE1xVERJcm5GaUo1Y0E0ZF9VOGhXcWpEUUpmamdYZjBNLWJURldkOVM1S29zV2JVYg?oc=5",
-      "source": "Telecom Daily",
-      "published_at": "2026-10-27T22:20:20+00:00"
     },
     {
       "category": "telecom",
@@ -101,13 +108,6 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOTVsci1qb1JNS1hDZUJEclExc1Q5a3JVREVjUVE0S0tLWEtySFpPV2JZcldGbUFBd0tEVld6UHZHVDM0T2l0S0NIVklYMXJXZ2FOclRJREtLUXdoQVAtUS0wa2hKZDNQanhRWHBwN0xPaUJIeWdnTzlLdEVac18tcEZpZmRUbzlOdkI0Q2txWjNfR0x4X1JzMWRXSFRET1d3VVd",
       "source": "Forbes.ru",
       "published_at": "2026-10-27T21:00:00+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "От города до спутника: в России разработали алгоритмы для улучшения беспроводной связи",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdUxISzJickZ3OUc1Zk1oaFJKRHJ3dFYtZ0FtalNVSTQyZm9Pa1F5MXJmWkE1LVBEOV96ejRRcE5oMm8zRDhCckdRaW1CTW9qUmpZNjJsNGZxOEV0cHZlTEZsWTFTS3RWcVduOG96Q0cyM1NmWHA2MnR5d3lMTmJYNFNRX1RmUkxPYWlNVjhxa091VDlQNC1aVExhR1dqeTI4VEE",
-      "source": "prospect.com.ru",
-      "published_at": "2026-10-27T16:32:01+00:00"
     },
     {
       "category": "infrastructure",
