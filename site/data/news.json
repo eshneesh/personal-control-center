@@ -1,9 +1,23 @@
 {
   "version": 1,
-  "generated_at": "2026-10-31T10:21:46+00:00",
+  "generated_at": "2026-11-01T11:14:22+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
+    {
+      "category": "telecom",
+      "title": "Белорусский провайдер А1 запустил службу такси на базе российского ПО «Такси-Мастер»: как телеком-оператор за год стал заметным игроком рынка",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TNnJBaEoxTGxWZW5UUVA1aVVBYTFEbkdoZDZYN0ptUU5qOEV2VE96Uk80UTIwRDZCVTV5ZTdMTzRPRE1ZZ2liQllnenQ0a196VWc?oc=5",
+      "source": "Sostav.ru",
+      "published_at": "2026-10-31T10:04:25+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "Российский рынок пассивного сетевого оборудования: обзор ведущих производителей, тенденции на ближайшее будущее (2026-2030)",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ON0h6dFJoWFh5bFRIRDE2c0hpalRGSFpTdGJqN1l0bnQ0S1dWZ3JHcDZSUXg3M0l6dzhtdC04QzRmcHVCRUtVTHFWNUZ6eWtfb1E?oc=5",
+      "source": "Sostav.ru",
+      "published_at": "2026-10-31T00:32:47+00:00"
+    },
     {
       "category": "telecom",
       "title": "Телеком-операторы отложат до 13 ноября блокировку звонков из банков за отсутствие маркировки",
@@ -13,10 +27,10 @@
     },
     {
       "category": "telecom",
-      "title": "Телеком-операторы РФ отложат до 13 ноября блокировку звонков из банков за отсутствие маркировки",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vcHZ2Qm5LZ01oTmNTTFlLT3JBLUh4SjRnLUd5Tl9OemxLUnhjZnRsc1ZQVXBjT2NkSmY0RUpHeHcyVlpfc215MXZTN3N6Y2dDMmRz?oc=5",
-      "source": "pro.finansy",
-      "published_at": "2026-10-30T15:40:00+00:00"
+      "title": "Как измерить скорость мобильного интернета в России в 2026 году?",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZFNVakJHQXM4S0ozaXV1VWhDOXNkVmJ5RXQwZTd4eGNKcE54R0FYeG1pdE5XZVExSE51V0pVb3U0TVBxcm9oOWRXaExCcUhGUndlTXJpUzBDZmxtMEwxTXZvQ3lGSU1RZHJRY2doNDZzUW50akF0bFRLU1paWkVmV3V1N1RwZDRsTEpkWXlOdEk4UGd4LUpOV2dhcVFSblE?oc=",
+      "source": "Телеспутник",
+      "published_at": "2026-10-30T12:02:07+00:00"
     },
     {
       "category": "telecom",
@@ -26,11 +40,11 @@
       "published_at": "2026-10-30T12:02:00+00:00"
     },
     {
-      "category": "mts",
-      "title": "МТС обновила связь в районе «Михайловских казарм» в историческом центре Оренбурга",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWS1LRDMxVWY1ZUdmcVZSRVBhb1hlbnNfTExrY0pOS0JacjF1RVEtMXBIYjJPZGthZklGSE9iY3ZweWlydDc0T1ZaazdyZUZCWkZTQnpvWVI4enJOZjdWNURIS1gzRWVDUTh3LUc4U3NNZnpoMGdteWo4RVNVTFdPVjlVLUJUUzYzNjNFRXVueTNtSkQ5eE9YQy0zYUoyaTY1NlV",
-      "source": "56orb.ru",
-      "published_at": "2026-10-30T11:28:35+00:00"
+      "category": "telecom",
+      "title": "«Белый список» сервисов, которые должны работать при отключении мобильного интер­нета, — что туда входит",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE56OFdnSnNqakNsajZwa2ZEWTg3T2ZGQ3U0MlJMXzR5TlVnWmZqcGV2alYwWE5zTV9YYW5MT2lBekJRQ0pq?oc=5",
+      "source": "Т—Ж",
+      "published_at": "2026-10-30T07:00:00+00:00"
     },
     {
       "category": "telecom",
@@ -47,18 +61,18 @@
       "published_at": "2026-10-29T12:42:27+00:00"
     },
     {
-      "category": "telecom",
-      "title": "8 самых дешевых тарифов связи осенью 2026 года",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83NkRvdExpNTZMU3AtMTJrVHlNMTVYRnlPMFZlVzVNZHJMV1laMU5rODIyMFJ1UVVFRTRhRHN6ZC0ydWFXdGZlajN2aw?oc=5",
-      "source": "Т—Ж",
-      "published_at": "2026-10-29T10:40:36+00:00"
-    },
-    {
       "category": "infrastructure",
       "title": "Кухарук анонсировал строительство крупных центров обработки данных в ХМАО",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSFVDQjROc1htY2gwd2pSdTNnZUZLcWRrWFFmZWtrZGdOa2x2OWFPZG1ULW4wTms4cFAxQXpQUDMxSWlUanYxWXpzeFR5alpldUliR1VQMUZicmRUTUU0SmRZR2s3YVJuZDNaRlZ1dmRXZXVUazU5Sm91T29MUnZkckdaT0dLaDZ4b09OU0VGd0F6Y0RIdmF5THo0WE5Wemkxc05",
       "source": "prospect.com.ru",
       "published_at": "2026-10-29T10:14:40+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "А можно просто интернет? Без очередной инициативы",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBiTlJzQUlHVEs1cTk3YllCczUzMld0ZGZscjB5NG1ZaTVBNDRseDk1MTh1LWd4bmZFTTBVanN4SG1pZmRTUzFpOFpuMWpJd9IBWEFVX3lxTE1aM0ZReDZyeS1fcGtfNEtfQ2hGNjRVNzRKUVBmbzNLeHpHYXhiSERKN0k0a0xZVTJoaTQzNzVidDREdmFObkplNWstYWJpd2V5ZW1",
+      "source": "Хабр",
+      "published_at": "2026-10-29T07:39:20+00:00"
     },
     {
       "category": "infrastructure",
@@ -76,59 +90,45 @@
     },
     {
       "category": "mts",
-      "title": "Пользователи инвестировали в «МТС Накопления» около 30 млрд рублей",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOTgyZFVkaGtnY1pyNVNXTFY4OHdqeldpQmZPLWZCLTl3LW91cDZ6U3I4a0lqWlhWYVA4d19yZDg0Nnp4TEJHdHItdTBaN3V6aTRoLUZjTnZ1ZWpqRDJsd251ZWJnWVdtRmx4T3J0aXFmYXpyWmlkMGlrdXZKOWU5UVdnQ1I1Y2kyNEV0dG5YMXlObHVfdXkxZXYzaGxMOVVWOWF",
-      "source": "Telecom Daily",
-      "published_at": "2026-10-28T10:39:51+00:00"
-    },
-    {
-      "category": "mts",
       "title": "К началу работы подъёмников в Шерегеше развернули новое покрытие LTE",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUFp3QTJuR2RGRnhDZWR0Mkh4MUpXNmVDZl9rcGNYUWdMcjRvdnM5Y1FWR2FRR1VhQ1BHdkhwNEtaV05WbTUzRzVycTFYRk5ySUtIdGVRR1ZOU1dCNU9UVUYwYzVieGxHSlhsT3AwYXo4VV9DSXhUaXo2bnVjTTJYWm1NWV9pTEZqYUtyazlFU0hNWlg2cmRzVjdvRHNtaEFEU1J",
       "source": "gazeta@a42",
       "published_at": "2026-10-28T09:41:54+00:00"
     },
     {
-      "category": "telecom",
-      "title": "Минцифры снова обсуждает введение лимита на зарубежный интернет-трафик",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeGRHendWaDZpdXgwdmJlemtDUHFmRG5hdjE2SmgtczRuR1ZSbnJicF9fSkJ2S3lDdXlTYlhyYUlvM1N0UlRfb09uUEtUNFRHb2c5ekZQWGl3cktiTlRyZlBENzJlRFlzMVl6VTgwTUdyU284aXY0c2xCdWVEcjl2bXRjQnE0UGR1ekU0RTd0b1FpSWJYaU9ZWDJpXzEzOGpIelp",
-      "source": "RB.RU",
-      "published_at": "2026-10-28T07:59:00+00:00"
+      "category": "mts",
+      "title": "МТС прокачала LTE для жителей 203 микрорайона Якутска",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mSVpobjg4aG1WWHhfNHhTQTdrb3BZSmxra1JPS2VIaUY4RjRhTVVEZ1FQaHdWZjlKWFZWZkJZUmYzNW92TGxUY1pJYVNQU0draDllWUJjR2k0Y2xZak1XWnZXVGdDaE4tTlQycUlNUDU3SkJnbDl1b1lhR2RzbGM?oc=5",
+      "source": "ЯСИА",
+      "published_at": "2026-10-28T08:40:07+00:00"
     },
     {
       "category": "telecom",
-      "title": "Минцифры обсуждает ограничения зарубежного интернет-трафика для пользователей в России",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9xcDlaTlN1aUFNbXhoRUtBWTA3QUNBZzVtRnAydkVkeW14amtLVWFMeE1jalJ0VTJMLTl1eVh5ZWI0RlU?oc=5",
-      "source": "The Insider",
-      "published_at": "2026-10-28T07:23:19+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Доменная печь: Минцифры может ввести лимит на потребление зарубежного трафика",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOTVsci1qb1JNS1hDZUJEclExc1Q5a3JVREVjUVE0S0tLWEtySFpPV2JZcldGbUFBd0tEVld6UHZHVDM0T2l0S0NIVklYMXJXZ2FOclRJREtLUXdoQVAtUS0wa2hKZDNQanhRWHBwN0xPaUJIeWdnTzlLdEVac18tcEZpZmRUbzlOdkI0Q2txWjNfR0x4X1JzMWRXSFRET1d3VVd",
-      "source": "Forbes.ru",
-      "published_at": "2026-10-27T21:00:00+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "ИИ сделает привычных кибербезопасников ненужными. Добро пожаловать на стройки ЦОДов",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZkswZWtBdEE5enJzRjJ0SDU5RlJwME5qRGJ4Q2VUMHpLRjM3RTJiUGFBYllOQnVlM29acFdhd2pnRHVFSHVGWDhYWGZSeUd0cmJlbUszcncwYjJKMXRnTHBSeHJxYWRBN0dXVmFqelBWS3FibUVmWmJQc3MwOUZUOFVLUkh6RTBOQmdBa1pObUJTQ1FhS05XMm1UWWxZTHUxcEh",
-      "source": "Incrussia",
-      "published_at": "2026-10-27T11:31:12+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "Глава «Ростелекома» допустил появление ЦОДов на малых ядерных реакторах в РФ",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdHFHTG9xcFpCcFlLdXhTUThER1RtTTdtWWlJRE1WVmtpZ0ZKdXJvVHpXLVJGYmdyZmFBRXdHazNXU3lOcmRwaUtWeHMtcExmcjkwQzRtNGJOQkNqMUhBMWVxTHdZQm9jVTBnLXR1Q0xmb2stS1g2a3VBd2pOeGRFWmtTa1J5SXdpOXc?oc=5",
-      "source": "Techora.ru",
-      "published_at": "2026-10-27T10:37:34+00:00"
+      "title": "Почему не работает мобильный интернет 28 октября: причины, сбои в России",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU21uZjJ0NzNDOFlaTnJmcXpCdERWSkJvc1VyMmpicWZBdVR3WkU0QmVGTzlUSnpZaEF5a21kX0tGdTZGVUhvZlBzLUdmeGdudlB5UUY0b0NIQTM2czdDa2t5Q0FycVE1bFNSSUcxcTdOTlhEMy11QXNyeERDa2lMam5YaXBQdFVQZm9FVmlGSW1RTUtZWk15b3owT0xEV2pqZ0h",
+      "source": "NEWS.ru",
+      "published_at": "2026-10-28T07:59:13+00:00"
     },
     {
       "category": "mts",
-      "title": "МТС включила LTE в Белоозерске, селе где наблюдают за краснокнижными птицами",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX0kwcG80dE5vVUg5RWxZSDZqb2xXQ3FIVnB3YlRqcExOUG9NZThVb1FLaUtfbks1TmN0cGZQbGF0M2ZUcGFrd0JDN0JTMHltOFBJcGk2dGNDbEY3Wm1mWVBwb3hKOFk1d2lBQzg2enVlVXFKMjFhQVRwaVRoM1hfc1BCMWk3QW1ERDNkWS15VzVnVElfbmdXaEpMbkg0N293WjF",
-      "source": "Infpol.ru",
-      "published_at": "2026-10-27T06:05:55+00:00"
+      "title": "Как подключить eSIM МТС — инструкция",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OaktGcmJYQ293dUtQRGRmcWhycDZTX2I4eVozOTgtZllxVVlXWnRITlFYNmVIbjNKTG5lcjBJSzdLZUlPRXRJZnNRQUhrRmNQbl9KNzRyMlZPMENQeTFCZW5ReHZwZGtWbUlpWTVLaVhUTWZwSkE?oc=5",
+      "source": "МТС Редспот",
+      "published_at": "2026-10-28T07:00:00+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС запустила LTE в сахалинском краю «дикого» туризма",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWWVd6VXotU3pGVkhyVEZ6dmNHVi1QZFl2N0JDTF9jbnJDMmlWWDI2aHdJMUIwaUhfdTQxT3VmTy11eFJyWnFMUHpPanIzX1VVN2o2RlNyc3NLSDNoaHJpWjg1cEVzbjlvQjhLc1d2TlZ6NUVJUkcwalR2Z3hqUQ?oc=5",
+      "source": "CNews.ru",
+      "published_at": "2026-10-28T04:03:52+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС Exolve представил контакт-центр нового поколения",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZnVxdHd2WEhyLXZJNTdYcGZ4VVQxc2hBbi04ZzhsaW9ldlZya1B6UWxqYjc4YV9GUWhlTGRfeHFpZU1OU0tDVVd1WkRBX25IMEg4RFIzRl9UUFZuZXBZX255M0VUYldIUE1xVERJcm5GaUo1Y0E0ZF9VOGhXcWpEUUpmamdYZjBNLWJURldkOVM1S29zV2JVYg?oc=5",
+      "source": "Telecom Daily",
+      "published_at": "2026-10-27T22:20:20+00:00"
     }
   ]
 }
