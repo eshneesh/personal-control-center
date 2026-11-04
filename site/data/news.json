@@ -1,15 +1,29 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T11:53:51+00:00",
+  "generated_at": "2026-11-04T12:04:23+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
     {
-      "category": "mts",
-      "title": "МТС улучшила мобильную связь в микрорайоне Бигаш в Альметьевске",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3R0Mxdm4wUHg2eF82T1lic2xyNEdaazktU2Exc0tveWhXTUczZUxxWnN0YU5RLXhqalE1Q3QxRVBWNnZjVmJDNURYS1p0VWY3amRVaTRvVVVNVlVJbDVN0gFfQVVfeXFMUHdHQzF2bjBQeDZ4XzZPWWJzbHI0R1prOS1TYTFzS295aFdNRzNlTHFac3RhTlEteGpqUTVDdDFFUFY",
-      "source": "Content-Review.com",
-      "published_at": "2026-11-03T07:18:46+00:00"
+      "category": "infrastructure",
+      "title": "Вместе в цифровое будущее: «Ростелеком» объявляет о старте XVI конкурса для региональных ИТ-журналистов и блогеров",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNGlpVjNYVXhlWmZ3TmpwZUhZWnJWUUpsUU9XQ2RVeUl5a0pnaExYYnFGdnJ5MTUwcmNIVVBDMHRKaG9KY2lWWEotVW5HOVZrTEQySGRIYUtEWU1VTmZ4YnQ0b0ctLXJ1OXpkY0hnblR3NDB5dlFkcDNKeEc5NnpIVVZMQXlXdU9sNEhZN2JiaFc2RlU2SmZzYVVGSlVjdW81WDh",
+      "source": "Ника ТВ",
+      "published_at": "2026-11-03T15:54:00+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Отделится ли российский интернет от глобального?",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbU9wZmJZek5hMGV6MDktUFF6a0tId1h3SU5qZHNhY2c3dk9lUTVQaGRrYTJLY05pNnBSNEYwX1kyaEFyNXlIazRLVWhVVHo4eEEtN1BibUItWXdyMWRBQnFCeEU4M1N3YmZObkRXenFpbEN6blJ5ZTdjYVh1VzRJd2dndw?oc=5",
+      "source": "Москвич Mag",
+      "published_at": "2026-11-03T07:53:48+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Сменить оператора мобильной связи можно через «Госуслуги»",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcTB4b25rQWZMRHpFcWZyQ1VtNzRLbms1UnZaRFNyZnFkY1dwNDFFZWdsRVFGbUlNNGFjWkZJRzJwU3FzVkp6MXhSUkh1UVFodDBBb05NMDc4TVc5UXJjb2dhUVV4TXhha05vdXZNZHdYcnJpVnRGaVQ3dHcxcTgyWFJJblUySTRBbkJBYWNEaHVsNnVTUHItODk4Z2g?oc=5",
+      "source": "Telecom Daily",
+      "published_at": "2026-11-03T06:11:31+00:00"
     },
     {
       "category": "mts",
@@ -17,6 +31,13 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA2RW9hYVNWeG9uNVZQRGMyUDdLS2Q4LVFmOExHQ1NMcWt6aHM4WTgzWGxIR0xBWWtjRldzMTFBT1pKeTlJTGV2OGZYSVlwY1YwQ3d0Ny1kU09acVpnLUs4T09HZk04SnlJdmpHdE5TZ0pEMktVRlM0ZA?oc=5",
       "source": "CNews.ru",
       "published_at": "2026-11-03T06:00:43+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "Связь без помех для заводов и месторождений. Константин Зимин, МТС, – о том, как сети pLTE/5G облегчают цифровизацию производств",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3LVg4OUVWODNJNlMtdVZ0THZmdll6NDY3UGx2X2wzSFFZM29scEZUbXpJeHplTWhaY3RUb25rZDVuWVUyU1hNQkRIaFFKMmJyVXBRNDdJOHdya0hvTzFzWnVpaDFLUWs?oc=5",
+      "source": "Сибирское информационное агентство",
+      "published_at": "2026-11-03T02:10:00+00:00"
     },
     {
       "category": "infrastructure",
@@ -34,10 +55,31 @@
     },
     {
       "category": "telecom",
+      "title": "В России научились управлять роем БПЛА без подключения к интернету",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UNm5keUQzenRROURuRVo1bzByUi1SWUZMZzZldmgtcnpVcXliNkhQMlQtUHpJLWNGSmtnZzdSX19ZQTJpZlJraTRDa2p3Zkpqc0hldkFmcklSRjhnOEZUaHdZZEdwcTdfSTZoNV9Mb1NIa3N0eGE4SQ?oc=5",
+      "source": "CNews.ru",
+      "published_at": "2026-11-02T12:59:35+00:00"
+    },
+    {
+      "category": "telecom",
       "title": "Как Т2 построил фабрику MVNO в России",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9abkFXd0NnYWhFVkxzVjZDN2Y5eXpOYXhwWUN4dGIxYzAyck5heW1ONDZQU0cwSWpLQXo5aHNuTV94NFJzTVBidjcxMjFyMWdhR1dGRENEMDhnaEVtLWh0eHhmOVBKSXJZMGJZcw?oc=5",
       "source": "RB.RU",
       "published_at": "2026-11-02T12:11:10+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Жители Петербурга массово жалуются на сбои в работе интернета и ТВ",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb2Z5eW41S0pnaGZ3QTJHS3k2NUNNaWl4VlVxOUg4QXdSTmFWdXB6VXBkVVQ2Vk4yNjhlalVjc19NQWFTOXZIRVlfN19uVUJDYnpTbWlzTC1oWWJVTFdfekN3UHFMYk4yRW1ZYjRzbkNHUUNNbXFRdDhxRmFUbXE1d0xyMFY0QVRFbEpLWlM1YVl3NFk4bHE1U2dhc3ROYTR3b1l",
+      "source": "Росбалт",
+      "published_at": "2026-11-02T06:19:00+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС обеспечила камчатский \"центр\" оленеводства мобильным интернетом",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53QWhUUjJNcGhkQXZKemYyRmVTU3FxaWpGUUIxUkliR1N1alZNYV9UdWx5c2l3YkJmN3ZvcFY0eEFqSmxGdlRjZjZBYVlRR01D?oc=5",
+      "source": "KamchatkaMedia",
+      "published_at": "2026-11-02T03:15:37+00:00"
     },
     {
       "category": "telecom",
@@ -54,6 +96,13 @@
       "published_at": "2026-11-01T12:23:00+00:00"
     },
     {
+      "category": "telecom",
+      "title": "Французские депутаты поддержали введение налога на интернет-трафик",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN1dLVWFhR0pYYi0yWmE4Z0dTeGJWeVVUOW14OG9tM1JkR0xKRHBEVk03N3QwZmM1TVhfU1pxRUpwbmYzRUwwNTNnRFpaVWdYNWVaX2ZNdGpjZzVNekc1TlVjZmR5N2xwT3BhNGZtZU1NU29FVlN5NVNSNUlxWGg2aGJOVUExcGxES1BwU1AtYzVaZVl6RkE?oc=5",
+      "source": "Ведомости",
+      "published_at": "2026-10-31T13:22:09+00:00"
+    },
+    {
       "category": "infrastructure",
       "title": "Российский рынок пассивного сетевого оборудования: обзор ведущих производителей, тенденции на ближайшее будущее (2026-2030)",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ON0h6dFJoWFh5bFRIRDE2c0hpalRGSFpTdGJqN1l0bnQ0S1dWZ3JHcDZSUXg3M0l6dzhtdC04QzRmcHVCRUtVTHFWNUZ6eWtfb1E?oc=5",
@@ -68,13 +117,6 @@
       "published_at": "2026-10-30T15:44:00+00:00"
     },
     {
-      "category": "telecom",
-      "title": "В России могут ограничить зарубежный интернет квотой: что это значит для пользователей",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zSlNkeVcxNEViSmktTndNeUs4a3lla1RjbHQxTExQUkdUMzF4Zm4zR245UmJTVW95QmRuVjJTZEY5aW9QOWpISE1ISE1pSU02ZF9LaVJqdHNhQjlFUVdsNA?oc=5",
-      "source": "УралПолит.ру",
-      "published_at": "2026-10-30T12:02:00+00:00"
-    },
-    {
       "category": "mts",
       "title": "МТС открыла набор технологических решений для задач бизнеса",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XNnNJQ196Nk05LXViLTFvSnZ5VHhJcUtaeFdLTG5VTmt2bEdyczU3U3BXWl9JTm5VUXVqXzIxQzZ2cXRLOGd2eFphUHJfT0ZobllaZG84c2lGVDltMW9IVmd2VUlzcEJfTU5adU1B?oc=5",
@@ -82,53 +124,11 @@
       "published_at": "2026-10-29T12:42:27+00:00"
     },
     {
-      "category": "telecom",
-      "title": "8 самых дешевых тарифов связи осенью 2026 года",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83NkRvdExpNTZMU3AtMTJrVHlNMTVYRnlPMFZlVzVNZHJMV1laMU5rODIyMFJ1UVVFRTRhRHN6ZC0ydWFXdGZlajN2aw?oc=5",
-      "source": "Т—Ж",
-      "published_at": "2026-10-29T10:40:36+00:00"
-    },
-    {
       "category": "mts",
       "title": "МТС запустила 5G в Красноярске",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1zUFRCVFhBb01WOEoyd3pJN2doRVFxQnZWTGl4OTg5Mjd1RENzbmlBb2xZQ1NzVkNEWmV4dnZYY2pJeUwyOUHSAVpBVV95cUxQRlZIZklvYWJPd0t2NUxOa3Q4OTFkai1nWDEtVVVzTHUtWVFvUWIwV3ZxVm1NSE4tbmpzc3BrdjljNkY1MVVfWGZReDRFQ3MwN1ZyS0w1eXM4Qnc",
       "source": "Newslab",
       "published_at": "2026-10-29T09:14:00+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "Промышленность будущего: эпоха умных ЦОДов",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LZDFDd25XMzhIMFRzZVBuRmJuSDVZVjJqWGo5NkQ4cFI5X0NLOVZIVnZURy1pdEhZa05CQ0RFN3lrcHZ0NnpNT1VlaVBvVWZXTnpqdnNB?oc=5",
-      "source": "Энергетика и промышленность России",
-      "published_at": "2026-10-28T19:02:00+00:00"
-    },
-    {
-      "category": "infrastructure",
-      "title": "Китайские исследователи достигли 3,2 Пбит/с при двусторонней передаче данных по оптоволокну",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORWZUM1Yxbm5PY1FMWEhBbE1mbGR2ZGQxX2V1VThvdUFydXFIcFB4aVh5MjFSN3luUF9WNl9mRmJTUlhXLXgxOUtLM3NIeGZTOW5iaXh4V0FnelNPSzBXdlU4NWMzRFpnY19XZlF6ZlcxdHRJY3JDLVRBNE5kdjhpWERkUGg?oc=5",
-      "source": "Hardwareluxx Russia",
-      "published_at": "2026-10-28T10:45:36+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Минцифры хочет запретить дешевые тарифы на связь. В России готовят новые ограничения",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZGo5RElUMjlmN2xWb0ZHeVRDSktIeGRTRUdzRnEyWkZNTHhTazBsWHloRGhBZ1BFazJSa2ZDakU2bWs0MFpXRlB2ak9oSEpoVjlYM1d6NHdmbnNuV1RhVno3cXdfRVZEY3U5MUkwWjFiLVJXRVZBNFZQeTZrOGJpUmdXaEZDTlpQNXBtMlZLYjJicFExbGtQajJ1YkVka0Q0V2Y",
-      "source": "AppleInsider.ru",
-      "published_at": "2026-10-28T10:00:58+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС прокачала LTE для жителей 203 микрорайона Якутска",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mSVpobjg4aG1WWHhfNHhTQTdrb3BZSmxra1JPS2VIaUY4RjRhTVVEZ1FQaHdWZjlKWFZWZkJZUmYzNW92TGxUY1pJYVNQU0draDllWUJjR2k0Y2xZak1XWnZXVGdDaE4tTlQycUlNUDU3SkJnbDl1b1lhR2RzbGM?oc=5",
-      "source": "ЯСИА",
-      "published_at": "2026-10-28T08:40:07+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Минцифры обсуждает ограничения зарубежного интернет-трафика для пользователей в России",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9xcDlaTlN1aUFNbXhoRUtBWTA3QUNBZzVtRnAydkVkeW14amtLVWFMeE1jalJ0VTJMLTl1eVh5ZWI0RlU?oc=5",
-      "source": "The Insider",
-      "published_at": "2026-10-28T07:23:19+00:00"
     }
   ]
 }
