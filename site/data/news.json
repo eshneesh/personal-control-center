@@ -1,9 +1,37 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T12:04:23+00:00",
+  "generated_at": "2026-11-05T12:16:55+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
+    {
+      "category": "telecom",
+      "title": "На «Госуслугах» появилась возможность перебежать к другому мобильному оператору, сохранив номер",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Ya05jYVV2QzRacGlLZDkyWnFRU0JkdjZ3bkNkWWRON0pEdEhvZXZ6YkNRMHF0YjVUTVlYa3JvYWpJTWg3SzZpamMxYjdsbTdfcDhacDBzNXd6c3BjUWFGYVFrb2tZUnJOVWtUeDVYU3VJT3g0QzNr?oc=5",
+      "source": "CNews.ru",
+      "published_at": "2026-11-05T10:54:45+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС Exolve сохранила лидерство в рейтинге провайдеров Telecom API",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JaHdTR19kaEFwT251aGxiMk5xeU5nNDNDM0Z3RGY3a3U2c1pkMVZ4Z0g0MTdVaTZQaVd1bHYzdUprSjc2aWxHdGlZa1hYOFR3empSenVJSGZuUU1pYU5HbndHanduelg4V0VOX05UNEloZ9IBd0FVX3lxTE9BdkVFYjlPSlF0elN3SVBHQjFOMTlGLV9KTGdDcVZZcDhLQTNJaUF",
+      "source": "Газета",
+      "published_at": "2026-11-05T10:03:29+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "На железнодорожной станции Азов повысили скорость мобильного интернета",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdzRBUVRvUy0zaG9nTk1FRE5EMC1yNTl2NTlhdkdjamZxSWc3WmVHMDNZYkY1MFRfRmFKR1pHWW5sUnJ6OTEzOEwybFY3V1c3VW1xZ0NpXzU5TlFXMjlaNS13OUdkd1JoeGN3clVXbDhKUU1PNGJhNnMyMGZSaGIzcnZFTno2c3E5aDJueFM2Z1pMcU0?oc=5",
+      "source": "Блокнот Ростов",
+      "published_at": "2026-11-04T06:31:24+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Тарифы и акции Т-Мобайл(Тинькофф) на мобильную связь в 2026 году",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuaUtzNTVYaVRlSmRYVGhwNUVPU2hiYVMyREItakNJaExMS2FtUUFTcXNMSG5RakhIS1UzVHBQQmxQbEN1eE1DSkdzTGV5WmdoRGc?oc=5",
+      "source": "Sostav.ru",
+      "published_at": "2026-11-03T19:33:53+00:00"
+    },
     {
       "category": "infrastructure",
       "title": "Вместе в цифровое будущее: «Ростелеком» объявляет о старте XVI конкурса для региональных ИТ-журналистов и блогеров",
@@ -12,11 +40,18 @@
       "published_at": "2026-11-03T15:54:00+00:00"
     },
     {
+      "category": "mts",
+      "title": "«МТС Накопления» популярны в Петербурге",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PcUtmYW1OT2ZaTEhkSWtIRVo3ZllBRkFNNzI3ZnhYLW1STWotaEhWWmpMb3EyM0dFZ3dTWkt0WTRlVE5ob0pFc3BCNnVOaVBtajJZTjhEbEEteHJ2ZmU0Q3FranpHVUJQQjV3eDhJa2hta0RXNXQzUw?oc=5",
+      "source": "spbIT",
+      "published_at": "2026-11-03T07:21:33+00:00"
+    },
+    {
       "category": "telecom",
-      "title": "Отделится ли российский интернет от глобального?",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbU9wZmJZek5hMGV6MDktUFF6a0tId1h3SU5qZHNhY2c3dk9lUTVQaGRrYTJLY05pNnBSNEYwX1kyaEFyNXlIazRLVWhVVHo4eEEtN1BibUItWXdyMWRBQnFCeEU4M1N3YmZObkRXenFpbEN6blJ5ZTdjYVh1VzRJd2dndw?oc=5",
-      "source": "Москвич Mag",
-      "published_at": "2026-11-03T07:53:48+00:00"
+      "title": "Почему не работает мобильный интернет 3 ноября: причины, сбои в России",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1pMcGZsLVo2djM0UXgzbHIyM1RaRUsxOHA5TW1jVndDWUxKZTZXZ2k3MjJySmNwUkE0MUcxNGhuYnVOdmV2ekdPSTlmMXpmSmQ3V1dIQ1R0UFpSWmlzM1o1M1NPQ0lMUzJScTMtanlUQVlHS2gxX19rY2VjV2dOd09zM29iQmlWZzk1R0JzQzVkeGRUMUdkTjVFcENhQmlS0gG",
+      "source": "NEWS.ru",
+      "published_at": "2026-11-03T07:08:25+00:00"
     },
     {
       "category": "telecom",
@@ -24,13 +59,6 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcTB4b25rQWZMRHpFcWZyQ1VtNzRLbms1UnZaRFNyZnFkY1dwNDFFZWdsRVFGbUlNNGFjWkZJRzJwU3FzVkp6MXhSUkh1UVFodDBBb05NMDc4TVc5UXJjb2dhUVV4TXhha05vdXZNZHdYcnJpVnRGaVQ3dHcxcTgyWFJJblUySTRBbkJBYWNEaHVsNnVTUHItODk4Z2g?oc=5",
       "source": "Telecom Daily",
       "published_at": "2026-11-03T06:11:31+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС обеспечила связью все этажи «Volga Арены» в Нижнем Новгороде",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA2RW9hYVNWeG9uNVZQRGMyUDdLS2Q4LVFmOExHQ1NMcWt6aHM4WTgzWGxIR0xBWWtjRldzMTFBT1pKeTlJTGV2OGZYSVlwY1YwQ3d0Ny1kU09acVpnLUs4T09HZk04SnlJdmpHdE5TZ0pEMktVRlM0ZA?oc=5",
-      "source": "CNews.ru",
-      "published_at": "2026-11-03T06:00:43+00:00"
     },
     {
       "category": "mts",
@@ -55,38 +83,24 @@
     },
     {
       "category": "telecom",
-      "title": "В России научились управлять роем БПЛА без подключения к интернету",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UNm5keUQzenRROURuRVo1bzByUi1SWUZMZzZldmgtcnpVcXliNkhQMlQtUHpJLWNGSmtnZzdSX19ZQTJpZlJraTRDa2p3Zkpqc0hldkFmcklSRjhnOEZUaHdZZEdwcTdfSTZoNV9Mb1NIa3N0eGE4SQ?oc=5",
-      "source": "CNews.ru",
-      "published_at": "2026-11-02T12:59:35+00:00"
-    },
-    {
-      "category": "telecom",
       "title": "Как Т2 построил фабрику MVNO в России",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9abkFXd0NnYWhFVkxzVjZDN2Y5eXpOYXhwWUN4dGIxYzAyck5heW1ONDZQU0cwSWpLQXo5aHNuTV94NFJzTVBidjcxMjFyMWdhR1dGRENEMDhnaEVtLWh0eHhmOVBKSXJZMGJZcw?oc=5",
       "source": "RB.RU",
       "published_at": "2026-11-02T12:11:10+00:00"
     },
     {
-      "category": "telecom",
-      "title": "Жители Петербурга массово жалуются на сбои в работе интернета и ТВ",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb2Z5eW41S0pnaGZ3QTJHS3k2NUNNaWl4VlVxOUg4QXdSTmFWdXB6VXBkVVQ2Vk4yNjhlalVjc19NQWFTOXZIRVlfN19uVUJDYnpTbWlzTC1oWWJVTFdfekN3UHFMYk4yRW1ZYjRzbkNHUUNNbXFRdDhxRmFUbXE1d0xyMFY0QVRFbEpLWlM1YVl3NFk4bHE1U2dhc3ROYTR3b1l",
-      "source": "Росбалт",
-      "published_at": "2026-11-02T06:19:00+00:00"
+      "category": "mts",
+      "title": "МТС обеспечила связью все этажи «VOLGA Арены» в Нижнем Новгороде",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB6eUloTzczcEp6V2VQZjNJMFlucVM4U1pkM2hWaHl3YW1pSE9sVGxPNWZSOS1uenRQcEVkc2hKUnhVc2p2X1BGZDVR?oc=5",
+      "source": "Время Н",
+      "published_at": "2026-11-02T08:14:00+00:00"
     },
     {
       "category": "mts",
-      "title": "МТС обеспечила камчатский \"центр\" оленеводства мобильным интернетом",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53QWhUUjJNcGhkQXZKemYyRmVTU3FxaWpGUUIxUkliR1N1alZNYV9UdWx5c2l3YkJmN3ZvcFY0eEFqSmxGdlRjZjZBYVlRR01D?oc=5",
-      "source": "KamchatkaMedia",
-      "published_at": "2026-11-02T03:15:37+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Роуминг для Илона Маска. Страны СНГ придумали, как регулировать спутниковый интернет",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOclhNaU1fNDF1LW45cjVNYXE1eHoyc2QxelZ3U1dHZUZKMmw4emQxQmVRa256aWtHRmN4N1p0VDJfSElfeHpQQkladklPVHhubVVPNWdXanNPdEhDdlFMNndoTHJ5YnZrWVFLSmxjb3pIRzc1dUJMb0E2RkFVeThKbHdiRkpMNXRoaGdrQktXbFUxZU9zbkxwVUdrbjFsTDVQX2N",
-      "source": "ComNews.ru",
-      "published_at": "2026-11-01T23:31:18+00:00"
+      "title": "МТС обеспечила камчатский «центр» оленеводства мобильным интернетом",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ocTMwYjNsTlZCZ3JZOFNkc1EwNWYyVTlrYVE1aDJNSFBRV05QVDRjanhHbTBydjRNdjV4aEpCUzltM3ozY2N3dThMTGhHOXhtNjFmWTlCOFNrdzVXdnhwQjhHOWExLXlDQ1hSMm5KSy1vNXp1eUlkaw?oc=5",
+      "source": "CNews.ru",
+      "published_at": "2026-11-02T05:21:01+00:00"
     },
     {
       "category": "mts",
@@ -115,20 +129,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PbjI2ZmJmdDgtNmlXcXNPeUhTTE55OEZmLWhxb1hGcTBMNDNlQkRjWTRHZ0tpTHZYVWZkYm5Wb01nQmRjU0pTVmRhaUNoSUnSAUtBVV95cUxPWFpZdDN6WVNzMzk1UUd0Q3NKWWJIRmJFVDNiWmtEZDNFWlI0NGR6ZTA3V0NudER2ZE5TZFFHanBJVU5BQm14WDZibjQ?oc=5",
       "source": "Интерфакс",
       "published_at": "2026-10-30T15:44:00+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС открыла набор технологических решений для задач бизнеса",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XNnNJQ196Nk05LXViLTFvSnZ5VHhJcUtaeFdLTG5VTmt2bEdyczU3U3BXWl9JTm5VUXVqXzIxQzZ2cXRLOGd2eFphUHJfT0ZobllaZG84c2lGVDltMW9IVmd2VUlzcEJfTU5adU1B?oc=5",
-      "source": "ФОНТАНКА.ру",
-      "published_at": "2026-10-29T12:42:27+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС запустила 5G в Красноярске",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1zUFRCVFhBb01WOEoyd3pJN2doRVFxQnZWTGl4OTg5Mjd1RENzbmlBb2xZQ1NzVkNEWmV4dnZYY2pJeUwyOUHSAVpBVV95cUxQRlZIZklvYWJPd0t2NUxOa3Q4OTFkai1nWDEtVVVzTHUtWVFvUWIwV3ZxVm1NSE4tbmpzc3BrdjljNkY1MVVfWGZReDRFQ3MwN1ZyS0w1eXM4Qnc",
-      "source": "Newslab",
-      "published_at": "2026-10-29T09:14:00+00:00"
     }
   ]
 }
