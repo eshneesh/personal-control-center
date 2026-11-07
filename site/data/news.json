@@ -1,36 +1,57 @@
 {
   "version": 1,
-  "generated_at": "2026-11-06T12:03:53+00:00",
+  "generated_at": "2026-11-07T11:01:30+00:00",
   "source": "public-rss",
   "errors": [],
   "items": [
     {
       "category": "infrastructure",
-      "title": "«Почта России» ищет подрядчика для переноса ИТ-инфраструктуры в коммерческие ЦОДы за 5,48 млрд рублей",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTklCTDh6SlRBS1VCUEV3MG84SnlfMjRVTVowTk1ZQjE2NFRDR0pkT3J6TmNXNkJYczZVb0hYSU81b2RJSmlBOVBuaFBla0Z3bmh1UDdYRUdnUW5odV9oNkdhMG5YNXI5X0hnLUt2TDA2aEFVX29oZHJBdE53MmIyVjNfOC04U3RBd3N1YTNhYnY0a0l3X19UM3J2ZlJXMnR4cDd",
-      "source": "ICT-Online.ru",
-      "published_at": "2026-11-06T11:08:22+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "В Вурнарах обновили телеком-инфраструктуру: как новая базовая станция МТС изменит жизнь поселка",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOU5INVp3Zi1adk9zTXgxc01rbXpYaVNQbDR4cEk2SzZsUGNEYmhXUmEtc1NmbnI1YnpxTDFDUFpSV2FVN3lBVVJIWmtzZ1JHbU9OOFNUdmlGMmFPNV9CWndSbmUyd0t5R2R2cEVCVlp4eWtiUjRtSGg4U3BhNk1qV1RDZWhFSW9pdFBMS1d0eDgxOTE3Nk5YWmt5bFo1RFBfU1Q",
-      "source": "Чебоксары.ру",
-      "published_at": "2026-11-06T09:59:19+00:00"
+      "title": "AMD заявила: «Мы — компания, ориентированная в первую очередь на центры обработки данных»",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNGJ6Um1GSUhMbm1HS0JBdnk5aUQxTTVqblQ1cGt1YkhTc1h0QjFGVEs5MDFKbU1KbWNGY0tCOWxSQVg3UnV3ZFNYZGJVa2VCVUk0OTFQUmZrNVl5ZjRUdlFLMGVBOU5aZkpGblJWdEllOXBpV1h4c3lmaGpXcXRiTEtienM4MUh1NzJURDdBVXhyWi0wcmFkdXFwWkpHR2NOMHJ",
+      "source": "prospect.com.ru",
+      "published_at": "2026-11-07T04:48:12+00:00"
     },
     {
       "category": "telecom",
-      "title": "Росимущество потратит почти 2 млрд рублей на защиту системы управления государственным имуществом",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV1FFTTR0R3ZJc24tbTVHdmoxVmxMaUtRdVIwUW9FRmxzcG4xSFZKTEpfMWxYb09mNHo0ek52YmVITUhtU2dtYXJ5TThxX3JpS3VmMlJHczE0bHlmNzRjZ3FlbEVaX0x2M3pnREg4UjZPUmhRT2dQZHh1QzFZTHJma0hlWXQxTTY0TVpMWXJsT2k?oc=5",
-      "source": "cisoclub",
-      "published_at": "2026-11-06T09:28:16+00:00"
+      "title": "Операторы сообщили о росте интернет-трафика в России",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWWlESXZvVEVKbUx6V3I5U291RzlyaExMX3dDMlNHcTNNMmZxVTNublpab1dmVGY1YmpXNGZJRnhfMVI5aGNmdWZIR2tLdlU1X2xGUmc4VlQ0N3pJZVRvYVBGUnIwRlM3Qm4yVUkyRHBfQlNLZ2EwdHJOcE9KWGRxRXctdDBmLUc4?oc=5",
+      "source": "Incrussia",
+      "published_at": "2026-11-06T13:38:07+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС улучшила интернет в Вольске",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPNm9XZGZZdDQxelk2TXJvLU9fbGtVSEdMX3BuMmc0aFUzbFZMZldGM0YzVElmQUZlMDEyVjBkNXdJU2VsMmd0VGFHcTI3a21wVE1Fel9qQ2JlcWY1UTUxUHJlT1VsQQ?oc=5",
+      "source": "Логотип Вольск.ру",
+      "published_at": "2026-11-06T11:47:38+00:00"
+    },
+    {
+      "category": "infrastructure",
+      "title": "«Почта России» ищет подрядчика для переноса ИТ-инфраструктуры в коммерческие ЦОДы за 5,48 млрд рублей",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTklCTDh6SlRBS1VCUEV3MG84SnlfMjRVTVowTk1ZQjE2NFRDR0pkT3J6TmNXNkJYczZVb0hYSU81b2RJSmlBOVBuaFBla0Z3bmh1UDdYRUdnUW5odV9oNkdhMG5YNXI5X0hnLUt2TDA2aEFVX29oZHJBdE53MmIyVjNfOC04U3RBd3N1YTNhYnY0a0l3X19UM3J2ZlJXMnR4cDd",
+      "source": "ICT-Online.ru",
+      "published_at": "2026-11-06T11:22:45+00:00"
+    },
+    {
+      "category": "mts",
+      "title": "МТС прокачала связь 4G в районе главного отделения почты Вольска",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV01YaGtpS2JTaFNNcFRMS1plUjNIVFNGamZrVDVmWGQyeFBXVFlIeUxKeEJzc2JaNGh3NDR0QXY1bl8tcUpTX3dzY0JYVWNTUDNQX2pfVk9zWE4yN3duVVJLLTdWWkxFVUdsVXY2Nmg4ZENNZUx2UktrOGwyTUJDZ1Exc3R4ZWZQQldIVWwweEJRb3J4OGc?oc=5",
+      "source": "ИА «Версия-Саратов",
+      "published_at": "2026-11-06T10:37:00+00:00"
     },
     {
       "category": "mts",
       "title": "В апарт-комплекс «Зум на Неве» пришел гигабитный домашний интернет МТС",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd3B6THNNS0lpSkYtZUZSZXNyUEVOczJGSkt4d1RZY1UwZEFrMmJod05oS1dXb1RDZHhva3dwYkZGYmJHMEduS01MQjVkN01rdVNoTFNwNDdkZTNFVnNCQzcxbUxDeEQxazhUVExOUlJDNUxBSDMwU29wZUNxbFlVMHJmcVppcWZfN0JWQ3BrU1pmMHR3UFE3TXZrV1Q2LTlqcWt",
       "source": "spbdnevnik.ru",
-      "published_at": "2026-11-06T09:16:56+00:00"
+      "published_at": "2026-11-06T10:06:35+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "Почему не работает мобильный интернет сегодня, 6 ноября: причины, сбои в России",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS0stU0U2dzd3VTdWZnM5RUVzQnZKTldERlhNSkRIWkx6ZTR5U1dkb2ZQcW5oTXA2WUhBUlY0eTZxZ0pLMl9ybzl5TUtvN29yZmZYM0cwU29KOTZZMmhVbmFYbmVrc1QwUTJJRG4xTnVVdkZSMTE3Qmt4NjhVQklxRDFzOVBxalhlTVJfTU92Mk5Qemc5MXVrZTItZ0F4Y05sdkF",
+      "source": "NEWS.ru",
+      "published_at": "2026-11-06T08:30:00+00:00"
     },
     {
       "category": "mts",
@@ -38,6 +59,13 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBiTTVIX2NacVVFWVJHejVKajdSRGVnTTVVUVRKV1otYTJrVExkTG9mdldEanltcjFzWThGVy1XWG8tbUJjdEFGSHJUVFJDZmFXYmFhT21rcXR4SlZDZnR2c1QtakE0d0VfNzhkM0phUklrd1lBNllZekdB?oc=5",
       "source": "ЯСИА",
       "published_at": "2026-11-06T05:39:24+00:00"
+    },
+    {
+      "category": "telecom",
+      "title": "5G пришёл ещё в 13 городов России: билайн обещает ускорить интернет на 30%",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdVJJZWVmWGdULVUtZkdqR2FjNWdoaHJDeVFMN0k5YnRXT0tuaHdBa3B6eXl1N2JuR3VNQzVRbmRmc25jOXRKdUhXODB5UWpReklyZUVWZloxSkZ5V2ZSZHFHdGhCeERvTUZTaGtiT2RxeVV1bVRVd2hIUnJiZnZjX3lXazhxdVdYeUdFcWZZT25pQU8teHY4T2NTYk5XVXBkbm1",
+      "source": "www1.ru",
+      "published_at": "2026-11-05T14:41:00+00:00"
     },
     {
       "category": "mts",
@@ -55,24 +83,10 @@
     },
     {
       "category": "mts",
-      "title": "Сегодня, 5 ноября, у многих клиентов не работает МТС",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbGU4TXJNTm0zZDVMcUpndlNUbERfNXJFR3lpcmVzRkJmSVA5dl9OQ0h1YXVDRzdyM3hBS1BISHZRYm9ySmJfVWo2YS1RUEE2Mkg3ZDhiY1J5czlMdHJsdnpHUW4wMGM1c0h0ME5uMnRlQk1FWUVKdGsxNURIUTFFTVhlZXc3MHplcThyZFpSTnVodkI4bUlOdy1tcHBEVmxLU3Z",
-      "source": "Инфо24",
-      "published_at": "2026-11-05T10:23:00+00:00"
-    },
-    {
-      "category": "mts",
       "title": "МТС Exolve сохранила лидерство в рейтинге провайдеров Telecom API",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JaHdTR19kaEFwT251aGxiMk5xeU5nNDNDM0Z3RGY3a3U2c1pkMVZ4Z0g0MTdVaTZQaVd1bHYzdUprSjc2aWxHdGlZa1hYOFR3empSenVJSGZuUU1pYU5HbndHanduelg4V0VOX05UNEloZ9IBd0FVX3lxTE9BdkVFYjlPSlF0elN3SVBHQjFOMTlGLV9KTGdDcVZZcDhLQTNJaUF",
       "source": "Газета",
       "published_at": "2026-11-05T10:03:29+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Помните обвал провайдера SkyNet в сентябре?",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ISHZobl9NQzEwYTJ2dWtTZ2s2QU1Scl9wTWc5V3ExU2VPWGRCUEtleFl0N2NIZzBKN2kyYUxBbTZnOXFNb1dmdXFiSGxROGpzbmUybl83aFNuQVhCb2xTcVZuT3dlbFpNcjVKTzg3d0kxV2lh0gF6QVVfeXFMT0hQeGVMMGRRN3FkblVfb25hLW4zcnBESTMyVy1UTEFfUlJuVER",
-      "source": "«Бумага»",
-      "published_at": "2026-11-05T09:37:35+00:00"
     },
     {
       "category": "infrastructure",
@@ -87,20 +101,6 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdzRBUVRvUy0zaG9nTk1FRE5EMC1yNTl2NTlhdkdjamZxSWc3WmVHMDNZYkY1MFRfRmFKR1pHWW5sUnJ6OTEzOEwybFY3V1c3VW1xZ0NpXzU5TlFXMjlaNS13OUdkd1JoeGN3clVXbDhKUU1PNGJhNnMyMGZSaGIzcnZFTno2c3E5aDJueFM2Z1pMcU0?oc=5",
       "source": "Блокнот Ростов",
       "published_at": "2026-11-05T06:32:16+00:00"
-    },
-    {
-      "category": "telecom",
-      "title": "Операторы связи пошли с 5G в аэропорты",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObzJPdlllUDZMcExBR2MwX0Q0UDJPb1RPSmQtQ04yWURaeUNpOVBuQTRZVE5RRXlIcG5PX0JZYUhHOGNLQ294S3NFUE5TaGQ1d0J6YTB2N1U4SEZRUWx3d2k2US1CSjR6bmg0MjBocldrdGhyY2tqV29JUkIyX2VrWVBESTdDQ1E?oc=5",
-      "source": "Telecom Daily",
-      "published_at": "2026-11-05T01:32:25+00:00"
-    },
-    {
-      "category": "mts",
-      "title": "МТС обеспечила быстрым интернетом образовательные учреждения Вересаево",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSE9VTWRzUFBUNzRoM2x4ZWVmQ2x0RU1yWl9jN2stUTNrRkFUcWpYNWM3Sy1MeEx4MzlMVm5lb1drTkluZktkNDA1UGkxVVF1dUYxd3c1dlZRM0VxWWZXN1lWXzFvY3FKU2l2VzlDcEl1N0hCNkxYaGFSVFU1VWF4cmYxekJNeExrQlVRUlBpQ3p2bElULWF5YjdXZ19SQWRCY05",
-      "source": "Privet-Rostov.ru",
-      "published_at": "2026-11-04T17:10:04+00:00"
     },
     {
       "category": "telecom",
@@ -125,10 +125,10 @@
     },
     {
       "category": "telecom",
-      "title": "Почему не работает мобильный интернет 3 ноября: причины, сбои в России",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1pMcGZsLVo2djM0UXgzbHIyM1RaRUsxOHA5TW1jVndDWUxKZTZXZ2k3MjJySmNwUkE0MUcxNGhuYnVOdmV2ekdPSTlmMXpmSmQ3V1dIQ1R0UFpSWmlzM1o1M1NPQ0lMUzJScTMtanlUQVlHS2gxX19rY2VjV2dOd09zM29iQmlWZzk1R0JzQzVkeGRUMUdkTjVFcENhQmlS0gG",
-      "source": "NEWS.ru",
-      "published_at": "2026-11-03T07:08:25+00:00"
+      "title": "Сменить оператора мобильной связи можно через «Госуслуги»",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcTB4b25rQWZMRHpFcWZyQ1VtNzRLbms1UnZaRFNyZnFkY1dwNDFFZWdsRVFGbUlNNGFjWkZJRzJwU3FzVkp6MXhSUkh1UVFodDBBb05NMDc4TVc5UXJjb2dhUVV4TXhha05vdXZNZHdYcnJpVnRGaVQ3dHcxcTgyWFJJblUySTRBbkJBYWNEaHVsNnVTUHItODk4Z2g?oc=5",
+      "source": "Telecom Daily",
+      "published_at": "2026-11-03T12:10:00+00:00"
     }
   ]
 }
